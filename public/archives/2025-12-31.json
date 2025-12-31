@@ -1,6 +1,30 @@
 {
-  "updated_at": "2025-12-31T17:48:36.997Z",
+  "updated_at": "2025-12-31T18:05:18.801Z",
   "articles": [
+    {
+      "title": "Neuro-Symbolic Artificial Intelligence",
+      "original_url": "https://elearningindustry.com/neuro-symbolic-artificial-intelligence",
+      "image_url": "https://cdn.elearningindustry.com/wp-content/uploads/2025/12/Shutterstock_2524568205.jpg",
+      "published_at": "2025-12-30T18:00:18Z",
+      "source": "Elearningindustry.com",
+      "summary_ja": "要約の生成に失敗しました。"
+    },
+    {
+      "title": "Former GTA director commends Larian Studios for stepping away from Baldur's Gate: \"It's easier to just keep on doing what you're doing\"",
+      "original_url": "https://www.eurogamer.net/former-gta-director-commends-larian-studios-for-stepping-away-from-baldurs-gate-its-easier-to-just-keep-on-doing-what-youre-doing",
+      "image_url": "https://assetsio.gnwcdn.com/gta41_98mQYfA.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2025-12-30T17:58:07Z",
+      "source": "Eurogamer.net",
+      "summary_ja": "要約の生成に失敗しました。"
+    },
+    {
+      "title": "Inside Meta’s acquisition of Manus AI: Revenue, features and the race against ChatGPT",
+      "original_url": "https://www.livemint.com/companies/news/inside-meta-s-acquisition-of-manus-ai-revenue-features-and-the-race-against-chatgpt-11767114096194.html",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/12/30/1600x900/logo/Meta_AI_1756534381155_1756534381380_1767114937893.jpg",
+      "published_at": "2025-12-30T17:56:29Z",
+      "source": "Livemint",
+      "summary_ja": "要約の生成に失敗しました。"
+    },
     {
       "title": "SoftBank Makes Good on $40 Billion OpenAI Investment",
       "original_url": "https://www.pymnts.com/news/artificial-intelligence/2025/softbank-makes-good-40-billion-dollar-openai-investment/",
@@ -135,30 +159,6 @@
       "image_url": "https://www.pymnts.com/wp-content/uploads/2025/12/Caterpillar-data-center-generators.png",
       "published_at": "2025-12-30T17:07:16Z",
       "source": "pymnts.com",
-      "summary_ja": "要約の生成に失敗しました。"
-    },
-    {
-      "title": "Arun Kumar Elengovan presents keynote on agentic AI at ICSISCET 2025",
-      "original_url": "https://www.digitaljournal.com/tech-science/arun-kumar-elengovan-presents-keynote-on-agentic-ai-at-icsiscet-2025/article",
-      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2025/12/TechTO-4-9.59.41-AM.png",
-      "published_at": "2025-12-30T17:04:56Z",
-      "source": "Digital Journal",
-      "summary_ja": "要約の生成に失敗しました。"
-    },
-    {
-      "title": "Fact check: The disinformation we debunked in 2025",
-      "original_url": "https://www.dw.com/en/fact-check-the-disinformation-we-debunked-in-2025/a-75283770",
-      "image_url": "https://static.dw.com/image/75270766_6.jpg",
-      "published_at": "2025-12-30T17:02:00Z",
-      "source": "DW (English)",
-      "summary_ja": "要約の生成に失敗しました。"
-    },
-    {
-      "title": "Report: Apple's AI Strategy Could Finally Pay Off in 2026",
-      "original_url": "https://www.macrumors.com/2025/12/30/apple-ai-strategy-could-pay-off-in-2026/",
-      "image_url": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-      "published_at": "2025-12-30T17:01:31Z",
-      "source": "MacRumors",
       "summary_ja": "要約の生成に失敗しました。"
     }
   ]

@@ -39,6 +39,13 @@ async function fetchNews() {
     }
 }
 
+function buildFallbackSummary(article) {
+    // Use description or title as a lightweight fallback summary.
+    const base = article.description || article.title || "記事の要約を取得できませんでした。";
+    // Trim to ~200 chars to keep UI consistent.
+    return base.length > 200 ? `${base.slice(0, 197)}...` : base;
+}
+
 async function summarizeArticle(article) {
     const prompt = `
     Summarize the following news article in Japanese in about 3 sentences.
@@ -52,10 +59,16 @@ async function summarizeArticle(article) {
     try {
         const result = await model.generateContent(prompt);
         const response = await result.response;
-        return response.text().trim();
+        const text = response.text().trim();
+        if (!text) {
+            console.warn(`Empty summary received for "${article.title}", using fallback.`);
+            return buildFallbackSummary(article);
+        }
+        return text;
     } catch (error) {
-        console.error(`Error summarizing article "${article.title}":`, error.message);
-        return "要約の生成に失敗しました。";
+        // Log full details for troubleshooting and use a fallback summary so the UI keeps working.
+        console.error(`Error summarizing article "${article.title}":`, error);
+        return buildFallbackSummary(article);
     }
 }
 

@@ -1,13 +1,21 @@
 {
-  "updated_at": "2025-12-31T18:20:32.431Z",
+  "updated_at": "2025-12-31T18:30:38.151Z",
   "articles": [
+    {
+      "title": "A major TV manufacturer just announced its answer to the Samsung Frame - and it's promising",
+      "original_url": "https://www.zdnet.com/home-and-office/home-entertainment/lg-gallery-tv-samsung-frame-rival/",
+      "image_url": "https://www.zdnet.com/a/img/resize/7c486bf041ead0d91bff17c0f4e5fb7df981ad6f/2025/01/06/63bcf2c8-fe00-4f25-95b8-a95638fb4903/dsc03118.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2025-12-30T18:27:00Z",
+      "source": "ZDNet",
+      "summary_ja": "LGが、サムスンのThe Frameに対抗する新製品、ギャラリーTVを発表しました。このテレビは、磁石でフレームを交換できるデザインと、美術館のキュレーターと共同開発したギャラリーモードを搭載しています。壁にぴったりと設置でき、アート作品のように見せることを目指しています。"
+    },
     {
       "title": "Canadian businesses and workers expecting hiring challenges in 2026",
       "original_url": "https://financialpost.com/fp-work/canadian-businesses-workers-expecting-hiring-challenges-2026",
       "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/1231-bc-hiring-.jpg",
       "published_at": "2025-12-30T18:11:41Z",
       "source": "Financial Post",
-      "summary_ja": "2026年には、カナダの多くの企業が採用難に直面すると予想されており、その影響で来年前半の雇用市場の見通しが弱まっています。これは、Express Employment Professionals-Harris Pollの調査で明らかになりました。具体的にどのような要因で採用が困難になるのか、詳細な情報については記事本文を参照してください。"
+      "summary_ja": "2026年には、多くのカナダ企業が採用の難しさに直面すると予想され、上半期の雇用市場の見通しは弱まる見込みです。Express Employment Professionals-Harris Pollの調査によると、この採用難は、企業の人材獲得競争激化や労働力不足が原因と考えられます。 この結果は、カナダ経済に影響を与え、今後の成長に課題をもたらす可能性があります。"
     },
     {
       "title": "Randy's \"Best Of\" Genea-Musings Posts in 2025",
@@ -15,7 +23,7 @@
       "image_url": null,
       "published_at": "2025-12-30T18:06:00Z",
       "source": "Blogger.com",
-      "summary_ja": "2025年のブログ記事の中から、筆者が選んだ「ベスト記事」をまとめたもの。過去の投稿を振り返りやすくするため、個人的な視点で選出された。ブログ記事の検索性を高めるための工夫と、執筆者自身の知見を共有する意図が込められている。"
+      "summary_ja": "2025年にRandy氏が公開した1100以上のブログ記事の中から、自身が「最高」と評価した記事をまとめたものが公開されました。これらの記事は、氏が後で容易に参照できるようにするため、または特に価値があると判断したため選ばれたようです。記事のテーマは多岐に渡りますが、詳細については原文を参照してください。"
     },
     {
       "title": "Neuro-Symbolic Artificial Intelligence",
@@ -23,7 +31,7 @@
       "image_url": "https://cdn.elearningindustry.com/wp-content/uploads/2025/12/Shutterstock_2524568205.jpg",
       "published_at": "2025-12-30T18:00:18Z",
       "source": "Elearningindustry.com",
-      "summary_ja": "ニューロシンボリックAIは、記号的推論とニューラル学習を統合し、汎用人工知能への道を拓く研究です。ルールベースの知識表現と適応型のモデルを組み合わせることで、それぞれの単独では実現できない能力を獲得します。これにより、従来の機械学習手法よりも高度な推論と学習能力を持つAIの開発が期待されています。"
+      "summary_ja": "神経記号AIは、ルールに基づいた記号的な推論と、ニューラルネットワークによる学習を融合させた技術です。この技術により、既存のAIが単独では達成できない、より高度な知能の実現を目指しています。具体的には、明確な知識表現と適応的なモデルを組み合わせることで、高速な学習と複雑な推論を両立することが可能になります。"
     },
     {
       "title": "Former GTA director commends Larian Studios for stepping away from Baldur's Gate: \"It's easier to just keep on doing what you're doing\"",
@@ -31,7 +39,7 @@
       "image_url": "https://assetsio.gnwcdn.com/gta41_98mQYfA.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "published_at": "2025-12-30T17:58:07Z",
       "source": "Eurogamer.net",
-      "summary_ja": "元「GTA」ディレクターが、大成功を収めた「Baldur's Gate 3」の開発元Larian Studiosが、シリーズから離れたことを「大胆な決断」と称賛しました。これは、成功を収めたシリーズを継続することが容易な中で、新たな挑戦をすることを評価したものです。Larian Studiosの決断は、ゲーム開発における革新的な姿勢を示していると言えるでしょう。"
+      "summary_ja": "元GTAの技術ディレクターが、大成功を収めたBaldur's Gate 3の開発元であるLarian Studiosが、同シリーズからの撤退を決めたことを「大胆な決断」と称賛しました。これは、成功を収めたプロジェクトを継続することが容易である中で、新たな挑戦へ踏み出すという、革新的な姿勢を評価したものです。Baldur's Gate 3の成功は、この大胆な決断の正しさを物語っています。"
     },
     {
       "title": "Inside Meta’s acquisition of Manus AI: Revenue, features and the race against ChatGPT",
@@ -39,7 +47,7 @@
       "image_url": "https://www.livemint.com/lm-img/img/2025/12/30/1600x900/logo/Meta_AI_1756534381155_1756534381380_1767114937893.jpg",
       "published_at": "2025-12-30T17:56:29Z",
       "source": "Livemint",
-      "summary_ja": "メタ社は、AI技術を強化するため、AIスタートアップのManusを買収すると発表しました。Manusの技術をMetaのプラットフォームに統合することで、高度なAI機能を実装することを目指しています。今回の買収は、ChatGPTを筆頭とする競合他社との競争を意識したもので、AI分野における技術革新を加速させる動きです。"
+      "summary_ja": "メタ社はAIスタートアップのManusを買収し、プラットフォーム全体でAI機能を強化することを目指しています。Manusの技術は、MetaのAI開発を加速させ、ChatGPTとの競争を激化させる可能性があります。この買収は、MetaがAI分野でのリーダーシップを確立するための重要な一歩となるでしょう。"
     },
     {
       "title": "SoftBank Makes Good on $40 Billion OpenAI Investment",
@@ -47,7 +55,7 @@
       "image_url": "https://www.pymnts.com/wp-content/uploads/2023/09/softbank.jpg",
       "published_at": "2025-12-30T17:47:39Z",
       "source": "pymnts.com",
-      "summary_ja": "ソフトバンクは、OpenAIへの400億ドルの投資コミットメントを完了しました。 これは、AI分野への大規模な資金投入であり、OpenAIの技術開発を加速させるでしょう。 この巨額投資は、AI技術の更なる進化と、ソフトバンクのAI分野での戦略的地位の強化を意味します。"
+      "summary_ja": "ソフトバンクは、OpenAIへの400億ドルに及ぶ投資約束を完了しました。これは、AI技術開発を加速させるための巨額の資金注入であり、AI分野の技術革新をさらに推し進めることが期待されます。"
     },
     {
       "title": "Close digital gap, level AI field",
@@ -55,7 +63,7 @@
       "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-8990,resizemode-75,msid-126257276/opinion/et-commentary/close-digital-gap-level-ai-field.jpg",
       "published_at": "2025-12-30T17:46:58Z",
       "source": "The Times of India",
-      "summary_ja": "インド政府は、デジタル市場における公正な競争と成長を促進するため、デジタル競争に関する市場調査を行うことを発表しました。この調査は、巨大テクノロジー企業の市場への影響、特に中小企業への影響を分析し、デジタル市場のルール作りを支援します。 「Systematically Significant Digital Enterprises」の基準など、既存の法律の見直しも行われる予定です。"
+      "summary_ja": "インド政府は、デジタル市場における競争状況を調査する研究を計画しています。この研究は、巨大IT企業の市場への影響を分析し、公正な競争と成長を促進するためのルール作りに役立てられます。特に、中小企業への影響や、システム上重要なデジタル企業の基準などが焦点となります。"
     },
     {
       "title": "forehead glasses assist blind people in moving around without a guide dog",
@@ -63,7 +71,7 @@
       "image_url": "https://www.designboom.com/twitterimages/uploads/2025/12/assistive-head-glasses-blind-people-move-around-without-guide-dog-.lumen-designboom-fb.jpg",
       "published_at": "2025-12-30T17:45:16Z",
       "source": "Designboom",
-      "summary_ja": "額に装着するメガネ型のデバイス「.lumen」が発表されました。これはカメラ、センサー、AI、ロボット工学を駆使し、盲目の人々が盲導犬なしで移動を支援することを目的としています。従来の盲導犬の役割をテクノロジーで代替し、自立した移動を可能にする革新的な技術です。"
+      "summary_ja": "額に装着するメガネ型のデバイス「.lumen」が登場し、視覚障碍者の移動を支援します。 このデバイスはカメラ、センサー、AI、ロボティクス技術を駆使し、盲導犬の代わりに安全な移動を可能にします。 これにより、視覚障碍者が単独で移動できる可能性が広がります。"
     },
     {
       "title": "A.I. Degrees Boom as Students Prepare for an Uncertain Job Market",
@@ -71,7 +79,7 @@
       "image_url": "https://observer.com/wp-content/uploads/sites/2/2025/12/GettyImages-2148041315.jpg?quality=80",
       "published_at": "2025-12-30T17:40:17Z",
       "source": "Observer",
-      "summary_ja": "AI分野の学位取得を目指す学生が増加しており、大学はAI関連のプログラムを急速に拡大しています。これは、将来的な自動化と技術革新に対応するため、学生が変化の激しい就職市場で生き残るためのスキルを求めているからです。"
+      "summary_ja": "AI分野の学位取得者が急増しています。これは、自動化と新技術によって変化する将来を見据え、学生たちが将来性のあるスキルを求めているためです。ペンシルベニア大学やMITなど、多くの大学がAI関連のプログラムを拡大し、学生のニーズに応えています。"
     },
     {
       "title": "Fighting Renewed Attempts to Make ISPs Copyright Cops: 2025 in Review",
@@ -79,7 +87,7 @@
       "image_url": "https://www.eff.org/files/banner_library/yearinreview_1200x600px_banner_2025.jpg",
       "published_at": "2025-12-30T17:39:53Z",
       "source": "EFF",
-      "summary_ja": "2025年の著作権を巡る大きな争点は、インターネット黎明期から存在する「ISPは著作権の取り締まり役となるべきか」という問題でした。生成AIに関する新たな著作権問題が注目される中、長年の訴訟を経て、ISPの責任範囲が焦点となりました。この裁判の結果は、今後のインターネット利用における著作権保護のあり方に大きな影響を与えると考えられます。"
+      "summary_ja": "2025年の著作権を巡る大きな争点は、インターネット黎明期から存在する問題、つまりISP（インターネットサービスプロバイダ）が著作権侵害の監視役を担うべきかというものでした。この訴訟は、生成AIに関する著作権問題に注目が集まる中で、ISPの責任を問う形で進展しました。長年の訴訟の結果が、今後のインターネット利用と著作権保護に大きな影響を与える可能性があります。"
     },
     {
       "title": "model-diagnostics 1.4.3",
@@ -87,7 +95,7 @@
       "image_url": null,
       "published_at": "2025-12-30T17:39:44Z",
       "source": "Pypi.org",
-      "summary_ja": "このサイトは、機械学習モデルの診断と評価を行うためのツール「model-diagnostics 1.4.3」に関する情報を提供しています。しかし、ブラウザ拡張機能やネットワークの問題により、一部コンテンツの読み込みに問題が生じている可能性があります。 ユーザーは、接続状況を確認し、広告ブロッカーを無効にするなどの対応が推奨されています。"
+      "summary_ja": "このニュースは、機械学習モデルの診断と評価を行うためのツールである「model-diagnostics」のバージョン1.4.3について報じています。 記事の内容は、ウェブサイトの一部が読み込めないという技術的な問題に焦点を当てています。 具体的な技術的な進歩については言及されていませんが、機械学習モデルの診断と評価という重要な機能を提供するツールであることがわかります。"
     },
     {
       "title": "Meta to Buy Manus, an AI Startup With Chinese Roots - Bloomberg.com",
@@ -95,7 +103,7 @@
       "image_url": null,
       "published_at": "2025-12-30T17:32:56Z",
       "source": "Slashdot.org",
-      "summary_ja": "メタ社は、中国系のAIスタートアップManusを20億ドル以上で買収する予定です。この買収は、メタ社のAI技術、特にVR/AR分野での技術向上を加速させる目的があります。Manusの高度なAI技術は、メタバース構築におけるアバターやインタラクションの性能向上に貢献すると期待されています。"
+      "summary_ja": "Metaは、中国にルーツを持つAIスタートアップManusを20億ドル以上で買収する予定です。この買収は、メタバースやその他の分野におけるAI技術を強化し、競争力を高めるための戦略的な動きです。ManusのAI技術は、MetaのAI開発を加速させ、革新的な製品開発に貢献する可能性を秘めています。"
     },
     {
       "title": "Big Tech Momentum Holds at Year End With Meta Buying Manus",
@@ -103,7 +111,7 @@
       "image_url": "https://www.pymnts.com/wp-content/uploads/2025/12/Meta-Big-Tech-social-media.jpeg",
       "published_at": "2025-12-30T17:30:15Z",
       "source": "pymnts.com",
-      "summary_ja": "大手IT企業は、人工知能を製品、インフラ、収益化戦略に深くまで統合することで、年末にかけて勢いを維持しています。MetaによるManusの買収は、有料ユーザーを数百万単位で増やし、サブスクリプションへの注力を鮮明にしています。この動きは、ビッグテックがAIを基盤とした成長戦略を加速させていることを示唆しています。"
+      "summary_ja": "ビッグテック各社は、AIを製品、インフラ、収益化戦略に深く組み込み、年末にかけて勢いを維持しています。Meta社はManus社を買収し、多数の有料ユーザーを獲得しました。これは、サブスクリプションとAIの活用に焦点を当てていることを示唆しています。"
     },
     {
       "title": "Chinese AI Startup MiniMax to Seek $600 Million in Hong Kong IPO",
@@ -111,7 +119,7 @@
       "image_url": "https://www.pymnts.com/wp-content/uploads/2023/09/IPO-2.jpg",
       "published_at": "2025-12-30T17:28:29Z",
       "source": "pymnts.com",
-      "summary_ja": "中国のAIスタートアップ、MiniMaxが香港での新規株式公開（IPO）で6億ドル以上の資金調達を目指しています。このIPOは、同社のAI技術の開発と市場拡大を加速させるための重要な資金源となります。投資家からの注文受付は、早くも1月からの上場に向けて年末から開始される可能性があります。"
+      "summary_ja": "中国のAIスタートアップ、MiniMaxが、香港での新規株式公開（IPO）を通じて6億ドル以上の資金調達を目指しています。この資金調達は、AI技術の開発と成長を加速させるためのものです。投資家からの注文受付は1月上旬から開始される予定です。"
     },
     {
       "title": "The 19 predictions that came true in 2025 — and the 4 that didn’t",
@@ -119,7 +127,7 @@
       "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/CeliaJacobs_Vox_2025PredictionsRevisited.jpg?quality=90&strip=all&crop=0%2C21.226116998392%2C100%2C78.534031413613&w=1200",
       "published_at": "2025-12-30T17:26:36Z",
       "source": "Vox",
-      "summary_ja": "未来予測チームが毎年行っている未来予測企画の結果が報告されました。2025年には、19個の予測が的中し、4個は外れたとのことです。この記事では、未来予測の的中率と、様々な分野における技術革新や社会の変化に関する内容が扱われていると考えられます。"
+      "summary_ja": "2025年の未来予測において、Future Perfectチームが発表した19の予測が的中し、4つが外れました。 この結果は、彼らが一年間の出来事を見事に予測したことを示唆しています。彼らの予測成功率は、近未来の動向を読み解く上での技術的進歩と洞察力を示しています。"
     },
     {
       "title": "aimodelshare 0.4.94",
@@ -127,7 +135,7 @@
       "image_url": null,
       "published_at": "2025-12-30T17:26:35Z",
       "source": "Pypi.org",
-      "summary_ja": "すみません。提供された情報が非常に限られており、技術的な進歩や影響に関する具体的な内容は含まれていません。タイトルと説明から推測すると、以下のように要約できます。\n\nAI Model Shareのバージョン0.4.94が公開されました。このバージョンでは、ローカルに保存された機械学習モデルをREST APIとしてライブでデプロイし、ダッシュボードに統合できるようになりました。これにより、モデルの運用が容易になり、より多くのユーザーが利用できるようになる可能性があります。"
+      "summary_ja": "aimodelshare 0.4.94 がリリースされ、ローカルに保存された機械学習モデルを REST API を介してライブ展開できるようになりました。これにより、統合されたダッシュボードを通じてモデルを簡単にモニタリングおよび管理することが可能になります。 つまり、開発者は、モデルを迅速にデプロイし、その性能を効率的に評価できるようになったのです。"
     },
     {
       "title": "2025 in Review - Workplace Relations Commission wrap",
@@ -135,7 +143,7 @@
       "image_url": "https://www.rte.ie/images/0022ca6f-1600.jpg",
       "published_at": "2025-12-30T17:19:14Z",
       "source": "RTE",
-      "summary_ja": "2025年の労働関係委員会（WRC）の年次報告書では、リモートワークに関する重要な判例が紹介されました。2024年に施行されたリモートワーク要求権に関する法律違反で、初めて従業員への補償が認められた事例です。これは、リモートワークの権利を巡る法的解釈と、その重要性を示す大きな転換点となりました。"
+      "summary_ja": "2025年の労働関係委員会は、リモートワークに関する重要な判決を発表しました。2024年に施行されたリモートワーク要求権に関する法律違反で、初の賠償命令が出されました。これは、遠隔勤務の権利と、職場環境における新たな法的解釈の可能性を示唆しています。"
     },
     {
       "title": "Absci Corporation (ABSI) Announces First Participants Dosed In Phase 1/2a HEADLINE Trial",
@@ -143,7 +151,7 @@
       "image_url": "https://s.yimg.com/ny/api/res/1.2/32n33gHdPM1efwCiQowLUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/be1533a9714e52458d0a339adbc16a22",
       "published_at": "2025-12-30T17:18:37Z",
       "source": "Yahoo Entertainment",
-      "summary_ja": "アブシ社は、HEADLINE試験のPhase 1/2aにおいて初の被験者への投与を開始しました。これは、ジェノミクス分野における有望な投資先としての同社の取り組みを示すものです。この試験は、同社の技術革新による新薬開発に繋がる可能性があり、今後の進展が注目されます。"
+      "summary_ja": "アブシ社は、新薬開発の臨床試験であるHEADLINE試験のPhase 1/2aにおいて、最初の被験者への投与を開始したことを発表しました。この試験は、同社の革新的なAI創薬技術を活用して開発された抗体薬の安全性と有効性を評価することを目的としています。この技術は、創薬プロセスを加速し、より効果的な治療薬の開発を可能にすると期待されています。"
     },
     {
       "title": "Grayscale moves toward exchange listing for TAO trust in US",
@@ -151,15 +159,7 @@
       "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6fc8-0d79-711b-96e0-74018f619a07.jpg",
       "published_at": "2025-12-30T17:15:35Z",
       "source": "Cointelegraph",
-      "summary_ja": "グレースケールは、BittensorのネイティブトークンTAOに連動した新たな上場投資商品（ETP）を米国市場で上場させるため、NYSE Arcaへの上場を申請しました。これが承認されれば、米国市場で利用可能になる初のTAO関連の投資商品の一つとなります。この動きは、デジタル資産市場におけるTAOへの投資機会を拡大させる可能性があります。"
-    },
-    {
-      "title": "Nvidia in advanced talks to buy Israel's AI21 Labs for up to $3 billion, report says",
-      "original_url": "https://www.channelnewsasia.com/business/nvidia-in-advanced-talks-buy-israels-ai21-labs-up-3-billion-report-says-5770251",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Mx3ljFqC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-30T171025Z_1_LYNXMPELBT0PH_RTROPTP_3_NVIDIA-RESULTS.JPG?itok=vCdNV-dC",
-      "published_at": "2025-12-30T17:10:25Z",
-      "source": "CNA",
-      "summary_ja": "NvidiaがイスラエルのAIスタートアップ、AI21 Labsを最大30億ドルで買収する交渉を最終段階に入っていると報じられました。この買収が実現すれば、AI分野におけるNvidiaのプレゼンスが強化されることになります。具体的な技術的詳細はまだ不明ですが、AI21 Labsの技術がNvidiaの製品にどのように統合されるかが注目されます。"
+      "summary_ja": "グレースケールは、BittensorのネイティブトークンTAOに連動した新たな上場投資商品（ETP）を米国市場で上場させるため、申請を行いました。これが承認されれば、TAOトラストは米国の取引所NYSE Arcaで取引が開始される見込みです。この動きは、米国市場におけるTAOへの投資を容易にする、新たな技術的進歩と言えるでしょう。"
     }
   ]
 }

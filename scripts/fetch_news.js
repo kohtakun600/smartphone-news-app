@@ -16,7 +16,8 @@ if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
 
 // Initialize Gemini
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+// Use latest lightweight flash model
+const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-lite-001" });
 
 async function fetchNews() {
     try {

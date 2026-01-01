@@ -2,8 +2,8 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # 07:30 JST = 22:30 UTC (Previous Day)
-    - cron: '30 22 * * *'
+    # 08:00 JST = 23:00 UTC (Previous Day)
+    - cron: '0 23 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:

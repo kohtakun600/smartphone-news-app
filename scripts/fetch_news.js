@@ -48,9 +48,16 @@ function buildFallbackSummary(article) {
 
 async function summarizeArticle(article) {
     const prompt = `
-    Summarize the following news article in Japanese in about 3 sentences.
-    Focus on the key impact and technological advancement.
+    You are an expert tech news translator.
+    1. Translate the title into natural Japanese.
+    2. Summarize the article in Japanese in about 3 sentences, focusing on impact and technology.
     
+    Return the result in strict JSON format as follows:
+    {
+      "title_ja": "Translated Title",
+      "summary_ja": "Summary text..."
+    }
+
     Title: ${article.title}
     Description: ${article.description}
     Content: ${article.content}
@@ -59,16 +66,24 @@ async function summarizeArticle(article) {
     try {
         const result = await model.generateContent(prompt);
         const response = await result.response;
-        const text = response.text().trim();
-        if (!text) {
-            console.warn(`Empty summary received for "${article.title}", using fallback.`);
-            return buildFallbackSummary(article);
-        }
-        return text;
+        let text = response.text().trim();
+        
+        // Clean up markdown code blocks if present
+        text = text.replace(/^```json\s*/, '').replace(/\s*```$/, '');
+        
+        const json = JSON.parse(text);
+        return {
+            title_ja: json.title_ja || article.title,
+            summary_ja: json.summary_ja || buildFallbackSummary(article)
+        };
+
     } catch (error) {
         // Log full details for troubleshooting and use a fallback summary so the UI keeps working.
         console.error(`Error summarizing article "${article.title}":`, error);
-        return buildFallbackSummary(article);
+        return {
+            title_ja: article.title,
+            summary_ja: buildFallbackSummary(article)
+        };
     }
 }
 
@@ -89,14 +104,15 @@ async function processNews() {
         // Skip removed contents
         if (article.title === '[Removed]') continue;
 
-        const summary = await summarizeArticle(article);
+        const { title_ja, summary_ja } = await summarizeArticle(article);
         processedArticles.push({
             title: article.title,
+            title_ja: title_ja,
             original_url: article.url,
             image_url: article.urlToImage,
             published_at: article.publishedAt,
             source: article.source.name,
-            summary_ja: summary
+            summary_ja: summary_ja
         });
         
         // Rate limit handling (simple pause)

@@ -1,6 +1,15 @@
 document.addEventListener('DOMContentLoaded', async () => {
     const newsContainer = document.getElementById('news-container');
     const dateElement = document.getElementById('current-date');
+    const header = document.getElementById('main-header');
+    const toggleBtn = document.getElementById('header-toggle-btn');
+
+    // Toggle Header
+    if (toggleBtn && header) {
+        toggleBtn.addEventListener('click', () => {
+            header.classList.toggle('collapsed');
+        });
+    }
 
     try {
         const response = await fetch('data/latest.json');
@@ -41,12 +50,27 @@ function createNewsCard(article) {
 
     const publishedTime = new Date(article.published_at).toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
 
+    // Optional Image
+    let imageHtml = '';
+    if (article.image_url) {
+        // Use error handling for images to hide broken ones? For now simple img tag.
+        imageHtml = `<img src="${article.image_url}" class="card-image" alt="Article Image" loading="lazy">`;
+    }
+
+    // Optional Japanese Title
+    let titleJaHtml = '';
+    if (article.title_ja) {
+        titleJaHtml = `<h3 class="title-ja">${article.title_ja}</h3>`;
+    }
+
     card.innerHTML = `
+        ${imageHtml}
         <div class="card-source">
             <span>${article.source || 'Unknown Source'}</span>
             <span>${publishedTime}</span>
         </div>
         <h2><a href="${article.original_url}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
+        ${titleJaHtml}
         <p>${article.summary_ja}</p>
     `;
 

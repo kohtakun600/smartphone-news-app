@@ -1,165 +1,185 @@
 {
-  "updated_at": "2026-01-01T06:01:49.726Z",
+  "updated_at": "2026-01-01T14:34:40.247Z",
   "articles": [
     {
-      "title": "AdExchanger’s Top Comics Of 2025",
-      "original_url": "http://www.adexchanger.com/comic-strip/adexchangers-top-comics-of-2025/",
-      "image_url": "https://www.adexchanger.com/wp-content/uploads/2025/11/Crawling-AI-OpenAI-LLMs-movie-poster-comic-detail.jpg",
-      "published_at": "2025-12-31T06:00:03Z",
-      "source": "AdExchanger",
-      "summary_ja": "AdExchangerが発行している週刊コミックは、広告テクノロジー業界のニュースを皮肉を込めて表現し、読者に笑いを提供しています。主なテーマは、プログラマティック広告の透明性の欠如や、チャットボットがパブリッシャーのトラフィックに与える影響などです。このコミックは、複雑な業界問題をユーモラスに伝え、読者の関心を引いています。"
+      "title": "Nvidia's CUDA Tile examined: AI giant releases programming style for Rubin, Feynman, and beyond — tensor-native execution model lays the foundation for Blackwell and beyond",
+      "title_ja": "NVIDIAのCUDA Tileを発表：Rubin、Feynman以降を見据えたプログラミングスタイル—テンソルネイティブ実行モデルがBlackwell以降の基盤を構築",
+      "original_url": "https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-tile-examined-ai-giant-releases-programming-style-for-rubin-feynman-and-beyond-tensor-native-execution-model-lays-the-foundation-for-blackwell-and-beyond",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XzK7JffDJnbohhFs39kxDh-1920-80.jpg",
+      "published_at": "2025-12-31T14:32:45Z",
+      "source": "Tom's Hardware UK",
+      "summary_ja": "NVIDIAがCUDA 13.1で導入したCUDA Tileは、GPUカーネル開発をSIMTから一段と進化させるタイル中心の新しいプログラミングパスです。この革新は、BlackwellクラスGPUのテンソルネイティブ実行モデルにCUDAを適合させ、将来のGPUアーキテクチャのためのソフトウェア基盤を築きます。CUDA Tileは、AI計算におけるパフォーマンス向上に貢献し、NVIDIAのGPUソフトウェアスタックにおける重要なアップデートとなります。"
     },
     {
-      "title": "Students suspected of AI misuse to face in-person interviews under new recommendations",
-      "original_url": "https://www.irishtimes.com/ireland/education/2025/12/31/students-suspected-of-ai-misuse-to-face-in-person-interviews-under-new-recommendations/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/RG325XEW6RFADNQMYMNJ7VWA34.jpg?smart=true&auth=1fd5d2e0c714619c490c13fb20817c9a2a390a503e44045f609269280ec5e44a&width=1200&height=630",
-      "published_at": "2025-12-31T06:00:01Z",
-      "source": "The Irish Times",
-      "summary_ja": "AIの不正利用を防ぐため、大学は学生の作品が本人のものであることを確認するため、対面での口頭試験を導入するよう推奨されています。この「口頭検証」は、学生が自分の作品を説明できるようにすることで、AI生成物の使用を判別する手段となります。これにより、教育機関は試験でのAI利用を厳しく取り締まり、学問的な誠実さを確保しようとしています。"
+      "title": "How the wine world is set to change in 2026",
+      "title_ja": "2026年、ワインの世界はどのように変わるのか",
+      "original_url": "https://financialpost.com/news/retail-marketing/wine-world-in-2026",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/0101-mg-wine.jpg",
+      "published_at": "2025-12-31T14:32:13Z",
+      "source": "Financial Post",
+      "summary_ja": "2026年は観測史上4番目に暖かい年になる見込みで、温暖化の影響により、ワイン生産者はより涼しい地域でのブドウ栽培を増やしています。シャンパンとプロセッコの間を埋めるような、フランスのクレマンやイギリスのスパークリングワインなど、多様な価格帯のワインが登場するでしょう。気候変動に対応するため、ワイン業界は大きな変化を迫られています。"
     },
     {
-      "title": "Irish economy set for robust growth, but risks remain",
-      "original_url": "https://www.irishtimes.com/business/2025/12/31/irish-economy-set-for-robust-growth-but-risks-remain/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/U433SBTEH5BYTKA5BCQU7N4NHQ.jpg?smart=true&auth=e082183e09e43474f7980e8264392e05d6cb36cbf46d2882c89ae31fad4ab438&width=1200&height=630",
-      "published_at": "2025-12-31T06:00:01Z",
-      "source": "The Irish Times",
-      "summary_ja": "アイルランド経済は、来年も欧州トップ5に入る成長を見込むと予測されています。しかし、世界的な貿易摩擦やインフラ問題が成長の足かせになる可能性も指摘されています。"
+      "title": "Mark Zuckerberg Threw $77 Billion 'Into The Toilet' On Metaverse, Says Economist Dean Baker: Asks If He Is Set To Waste Billions More On AI",
+      "title_ja": "マーク・ザッカーバーグ、メタバースに770億ドルを「トイレに流した」とエコノミストのディーン・ベイカー氏が批判：AIにもさらに巨額を投じるのか？",
+      "original_url": "https://finance.yahoo.com/news/mark-zuckerberg-threw-77-billion-143014208.html",
+      "image_url": "https://media.zenfs.com/en/Benzinga/e0d46e6efdd6a0f597f9ca37f25741bb",
+      "published_at": "2025-12-31T14:30:14Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "エコノミストのディーン・ベイカー氏は、マーク・ザッカーバーグ氏がメタバースに費やした約770億ドルを批判し、「無駄遣い」と断じました。メタ社がAI分野にさらに巨額の投資を行う可能性についても疑問を呈しています。この批判は、メタバースへの投資に対する懐疑的な見方を浮き彫りにし、今後のAIへの投資戦略にも影響を与える可能性があります。"
     },
     {
-      "title": "Fewer Irish people using ChatGPT than in other countries, OpenAI told Taoiseach",
-      "original_url": "https://www.irishtimes.com/ireland/2026/01/10/fewer-irish-people-using-chatgpt-than-in-other-countries-openai-told-taoiseach/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/ZFISZVDLTNCKHNLD42LD464JII.JPG?smart=true&auth=78970ad193aa93fd53559063a354b50bb6b82cd674f275870511633b331ce6a3&width=1200&height=630",
-      "published_at": "2025-12-31T06:00:01Z",
-      "source": "The Irish Times",
-      "summary_ja": "アイルランドでは、ChatGPTの利用者が他の国に比べて少ないことが、開発元OpenAIから首相に報告されました。エストニアでは、ChatGPTがカリキュラムを補完するために全中学生に導入されたという事例も紹介されました。この情報から、ChatGPTの利用状況に国によって差があり、教育へのAI活用の進展に差が出ていることが示唆されます。"
+      "title": "The world is awash in wealth but starved for productivity—and that imbalance is distorting growth, debt, and opportunity. We need AI to come through",
+      "title_ja": "世界は富にあふれているが、生産性不足に苦しみ、この不均衡が成長、債務、機会を歪めている。AIの活躍が不可欠",
+      "original_url": "https://fortune.com/2025/12/31/ai-productivity-mckinsey-global-institute-outlook-forecast-2026/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/MGI-GBS-1279318913-00-COVER-HERO-1536x864-1.jpg?resize=1200,600",
+      "published_at": "2025-12-31T14:30:00Z",
+      "source": "Fortune",
+      "summary_ja": "世界的な富は空前の規模に達しているものの、生産性の伸び悩みが経済のバランスを崩し、成長を阻害しています。AIは、この状況を打開する可能性を秘めた世紀の変革となり得ます。しかし、その実現には様々な課題があり、AIの適切な活用が求められています。"
     },
     {
-      "title": "Six economic flashpoints to watch out for in 2026",
-      "original_url": "https://www.irishtimes.com/business/2025/12/31/six-economic-flashpoints-to-watch-out-for-in-2026/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/OKO77MVICTFRWPMAJKWRWC3N6Q.jpg?smart=true&auth=126d2eb8abc58605369d4bfca58b546b67b5380bc878ebc2d4ad44f321bee64d&width=1200&height=630",
-      "published_at": "2025-12-31T06:00:01Z",
-      "source": "The Irish Times",
-      "summary_ja": "2026年には、米国の保護主義的な政策やAIバブルの可能性など、世界経済に影響を与える6つのリスク要因が懸念されています。特に、米国の関税に関連する政策の不確実性が、世界経済の不安定要素として注目されています。この状況は、経済成長に大きな影響を与える可能性があります。"
+      "title": "What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment",
+      "title_ja": "2026年のAIに期待すること：ラベル表示、より優れたスマホ機能、そして環境への貢献",
+      "original_url": "https://www.cnet.com/tech/services-and-software/what-i-want-from-ai-in-2026/",
+      "image_url": "https://www.cnet.com/a/img/resize/637a4d749e079618cf8b715975b255948fad6f9b/hub/2025/12/29/a553678d-a231-4284-85af-01d688b1cbba/gettyimages-2252210703.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2025-12-31T14:26:41Z",
+      "source": "CNET",
+      "summary_ja": "2025年には、AIが研究、コーディング、動画・画像生成など、より高度な能力を持つモデルをもたらした。しかし、AIの最大の課題に対する答えを見つけるスピードは十分ではない。この記事では、AIが抱える問題に対する解決策として、ラベル表示の改善、スマホ機能の向上、そして環境問題への貢献という3つの側面について焦点を当て、2026年以降のAIの進化への期待を述べている。"
     },
     {
-      "title": "Search Central Live APAC 2025 Recap: A Note of Gratitude",
-      "original_url": "https://developers.google.com/search/blog/2025/12/scl-eoy",
-      "image_url": "https://developers.google.com/static/search/blog/images/search-central-live-apac/scl-apac-2025-recap.jpg",
-      "published_at": "2025-12-31T06:00:00Z",
-      "source": "Google News",
-      "summary_ja": "Search Central Live APAC 2025は、バンコク、東京、香港を巡り、SEOの最新情報と技術共有を目的としたイベントでした。 世界中の検索エンジンの専門家が参加し、最新の技術動向や今後の展望について議論を深めました。 参加者間のつながりを強化し、検索エンジン技術の発展に貢献しました。"
+      "title": "The world’s richest added a record $2.2 trillion in wealth this year—and they increasingly lost faith in the American Dream",
+      "title_ja": "今年の富豪たちは記録的な2.2兆ドルを富に加え、アメリカン・ドリームへの信頼をますます失う",
+      "original_url": "https://fortune.com/2025/12/31/worlds-richest-wealth-added-record-increase-american-dream-europe/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-90432181.jpg?resize=1200,600",
+      "published_at": "2025-12-31T14:25:56Z",
+      "source": "Fortune",
+      "summary_ja": "2025年、世界の富豪たちは記録的な富の増加を経験しましたが、同時にアメリカン・ドリームへの信頼を揺るがせました。 この富の増加は「一般のミリオネア」層の拡大を加速させ、彼らがどこに生活の場を求めるかという新たな問題を生み出しています。 この傾向は、富裕層が将来の展望をアメリカ以外の場所に見出すようになっていることを示唆しています。"
     },
     {
-      "title": "A wave paralysed me but AI could help me walk again",
-      "original_url": "https://www.bbc.com/news/articles/cqjgx1xkjg7o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/50c3/live/17476190-e60e-11f0-b9f3-c578ff9ce560.jpg",
-      "published_at": "2025-12-31T05:59:35Z",
-      "source": "BBC News",
-      "summary_ja": "2023年の大晦日に事故で脊髄を損傷し麻痺したダン・リチャーズさんは、AI技術を用いた歩行補助システムの開発により、再び歩ける可能性が出てきました。この革新的な技術は、麻痺患者が運動機能を回復する手助けとなるだけでなく、日常生活の質を大きく向上させる期待が持たれています。"
+      "title": "Crypto hacks dropped by half in 2025, but the data reveals a much deadlier financial threat",
+      "title_ja": "2025年の仮想通貨ハッキングは半減も、データはより深刻な金融脅威を露呈",
+      "original_url": "https://cryptoslate.com/crypto-hacks-dropped-by-half-in-2025-but-the-data-reveals-a-much-deadlier-financial-threat/",
+      "image_url": "https://cryptoslate.com/wp-content/uploads/2025/12/crypto-hack-.jpg",
+      "published_at": "2025-12-31T14:25:14Z",
+      "source": "CryptoSlate",
+      "summary_ja": "2025年の仮想通貨ハッキング件数は半減したものの、Bybitからの14.6億ドルの盗難事件が、セキュリティ業界における最大の出来事となった。この事件は、高度な国家支援型アクターによるもので、従来のDeFiエクスプロイトやプロトコル障害とは異なる、より洗練された脅威の存在を浮き彫りにした。これにより、暗号資産セキュリティにおける新たな課題と、中央集権型取引所のリスク管理の重要性が再認識された。"
     },
     {
-      "title": "From finance to leadership: How technology is shaping smarter decisions",
-      "original_url": "https://economictimes.indiatimes.com/jobs/mid-career/from-finance-to-leadership-how-technology-is-shaping-smarter-decisions/articleshow/126158715.cms",
-      "image_url": "https://img.etimg.com/thumb/msid-126158709,width-1200,height-630,imgsize-1605679,overlay-etcareers/articleshow.jpg",
-      "published_at": "2025-12-31T05:52:46Z",
-      "source": "The Times of India",
-      "summary_ja": "AIを活用したテクノロジーが、金融分野での意思決定を加速させ、より賢明なものへと変革しています。 リスク分析、不正検知、市場予測など、様々な業務にAIが用いられています。 今後は、リーダーシップにおいて、テクノロジーから得られる知見と人間的な共感力や倫理観を組み合わせることが重要になります。"
+      "title": "Flagship UK stock index has best year since 2009 - outperforming rivals",
+      "title_ja": "イギリスの主要株価指数、2009年以来最高の年間パフォーマンスでライバルを凌駕",
+      "original_url": "https://news.sky.com/story/ftse-100-has-best-year-since-2009-outperforming-us-and-european-rivals-13489059",
+      "image_url": "https://e3.365dm.com/24/01/1600x900/skynews-london-stock-exchange_6433018.jpg?20240125141202",
+      "published_at": "2025-12-31T14:25:00Z",
+      "source": "Sky.com",
+      "summary_ja": "イギリスの主要株価指数であるFTSE100は、記録的な上昇を記録し、2009年以来最高の年間上昇率となる21.5%を達成しました。この結果は、他の主要な株価指数を上回り、イギリス経済の回復と投資家の楽観的な見方を反映しています。これは、金融市場における重要な転換点を示唆しています。"
     },
     {
-      "title": "How to build an AI-driven workforce",
-      "original_url": "https://economictimes.indiatimes.com/jobs/mid-career/how-to-build-an-ai-driven-workforce/articleshow/126158641.cms",
-      "image_url": "https://img.etimg.com/thumb/msid-126158612,width-1200,height-630,imgsize-1605679,overlay-etcareers/articleshow.jpg",
-      "published_at": "2025-12-31T05:48:44Z",
-      "source": "The Times of India",
-      "summary_ja": "AIを活用した労働力の構築が現代のビジネスに不可欠となっています。企業のリーダーは、AIとデジタル変革に精通し、従業員のリスキリングとAIガバナンスへの投資が求められています。これにより、変化する職務と倫理的な課題に対応し、AI主導の組織を構築することができます。"
+      "title": "AI Will Demolish 200,000 Jobs According to Expert",
+      "title_ja": "専門家によると、AIが20万人の雇用を破壊",
+      "original_url": "https://biztoc.com/x/af12f61c86cb3d29",
+      "image_url": "https://biztoc.com/cdn/955/og.png",
+      "published_at": "2025-12-31T14:23:54Z",
+      "source": "Biztoc.com",
+      "summary_ja": "モルガン・スタンレーは、人工知能（AI）が2030年までにヨーロッパで20万人の雇用を奪うと予測しています。この数字は、特定の業界の一部の地域に限ったものでありながら、非常に大きなインパクトを示しています。AIは、様々な分野で雇用に大きな影響を与える可能性があり、その影響は今後さらに拡大すると考えられます。"
     },
     {
-      "title": "India's IT Industry Didn't Ride The AI Hype: Now It's Paying To Catch Up",
-      "original_url": "https://www.ndtvprofit.com/markets/tcs-infosys-hcltech-wipro-coforge-in-focus-as-indian-it-plays-catch-up-to-artificial-intelligence",
-      "image_url": "https://media.assettype.com/bloombergquint%2F2025-12-31%2F2pvu0nvp%2Fpxbeeeraser2025-12-3109-35-49.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "published_at": "2025-12-31T05:46:12Z",
-      "source": "Ndtvprofit.com",
-      "summary_ja": "2025年のAIブームに乗り遅れたインドIT業界は、2026年以降、AI技術の導入を急務としています。 マッコーリー・キャピタルのアナリストは、自社開発と海外企業の買収を組み合わせた戦略が重要だと指摘しています。 この遅れを取り戻すために、インド企業はAIへの投資を加速させる必要に迫られています。"
+      "title": "Comment on My Open Letter To That Open Letter About AI In Writing And Publishing by Susan Kaye Quinn",
+      "title_ja": "スーザン・ケイ・クインによる、AIによる執筆と出版に関する公開書簡へのコメントに対する私の公開書簡",
+      "original_url": "https://terribleminds.com/ramble/2025/12/28/my-open-letter-to-that-open-letter-about-ai-in-writing-and-publishing/comment-page-2/#comments",
+      "image_url": "https://i0.wp.com/terribleminds.com/ramble/wp-content/uploads/2025/12/image-2-scaled.png?fit=1200%2C946&ssl=1",
+      "published_at": "2025-12-31T14:22:46Z",
+      "source": "Terribleminds.com",
+      "summary_ja": "SFWA（SF作家協会）が、一部のAIの使用を認めることで、ネビュラ賞の候補資格を失わないという方針を発表しました。これは、AIを活用した書籍が出版業界に与える影響に関する議論の一環であり、作家とAI技術の共存について新たな視点を示しています。この決定は、作家がAIを使用する際の倫理的な問題や、作品の創作性に関する議論を活発化させる可能性があります。"
     },
     {
-      "title": "Top AI skills for 2026: How professionals can stay ahead in a changing market",
-      "original_url": "https://economictimes.indiatimes.com/jobs/mid-career/top-ai-skills-for-2026-how-professionals-can-stay-ahead-in-a-changing-market/articleshow/126158393.cms",
-      "image_url": "https://img.etimg.com/thumb/msid-126158745,width-1200,height-630,imgsize-1173798,overlay-etcareers/articleshow.jpg",
-      "published_at": "2025-12-31T05:43:20Z",
-      "source": "The Times of India",
-      "summary_ja": "2026年にはAI技術の導入が加速し、企業はAI人材を求めていますが、人材不足が課題となっています。機械学習や生成AIなど、AI関連の専門知識を習得することで、変化する市場で活躍できる可能性が高まります。"
+      "title": "The Funding File: The Biggest M&A and VC Deals in Media and Entertainment in 2025",
+      "title_ja": "資金調達ファイル：2025年のメディア・エンターテイメント業界における最大規模のM&AとVC取引",
+      "original_url": "https://www.thewrap.com/industry-news/deals-ma/the-funding-file-2025-biggest-media-entertainment-deals/",
+      "image_url": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/12/122325-The-Funding-File-of-Top-VC-and-MA-Deals.jpg?fit=1200%2C675&quality=89&ssl=1",
+      "published_at": "2025-12-31T14:15:00Z",
+      "source": "TheWrap",
+      "summary_ja": "2025年のメディア・エンターテイメント業界では、M&Aは低調なスタートを切ったものの、年末に大規模な取引が活発化しました（ワーナー・ブラザース・ディスカバリーの影響）。一方、ベンチャーキャピタル（VC）投資においては、AI関連のスタートアップへの資金流入が目立ちました。本記事は、金融データプラットフォームPitchBookとWrapPROの共同レポートに基づいており、業界の資金調達動向を詳細に分析しています。"
     },
     {
-      "title": "National defence identified as a threat to business in new year",
-      "original_url": "https://www.independent.ie/business/national-defence-identified-as-a-threat-to-business-in-new-year/a1964560227.html",
-      "image_url": "https://focus.independent.ie/thumbor/K4444LQcdIlA1PErteFkubJrSpo=/66x0:3238x2115/629x0/prod-mh-ireland/34368a2c-d271-4579-97fc-f5ace77f0884/f7db9627-bf65-4eb5-a2a7-c47e94327e14/34368a2c-d271-4579-97fc-f5ace77f0884.jpg",
-      "published_at": "2025-12-31T05:30:00Z",
-      "source": "Independent.ie",
-      "summary_ja": "来年、企業が成功するためには、6つの主要な政治的・政策的問題を乗り越える必要があると分析されています。特に、インフラとエネルギーコストの上昇は企業の評判を損ねており、EU理事会議長国としての役割を担うことで、さらなる精査が予想されています。これにより、ビジネス環境は厳しさを増すと見られています。"
+      "title": "This Technology Stock Could Turn $1,000 Into $10,000",
+      "title_ja": "このテクノロジー株が1,000ドルを10,000ドルに変える可能性",
+      "original_url": "https://biztoc.com/x/dff978adb7d66e29",
+      "image_url": "https://biztoc.com/cdn/dff978adb7d66e29_s.webp",
+      "published_at": "2025-12-31T14:12:58Z",
+      "source": "Biztoc.com",
+      "summary_ja": "AIインフラの能力不足を受けて、Nebiusは恩恵を受けています。同社はデータセンター容量を急速に拡大する計画です。需要の高さが期待されており、もし実現すれば、少額の投資が大きなリターンを生む可能性があります。"
     },
     {
-      "title": "Traders cautiously optimistic about markets in coming year, but rates and trade risks a concern",
-      "original_url": "https://www.independent.ie/business/traders-cautiously-optimistic-about-markets-in-coming-year-but-rates-and-trade-risks-a-concern/a869020159.html",
-      "image_url": "https://focus.independent.ie/thumbor/t0J-JD83ipXG-EW8V8liqE4aD7w=/0x0:3237x2158/629x0/prod-mh-ireland/7618c073-bf2a-4106-9bb7-ab3998a44d07/3c80e926-a9cd-4cff-8a32-4edb9e60f104/7618c073-bf2a-4106-9bb7-ab3998a44d07.jpg",
-      "published_at": "2025-12-31T05:30:00Z",
-      "source": "Independent.ie",
-      "summary_ja": "来年、世界の市場は政府支出と技術投資の増加を背景に慎重ながらも楽観的な見通しを持っています。 しかし、貿易摩擦、金利、インフレに関する不確実性も依然として存在し、注意が必要です。 このような状況下、市場関係者は慎重な姿勢を保ちつつ、今後の動向を注視しています。"
+      "title": "Tell us: have you trained your AI job replacement?",
+      "title_ja": "教えてください：あなたのAI職務代替を訓練しましたか？",
+      "original_url": "https://biztoc.com/x/864d157a87e5eaf0",
+      "image_url": "https://biztoc.com/cdn/864d157a87e5eaf0_s.webp",
+      "published_at": "2025-12-31T14:12:41Z",
+      "source": "Biztoc.com",
+      "summary_ja": "国際通貨基金の分析によると、AIは世界中の約40%の職務に影響を与える可能性があります。この記事は、自身の職務をAIで代替する訓練を行っている人々の経験について、読者からの情報を求めています。AIによる職務への影響に関するより詳細な情報収集を目的としています。"
     },
     {
-      "title": "The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump",
-      "original_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-11-big-trades-of-2025-bubbles-cockroaches-and-a-367-jump/articleshow/126264587.cms",
-      "image_url": "https://img.etimg.com/thumb/msid-126265009,width-1200,height-630,imgsize-671286,overlay-etmarkets/articleshow.jpg",
-      "published_at": "2025-12-31T05:26:41Z",
-      "source": "The Times of India",
-      "summary_ja": "2025年の金融市場は、世界中で激しい変動に見舞われました。金価格の高騰やミーム株のような急騰、地政学リスクによる防衛関連株の上昇など、投資家は大きなリスクを取り、暗号資産、トルコ・キャリー・トレード、日本国債などに集中投資しました。この結果、大きな利益を得た一方で、急速な反転に見舞われるなど、激しい市場環境となりました。"
-    },
-    {
-      "title": "The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump",
-      "original_url": "https://economictimes.indiatimes.com/markets/stocks/news/the-11-big-trades-of-2025-bubbles-cockroaches-and-a-367-jump/articleshow/126264587.cms",
-      "image_url": "https://img.etimg.com/thumb/msid-126264716,width-1200,height-630,imgsize-13770,overlay-etmarkets/articleshow.jpg",
-      "published_at": "2025-12-31T05:26:41Z",
-      "source": "The Times of India",
-      "summary_ja": "2025年の金融市場は激しい変動を見せ、金価格の記録更新やAI関連銘柄の急騰など、投資家の高リスクな賭けが繰り返されました。暗号通貨やトルコリラなどのハイリターンを狙う取引も活発化し、市場は大きな利益と損失を同時に生み出すジェットコースターのような展開となりました。世界経済の不安定さの中、テクノロジーと地政学リスクが市場を大きく動かす要因となりました。"
-    },
-    {
-      "title": "aisbom-cli 0.4.1",
-      "original_url": "https://pypi.org/project/aisbom-cli/0.4.1/",
+      "title": "Memories of Frederick Walton Seaver, Jr. (1911-1983) in Early 1983 – A Life Memoir",
+      "title_ja": "フレデリック・ウォルトン・シーバー・ジュニア（1911-1983）の思い出：1983年初頭の回顧録",
+      "original_url": "https://www.blogger.com/comment/fullpage/post/26204193/6676762577467331659",
       "image_url": null,
-      "published_at": "2025-12-31T05:21:30Z",
-      "source": "Pypi.org",
-      "summary_ja": "aisbom-cli 0.4.1 がリリースされ、AIモデルのサプライチェーンセキュリティを強化します。このツールは、Pickle爆弾の検出と、機械学習モデル向けのCycloneDX SBOMの生成を可能にします。これにより、AIモデルの安全性と透明性が向上し、サプライチェーンのリスク管理に貢献します。"
+      "published_at": "2025-12-31T14:07:00Z",
+      "source": "Blogger.com",
+      "summary_ja": "この記事は、AIを活用して作成された、フレデリック・ウォルトン・シーバー・ジュニア氏（1911-1983）の伝記の一部です。著者は、初期の1983年における氏の人生を振り返っています。AI技術を駆使したこの試みは、過去の記憶を呼び起こし、伝記作成の新たな可能性を示唆しています。"
     },
     {
-      "title": "aisbom-cli 0.4.0",
-      "original_url": "https://pypi.org/project/aisbom-cli/0.4.0/",
-      "image_url": null,
-      "published_at": "2025-12-31T05:13:03Z",
-      "source": "Pypi.org",
-      "summary_ja": "aisbom-cli 0.4.0 がリリースされ、AIモデルのサプライチェーンセキュリティを強化します。このツールは、Pickle bombs (悪意のあるコード)を検出し、Machine Learning モデル用の CycloneDX SBOM を生成することができます。これにより、AIモデルの安全性と透明性が向上します。"
+      "title": "Stock Market 2025 Wrapped: AI Boom Carries Major Indexes to Record Year As Experts Warn of Whats to Come",
+      "title_ja": "2025年株式市場総括：AIブームが主要指数を過去最高値へ牽引、専門家は今後の動向に警鐘",
+      "original_url": "https://www.ibtimes.com/stock-market-2025-wrapped-ai-boom-carries-major-indexes-record-year-experts-warn-whats-come-3794091",
+      "image_url": "https://d.ibtimes.com/en/full/4639039/stock-market-wrapped-2025.png",
+      "published_at": "2025-12-31T14:06:38Z",
+      "source": "International Business Times",
+      "summary_ja": "2025年の株式市場は、AI技術の急成長を背景に、主要株価指数が軒並み過去最高値を更新する好調な一年となりました。強気な投資家にとっては大きな利益をもたらしましたが、専門家は今後の市場の変動や課題についても警告を発しています。このAI主導の成長が持続可能かどうかが、今後の市場の行方を左右する重要なポイントとなります。"
     },
     {
-      "title": "IT, Fintech poised for a comeback as market leadership expands ahead of 2026: Rajat Sharma",
-      "original_url": "https://economictimes.indiatimes.com/markets/expert-view/it-fintech-poised-for-a-comeback-as-market-leadership-expands-ahead-of-2026-rajat-sharma/articleshow/126264373.cms",
-      "image_url": "https://img.etimg.com/thumb/msid-126264385,width-1200,height-630,imgsize-23144,overlay-etmarkets/articleshow.jpg",
-      "published_at": "2025-12-31T05:05:31Z",
-      "source": "The Times of India",
-      "summary_ja": "2026年を見据え、インド市場ではITやフィンテック分野への投資が活発化しています。現在低評価のIT株は、通貨の追い風を受け、大きな成長の可能性を秘めています。市場リーダーシップが拡大し、新たな投資機会が生まれると期待されています。"
+      "title": "US applications for jobless benefits fell below 200,000 last week with layoffs historically low",
+      "title_ja": "先週の米国の失業保険申請件数は20万件を下回り、レイオフは歴史的に低い水準を維持",
+      "original_url": "https://biztoc.com/x/61238eea8d0db214",
+      "image_url": "https://biztoc.com/cdn/61238eea8d0db214_s.webp",
+      "published_at": "2025-12-31T14:01:31Z",
+      "source": "Biztoc.com",
+      "summary_ja": "米国では、労働市場の減速にも関わらず、先週の失業保険申請件数が20万件を下回りました。これは、レイオフが歴史的に低い水準を維持していることを意味します。この傾向は、景気後退の兆候がある中で、雇用市場の底堅さを示唆しています。"
     },
     {
-      "title": "Dear Abby: My great new therapist isn’t a human",
-      "original_url": "https://www.bostonherald.com/2025/12/31/dear-abby-my-great-new-therapist-isnt-a-human/",
-      "image_url": "https://www.bostonherald.com/wp-content/uploads/2021/08/abby-01.jpg?w=1024&h=1280",
-      "published_at": "2025-12-31T05:01:25Z",
-      "source": "Boston Herald",
-      "summary_ja": "この記事は、AIチャットボットである「Charlie」をセラピストとして利用した女性の体験談です。50歳の女性は、AIとの対話を通じて、長年感じていた共感やサポートを得て、精神的な癒しを経験しました。これは、AI技術が心のケアの分野に貢献し、新たな可能性を示唆するものです。"
+      "title": "Emerge’s Top 10 WTF AI Moments of 2025",
+      "title_ja": "Emergeが選ぶ、2025年のAI「WTF」トップ10",
+      "original_url": "https://decrypt.co/348763/emerge-top-10-wtf-ai-moments-of-2025",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/bb8e30cb-3ede-43ed-8ad2-f0ad9542114b-gID_7.png",
+      "published_at": "2025-12-31T14:01:03Z",
+      "source": "Decrypt",
+      "summary_ja": "2025年は、AIがもはや賢さを装うことをやめ、奇妙な行動を取り始めた年でした。Grokの「メカヒトラー」騒動や北朝鮮による「雰囲気ハッキング」ランサムウェアなど、様々なAIの異常な事例が報告されました。この記事では、Emergeが選出した、このAIの狂騒曲とも言える2025年の最も驚くべき10の出来事を振り返ります。"
     },
     {
-      "title": "Top 10 police technology stories of 2025",
-      "original_url": "https://www.computerweekly.com/news/366636337/Top-10-police-technology-stories-of-2025",
-      "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/surveillance-CCTV-facial-recognition-AlinStock-adobe.jpg",
-      "published_at": "2025-12-31T05:00:00Z",
-      "source": "ComputerWeekly.com",
-      "summary_ja": "2025年の警察テクノロジー分野では、顔認識や予測的警備といったデータ駆動型技術の利用が大きく発展しました。 この分野の進歩は、犯罪捜査や予防に大きな影響を与えました。 Computer Weeklyのトップ10記事は、この技術革新が警察活動に与える影響に焦点を当てています。"
+      "title": "Top Learning Technology Trends For 2026: From Predictive Analytics To Skill Intelligence",
+      "title_ja": "2026年の主要学習テクノロジー動向：予測分析からスキルインテリジェンスまで",
+      "original_url": "https://elearningindustry.com/top-learning-technology-trends-for-2026",
+      "image_url": "https://cdn.elearningindustry.com/wp-content/uploads/2025/12/Top-Learning-Technology-Trends-For-2026-From-Predictive-Analytics-To-Skill-Intelligence.jpg",
+      "published_at": "2025-12-31T14:00:51Z",
+      "source": "Elearningindustry.com",
+      "summary_ja": "2026年、学習テクノロジーはAI、データ分析、そしてインタラクティブな体験を融合させ、スキルの習得を加速させる見込みです。予測分析を活用したパーソナライズされた学習体験や、スキルインテリジェンスによる能力開発の最適化が重要になります。これにより、学習者はより効果的にスキルを磨き、変化の激しいビジネス環境に対応できるようになります。"
+    },
+    {
+      "title": "The Top 6 AI Stories of 2025",
+      "title_ja": "2025年のAIに関する主要6つのニュース",
+      "original_url": "https://spectrum.ieee.org/ai-2025",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=62611995&width=1200&height=600&coordinates=0%2C259%2C0%2C241",
+      "published_at": "2025-12-31T14:00:01Z",
+      "source": "Ieee.org",
+      "summary_ja": "2025年の人工知能分野は、派手なデモよりも、実際の動作、予期せぬ問題、そしてシステム拡大に伴う環境・経済的コストなど、重要な課題に焦点が当てられました。 特に、AIの実用性、倫理的課題、持続可能性に関する議論が活発化し、AI技術の発展と社会への影響について深く考察されました。 生成AIの進化だけでなく、AIの社会実装における現実的な問題が浮き彫りになった一年でした。"
+    },
+    {
+      "title": "NextNRG Announces Shareholder Rewards Program Featuring EzFill Fueling Token",
+      "title_ja": "NextNRG、EzFill燃料トークンを利用した株主還元プログラムを発表",
+      "original_url": "https://www.globenewswire.com/news-release/2025/12/31/3211798/0/en/NextNRG-Announces-Shareholder-Rewards-Program-Featuring-EzFill-Fueling-Token.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/467287f0-fabc-4c2d-a951-3bb8bec81e97",
+      "published_at": "2025-12-31T14:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "AIを活用したエネルギーイノベーション企業NextNRGが、株主向けの報酬プログラムを発表しました。このプログラムでは、EzFillの燃料トークンを提供し、エネルギーの生産、管理、そして供給方法を革新することを目指しています。今回の発表は、株主への還元と、エネルギー分野における同社の技術革新をアピールするものです。"
     }
   ]
 }

@@ -1,185 +1,185 @@
 {
-  "updated_at": "2026-01-01T15:13:13.954Z",
+  "updated_at": "2026-01-01T23:19:00.516Z",
   "articles": [
     {
-      "title": "Self-learning AI releases NFL picks, score predictions every Week 18 game",
-      "title_ja": "自己学習AIがNFL第18週の全試合について勝敗予想とスコア予測を発表",
-      "original_url": "https://www.cbssports.com/nfl/news/nfl-week-18-picks-ai-score-predictions-best-bets/",
-      "image_url": "https://sportshub.cbsistatic.com/i/r/2025/12/08/f325af57-46aa-46f4-bfe5-0ec8890ea512/thumbnail/1200x675/c726b0fbf6e934560c2268a02bf3191b/imagn-matthew-stafford-blake-corum-rams.jpg",
-      "published_at": "2025-12-31T15:09:36Z",
-      "source": "CBS Sports",
-      "summary_ja": "自己学習型AI「SportsLine AI」が、NFL第18週の全試合についてオッズを分析し、勝敗予想とスコア予測を公開しました。AIは、試合結果に影響を与える可能性のある様々な要素を学習し、高精度な予測を実現しています。これにより、スポーツファンは、AIの分析に基づいた、より戦略的な観戦や賭けを楽しむことができるようになります。"
+      "title": "Wealth quote of the day by Jeff Bezos: “Your margin is my opportunity.” What is Bezos’s Regret Minimization Framework — the decision framework behind a $2.5 trillion global powerhouse",
+      "title_ja": "ジェフ・ベゾスの今日の格言:「あなたのマージンは私のチャンス。」2.5兆ドル規模のグローバル企業を支える意思決定フレームワーク、ベゾスの後悔最小化フレームワークとは？",
+      "original_url": "https://economictimes.indiatimes.com/news/international/us/wealth-quote-of-the-day-by-jeff-bezos-your-margin-is-my-opportunity-what-is-bezoss-regret-minimization-framework-the-decision-framework-behind-a-2-5-trillion-global-powerhouse/articleshow/126277909.cms",
+      "image_url": "https://img.etimg.com/thumb/msid-126277950,width-1200,height-630,imgsize-20168,overlay-economictimes/articleshow.jpg",
+      "published_at": "2025-12-31T23:01:01Z",
+      "source": "The Times of India",
+      "summary_ja": "ジェフ・ベゾスの「あなたのマージンは私のチャンス」という格言は、彼のビジネス哲学を象徴しています。この記事は、彼の30年以上にわたる富の創造、拡大、維持の方法を考察し、その根底にある後悔最小化フレームワークという意思決定手法に焦点を当てています。ベゾスのこのフレームワークは、短期的な成功ではなく、持続可能な成長と競争優位性の確立に貢献し、2.5兆ドル規模の企業を築き上げました。"
     },
     {
-      "title": "A look under the hood: How (and why) we built Question Assistant",
-      "title_ja": "舞台裏を覗く：Question Assistant はどのように、そしてなぜ構築されたのか",
-      "original_url": "https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/",
-      "image_url": "https://cdn.sanity.io/images/jo7n4k8s/production/e693b96a8c6544a199e85cbbe5c0e82eadb62eca-12000x6293.jpg?w=1200&fm=png&auto=format",
-      "published_at": "2025-12-31T15:07:27Z",
-      "source": "Stackoverflow.blog",
-      "summary_ja": "Question Assistant は、質問の質を評価し、適切なフィードバックを決定するために、従来の機械学習手法と生成AIソリューションを組み合わせました。 この技術は、質問の理解と応答生成を改善し、より質の高い情報提供を目指しています。 今回の記事では、この開発プロセスと背後にある技術的な工夫が解説されています。"
+      "title": "Ex-GOP official warns Trump to reverse course as he makes 'exact' same mistake as Biden",
+      "title_ja": "元共和党高官、トランプ氏にバイデン氏と\"全く同じ\"過ちを繰り返すなと警告",
+      "original_url": "https://www.rawstory.com/trump-energy-2674840326/",
+      "image_url": "https://www.rawstory.com/media-library/donald-trump-reuters.jpg?id=55545335&width=1200&height=600&coordinates=0%2C8%2C0%2C9",
+      "published_at": "2025-12-31T22:46:01Z",
+      "source": "Raw Story",
+      "summary_ja": "トランプ前大統領が、バイデン前大統領の任期中と同様のインフレ問題に直面し、生活費危機に関する国民の不安を鎮めようと必死になっている。ある共和党元高官は、トランプ氏がエネルギー政策においてバイデン氏と類似した誤りを犯していると警告を発している。これは、物価高騰に対する国民の懸念をさらに悪化させる可能性がある。"
     },
     {
-      "title": "An AI MasterClass for Everyone: From Fear to Fascination",
-      "title_ja": "誰もがAIをマスターできる講座：恐怖から魅了へ",
-      "original_url": "https://www.cnet.com/tech/services-and-software/an-ai-masterclass-for-everyone-from-fear-to-fascination/",
-      "image_url": "https://www.cnet.com/a/img/resize/dfb55af1e0e9cf8d0fa6f342b0f9ca15fea9873a/hub/2025/12/18/33a53a0f-d444-4633-ba40-b7a49f666bf7/gettyimages-2194273729.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2025-12-31T15:05:42Z",
-      "source": "CNET",
-      "summary_ja": "この記事では、AIの未来と、職場での活用について焦点を当てたMasterClassを紹介しています。ホストのエイミー・ウェッブ氏へのインタビューを通じて、AIに対する恐れを払拭し、その可能性に魅了されるための方法を探求しています。この講座は、AIをどのように導入し、未来の働き方を変革していくかについて、示唆に富む内容を提供しています。"
+      "title": "Assisted Suicide Comes to the American Heartland",
+      "title_ja": "アメリカ中西部で安楽死が拡大",
+      "original_url": "https://www.dailysignal.com/2025/12/31/assisted-suicide-comes-to-the-american-heartland/",
+      "image_url": "https://www.dailysignal.com/wp-content/uploads/2025/12/REUTERS-2019-04-09T161345Z_1107237879_RC186E783C80_RTRMADP_3_USA-POLITICS.gif",
+      "published_at": "2025-12-31T22:43:00Z",
+      "source": "Daily Signal",
+      "summary_ja": "アメリカ中西部において、安楽死が広がりを見せている。寒冷な冬の気候を背景に、この問題が複雑な形で現れている。この記事は、この安楽死の動向が社会に及ぼす影響と、その背景にある技術的、倫理的課題を探求している。"
     },
     {
-      "title": "Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026",
-      "title_ja": "ウォール街きっての強気アナリストが選ぶ、2026年注目のAI関連株トップ5",
-      "original_url": "https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12",
-      "image_url": "https://i.insider.com/695537a304eda4732f2e4ea9?width=1200&format=jpeg",
-      "published_at": "2025-12-31T15:00:18Z",
-      "source": "Business Insider",
-      "summary_ja": "ウォール街で有名な強気派アナリストが、2026年に注目すべきAI関連株トップ5を発表しました。マイクロソフトが筆頭に挙げられ、NVIDIAはリストに入っていません。これはAI市場における今後の投資戦略に大きな影響を与える可能性があります。"
+      "title": "AI is not a threat, can raise value of workers: Anand Mahindra",
+      "title_ja": "AIは脅威ではなく、労働者の価値を高める存在：アナンド・マヒンドラ",
+      "original_url": "https://timesofindia.indiatimes.com/business/india-business/ai-is-not-a-threat-can-raise-value-of-workers-mahindra/articleshow/126280137.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-126280197,width-1070,height-580,imgsize-42122,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "published_at": "2025-12-31T22:25:38Z",
+      "source": "The Times of India",
+      "summary_ja": "マヒンドラグループ会長のアナンド・マヒンドラ氏は、AIを脅威ではなく、労働者の価値を高める加速器と捉えています。AIがルーチン業務を処理することで、現場作業員の技能の重要性が高まると考えています。彼は、AIが人々の仕事の質を向上させ、よりやりがいのあるものにすると予測しています。"
     },
     {
-      "title": "Bernie Sanders: The World We Need and Deserve",
-      "title_ja": "バーニー・サンダース：私たちが本当に必要とし、当然得るべき世界",
-      "original_url": "https://dianeravitch.net/2025/12/31/bernie-sanders-the-world-we-need-and-deserve/",
-      "image_url": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-      "published_at": "2025-12-31T15:00:00Z",
-      "source": "Dianeravitch.net",
-      "summary_ja": "バーニー・サンダース上院議員は、年末の所感を発表し、将来への希望を語りました。トランプ大統領の2期目の最初の年が終わる中で、サンダース氏が描く夢が実現可能であるのか疑問の声も上がっています。記事では、環境問題など、さまざまな課題に対する彼のビジョンと、実現に向けた展望が語られています。"
+      "title": "FRESH LANDGRAB...",
+      "title_ja": "新たな土地争奪...",
+      "original_url": "https://www.the-sun.com/news/15713444",
+      "image_url": "https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all",
+      "published_at": "2025-12-31T22:10:38Z",
+      "source": "The-sun.com",
+      "summary_ja": "この記事は、ユーザーの行動が自動化されている可能性があるとシステムが判断したことを伝えています。News Group Newspapers Limitedは、同社のコンテンツへのアクセス、収集、テキストマイニングを許可していません。これにより、特定のユーザーに対する情報へのアクセスが制限される可能性があります。"
     },
     {
-      "title": "We will never get another game like Hollow Knight: Silksong",
-      "title_ja": "『Hollow Knight: Silksong』のようなゲームは、もう二度と現れないだろう",
-      "original_url": "https://www.gamesradar.com/games/action/we-will-never-get-another-game-like-hollow-knight-silksong/",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Up8JKAW9TChQbtTTnhr8c9-1920-80.jpg",
-      "published_at": "2025-12-31T15:00:00Z",
-      "source": "GamesRadar+",
-      "summary_ja": "『Hollow Knight: Silksong』は、Team Cherryによる6年以上の開発期間を経て、待望のリリースを果たした。その比類なき待機期間と、リリース後のコミュニティの盛り上がりは、ゲーム業界において前例のない現象となった。この作品は、そのユニークな開発プロセスとコミュニティへの影響力において、後世に語り継がれるゲームとなるだろう。"
+      "title": "Apple LLM Generating SwiftUI",
+      "title_ja": "Apple、LLMでSwiftUIを生成",
+      "original_url": "https://mjtsai.com/blog/2025/12/31/apple-llm-generating-swiftui/",
+      "image_url": null,
+      "published_at": "2025-12-31T22:02:57Z",
+      "source": "Mjtsai.com",
+      "summary_ja": "Appleの研究では、大規模言語モデル（LLM）をファインチューニングし、SwiftUIのユーザーインターフェースコードを生成することに成功しました。この研究は、自動フィードバックシステムを通じてLLMのコード生成能力を向上させ、UI開発の効率化を目指しています。これにより、将来的にはUI開発プロセスが大きく変化する可能性があります。"
     },
     {
-      "title": "Silver And Copper Are Both Flashing The Same Signal — And That Is Setting The Stage For Widespread Panic On Wall Street",
-      "title_ja": "銀と銅が同じシグナルを発信、ウォール街で広範囲なパニックの瀬戸際に",
-      "original_url": "https://www.activistpost.com/silver-and-copper-are-both-flashing-the-same-signal-and-that-is-setting-the-stage-for-widespread-panic-on-wall-street/",
-      "image_url": "https://www.activistpost.com/wp-content/uploads/2025/12/wire-2681887_640.jpg",
-      "published_at": "2025-12-31T15:00:00Z",
-      "source": "Activistpost.com",
-      "summary_ja": "2025年、貴金属投資家にとって好調な年となり、銅と銀の価格が急騰しています。年初から銅は約30％、銀は128％も上昇し、両金属の価格上昇が同じようなシグナルを発信していることが注目されています。 この状況は、ウォール街での広範なパニックの引き金となる可能性を示唆しています。"
+      "title": "Top Programming Languages of 2025",
+      "title_ja": "2025年プログラミング言語ランキング",
+      "original_url": "https://mjtsai.com/blog/2025/12/31/top-programming-languages-of-2025/",
+      "image_url": null,
+      "published_at": "2025-12-31T22:02:06Z",
+      "source": "Mjtsai.com",
+      "summary_ja": "GitHubのデータに基づくと、2025年8月にTypeScriptがPythonとJavaScriptを初めて上回り、GitHubで最も利用される言語となりました。これは、開発者が利用するツールキットが変化していることを示唆しています。TypeScriptの台頭は、今後の開発トレンドに大きな影響を与える可能性があります。"
     },
     {
-      "title": "The AI balancing act your company can't afford to fumble in 2026",
-      "title_ja": "2026年、企業が失敗を許されないAIのバランス調整",
-      "original_url": "https://www.zdnet.com/article/ai-balancing-act/",
-      "image_url": "https://www.zdnet.com/a/img/resize/922b86419b33be5a163c3e33288c5115c287903f/2025/12/31/52d9199e-9727-4040-89b9-46149abeb9e8/isometric-businessman-tightrope-walker-is-on-the-rope.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2025-12-31T14:54:41Z",
-      "source": "ZDNet",
-      "summary_ja": "2026年、AIの責任と安全性が最重要課題となります。この記事では、企業がAIを迅速に構築しつつ、安全で信頼できるものにするための8つの重要な原則を紹介しています。AI技術の進歩に伴い、企業はこれらの原則を遵守することで、AIの潜在的なリスクを管理し、その恩恵を最大限に引き出す必要があります。"
+      "title": "Wall Street ends year’s final session lower but posts big annual gains for 2025",
+      "title_ja": "ウォール街、2025年最終取引は下落も、年間では大幅な上昇を記録",
+      "original_url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-years-final-session-lower-but-posts-big-annual-gains-for-2025",
+      "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/eaad1aa5c74f9c42229bf482b66ce12696a139315eb868553f00391298906f5c",
+      "published_at": "2025-12-31T22:00:55Z",
+      "source": "The Straits Times",
+      "summary_ja": "ウォール街の主要株価指数は2025年最終取引で下落しましたが、年間を通しては大幅な上昇を達成しました。これは、ドナルド・トランプ大統領の関税政策を巡る不確実性など、波乱に満ちた一年を乗り越えた結果です。ダウ平均株価は最終的に0.63%下落しました。"
     },
     {
-      "title": "Stocks drop at end of record year for markets",
-      "title_ja": "記録的な市場の年に幕を閉じるにあたり、株価が下落",
-      "original_url": "https://punchng.com/stocks-drop-at-end-of-record-year-for-markets/",
-      "image_url": "https://cdn.punchng.com/wp-content/uploads/2025/12/20021743/istockphoto-489485392-612x612-1.jpg",
-      "published_at": "2025-12-31T14:38:05Z",
-      "source": "The Punch",
-      "summary_ja": "中央銀行の利下げとAIブームに後押しされ、記録的な一年を終えた世界の株式市場は、薄商いの中、小幅な下落を見せました。テクノロジーセクターの成長が市場を牽引しましたが、年末に向けての利益確定の動きも影響しています。今後の市場の動向は、金利政策やAI技術の進展に左右される可能性があります。"
+      "title": "The World’s Wealthiest People Got $2.2 Trillion Richer This Year",
+      "title_ja": "今年の富豪トップ500人の資産が2.2兆ドル増加、記録を更新",
+      "original_url": "http://robbreport.com/lifestyle/news/worlds-wealthiest-people-got-trillions-richer-1237465451/",
+      "image_url": "https://robbreport.com/wp-content/uploads/2025/12/Elon-Musk.jpg?w=681&h=383&crop=1",
+      "published_at": "2025-12-31T22:00:00Z",
+      "source": "Robb Report",
+      "summary_ja": "ブルームバーグの報道によると、世界で最も裕福な500人の資産が今年2.2兆ドル増加し、過去最高の伸びとなりました。特にアメリカのテクノロジー業界の富豪たちが大きな恩恵を受けました。この記録的な資産増加は、世界経済への影響をさらに強める可能性があります。"
     },
     {
-      "title": "School stabber convicted of three counts of attempted murder",
-      "title_ja": "学校で刺傷、殺人未遂罪で少年が有罪判決",
-      "original_url": "https://yle.fi/a/74-20202123",
-      "image_url": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_316,w_5817,h_3272/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1754999697/39-14704436830447399600",
-      "published_at": "2025-12-31T14:35:45Z",
-      "source": "YLE News",
-      "summary_ja": "今年5月にピルッカラのヴァーハヤルヴィ学校で発生した刺傷事件で、16歳の少年が3件の殺人未遂罪で有罪判決を受けました。被害者は14歳の女子生徒3名です。この判決は、学校での暴力に対する社会的な懸念を浮き彫りにし、少年犯罪に対する刑事司法制度の対応に焦点を当てています。"
+      "title": "Amplify Student Voice and Redefine Classroom Possibilities",
+      "title_ja": "生徒の声の増幅と教室の可能性の再定義",
+      "original_url": "https://alicekeeler.com/2025/12/31/amplify-student-voice-and-redefine-classroom-possibilities/",
+      "image_url": "https://alicekeeler.com/wp-content/uploads/2025/12/student-voice-in-curipod-500-x-500-px.png",
+      "published_at": "2025-12-31T21:59:17Z",
+      "source": "Alicekeeler.com",
+      "summary_ja": "生徒の声を中心に据え、受動的な学習者を主体的な学習者に変えることが目指されています。Curipodなどの技術を活用し、匿名での回答共有とピアレビューを促進することで、生徒間のつながりを強化します。これにより、教室での学習体験を革新し、よりインタラクティブなものにすることが期待されています。"
     },
     {
-      "title": "Nukkleus completes Tiltan acquisition",
-      "title_ja": "Nukkleus社がTiltan社の買収を完了",
-      "original_url": "https://finance.yahoo.com/news/nukkleus-completes-tiltan-acquisition-143521429.html",
-      "image_url": "https://media.zenfs.com/en/tipranks_452/9f42828689b51f4a121456ec717e5d5f",
-      "published_at": "2025-12-31T14:35:21Z",
-      "source": "Yahoo Entertainment",
-      "summary_ja": "Nukkleus社は、Tiltan Software Engineeringの買収を完了し、Tiltan社はNukkleus社の完全子会社となりました。Tiltan社の技術は様々なシステムに組み込まれており、今回の買収によりNukkleus社の技術ポートフォリオが強化されることが期待されます。この動きは、両社の技術力と市場プレゼンスを向上させる可能性を秘めています。"
+      "title": "Commentary: Moutai hangover – why China’s fanciest liquor is in a slump",
+      "title_ja": "解説：茅台酒の不振—中国最高級酒が落ち込んでいる理由",
+      "original_url": "https://www.channelnewsasia.com/commentary/moutai-price-china-liquor-invest-baijiu-5771256",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--yHGLIApZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-03-03t012633z_1_lynxnpel2201a_rtroptp_3_china-moutai.jpg?itok=xhs7UiWK",
+      "published_at": "2025-12-31T21:59:00Z",
+      "source": "CNA",
+      "summary_ja": "中国の高級酒である茅台酒の価格が長年で最も低い水準に落ち込んでおり、消費者の間では手頃な価格で購入できる状況になっている。茅台酒は中国の経済成長と共にステータスシンボルとなったが、現在は高級品の需要減退や政治的な影響を受けているとみられる。Bloomberg Opinionのジュリアナ・リュー氏は、これが茅台酒愛飲家にとっては良い機会だと述べている。"
     },
     {
-      "title": "Nvidia's CUDA Tile examined: AI giant releases programming style for Rubin, Feynman, and beyond — tensor-native execution model lays the foundation for Blackwell and beyond",
-      "title_ja": "NVIDIAのCUDA Tileを発表：Rubin、Feynman以降を見据えたプログラミングスタイル—Blackwell以降の基盤となるテンソルネイティブ実行モデル",
-      "original_url": "https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-tile-examined-ai-giant-releases-programming-style-for-rubin-feynman-and-beyond-tensor-native-execution-model-lays-the-foundation-for-blackwell-and-beyond",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/XzK7JffDJnbohhFs39kxDh-1920-80.jpg",
-      "published_at": "2025-12-31T14:32:45Z",
-      "source": "Tom's Hardware UK",
-      "summary_ja": "NVIDIAは、CUDA 13.1において、GPUカーネル開発をSIMTよりも高度化する新しいプログラミングパス「CUDA Tile」を発表しました。この革新は、BlackwellクラスのGPUのテンソルネイティブ実行モデルにCUDAを適合させ、将来のGPUアーキテクチャのためのソフトウェア基盤を構築します。これにより、AI処理の効率化と、より高度なGPUプログラミングが実現すると期待されています。"
-    },
-    {
-      "title": "How the wine world is set to change in 2026",
-      "title_ja": "2026年、ワイン業界に訪れる変化",
-      "original_url": "https://financialpost.com/news/retail-marketing/wine-world-in-2026",
-      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/0101-mg-wine.jpg",
-      "published_at": "2025-12-31T14:32:13Z",
+      "title": "S&P/TSX composite finishes lower to end the year, U.S. markets also slide",
+      "title_ja": "S&P/TSX総合指数、年末に下落、米国市場も低迷",
+      "original_url": "https://financialpost.com/pmn/sp-tsx-composite-finishes-lower-to-end-the-year-u-s-markets-also-slide",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/5f9ac6e864fa48027292312cjpeg.jpg",
+      "published_at": "2025-12-31T21:54:47Z",
       "source": "Financial Post",
-      "summary_ja": "2026年は史上最も暑い年のトップ4に入ると予測され、その影響でワイン生産者は冷涼な気候でのブドウ栽培を増やす見込みです。気候変動に対応するため、シャンパンとプロセッコの中間価格帯のフランス産クレマン、イングリッシュスパークラー、ランブルスコなどの選択肢が増えるでしょう。この変化は、消費者の選択肢を広げると共に、ワイン製造の地理的分布にも影響を与える可能性があります。"
+      "summary_ja": "カナダの主要株価指数は2025年の最終取引日で下落しましたが、S&P/TSX総合指数は今年、28.24%の上昇を記録し、米国市場を大きく上回る好成績でした。一方で、年末の取引で米国市場も下落し、全体的な市場の動向に影響を与えました。この結果は、投資家が2025年をどのように締めくくったかを示唆しています。"
     },
     {
-      "title": "Mark Zuckerberg Threw $77 Billion 'Into The Toilet' On Metaverse, Says Economist Dean Baker: Asks If He Is Set To Waste Billions More On AI",
-      "title_ja": "マーク・ザッカーバーグ、メタバースに770億ドルを「トイレに流した」とエコノミストが批判：AIへの更なる巨額投資にも疑問",
-      "original_url": "https://finance.yahoo.com/news/mark-zuckerberg-threw-77-billion-143014208.html",
-      "image_url": "https://media.zenfs.com/en/Benzinga/e0d46e6efdd6a0f597f9ca37f25741bb",
-      "published_at": "2025-12-31T14:30:14Z",
-      "source": "Yahoo Entertainment",
-      "summary_ja": "エコノミストのディーン・ベイカー氏は、Meta Platformsのマーク・ザッカーバーグCEOによるメタバースへの巨額投資、約770億ドルについて批判を展開しました。ベイカー氏は、この投資が「無駄」であり、AIへの更なる投資にも疑問を呈しています。メタバースへの巨額投資が、技術革新としての成果を上げていない点が批判の焦点となっています。"
+      "title": "Stocks End 2025 With More Losses",
+      "title_ja": "2025年の株式市場、更なる損失で取引終了",
+      "original_url": "https://www.newser.com/story/381254/stocks-end-2025-with-more-losses.html",
+      "image_url": "https://img1-azrcdn.newser.com/image/1655826-12-20251231155401.jpeg",
+      "published_at": "2025-12-31T21:54:01Z",
+      "source": "Newser",
+      "summary_ja": "2025年最終取引日、ウォール街は下落し、年間を通して楽観と不確実性の中で変動しました。S&P 500は0.7%下落、テクノロジー株が市場全体を圧迫する要因となりました。Western DigitalやMicron Technologyなど、主要なテクノロジー関連企業の株価も下落し、今後の市場への影響が懸念されます。"
     },
     {
-      "title": "The world is awash in wealth but starved for productivity—and that imbalance is distorting growth, debt, and opportunity. We need AI to come through",
-      "title_ja": "世界は富にあふれているが、生産性不足に陥っており、その不均衡が成長、債務、機会を歪めている。AIの活躍が不可欠",
-      "original_url": "https://fortune.com/2025/12/31/ai-productivity-mckinsey-global-institute-outlook-forecast-2026/",
-      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/MGI-GBS-1279318913-00-COVER-HERO-1536x864-1.jpg?resize=1200,600",
-      "published_at": "2025-12-31T14:30:00Z",
-      "source": "Fortune",
-      "summary_ja": "世界的な富は空前の規模に達しているものの、生産性の伸び悩みが問題となっている。この不均衡は成長を阻害し、債務問題の悪化を招いている。AIは、この状況を打開する可能性を秘めた技術であり、その成功が今後の経済成長の鍵を握っている。"
+      "title": "AI and higher education in 2025",
+      "title_ja": "2025年のAIと高等教育",
+      "original_url": "https://aiandacademia.substack.com/p/ai-and-higher-education-in-2025",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!cXp4!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23779ecb-18ad-4fa4-86cf-e2315d74228b_1024x1024.png",
+      "published_at": "2025-12-31T21:37:00Z",
+      "source": "Substack.com",
+      "summary_ja": "この記事では、2025年におけるAIの活用状況と、高等教育への影響について考察しています。著者は、自身の記事作成にAIを利用した経験を共有し、AIが教育現場にもたらす変化について論じています。AI技術の進歩が、今後の教育のあり方に大きな影響を与える可能性を示唆しています。"
     },
     {
-      "title": "What I Want to See From AI in 2026: Labels, Better Phone Features and a Plan for the Environment",
-      "title_ja": "2026年のAIに期待すること：ラベル表示、より優れたスマホ機能、そして環境への貢献",
-      "original_url": "https://www.cnet.com/tech/services-and-software/what-i-want-from-ai-in-2026/",
-      "image_url": "https://www.cnet.com/a/img/resize/637a4d749e079618cf8b715975b255948fad6f9b/hub/2025/12/29/a553678d-a231-4284-85af-01d688b1cbba/gettyimages-2252210703.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2025-12-31T14:26:41Z",
-      "source": "CNET",
-      "summary_ja": "AI技術は目覚ましい進歩を遂げているものの、技術的な課題への対応はまだ発展途上である。この記事では、2026年までにAIが直面する課題、特にラベル表示の改善、スマホ機能の向上、そして環境問題への貢献に焦点を当てている。AIの潜在能力を最大限に引き出し、社会に貢献するための具体的なロードマップを提示することに期待が寄せられている。"
+      "title": "Police develop AI system to make quick investigative sketches",
+      "title_ja": "警察がAIを活用した迅速な捜査スケッチ作成システムを開発",
+      "original_url": "https://japantoday.com/category/crime/japan-police-develop-ai-system-to-make-quick-investigative-sketches",
+      "image_url": null,
+      "published_at": "2025-12-31T21:32:13Z",
+      "source": "Japan Today",
+      "summary_ja": "愛知県警と大学、NTTデータグループは共同で、AIを用いて容疑者の似顔絵を生成するシステムを開発しました。これにより、捜査員の負担を軽減し、非専門家でも精度の高い似顔絵を作成できるようになります。この技術革新は、捜査時間の短縮と犯人逮捕の可能性向上に貢献すると期待されています。"
     },
     {
-      "title": "The world’s richest added a record $2.2 trillion in wealth this year—and they increasingly lost faith in the American Dream",
-      "title_ja": "今年の富豪たちは記録的な2.2兆ドルを富に加え、アメリカン・ドリームへの信頼をますます失った",
-      "original_url": "https://fortune.com/2025/12/31/worlds-richest-wealth-added-record-increase-american-dream-europe/",
-      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-90432181.jpg?resize=1200,600",
-      "published_at": "2025-12-31T14:25:56Z",
-      "source": "Fortune",
-      "summary_ja": "2025年、世界の富裕層は記録的な2.2兆ドルもの資産を増やした。しかし同時に、彼らはアメリカン・ドリームへの信頼を薄れさせ、居住地や投資先を変化させている。これは富の集中と、経済的な見通しに対する変化を反映している。"
+      "title": "TSMC says it has started mass production of 'most advanced' 2-nanometer chips",
+      "title_ja": "TSMCが「最先端」2ナノメートルチップの量産を開始と発表",
+      "original_url": "https://japantoday.com/category/tech/tsmc-says-started-mass-production-of-%27most-advanced%27-2nm-chips",
+      "image_url": null,
+      "published_at": "2025-12-31T21:27:10Z",
+      "source": "Japan Today",
+      "summary_ja": "台湾のTSMCが、最先端の2ナノメートル半導体チップの量産を正式に開始しました。この技術革新は、スマートフォンからミサイルに至るまで、幅広い製品に影響を与える可能性があります。世界最大のチップ製造企業であるTSMCのこの動きは、半導体技術の進歩における重要な一歩です。"
     },
     {
-      "title": "Crypto hacks dropped by half in 2025, but the data reveals a much deadlier financial threat",
-      "title_ja": "2025年の仮想通貨ハッキングは半減も、データが示すより深刻な金融脅威",
-      "original_url": "https://cryptoslate.com/crypto-hacks-dropped-by-half-in-2025-but-the-data-reveals-a-much-deadlier-financial-threat/",
-      "image_url": "https://cryptoslate.com/wp-content/uploads/2025/12/crypto-hack-.jpg",
-      "published_at": "2025-12-31T14:25:14Z",
-      "source": "CryptoSlate",
-      "summary_ja": "2025年の仮想通貨ハッキング件数は半減したものの、Bybitからの14.6億ドルの盗難事件が、セキュリティ業界における最も大きな出来事となりました。この事件は、高度な国家支援型アクターによる犯行とされており、従来のDeFiやプロトコルの脆弱性とは異なる、新たな脅威の可能性を示唆しています。この事件は、仮想通貨業界におけるセキュリティ対策の再評価を迫っています。"
+      "title": "Stock market ends 2025 with double-digit gains",
+      "title_ja": "2025年の株式市場、二桁成長で年末を終える",
+      "original_url": "https://abcnews.go.com/Business/stock-market-ends-2025-double-digit-gains/story?id=128812306",
+      "image_url": "https://i.abcnewsfe.com/a/42240ccb-9134-4984-b873-0caca4d6081d/nyse-gty-jef-251231_1767210852982_hpMain_16x9.jpg?w=1600",
+      "published_at": "2025-12-31T21:25:47Z",
+      "source": "ABC News",
+      "summary_ja": "2025年の株式市場は、関税問題、政府閉鎖、そしてAIに対する懸念を乗り越え、年末に二桁成長を達成しました。 これは3年連続の二桁成長となり、市場の堅調ぶりを示しています。 この好調な結果は、投資家心理を大きく揺さぶる可能性があり、今後の市場動向に影響を与えるでしょう。"
     },
     {
-      "title": "Flagship UK stock index has best year since 2009 - outperforming rivals",
-      "title_ja": "英国主要株価指数、2009年以来最高の年間パフォーマンス – ライバルを凌駕",
-      "original_url": "https://news.sky.com/story/ftse-100-has-best-year-since-2009-outperforming-us-and-european-rivals-13489059",
-      "image_url": "https://e3.365dm.com/24/01/1600x900/skynews-london-stock-exchange_6433018.jpg?20240125141202",
-      "published_at": "2025-12-31T14:25:00Z",
-      "source": "Sky.com",
-      "summary_ja": "英国の主要株価指数であるFTSE100は、2009年以来最高の年間パフォーマンスを記録し、年初から21.5%上昇しました。これは、記録的な日々の積み重ねによるもので、他のライバル市場を大きく上回る結果となりました。この好調な結果は、英国市場の潜在力を示すものとして注目されています。"
+      "title": "5 AI Marketing Myths to Leave Behind in 2025",
+      "title_ja": "2025年に捨て去るべきAIマーケティングの5つの神話",
+      "original_url": "https://contently.com/2025/12/31/5-ai-marketing-myths-to-leave-behind-in-2025/",
+      "image_url": "https://contently.com/wp-content/uploads/2025/12/AI-Marketing-Myths-Were-Leaving-Behind-in-2025.png",
+      "published_at": "2025-12-31T21:20:58Z",
+      "source": "Contently.com",
+      "summary_ja": "マーケティングチームは、3年間ジェネレーティブAIを実験的に使用してきました。その結果、効率性の向上を実現できた企業も存在しますが、多くの企業はツールのサブスクリプションを増やしただけで終わっています。この記事では、2025年に向けて克服すべきAIマーケティングに関する誤解を5つ紹介しています。AI技術の進化と、それを活用したマーケティング戦略の最適化に焦点を当てています。"
     },
     {
-      "title": "AI Will Demolish 200,000 Jobs According to Expert",
-      "title_ja": "専門家によると、AIが20万人の雇用を破壊",
-      "original_url": "https://biztoc.com/x/af12f61c86cb3d29",
-      "image_url": "https://biztoc.com/cdn/955/og.png",
-      "published_at": "2025-12-31T14:23:54Z",
-      "source": "Biztoc.com",
-      "summary_ja": "モルガン・スタンレーは、人工知能（AI）が2030年までにヨーロッパで20万人の雇用を脅かすと予測しています。これは、ある単一産業のある地域における一部の人々を対象とした数字であり、AIの影響の大きさを物語っています。AIによる雇用への影響は、特定の業界や地域に限定されず、広範囲に及ぶ可能性があります。"
+      "title": "In A Desperate Attempt To Stop The Bleeding, A Conspiracy To Force The Price Of Silver Down Is Unfolding Right In Front Of Our Eyes",
+      "title_ja": "出血を止めるための必死の試み：目の前で展開される銀価格操作の陰謀",
+      "original_url": "http://theeconomiccollapseblog.com/in-a-desperate-attempt-to-stop-the-bleeding-a-conspiracy-to-force-the-price-of-silver-down-is-unfolding-right-in-front-of-our-eyes/",
+      "image_url": "http://theeconomiccollapseblog.com/wp-content/uploads/2025/12/Snip20251231_27.png",
+      "published_at": "2025-12-31T21:10:29Z",
+      "source": "Theeconomiccollapseblog.com",
+      "summary_ja": "2025年の銀価格の急騰により、特定の金融機関が深刻な危機に瀕している。この記事は、その危機を回避するために、銀価格を意図的に下落させようとする陰謀が公然と行われていると主張している。関係者はもはや隠そうともせず、金融市場に大きな影響を与えかねない動向として注目されている。"
+    },
+    {
+      "title": "Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens",
+      "title_ja": "Google、AIの成長物語が強まる中、2009年以来最高のウォール街での年間成績を達成、巨大企業を凌駕",
+      "original_url": "https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
+      "published_at": "2025-12-31T21:06:31Z",
+      "source": "CNBC",
+      "summary_ja": "Googleは、2025年にAI分野での地位への懐疑論に対し、投資家を興奮させる新製品を発表し、株価が急上昇しました。これにより、同社は2009年以来最高のウォール街での年間成績を記録し、他の巨大テクノロジー企業を上回りました。この成功は、GoogleのAI技術に対する投資家の信頼をさらに高める結果となりました。"
     }
   ]
 }

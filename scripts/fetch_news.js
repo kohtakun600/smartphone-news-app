@@ -120,7 +120,13 @@ async function processNews() {
     }
 
     // Save Data
-    const today = new Date().toISOString().split('T')[0];
+    // Get JST date explicitly
+    const today = new Intl.DateTimeFormat('ja-JP', {
+        timeZone: 'Asia/Tokyo',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit'
+    }).format(new Date()).replace(/\//g, '-'); // "2026/01/03" -> "2026-01-03"
     const outputData = {
         updated_at: new Date().toISOString(),
         articles: processedArticles

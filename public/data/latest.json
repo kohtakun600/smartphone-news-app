@@ -1,185 +1,185 @@
 {
-  "updated_at": "2026-01-28T22:54:42.115Z",
+  "updated_at": "2026-01-29T10:54:54.127Z",
   "articles": [
     {
-      "title": "cog 0.16.10",
-      "title_ja": "cog 0.16.10",
-      "original_url": "https://pypi.org/project/cog/0.16.10/",
-      "image_url": null,
-      "published_at": "2026-01-27T22:53:31Z",
-      "source": "Pypi.org",
-      "summary_ja": "Containers for machine learning"
-    },
-    {
-      "title": "mlx 0.30.4",
-      "title_ja": "mlx 0.30.4",
-      "original_url": "https://pypi.org/project/mlx/0.30.4/",
-      "image_url": null,
-      "published_at": "2026-01-27T22:53:02Z",
-      "source": "Pypi.org",
-      "summary_ja": "A framework for machine learning on Apple silicon."
-    },
-    {
-      "title": "'Doomsday Clock' ticks 4 seconds closer to midnight as unregulated AI and 'mirror life' threaten humanity",
-      "title_ja": "'Doomsday Clock' ticks 4 seconds closer to midnight as unregulated AI and 'mirror life' threaten humanity",
-      "original_url": "https://www.livescience.com/planet-earth/doomsday-clock-ticks-4-seconds-closer-to-midnight-as-unregulated-ai-and-mirror-life-threaten-humanity",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Wotx2JnGVacWgECwuiLNqZ-1899-80.jpg",
-      "published_at": "2026-01-27T22:44:34Z",
-      "source": "Live Science",
-      "summary_ja": "The Bulletin of the Atomic Scientists now says humanity is a metaphorical 85 seconds to global disaster."
-    },
-    {
-      "title": "The Doomsday Clock Jumps Closer to Midnight. AI Is a Big Reason Why",
-      "title_ja": "The Doomsday Clock Jumps Closer to Midnight. AI Is a Big Reason Why",
-      "original_url": "https://www.cnet.com/tech/services-and-software/the-doomsday-clock-jumps-closer-to-midnight-ai-is-a-big-reason-why/",
-      "image_url": "https://www.cnet.com/a/img/resize/e04dea9310087520fca752e0cf31f24baa1a1ee6/hub/2025/09/26/2893ec86-2d86-4545-98b0-65786bc6ffc6/ai-cnet-2.png?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-01-27T22:44:26Z",
-      "source": "CNET",
-      "summary_ja": "It's not because of runaway robots. It's because we've lost a \"shared reality.\""
-    },
-    {
-      "title": "Commvault shares hit two-year low after below-expectation revenue outlook",
-      "title_ja": "Commvault shares hit two-year low after below-expectation revenue outlook",
-      "original_url": "https://siliconangle.com/2026/01/27/commvault-shares-hit-two-year-low-expectation-revenue-outlook/",
-      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/commvault.png",
-      "published_at": "2026-01-27T22:40:24Z",
-      "source": "SiliconANGLE News",
-      "summary_ja": "Shares in Commvault Systems Inc. dropped more than 30% in regular trading today after the data protection provided a revenue outlook below expectations alongside otherwise strong fiscal 2026 third ..."
-    },
-    {
-      "title": "Spendify lifetime subscription helps track your finances with AI for $30 (Reg. $180)",
-      "title_ja": "Spendify lifetime subscription helps track your finances with AI for $30 (Reg. $180)",
-      "original_url": "http://9to5toys.com/2026/01/27/spendify-lifetime-subscription-helps-track-your-finances-with-ai-for-30-reg-180/",
-      "image_url": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/01/Spendify.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-01-27T22:40:07Z",
-      "source": "9to5Toys",
-      "summary_ja": "If you’re still tracking expenses in spreadsheets or trying to manually categorize every transaction, here’s a better way. Get Spendify for just $29.99 (Reg. $180) at 9to5Toys Specials, and let AI ..."
-    },
-    {
-      "title": "Sick new torture of Putin's troops...",
-      "title_ja": "Sick new torture of Putin's troops...",
-      "original_url": "https://www.the-sun.com/news/15844195",
-      "image_url": "https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all",
-      "published_at": "2026-01-27T22:16:37Z",
-      "source": "The-sun.com",
-      "summary_ja": "Sick new torture of Putin's troops...\r\n\n \n \n \n (Third column, 7th story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron"
-    },
-    {
-      "title": "Future of Saudi's $2 trillion megacity hangs by thread...",
-      "title_ja": "Future of Saudi's $2 trillion megacity hangs by thread...",
-      "original_url": "https://www.the-sun.com/news/15839140",
-      "image_url": "https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all",
-      "published_at": "2026-01-27T22:16:37Z",
-      "source": "The-sun.com",
-      "summary_ja": "Future of Saudi's $2 trillion megacity hangs by thread...\r\n\n \n \n \n (Third column, 6th story, link)"
-    },
-    {
-      "title": "Computing Cosine Similarity Between Two Vectors in Java",
-      "title_ja": "Computing Cosine Similarity Between Two Vectors in Java",
-      "original_url": "https://www.javacodegeeks.com/computing-cosine-similarity-between-two-vectors-in-java.html",
-      "image_url": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/java-logo.jpg",
-      "published_at": "2026-01-27T22:12:18Z",
-      "source": "Javacodegeeks.com",
-      "summary_ja": "Cosine similarity is a common metric used to measure how similar two vectors are, based on the angle between them rather than their absolute magnitude. It is widely used in information retrieval, r..."
-    },
-    {
-      "title": "Tesla Investors Are Eager to Hear Elon Musk Talk About Everything But EVs",
-      "title_ja": "Tesla Investors Are Eager to Hear Elon Musk Talk About Everything But EVs",
-      "original_url": "https://observer.com/2026/01/tesla-earning-investor-questions/",
-      "image_url": "https://observer.com/wp-content/uploads/sites/2/2026/01/GettyImages-2256975235.jpg?quality=80",
-      "published_at": "2026-01-27T22:11:03Z",
-      "source": "Observer",
-      "summary_ja": "As Tesla reports quarterly earnings, investors are focused less on cars and more on Musk’s robots and rockets."
-    },
-    {
-      "title": "Year recap and future goals for the GitHub Innovation Graph",
-      "title_ja": "Year recap and future goals for the GitHub Innovation Graph",
-      "original_url": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
-      "image_url": "https://github.blog/wp-content/uploads/2025/01/innovation_graph_1.png?fit=2400%2C1260",
-      "published_at": "2026-01-27T22:09:35Z",
-      "source": "Github.blog",
-      "summary_ja": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025.\nThe post Year recap and future goals for the GitHub In..."
-    },
-    {
-      "title": "Why America Needs One Rulebook for AI",
-      "title_ja": "Why America Needs One Rulebook for AI",
-      "original_url": "https://www.dailysignal.com/2026/01/27/why-america-needs-one-rulebook-for-ai/",
-      "image_url": "https://www.dailysignal.com/wp-content/uploads/2026/01/260127_AI.jpeg",
-      "published_at": "2026-01-27T22:06:00Z",
-      "source": "Daily Signal",
-      "summary_ja": "In the years ahead, artificial intelligence has the potential to transform how we work, learn, communicate, travel, and live. In Tennessee and across America, we... Read More\nThe post Why America N..."
-    },
-    {
-      "title": "Seagate forecasts quarterly results above estimates on strong data storage demand",
-      "title_ja": "Seagate forecasts quarterly results above estimates on strong data storage demand",
-      "original_url": "https://www.channelnewsasia.com/business/seagate-forecasts-quarterly-results-above-estimates-strong-data-storage-demand-5889606",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--LN-ZVZoV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-27T220741Z_1_LYNXMPEM0Q1I1_RTROPTP_3_BRITAIN-NIRELAND-SEAGATETECH.JPG?itok=Z5QWCj9e",
-      "published_at": "2026-01-27T22:03:03Z",
-      "source": "CNA",
-      "summary_ja": "Jan 27 : Seagate Technology forecast third-quarter revenue and profit above Wall Street expectations on Tuesday, benefiting from strong demand for its data storage devices as enterprises scale up t..."
-    },
-    {
-      "title": "Apple Watch Hypertension Notifications Now Available in Seven Additional Countries",
-      "title_ja": "Apple Watch Hypertension Notifications Now Available in Seven Additional Countries",
-      "original_url": "https://www.mactrast.com/2026/01/apple-watch-hypertension-notifications-now-available-in-seven-additional-countries/",
-      "image_url": "https://www.mactrast.com/wp-content/uploads/2025/09/Apple-Watch-Ultra-3-hypertension-notification-500x300.jpg",
-      "published_at": "2026-01-27T22:00:36Z",
-      "source": "Mactrast.com",
-      "summary_ja": "Apple today announced that hypertension notifications are now available for Apple Watch and iPhone users in Australia, Malaysia, Colombia, Indonesia, South Korea, Brazil, and Turkey.Read More..."
-    },
-    {
-      "title": "First Busey Corporation Announces 2025 Fourth Quarter Earnings",
-      "title_ja": "First Busey Corporation Announces 2025 Fourth Quarter Earnings",
-      "original_url": "https://www.globenewswire.com/news-release/2026/01/27/3227120/10701/en/First-Busey-Corporation-Announces-2025-Fourth-Quarter-Earnings.html",
-      "image_url": "https://ml.globenewswire.com/Resource/Download/381370a6-8032-4d22-94e2-91d3910e95d9",
-      "published_at": "2026-01-27T22:00:00Z",
-      "source": "GlobeNewswire",
-      "summary_ja": "LEAWOOD, Kan., Jan.  27, 2026  (GLOBE NEWSWIRE) -- First Busey Corporation (Nasdaq: BUSE) Announces 2025 Fourth Quarter Earnings. Net Income Diluted..."
-    },
-    {
-      "title": "Hoffenheim win again and keep perfect 2026 record, watch ",
-      "title_ja": "Hoffenheim win again and keep perfect 2026 record, watch ",
-      "original_url": "https://onefootball.com/en/news/hoffenheim-win-again-and-keep-perfect-2026-record-watch-42314252",
-      "image_url": "https://s.yimg.com/os/en/onefootball_articles_802/da5a7d270859a30daff0e5ceb18fa76e",
-      "published_at": "2026-01-27T21:56:00Z",
+      "title": " Top 20 scorers: Mbappé joins Kane, defender's stunning rise",
+      "title_ja": "得点ランキングトップ20：ムバッペ、ケインに並ぶ、ディフェンダーの驚異的な躍進",
+      "original_url": "https://onefootball.com/en/news/top-20-scorers-mbappe-joins-kane-defenders-stunning-rise-42316900",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/0qY5HYQaB4mmCYXIrFMu8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/fdaa04b86ed46ffb21aa3c15d768e46b",
+      "published_at": "2026-01-28T10:52:00Z",
       "source": "Onefootball.com",
-      "summary_ja": "Hoffenheim continued their excellent run in the Bundesliga.The team defeated Werder Bremen this Tuesday (27th) by 2-0 and secured their position as third in the league table.Additionally, the team ..."
+      "summary_ja": "毎週恒例の五大リーグにおける2025-26シーズン得点ランキングトップ20が発表されました。ミヒャエル・オリセはアシストを記録し首位を維持しています。特筆すべきは、ランキング上位にディフェンダーが躍進している点で、サッカー界に新たなトレンドをもたらす可能性があります。キリアン・ムバッペとハリー・ケインが得点ランキングで上位に名を連ね、その実力を改めて証明しました。"
     },
     {
-      "title": "AI is now citing YouTube more often than Reddit. Is it time to pivot to video (again)?",
-      "title_ja": "AI is now citing YouTube more often than Reddit. Is it time to pivot to video (again)?",
-      "original_url": "https://www.tubefilter.com/2026/01/27/generative-ai-chatbots-source-referral-youtube-reddit/",
-      "image_url": "https://www.tubefilter.com/wp-content/uploads/2026/01/generative-ai-referrals.jpg",
-      "published_at": "2026-01-27T21:55:30Z",
-      "source": "Tubefilter",
-      "summary_ja": "Have generative AI chatbots had enough of Reddit's intense debates, far-reaching conversations, and sarcastic quips? A new report claims that the bots are now more likely to cite YouTube's library ..."
+      "title": "New Yahoo Scout AI Search Delivers The Classic Search Flavor People Miss via @sejournal, @martinibuster",
+      "title_ja": "Yahooの新AI検索「Scout」が登場、懐かしの検索体験をAIで実現",
+      "original_url": "https://www.searchenginejournal.com/new-yahoo-scout-ai-search-delivers-the-classic-search-flavor-people-miss/566034/",
+      "image_url": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/yahoo-scout-919.png",
+      "published_at": "2026-01-28T10:47:54Z",
+      "source": "Search Engine Journal",
+      "summary_ja": "Yahooが、AIを活用した新しい検索エンジン「Scout」をベータ版で米国ユーザー向けに公開しました。このScoutは、シンプルで使い慣れた従来の検索体験を重視し、自然言語処理AIによって検索結果をパーソナライズします。これにより、ユーザーは懐かしい検索体験を味わいながら、より洗練された検索結果を得られるようになります。"
     },
     {
-      "title": "Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools",
-      "title_ja": "Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools",
-      "original_url": "https://slashdot.org/firehose.pl?op=view&amp;id=180667148",
+      "title": "Google Exploring Ways To Allow Sites To Opt Out Of Search AI Features",
+      "title_ja": "Google、検索AI機能からのサイトのオプトアウトを検討",
+      "original_url": "https://www.seroundtable.com/google-opt-out-of-search-ai-features-40831.html",
+      "image_url": "https://images.seroundtable.com/google-ai-cards-1769596863.jpg",
+      "published_at": "2026-01-28T10:46:29Z",
+      "source": "Seroundtable.com",
+      "summary_ja": "Googleは、検索の生成AI機能（AI概要やAIモードなど）における自社コンテンツの利用について、ウェブサイトがオプトアウトできるようにする方法を検討しています。これは、AI技術の発展と、ウェブサイト運営者のコンテンツ利用に対する懸念に対応するための動きです。これにより、サイト運営者は、自社コンテンツがAIに利用されることの可否を選択できるようになり、検索AIサービスの利用に影響を与える可能性があります。"
+    },
+    {
+      "title": "Phantom Malware in Android Game Mods Hijacks Devices for Ad Fraud",
+      "title_ja": "Androidゲーム改造版に潜むファントムマルウェア、広告詐欺目的でデバイスを乗っ取り",
+      "original_url": "https://hackread.com/phantom-malware-android-game-mods-ad-fraud/",
+      "image_url": "https://hackread.com/wp-content/uploads/2026/01/phantom-malware-android-game-mods-ad-click-fraud-1024x597.jpg",
+      "published_at": "2026-01-28T10:44:16Z",
+      "source": "HackRead",
+      "summary_ja": "Androidのゲーム改造版に潜伏する「ファントムマルウェア」が、不正な広告表示による詐欺行為を目的に、ユーザーのデバイスを乗っ取ることが判明しました。このマルウェアはリモートコントロールと機械学習を利用し、ユーザーの行動を模倣することで広告収入を不正に得る仕組みです。非公式ソースからゲームアプリをダウンロードするAndroidユーザーが主な標的となっています。"
+    },
+    {
+      "title": "North America IT Services Market Report 2025-2033, Competitive Analysis of Accenture, Capgemini, Cisco, Cognizant, Dell, HCL, HPE, Infosys, Microsoft, Wipro",
+      "title_ja": "北米ITサービス市場レポート2025-2033：アクセンチュア、キャップジェミニ、シスコ、コグニザント、デル、HCL、HPE、インフォシス、マイクロソフト、Wiproの競合分析",
+      "original_url": "https://www.globenewswire.com/news-release/2026/01/28/3227363/28124/en/North-America-IT-Services-Market-Report-2025-2033-Competitive-Analysis-of-Accenture-Capgemini-Cisco-Cognizant-Dell-HCL-HPE-Infosys-Microsoft-Wipro.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "published_at": "2026-01-28T10:43:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "このレポートは、2025年から2033年までの北米ITサービス市場に関するもので、主要企業であるアクセンチュア、キャップジェミニ、シスコなどの競合分析を詳細に提供しています。サービスの種類、規模、エンドユーザー、国別の市場動向を分析し、今後の市場成長と競争状況を予測しています。この分析は、北米市場におけるITサービスの戦略立案と投資判断に役立つでしょう。"
+    },
+    {
+      "title": "mlarray 0.0.30",
+      "title_ja": "mlarray 0.0.30",
+      "original_url": "https://pypi.org/project/mlarray/0.0.30/",
       "image_url": null,
-      "published_at": "2026-01-27T21:52:32Z",
-      "source": "Slashdot.org",
-      "summary_ja": "Adobe Photoshop introduced some new features that are rolling out for creators today. As you'd expect from any service operator in this day and age, there's some AI involved. Adobe has improved the..."
+      "published_at": "2026-01-28T10:38:58Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、機械学習に特化した配列フォーマット「mlarray」のバージョン0.0.30について言及しています。Blosc2バックエンドを採用し、標準化されたメタデータを提供することで、データ処理の高速化と効率化を目指しています。これにより、機械学習タスクにおけるデータ管理がより容易になることが期待されます。"
     },
     {
-      "title": "Pinterest will lay off 15% of its workforce as platform pivots resources to AI",
-      "title_ja": "Pinterest will lay off 15% of its workforce as platform pivots resources to AI",
-      "original_url": "https://japantoday.com/category/tech/pinterest-will-lay-off-15-of-its-workforce-as-the-platform-pivots-resources-to-ai",
+      "title": "Australian Firm Wins $2.9 Million Defence Contract to Build AI-Powered Space Threat Detection System",
+      "title_ja": "オーストラリア企業、AI搭載宇宙脅威検知システム構築で290万ドルの防衛契約を獲得",
+      "original_url": "https://www.ibtimes.com.au/australian-firm-wins-29-million-defence-contract-build-ai-powered-space-threat-detection-system-1861253",
+      "image_url": "https://d.ibtimes.com.au/en/full/1890993/australian-firm-wins-29-million-defence-contract-build-ai-powered.jpg",
+      "published_at": "2026-01-28T10:36:18Z",
+      "source": "Ibtimes.com.au",
+      "summary_ja": "オーストラリアのSpace Machines Companyが、オーストラリア国防省から290万ドルの契約を獲得し、人工知能を活用した宇宙脅威検知システムを開発します。このシステムは、地球軌道上の衛星に対する脅威を検出し、対応することを目的としています。この技術は、宇宙空間の安全性を高め、防衛能力を向上させる上で重要な役割を果たすと期待されています。"
+    },
+    {
+      "title": "mlarray 0.0.29",
+      "title_ja": "mlarray 0.0.29",
+      "original_url": "https://pypi.org/project/mlarray/0.0.29/",
       "image_url": null,
-      "published_at": "2026-01-27T21:41:42Z",
-      "source": "Japan Today",
-      "summary_ja": "Pinterest plans to lay off under 15% of its workforce, as part of broader restructuring that arrives as the image-sharing platform pivots more of its money to artificial intelligence. In a Tuesday ..."
+      "published_at": "2026-01-28T10:35:46Z",
+      "source": "Pypi.org",
+      "summary_ja": "mlarray 0.0.29は、機械学習に特化した配列フォーマットで、Blosc2をバックエンドに採用し、標準化されたメタデータを提供します。このフォーマットは、データ圧縮と効率的なアクセスを実現し、機械学習におけるデータ処理の高速化に貢献します。記事からは詳細は不明ですが、Blosc2の使用とメタデータの標準化により、機械学習パイプラインのパフォーマンス向上に期待できます。"
     },
     {
-      "title": "Earnings live: UnitedHealth stock falls 19%, American Airlines slides, Texas Instruments pops, Logitech edges higher",
-      "title_ja": "Earnings live: UnitedHealth stock falls 19%, American Airlines slides, Texas Instruments pops, Logitech edges higher",
-      "original_url": "https://finance.yahoo.com/news/live/earnings-live-unitedhealth-stock-falls-19-american-airlines-slides-texas-instruments-pops-logitech-edges-higher-213941564.html",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/iVGgSlog64t7Ut1JA_80eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/80b79030-fbc8-11f0-baff-4b0a3c18267a",
-      "published_at": "2026-01-27T21:39:41Z",
-      "source": "Yahoo Entertainment",
-      "summary_ja": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings..."
+      "title": "Tech giant ASML announces record orders in boost for AI boom",
+      "title_ja": "テクノロジー大手ASML、AIブームを後押しする過去最高の受注を発表",
+      "original_url": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25191490494064-1769585394.jpg?resize=1920%2C1440",
+      "published_at": "2026-01-28T10:35:44Z",
+      "source": "Al Jazeera English",
+      "summary_ja": "オランダのテクノロジー企業ASMLが、半導体製造装置の受注で四半期ベースの過去最高を記録し、AIブームの持続可能性への期待を高めています。2026年には力強い成長を見込んでいると発表し、投資バブルへの懸念を払拭しました。この記録的な受注は、AI分野における需要の拡大と、ASMLの技術的な優位性を示唆しています。"
+    },
+    {
+      "title": "15 April / IFLA Global Landscape Architecture Awards 2026",
+      "title_ja": "4月15日 / IFLAグローバルランドスケープアーキテクチャ賞2026",
+      "original_url": "https://landezine.com/15-april-ifla-global-landscape-architecture-awards-2026/",
+      "image_url": "https://landezine.com/wp-content/uploads/2026/01/gla-awards-1270x813.jpg",
+      "published_at": "2026-01-28T10:32:05Z",
+      "source": "Landezine.com",
+      "summary_ja": "国際ランドスケープアーキテクト連盟（IFLA）が、より公正で強靭な未来に貢献する人々、政策、プロジェクトを称える「GLAアワード2026」を開始します。気候変動や生物多様性の損失といった課題に対し、この賞はランドスケープアーキテクチャを通じて持続可能な解決策を促進し、世界的な取り組みを加速させることを目指します。"
+    },
+    {
+      "title": "How to fix Disney: A road map for the next CEO",
+      "title_ja": "ディズニーを立て直すには：次期CEOへのロードマップ",
+      "original_url": "https://www.livemint.com/companies/how-to-fix-disney-a-road-map-for-the-next-ceo-11769595962690.html",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/01/28/1600x900/logo/FILES-US-ECONOMY-0_1769596155025_1769596167419.jpg",
+      "published_at": "2026-01-28T10:30:34Z",
+      "source": "Livemint",
+      "summary_ja": "ウォルト・ディズニーは過去10年で多くの問題を抱えており、Barron'sは次期CEOに向けた4段階の計画を提示しています。 スター・ウォーズ映画の公開、ストリーミングプラットフォームの構築など、多岐にわたる事業展開と、それに伴う経営課題への対処が求められています。 このロードマップは、ディズニーの今後の成功に向けた戦略的な指針となるでしょう。"
+    },
+    {
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 28th January 2026",
+      "title_ja": "IAS試験向け時事問題 | UPSCプレリムズ・メインズ試験 – 2026年1月28日",
+      "original_url": "https://iasbaba.com/2026/01/daily-current-affairs-ias-upsc-prelims-and-mains-exam-28th-january-2026/",
+      "image_url": "https://iasbaba.com/wp-content/uploads/2026/01/28a.png",
+      "published_at": "2026-01-28T10:30:05Z",
+      "source": "Iasbaba.com",
+      "summary_ja": "この記事は、2026年1月28日に行われるインド公務員試験（UPSC）のプレリムズとメインズ試験に対応した、日々の時事問題をまとめたものです。特に、GS-II（インドと他国との関係）とGS-III（インド経済と計画に関する問題）に焦点を当てています。試験対策として、様々なトピックのアーカイブ記事を提供し、受験生の学習を支援します。"
+    },
+    {
+      "title": "Towards 2030: A Joint European Union-India Comprehensive Strategic Agenda",
+      "title_ja": "2030年に向けて：EU-インド共同包括戦略アジェンダ",
+      "original_url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260127-european-commission04.htm",
+      "image_url": null,
+      "published_at": "2026-01-28T10:29:53Z",
+      "source": "Globalsecurity.org",
+      "summary_ja": "2026年1月27日にニューデリーで開催された第16回EU-インド首脳会談で承認されたこの共同包括戦略アジェンダは、EUとインド間の戦略的パートナーシップを強化することを目的としています。協力範囲の拡大、深化、そして連携の強化を通じて、様々な分野での協力体制を構築し、2030年までの目標達成を目指します。"
+    },
+    {
+      "title": "HRH the Crown Prince Chairs Cabinet Session in Riyadh",
+      "title_ja": "リヤドで皇太子殿下が内閣会議を主宰",
+      "original_url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260127-spa01.htm",
+      "image_url": null,
+      "published_at": "2026-01-28T10:29:53Z",
+      "source": "Globalsecurity.org",
+      "summary_ja": "ムハンマド・ビン・サルマン皇太子兼首相が、リヤドで開催された内閣会議を主宰しました。これは、サウジアラビアの政府運営における重要な出来事であり、今後の国家政策の方向性を決定する可能性を示唆しています。会議の詳細については、サウジアラビア通信（SPA）を通じて報道される予定です。"
+    },
+    {
+      "title": "Meeting between top diplomats of Poland and Saudi Arabia",
+      "title_ja": "ポーランドとサウジアラビア両国外相による会談",
+      "original_url": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260126-pl-mfa01.htm",
+      "image_url": null,
+      "published_at": "2026-01-28T10:29:53Z",
+      "source": "Globalsecurity.org",
+      "summary_ja": "ポーランドとサウジアラビア両国の外相がワルシャワで会談を行い、中東地域における戦略的パートナーシップについて協議しました。1995年の外交関係再開以来、両国は友好的な関係を維持しており、多岐にわたる協力関係を築いています。今回の会談は、両国間の関係強化と、今後の発展に向けた重要な一歩となるでしょう。"
+    },
+    {
+      "title": "mlarray 0.0.28",
+      "title_ja": "mlarray 0.0.28",
+      "original_url": "https://pypi.org/project/mlarray/0.0.28/",
+      "image_url": null,
+      "published_at": "2026-01-28T10:29:34Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、機械学習に特化した配列形式であるmlarrayの最新版、バージョン0.0.28について紹介しています。Blosc2バックエンドを採用し、標準化されたメタデータに対応することで、機械学習におけるデータ処理の効率化を目指しています。記事の内容は一部ウェブサイトの読み込みに関する問題を含んでいます。"
+    },
+    {
+      "title": "WHO IS THE TOP LEGITIMATE CRYPTOCURRENCY RECOVERY COMPANY EXPERT SERVICE AGENCY TODAY",
+      "title_ja": "今日の合法的な暗号通貨リカバリー会社専門サービス機関のトップはどこか？",
+      "original_url": "https://community.wolfram.com/groups/-/m/t/3629696",
+      "image_url": "http://community.wolfram.com/share.png",
+      "published_at": "2026-01-28T10:27:49Z",
+      "source": "Wolfram.com",
+      "summary_ja": "2026年、暗号通貨が金融を変革し続ける中、詐欺、ハッキング、アクセス認証情報の紛失といったリスクが高まっています。失われたデジタル資産の回復には専門家の介入が不可欠であり、Autopsy Mainnet Recovery (AMR)などのサービスが重要性を増しています。AMRは高度な技術を駆使し、被害を受けた人々を支援することで、暗号通貨エコシステム全体の信頼性と安全性を高める役割を担っています。"
+    },
+    {
+      "title": "ENEC, TII and Aspire test autonomous aerial systems for critical infrastructure security",
+      "title_ja": "ENEC、TII、Aspireが重要インフラのセキュリティ向け自律型航空システムを試験運用",
+      "original_url": "https://www.computerweekly.com/news/366637746/ENEC-TII-and-Aspire-test-autonomous-aerial-systems-for-critical-infrastructure-security",
+      "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Abu-Dhabi-city-water-UAE-tuulijumala-adobe.jpg",
+      "published_at": "2026-01-28T10:23:00Z",
+      "source": "ComputerWeekly.com",
+      "summary_ja": "アブダビで実施された実証実験では、ドローンを活用した巡回が安全性が最優先される環境で実用化できるレベルに達しているかを検証しています。ENEC、TII、Aspireが共同で、自律型航空システム（主にドローン）の重要インフラにおけるセキュリティへの適用可能性を評価しています。このプロジェクトは、原子力発電所などの重要な施設を守るための、より効率的で洗練されたセキュリティ体制を構築することを目指しています。"
+    },
+    {
+      "title": "UK pushes Google to allow sites to opt out of AI overviews",
+      "title_ja": "英国、Googleに対し、サイトがAI概要からのオプトアウトを可能にするよう要請",
+      "original_url": "https://www.channelnewsasia.com/business/uk-pushes-google-allow-sites-opt-out-ai-overviews-5890926",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--NxU7QGZs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-28T102802Z_3_LYNXMPEM0R0LM_RTROPTP_3_BRITAIN-REGULATOR-ALPHABET.JPG?itok=ge2EdsfK",
+      "published_at": "2026-01-28T10:22:56Z",
+      "source": "CNA",
+      "summary_ja": "英国政府は、Googleの検索サービスに対し、企業や消費者に選択肢を増やすよう求めています。具体的には、パブリッシャーがAI概要や独立したAIモデルの学習に自社コンテンツが使用されることを拒否できる「オプトアウト」のオプションを導入することを提案しています。この動きは、AIによる情報収集における著作権保護と、検索結果の信頼性確保に影響を与える可能性があります。"
+    },
+    {
+      "title": "UK regulator proposes changes to Google search for publishers",
+      "title_ja": "英国規制当局、パブリッシャー向けGoogle検索の変更を提案",
+      "original_url": "https://www.channelnewsasia.com/business/uk-regulator-proposes-changes-google-search-publishers-5890926",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--NxU7QGZs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-28T102802Z_3_LYNXMPEM0R0LM_RTROPTP_3_BRITAIN-REGULATOR-ALPHABET.JPG?itok=ge2EdsfK",
+      "published_at": "2026-01-28T10:22:56Z",
+      "source": "CNA",
+      "summary_ja": "英国の競争規制当局は、パブリッシャーがGoogleの検索サービスにおけるコンテンツ利用についてより公正な取引を受けられるよう、一連の対策を提案しました。この変更は、GoogleのAIが検索結果にパブリッシャーのコンテンツを利用する際の取り扱い方を改善することを目的としています。これにより、パブリッシャーのコンテンツの可視性と収益性が向上する可能性があります。"
     }
   ]
 }

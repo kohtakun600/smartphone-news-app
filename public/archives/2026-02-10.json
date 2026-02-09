@@ -1,167 +1,185 @@
 {
-  "updated_at": "2026-02-09T15:23:35.530Z",
+  "updated_at": "2026-02-09T23:06:40.461Z",
   "articles": [
     {
-      "title": "100% of Claude's code effectively AI-written: Anthropic CPO",
-      "title_ja": "Anthropic CPO、Claudeのコードは100% AIによって生成されたと発表",
-      "original_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/100-of-claudes-code-effectively-ai-written-anthropic-cpo/articleshow/128075643.cms",
-      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45680,resizemode-75,msid-128075643/tech/artificial-intelligence/100-of-claudes-code-effectively-ai-written-anthropic-cpo.jpg",
-      "published_at": "2026-02-08T15:19:36Z",
-      "source": "The Times of India",
-      "summary_ja": "AnthropicのCPOであるMike Krieger氏は、自社のAIモデルであるClaudeのコードが完全にAIによって生成されていると発表しました。これにより、エンジニアリングプロセスは従来の人的コーディングから急速に移行し、AIが生成した数千行規模のプルリクエストが頻繁に実装されています。この変化は、AIによるソフトウェア開発の新たな可能性を示唆しています。"
+      "title": "South Korea bets on AI and electric powertrains to shape cars of future",
+      "title_ja": "韓国、AIと電動パワートレインに重点を置き、未来の自動車を形成",
+      "original_url": "https://www.digitimes.com/news/a20260206PD227/government-vehicle-automotive-autonomous-driving-development.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260206pd227_files/2_b.jpg",
+      "published_at": "2026-02-08T22:52:23Z",
+      "source": "Digitimes",
+      "summary_ja": "韓国政府は、2026年に自動車セクターへ4645億ウォン（約3億1600万米ドル）を投資する計画を発表しました。この投資は、研究開発とインフラ整備に重点を置き、次世代自動車への転換を加速させることを目指しています。特にAIと電動パワートレイン技術の開発に注力し、将来の自動車市場での競争力を高める戦略です。"
     },
     {
-      "title": "iflow-mcp_raw-labs-mxcp 0.11.1",
-      "title_ja": "iflow-mcp_raw-labs-mxcp 0.11.1",
-      "original_url": "https://pypi.org/project/iflow-mcp_raw-labs-mxcp/",
-      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "published_at": "2026-02-08T15:09:14Z",
-      "source": "Pypi.org",
-      "summary_ja": "本記事は、SQL/Pythonを用いたAIツールを構築するための、エンタープライズ向けMCPフレームワーク、iflow-mcp_raw-labs-mxcpのバージョン0.11.1に関するものです。セキュリティ、監査証跡、ポリシー適用など、実運用を見据えた機能を特徴としています。このフレームワークは、エンタープライズレベルのセキュリティ、データ品質、および包括的なテストを備えた、実用的なMCPサーバーを構築するための構造化された方法論を提供します。"
+      "title": "Musk predicts space computing shift in 36 months as terrestrial power limits bite",
+      "title_ja": "イーロン・マスク氏、地上での電力制約を受け、36ヶ月以内に宇宙コンピューティングシフトを予測",
+      "original_url": "https://www.digitimes.com/news/a20260206VL215/elon-musk-infrastructure-chips-spacex-xai.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260206vl215_files/2_2b.jpg",
+      "published_at": "2026-02-08T22:50:54Z",
+      "source": "Digitimes",
+      "summary_ja": "イーロン・マスク氏は、人工知能（AI）コンピューティングが、電力供給と地上インフラの限界により、3年以内に宇宙の方が地球よりも費用対効果が高くなると予測しています。この動きは、AIの急速な発展を支える上で、宇宙コンピューティングが重要な役割を果たす可能性を示唆しています。結果として、宇宙におけるコンピューティング能力の向上は、AI技術の更なる発展を加速させるかもしれません。"
     },
     {
-      "title": "Vera Sidika Accused Of Using AI Video To Fake Hollywood Visit, She Responds",
-      "title_ja": "ヴェラ・シディカがハリウッド訪問をAI動画で偽装したと非難される、本人が反論",
-      "original_url": "https://www.tuko.co.ke/entertainment/celebrities/617308-vera-sidika-accused-using-ai-video-fake-hollywood-visit-responds/",
-      "image_url": "https://cdn.tuko.co.ke/images/1200x675/86d164112afb0d96.jpeg?v=1",
-      "published_at": "2026-02-08T15:05:44Z",
-      "source": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "summary_ja": "人気インフルエンサーのヴェラ・シディカが、ハリウッド訪問の動画がAI生成されたものではないかと疑われ、SNS上で激しい議論を巻き起こしました。彼女はこれを否定し、本物であると主張しています。この騒動は、AI技術の進歩がもたらす情報の信憑性への影響を浮き彫りにし、ネット上で様々な意見が飛び交う結果となりました。"
+      "title": "Musk flags manufacturing bottlenecks, floats 'TeraFab' as chip supply strains",
+      "title_ja": "マスク氏、製造ボトルネックを指摘、チップ供給のひっ迫を受け「テラファブ」構想を提示",
+      "original_url": "https://www.digitimes.com/news/a20260206VL216/manufacturing-elon-musk-expansion-capacity-equipment.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260206vl216_files/2_2b.jpg",
+      "published_at": "2026-02-08T22:50:37Z",
+      "source": "Digitimes",
+      "summary_ja": "イーロン・マスク氏は、AIの急速な発展が世界的な製造能力の限界に直面していると指摘しました。特に、チップ生産、電力設備、および産業サプライチェーンが、急増する需要に対応できるほど速くスケールアップできない状況を懸念しています。マスク氏は、この課題への対応策として「テラファブ」と呼ばれる大規模な製造施設の構想を提唱しています。"
     },
     {
-      "title": "David Cronenberg Calls AI Backlash Against THE BRUTALIST a “Smear Campaign” Says Directors “Mess with Actors’ Voices All The Time\"",
-      "title_ja": "デヴィッド・クローネンバーグ監督、映画『THE BRUTALIST』に対するAI批判を「中傷キャンペーン」と呼び、「監督は常に俳優の声に手を加えている」と発言",
-      "original_url": "https://geektyrant.com/news/david-cronenberg-calls-ai-backlash-against-the-brutalist-a-smear-campaign-says-directors-mess-with-actors-voices-all-the-time",
-      "image_url": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/67df67f699472d44af832d22/1770562950335/david-cronenberg-calls-ai-backlash-against-the-brutalist-a-smear-campaign-says-directors-mess-with-actors-voices-all-the-time.jpg?format=1500w",
-      "published_at": "2026-02-08T15:02:00Z",
-      "source": "GeekTyrant",
-      "summary_ja": "映画『THE BRUTALIST』におけるAIによるハンガリー語アクセント補正問題に対し、デヴィッド・クローネンバーグ監督は、批判を「中傷キャンペーン」と断じ、監督が俳優の声を調整することは日常的であると擁護しました。この発言は、映画制作におけるAI技術の使用をめぐる議論に新たな視点を加え、今後の映画制作におけるAIの役割に影響を与える可能性があります。技術的には、アクセントの補正にAIを使用する試みは、今後の映画制作における言語的リアリズム表現を変える可能性を秘めています。"
+      "title": "One of Gaming’s Biggest Companies Is Maintaining Its Use of GenAI, Despite Player and Developer Fears",
+      "title_ja": "ゲーム業界最大手の1社が、プレイヤーと開発者の懸念をよそに、生成AIの利用を継続",
+      "original_url": "http://comicbook.com/gaming/news/netease-genai-use-defense/",
+      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2025/12/Marvel-Rivals-Lady-Loki.jpg?resize=2000,1125",
+      "published_at": "2026-02-08T22:00:00Z",
+      "source": "ComicBook.com",
+      "summary_ja": "ゲーム業界で生成AIの利用を巡り、パブリッシャーと消費者の間で意見の対立が深まっています。大手企業は、ゲーム開発における生成AIの活用を推進していますが、プレイヤーや開発者からは、品質やクリエイティビティへの影響を懸念する声が上がっています。この記事は、大手企業がこれらの懸念にも関わらず、生成AIの使用を継続している現状を伝えています。"
     },
     {
-      "title": "Three AI engines walk into a bar in single file...",
-      "title_ja": "3つのAIエンジンがバーに一列で入店…",
-      "original_url": "https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/",
-      "image_url": "https://regmedia.co.uk/2021/10/18/shutterstock_dramallama.jpg",
-      "published_at": "2026-02-08T15:00:10Z",
-      "source": "Theregister.com",
-      "summary_ja": "ソフトウェア開発者のLeonardo Russo氏が、C言語、Node.js、JavaScript向けの依存関係のない推論エンジン「llama3pure」をリリースしました。これにより、開発者はローカルハードウェア上で機械学習推論をより深く理解できるようになります。この技術革新は、AIモデルの実行を容易にし、より多くの開発者が機械学習の力を活用できる可能性を示唆しています。"
+      "title": "Microsoft Flexes AI Capabilities in Football-Centric Super Bowl Ad—But It’s Not New",
+      "title_ja": "マイクロソフト、AI機能を前面に出したフットボールをテーマにしたスーパーボウルCMを展開 - しかし、目新しいものではない",
+      "original_url": "https://www.adweek.com/brand-marketing/microsoft-flexes-ai-capabilities-in-football-centric-super-bowl-ad-but-its-not-new/",
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2026/02/msf-super-bowl-ad-2026.png?w=600&h=315&crop=1",
+      "published_at": "2026-02-08T21:54:48Z",
+      "source": "Adweek",
+      "summary_ja": "マイクロソフトは、生成AIチャットボットCopilotのNFL関係者による活用事例を紹介するフットボールをテーマにしたCMをスーパーボウルで放映しました。このCMは、Copilotの過去の統計データに基づいたチャート作成能力をアピールしています。ただし、このCMはスーパーボウルのために特別に制作されたものではなく、Copilotを宣伝する継続的なキャンペーンの一環です。"
     },
     {
-      "title": "AI Fear Grips Wall Street as a New Stock Market Reality Sets In",
-      "title_ja": "AIへの恐怖がウォール街を席巻、新たな株式市場の現実が到来",
-      "original_url": "https://financialpost.com/pmn/business-pmn/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in",
-      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/software-earnings-estimates-are-moving-higher.jpg",
-      "published_at": "2026-02-08T14:21:50Z",
-      "source": "Financial Post",
-      "summary_ja": "人工知能（AI）が経済をどのように変革するのかについて、投資家の間で懸念が高まっています。先週、その不安が株式市場に波及し、Microsoft社の業績不振も影響して、株価が大きく下落しました。AI技術の進展が、株価に大きな影響を与えるという新たな現実が、ウォール街で認識され始めています。"
+      "title": "Creatives React: Amazon Leans On Humor to Relax AI Fears, but it Lacks Surprise",
+      "title_ja": "クリエイターたちの反応：Amazon、AIへの不安を和らげるためにユーモアに頼るも、驚きには欠ける",
+      "original_url": "https://www.adweek.com/creativity/creatives-react-amazon-leans-on-humor-to-relax-ai-fears-but-it-lacks-surprise/",
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2026/02/Amazon-Creative-Reactions-Super-Bowl-60.png?w=600&h=315&crop=1",
+      "published_at": "2026-02-08T21:30:58Z",
+      "source": "Adweek",
+      "summary_ja": "Amazonはスーパーボウル60の広告で、AIに対する人々の不安を和らげるためにユーモアを前面に出しました。クリス・ヘムズワースを起用し、AI技術の複雑さを人間味あふれる方法で表現しようと試みました。しかし、このアプローチは既存の感情に寄り添うものであり、革新的な驚きを提供するものではありませんでした。"
     },
     {
-      "title": "Tech and AI brands drive record Super Bowl LX advertising boom",
-      "title_ja": "スーパーボウルLX広告、テクノロジーとAIブランドが牽引し過去最高の広告収入を記録",
-      "original_url": "https://www.jpost.com/business-and-innovation/all-news/article-885988",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/705498",
-      "published_at": "2026-02-08T14:20:47Z",
-      "source": "The Jerusalem Post",
-      "summary_ja": "スーパーボウルLXの広告収入が、テクノロジーとAIブランドの参入により過去最高を記録しました。30秒あたりの広告枠の平均価格は800万ドルに達し、一部は1000万ドルを超えるなど、価格も高騰しました。NBCUniversalは、9月までに全ての広告枠を記録的な価格で完売させました。"
+      "title": "Super Bowl Hot Take: Amazon Elaborate Joke About AI Anxiety Lands",
+      "title_ja": "スーパーボウルCM：AmazonのAI不安を煽る手の込んだジョークが話題に",
+      "original_url": "https://www.adweek.com/creativity/super-bowl-hot-take-amazon-elaborate-joke-about-ai-anxiety-lands/",
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2026/02/Amazon-Alexa-Super-Bowl-Hot-Take.png?w=600&h=315&crop=1",
+      "published_at": "2026-02-08T21:29:50Z",
+      "source": "Adweek",
+      "summary_ja": "Amazonは、スーパーボウルのCMでAI技術に対する現代的な不安をユーモラスに表現しました。クリス・ヘムズワースが出演し、AIアシスタントAlexaの現実的な潜在能力に恐怖する様子を描いています。このCMは、最新のAI技術への一般の関心と懸念を巧みに反映し、視聴者の共感を呼んでいます。"
     },
     {
-      "title": "Betty and Fred's Story: \"Building a Life Together\"",
-      "title_ja": "ベティとフレッドの物語：「共に人生を築く」",
-      "original_url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/5122799216721302900",
+      "title": "AI casualty: Once high-flying Soul Machines in receivership",
+      "title_ja": "AIの犠牲者：かつて急成長したSoul Machinesが経営破綻",
+      "original_url": "https://www.nzherald.co.nz/business/ai-casualty-once-high-flying-soul-machines-in-receivership/YCN66TQ7BJDFLAMSWGKQCIJNN4/",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/634O74EOHK347OVQWCMMAMQIHQ.png?auth=3010e394ca613b0cfe2a5f35751567b3ccf8a8074aeeb09bb858a2232a33dd21&width=1200&height=675&quality=70&smart=true",
+      "published_at": "2026-02-08T21:07:44Z",
+      "source": "New Zealand Herald",
+      "summary_ja": "2億2500万ドル以上を調達したAIスタートアップSoul Machinesが経営破綻しました。主要顧客であったメルセデス・ベンツは、2024年7月までに同社への出資を減らし、技術の利用も中止しました。他の主要顧客であるANZも、Soul Machinesの使用を止め、自社開発の製品に切り替えました。"
+    },
+    {
+      "title": "New York is considering two bills to rein in the AI industry",
+      "title_ja": "ニューヨーク州、AI業界規制に向けた2つの法案を検討",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/OMB-Datacenter-Hero-9_18_25.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-02-08T21:04:53Z",
+      "source": "The Verge",
+      "summary_ja": "ニューヨーク州では、AI生成コンテンツへのラベル表示義務化と、データセンター新設の3年間一時停止を求める2つの法案が検討されています。この動きは、AI技術の急速な発展に対する懸念の高まりを反映しており、AIの利用とインフラ整備の両側面に対して、業界に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Singapore investors pile on technology & AI stocks",
+      "title_ja": "シンガポールの投資家、テクノロジー・AI株に集中投資",
+      "original_url": "https://www.straitstimes.com/business/singapore-retail-investors-pile-on-technology-and-ai-stocks-in-q4-2025-despite-bubble-talks",
+      "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/518fcc119439556c47e63f4e64cf4fa8b4aaf430b2865c3a1b617e69ae146d59",
+      "published_at": "2026-02-08T21:00:00Z",
+      "source": "The Straits Times",
+      "summary_ja": "シンガポールの個人投資家は、2025年第4四半期以降、テクノロジーおよびAI関連銘柄への投資を加速させています。AIによる明確な収益を上げている企業への関心が高く、バブルへの警戒感が囁かれる中でも、この傾向は続いています。彼らの投資行動は、AI技術の成長と市場への影響力を物語っています。"
+    },
+    {
+      "title": "Acer Nitro V 16 AI",
+      "title_ja": "Acer Nitro V 16 AI",
+      "original_url": "https://me.pcmag.com/en/laptops/35173/acer-nitro-v-16-ai",
+      "image_url": "https://sm.pcmag.com/t/pcmag_me/review/a/acer-nitro/acer-nitro-v-16-ai_gq45.1200.jpg",
+      "published_at": "2026-02-08T21:00:00Z",
+      "source": "PCMag.com",
+      "summary_ja": "Acer Nitro V 16 AI は、手頃な価格帯ながらも、ゲーミング体験を提供するように設計されたノートパソコンです。RGBライトなど、ゲーミングノートPCとしての特徴を備えつつ、パフォーマンスとのバランスを追求しています。価格は899ドルからで、エントリーレベルのゲーミングPCとして注目されています。"
+    },
+    {
+      "title": "Acer Nitro V 16 AI",
+      "title_ja": "Acer Nitro V 16 AI",
+      "original_url": "https://uk.pcmag.com/laptops/163037/acer-nitro-v-16-ai",
+      "image_url": "https://sm.pcmag.com/t/pcmag_uk/review/a/acer-nitro/acer-nitro-v-16-ai_t4dp.1200.jpg",
+      "published_at": "2026-02-08T21:00:00Z",
+      "source": "PCMag.com",
+      "summary_ja": "AcerのNitro V 16 AIは、手頃な価格帯ながら、ゲーミング体験を妥協なく提供することを目指したノートPCです。RGBライトなどのゲーミング要素を備えつつ、パフォーマンスとコストパフォーマンスのバランスを取っています。899ドルからと、予算重視のゲーマーにとって魅力的な選択肢となる可能性があります。"
+    },
+    {
+      "title": "2 Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+      "title_ja": "今すぐ買うべきAI（人工知能）関連の優良株2選",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4459414c-13dd-43b4-946a-10b9d653056d",
       "image_url": null,
-      "published_at": "2026-02-08T14:03:00Z",
-      "source": "Blogger.com",
-      "summary_ja": "この記事は、AIを活用して作成された、ある人物の母親であるベティ・バージニア・シーバーのABC伝記を紹介しています。AIによって家族の歴史が記録され、その生涯が詳細に語られています。これにより、テクノロジーが伝記作成にどのように貢献し、個人の人生をより深く理解する手段を提供しているかが示されています。"
+      "published_at": "2026-02-08T20:55:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "この記事では、現在注目すべき2つのAI関連銘柄を紹介しています。具体的な企業名や詳細な投資情報は省略されていますが、AI技術の成長とそれに伴う投資機会に焦点を当てています。AI市場の動向を踏まえ、投資家が検討すべき有望な選択肢を示唆しています。"
     },
     {
-      "title": "Samsung Galaxy S26 Ultra: Game-Changing AI, But at What Cost?",
-      "title_ja": "Samsung Galaxy S26 Ultra：ゲームチェンジャーAI、しかし対価は？",
-      "original_url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-game-changing-ai/",
-      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/S26-2.jpg",
-      "published_at": "2026-02-08T14:00:06Z",
-      "source": "Geeky Gadgets",
-      "summary_ja": "Samsung Galaxy S26 Ultraは、AIとカメラ性能の大幅な向上により、スマートフォン技術に大きな進歩をもたらしました。しかし、ワイヤレス充電に制限を設けたことで、ユーザーエクスペリエンスに影響を与える可能性があります。この変更が、技術革新の代償として受け入れられるかどうかが注目されます。"
+      "title": "conway’s arcade: google reimagines vintage gameplay through modular aluminum hardware",
+      "title_ja": "Conway's Arcade：Googleがモジュール式アルミニウムハードウェアでレトロゲームを再構築",
+      "original_url": "https://www.designboom.com/technology/conways-arcade-google-vintage-gameplay-modular-aluminum-hardware-specialguestx/",
+      "image_url": "https://www.designboom.com/twitterimages/uploads/2026/02/conway-arcade-vintage-arcade-google-aluminum-hardware-designboom-1200.jpg",
+      "published_at": "2026-02-08T20:45:06Z",
+      "source": "Designboom",
+      "summary_ja": "Googleが、AI生成ロジックを活用し、レトロアーケードゲームを再解釈するインタラクティブなインスタレーション「Conway's Arcade」を発表しました。モジュール式のアルミニウムハードウェアを採用し、多様なゲームプレイ体験を提供します。これにより、古典的なゲーム形式が現代技術によって再構築され、新たな視点から楽しむことが可能になります。"
     },
     {
-      "title": "One way AI won’t ruin the world: tools to crack down on the $23 billion animal trafficking trade",
-      "title_ja": "AIが世界を破滅させない一つの方法：230億ドル規模の動物密売を取り締まるツール",
-      "original_url": "https://fortune.com/2026/02/08/ai-tools-animal-trafficking-23-billion-annual-trade/",
-      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1227424116-e1770484739806.jpg?resize=1200,600",
-      "published_at": "2026-02-08T13:45:00Z",
-      "source": "Fortune",
-      "summary_ja": "AIを活用することで、年間230億ドル規模に達する動物密売の取り締まりに新たな可能性が生まれます。国際貨物検査の限界をAIが補完し、密売品特定を効率化することで、違法取引の撲滅に貢献することが期待されます。この技術は、世界的な環境保護と持続可能な社会の実現に大きく影響を与える可能性があります。"
+      "title": "Genspark Leverages AI For Fast-Turnaround Super Bowl Spot",
+      "title_ja": "Genspark、AIを活用しスーパーボウルのCMを短期間で制作",
+      "original_url": "https://www.adweek.com/brand-marketing/genspark-leverages-ai-for-fast-turnaround-super-bowl-spot/",
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2026/02/GensparkSuperBowl2026.jpg?w=600&h=315&crop=1",
+      "published_at": "2026-02-08T20:35:22Z",
+      "source": "Adweek",
+      "summary_ja": "ジェネレーティブAI企業Gensparkは、AI生成のスクリプトを用いて、スーパーボウル60のCMをわずか5週間で完成させました。同社は、企業向けの自律型AIワークスペースを運営しており、今回のCM制作において、通常では数ヶ月かかる工程を劇的に短縮しました。この技術革新は、広告制作におけるAIの可能性を示すとともに、迅速なメディア対応への道を開きました。"
     },
     {
-      "title": "Google Discover for Ecommerce",
-      "title_ja": "Google Discover（グーグル・ディスカバー）のeコマース活用",
-      "original_url": "https://www.practicalecommerce.com/google-discover-for-ecommerce",
-      "image_url": "https://www.practicalecommerce.com/wp-content/uploads/2026/02/020726-discover-featured.jpg",
-      "published_at": "2026-02-08T13:21:16Z",
-      "source": "Practical Ecommerce",
-      "summary_ja": "AIによる検索結果の要約やショッピングエージェントの登場により、従来の検索からのトラフィックが減少する中、Google Discoverがeコマース事業者にとって新たなオーガニックトラフィック源として注目されています。この記事では、eコマースにおけるGoogle Discoverの可能性と、その重要性について言及しています。Google Discoverが、eコマースにおける新たな集客チャネルとして重要度を増す可能性があります。"
+      "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "title_ja": "Anthropic、ChatGPTでの広告販売を批判するため、スーパーボウルCM枠を購入",
+      "original_url": "https://www.itnews.com.au/news/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt-623473?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "image_url": "https://i.nextmedia.com.au/News/2026-02-07T110403Z_1_LYNXMPEM1604S_RTROPTP_4_FOOTBALL-NFL-SUPERBOWL-ADS.JPG",
+      "published_at": "2026-02-08T19:54:01Z",
+      "source": "iTnews",
+      "summary_ja": "AI企業Anthropicが、ライバルOpenAIがChatGPTで広告販売を行う計画に対し、スーパーボウルのCM枠を購入して批判を行いました。この行動は、AI業界における競争激化と、生成AIプラットフォームの収益化戦略を巡る対立を浮き彫りにしています。Anthropicは、OpenAIの広告戦略を批判することで、自社のブランドイメージを向上させようとしています。"
     },
     {
-      "title": "Arabic Manuscripts, Jitish Kallat, AI, More: Sunday ResearchBuzz, February 8, 2026",
-      "title_ja": "アラビア語写本、ジティシュ・カッラート、AIなど：サンデーリサーチバズ、2026年2月8日",
-      "original_url": "https://researchbuzz.me/2026/02/08/arabic-manuscripts-jitish-kallat-ai-more-sunday-researchbuzz-february-8-2026/",
-      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-      "published_at": "2026-02-08T13:01:53Z",
-      "source": "Researchbuzz.me",
-      "summary_ja": "マンチェスター大学が、ジョン・ライランズ図書館のアラビア語写本のオンラインコレクションを公開しました。このコレクションには、コーランを含む貴重な写本が含まれています。これは、研究者や一般の人々が、これらの歴史的資料にアクセスしやすくなることを意味します。"
+      "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "title_ja": "Anthropic、ChatGPTでの広告販売を批判するため、スーパーボウルCMに巨額投資",
+      "original_url": "https://www.itnews.com.au/news/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt-623473?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Software+feed",
+      "image_url": "https://i.nextmedia.com.au/News/2026-02-07T110403Z_1_LYNXMPEM1604S_RTROPTP_4_FOOTBALL-NFL-SUPERBOWL-ADS.JPG",
+      "published_at": "2026-02-08T19:40:28Z",
+      "source": "iTnews",
+      "summary_ja": "AI企業Anthropicが、ライバルのOpenAIによるChatGPTでの広告販売計画を非難するため、スーパーボウルCMに数百万ドルを投じるという異例の事態となっています。これは、生成AI分野における競争激化と、収益モデルを巡る対立が鮮明になったことを示しています。今回のCMは、AI企業の広告戦略と、その倫理観に対する世間の関心を高めることになりそうです。"
     },
     {
-      "title": "Inside the Complicated Rise of AI Divorces",
-      "title_ja": "複雑化するAI離婚の台頭",
-      "original_url": "https://www.cosmopolitan.com/relationships/a70278755/gen-z-divorce-ai-2026/",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/canvasflow/42819296-B366-4394-AF4890E8086166FD.jpg?crop=1.00xw:0.370xh;0,0.0849xh&resize=1200:*",
-      "published_at": "2026-02-08T12:48:00Z",
-      "source": "Cosmopolitan.com",
-      "summary_ja": "近年、離婚手続きにAIを利用する若者が増加しており、その背景にあるリスクが注目されています。この記事では、離婚におけるAIの利用について、弁護士の見解を交えながら、どのような場合にAIが有効で、どのような場合に避けるべきかを探求しています。特に、未成年者の場合など、精神的な負担が大きい離婚において、AI利用がもたらす影響について考察しています。"
+      "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "title_ja": "AnthropicがSuper Bowl広告枠を購入、ChatGPT広告販売でOpenAIを批判",
+      "original_url": "https://www.itnews.com.au/news/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt-623473?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+      "image_url": "https://i.nextmedia.com.au/News/2026-02-07T110403Z_1_LYNXMPEM1604S_RTROPTP_4_FOOTBALL-NFL-SUPERBOWL-ADS.JPG",
+      "published_at": "2026-02-08T19:39:58Z",
+      "source": "iTnews",
+      "summary_ja": "AI企業Anthropicが、ライバルOpenAIがチャットボットChatGPTで広告販売を開始する計画を非難するため、Super Bowlの広告枠を巨額で購入しました。この動きは、AI業界における競争激化と、広告戦略をめぐる対立を浮き彫りにしています。Anthropicの攻撃的な広告戦略は、AI市場における両社の影響力争いに火をつけることになります。"
     },
     {
-      "title": "Containers, cloud, blockchain, AI – it's all the same old BS, says veteran Red Hatter",
-      "title_ja": "コンテナ、クラウド、ブロックチェーン、AI – 全て昔から変わらないクソだ、ベテランRed Hatterが激白",
-      "original_url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
-      "image_url": "https://regmedia.co.uk/2023/06/13/shutterstock_rubbishmeeting.jpg",
-      "published_at": "2026-02-08T12:30:08Z",
-      "source": "Theregister.com",
-      "summary_ja": "Red Hatのベテランエンジニアが、業界の誇大広告サイクルに嫌気がさし、コンテナ、クラウド、ブロックチェーン、AIといったテクノロジーは結局のところ大した進歩がないと痛烈に批判しています。彼は、デジタル主権の真の敵は「エンタープライズIT」のマーケティングにあると主張し、技術革新を装ったマーケティング戦略を非難しています。この記事は、技術トレンドに対する懐疑的な視点を提示し、業界の誇大広告に警鐘を鳴らすものです。"
+      "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "title_ja": "Anthropic、OpenAIのChatGPT広告販売を批判するためスーパーボウルCMを購入",
+      "original_url": "https://www.itnews.com.au/news/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt-623473?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+      "image_url": "https://i.nextmedia.com.au/News/2026-02-07T110403Z_1_LYNXMPEM1604S_RTROPTP_4_FOOTBALL-NFL-SUPERBOWL-ADS.JPG",
+      "published_at": "2026-02-08T19:38:38Z",
+      "source": "iTnews",
+      "summary_ja": "AI企業Anthropicが、ライバルOpenAIがチャットボットChatGPTで広告販売を行う計画を批判するため、スーパーボウルでCMを放映します。これは、AI業界における広告戦略を巡る対立が鮮明になったことを示唆しています。Anthropicの巨額の広告投資は、OpenAIのビジネスモデルへの異議申し立てであると同時に、自社のプレゼンスを高める狙いもあります。"
     },
     {
-      "title": "arxivy added to PyPI",
-      "title_ja": "arxivyがPyPIに追加",
-      "original_url": "https://pypi.org/project/arxivy/",
-      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "published_at": "2026-02-08T12:22:16Z",
-      "source": "Pypi.org",
-      "summary_ja": "arXiv API向けのコマンドラインインターフェース「arxivy」がPyPIに公開されました。これは、人間とAIエージェントの両方の利用を想定して設計されています。このツールは、他の学術CLIツールと同様に、統一されたインターフェースを提供し、研究者が論文の検索や管理を効率的に行えるようにします。"
-    },
-    {
-      "title": "Jack Dorsey’s Block may cut up to 10% of staff in business overhaul: Report",
-      "title_ja": "ジャック・ドーシー率いるBlock、事業再編で最大10%の人員削減を検討か：報道",
-      "original_url": "https://cointelegraph.com/news/jack-dorsey-block-may-cut-10-percent-staff-restructuring",
-      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c3d1d-3dae-757a-8541-857b6efb28be.jpg",
-      "published_at": "2026-02-08T12:02:41Z",
-      "source": "Cointelegraph",
-      "summary_ja": "ジャック・ドーシー氏のBlock社は、事業再編の一環として最大10%の人員削減を検討していると報じられています。今回の人員削減は、Cash AppとSquareの統合、ビットコインマイニング、およびAIプロジェクトの拡大に伴うものとされています。これにより、Block社の経営効率化と、新しいテクノロジー分野への注力が図られることになります。"
-    },
-    {
-      "title": "Investors chase cheaper, smaller companies as Big Tech's AI plans spook markets",
-      "title_ja": "ビッグテックのAI戦略が市場を動揺させ、投資家はより安価で小規模な企業へとシフト",
-      "original_url": "https://economictimes.indiatimes.com/tech/technology/investors-chase-cheaper-smaller-companies-as-big-techs-ai-plans-spook-markets/articleshow/128070208.cms",
-      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49432,resizemode-75,msid-128070208/tech/technology/investors-chase-cheaper-smaller-companies-as-big-techs-ai-plans-spook-markets.jpg",
-      "published_at": "2026-02-08T12:02:26Z",
-      "source": "The Times of India",
-      "summary_ja": "ビッグテック各社のAI戦略発表を受け、市場に警戒感が広がり、投資家はリスク回避の動きを見せています。その結果、高リスク資産を避ける傾向が強まり、より安価で小規模な企業への投資が活発化しています。これにより、市場全体のポートフォリオが再編され、一部のセクターでは大きな変動が起きています。"
-    },
-    {
-      "title": "The iPhone Successor? Apple’s New AI Pin is Basically a Talking AirTag",
-      "title_ja": "iPhoneの後継機？Appleの新型AIピンは、実質的にしゃべるAirTag",
-      "original_url": "https://www.geeky-gadgets.com/the-iphone-successor-apples-new-ai-pin-is-basically-a-talking-airtag/",
-      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-ai-wearable-device-design_optimized.jpg",
-      "published_at": "2026-02-08T12:00:41Z",
-      "source": "Geeky Gadgets",
-      "summary_ja": "Appleが開発中のAI搭載ウェアラブルデバイスは、日常生活におけるテクノロジーとの関わり方を革新する可能性があります。AirTagに似た小型デバイスで、Appleのエコシステムへの統合を意図しています。記事によると、このAIピンは、単なる位置情報追跡以上の機能を持つことが期待されています。"
+      "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project | TechCrunch",
+      "title_ja": "オーケー、あの『Magnificent Ambersons』AIプロジェクトに対して、少しだけ怒りが収まった | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-3348882.jpg?w=1024",
+      "published_at": "2026-02-08T19:38:38Z",
+      "source": "TechCrunch",
+      "summary_ja": "昨年、生成AIを用いてオーソン・ウェルズの傑作『Magnificent Ambersons』の失われた映像を再現するというスタートアップの計画発表に対し、当初懐疑的だった筆者。技術的な課題に加え、芸術作品に対するAIの利用に疑問を抱いていた。しかし、実際に生成された映像の一部を見て、AI技術の進歩と、このプロジェクトが持つ可能性に、怒りよりも興味を抱くようになった。"
     }
   ]
 }

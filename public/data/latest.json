@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-02-09T15:15:29.114Z",
+  "updated_at": "2026-02-09T15:23:35.530Z",
   "articles": [
+    {
+      "title": "100% of Claude's code effectively AI-written: Anthropic CPO",
+      "title_ja": "Anthropic CPO、Claudeのコードは100% AIによって生成されたと発表",
+      "original_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/100-of-claudes-code-effectively-ai-written-anthropic-cpo/articleshow/128075643.cms",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45680,resizemode-75,msid-128075643/tech/artificial-intelligence/100-of-claudes-code-effectively-ai-written-anthropic-cpo.jpg",
+      "published_at": "2026-02-08T15:19:36Z",
+      "source": "The Times of India",
+      "summary_ja": "AnthropicのCPOであるMike Krieger氏は、自社のAIモデルであるClaudeのコードが完全にAIによって生成されていると発表しました。これにより、エンジニアリングプロセスは従来の人的コーディングから急速に移行し、AIが生成した数千行規模のプルリクエストが頻繁に実装されています。この変化は、AIによるソフトウェア開発の新たな可能性を示唆しています。"
+    },
     {
       "title": "iflow-mcp_raw-labs-mxcp 0.11.1",
       "title_ja": "iflow-mcp_raw-labs-mxcp 0.11.1",
@@ -8,52 +17,52 @@
       "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
       "published_at": "2026-02-08T15:09:14Z",
       "source": "Pypi.org",
-      "summary_ja": "本記事では、SQL/Pythonを用いたAIツールを構築するための企業向けMCPフレームワーク「iflow-mcp_raw-labs-mxcp 0.11.1」を紹介しています。セキュリティ、監査証跡、ポリシー適用といった機能を備え、本フレームワークは、本番環境での運用に耐えうるMCPサーバーを構築するための構造化された手法を提供します。 MXCPは、データ品質や包括的なテスト機能を備え、エンタープライズレベルのセキュリティを確保します。"
+      "summary_ja": "本記事は、SQL/Pythonを用いたAIツールを構築するための、エンタープライズ向けMCPフレームワーク、iflow-mcp_raw-labs-mxcpのバージョン0.11.1に関するものです。セキュリティ、監査証跡、ポリシー適用など、実運用を見据えた機能を特徴としています。このフレームワークは、エンタープライズレベルのセキュリティ、データ品質、および包括的なテストを備えた、実用的なMCPサーバーを構築するための構造化された方法論を提供します。"
     },
     {
       "title": "Vera Sidika Accused Of Using AI Video To Fake Hollywood Visit, She Responds",
-      "title_ja": "ヴェラ・シディカ、AI動画でハリウッド訪問を捏造したと非難され、反論",
+      "title_ja": "ヴェラ・シディカがハリウッド訪問をAI動画で偽装したと非難される、本人が反論",
       "original_url": "https://www.tuko.co.ke/entertainment/celebrities/617308-vera-sidika-accused-using-ai-video-fake-hollywood-visit-responds/",
       "image_url": "https://cdn.tuko.co.ke/images/1200x675/86d164112afb0d96.jpeg?v=1",
       "published_at": "2026-02-08T15:05:44Z",
       "source": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "summary_ja": "ハリウッド訪問の動画がAI生成であると疑われたヴェラ・シディカが、この疑惑に対して反論し、SNS上で激しい議論を巻き起こしました。この事件は、AI技術の進歩がもたらす情報の信頼性への影響を浮き彫りにしています。オンライン上では、その信憑性について様々な意見が飛び交い、大きな反響を呼びました。"
+      "summary_ja": "人気インフルエンサーのヴェラ・シディカが、ハリウッド訪問の動画がAI生成されたものではないかと疑われ、SNS上で激しい議論を巻き起こしました。彼女はこれを否定し、本物であると主張しています。この騒動は、AI技術の進歩がもたらす情報の信憑性への影響を浮き彫りにし、ネット上で様々な意見が飛び交う結果となりました。"
     },
     {
       "title": "David Cronenberg Calls AI Backlash Against THE BRUTALIST a “Smear Campaign” Says Directors “Mess with Actors’ Voices All The Time\"",
-      "title_ja": "デヴィッド・クローネンバーグ監督、『THE BRUTALIST』へのAI批判を「中傷キャンペーン」と呼ぶ、「監督は常に俳優の声に手を加えている」と発言",
+      "title_ja": "デヴィッド・クローネンバーグ監督、映画『THE BRUTALIST』に対するAI批判を「中傷キャンペーン」と呼び、「監督は常に俳優の声に手を加えている」と発言",
       "original_url": "https://geektyrant.com/news/david-cronenberg-calls-ai-backlash-against-the-brutalist-a-smear-campaign-says-directors-mess-with-actors-voices-all-the-time",
       "image_url": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/67df67f699472d44af832d22/1770562950335/david-cronenberg-calls-ai-backlash-against-the-brutalist-a-smear-campaign-says-directors-mess-with-actors-voices-all-the-time.jpg?format=1500w",
       "published_at": "2026-02-08T15:02:00Z",
       "source": "GeekTyrant",
-      "summary_ja": "映画監督デヴィッド・クローネンバーグは、映画『THE BRUTALIST』におけるAI技術を用いたハンガリー語アクセントの修正に対する批判を、中傷キャンペーンだと批判しました。彼は、映画監督が長年、声の加工など俳優の声に手を加えてきたことを指摘し、AI技術の使用に対して過度に反発することに疑問を呈しています。この発言は、映画制作におけるAI技術の倫理的側面に関する議論をさらに活発化させる可能性があります。"
+      "summary_ja": "映画『THE BRUTALIST』におけるAIによるハンガリー語アクセント補正問題に対し、デヴィッド・クローネンバーグ監督は、批判を「中傷キャンペーン」と断じ、監督が俳優の声を調整することは日常的であると擁護しました。この発言は、映画制作におけるAI技術の使用をめぐる議論に新たな視点を加え、今後の映画制作におけるAIの役割に影響を与える可能性があります。技術的には、アクセントの補正にAIを使用する試みは、今後の映画制作における言語的リアリズム表現を変える可能性を秘めています。"
     },
     {
       "title": "Three AI engines walk into a bar in single file...",
-      "title_ja": "AIエンジン3つ、一列になってバーへ…",
+      "title_ja": "3つのAIエンジンがバーに一列で入店…",
       "original_url": "https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/",
       "image_url": "https://regmedia.co.uk/2021/10/18/shutterstock_dramallama.jpg",
       "published_at": "2026-02-08T15:00:10Z",
       "source": "Theregister.com",
-      "summary_ja": "C、Node.js、JavaScriptに対応した、依存関係のない推論エンジン「llama3pure」がリリースされました。これにより、開発者はローカルハードウェア上で機械学習推論をより深く理解できるようになります。llama3pureは、機械学習推論の性能を試すための新たな選択肢を提供し、今後の技術開発に影響を与える可能性があります。"
+      "summary_ja": "ソフトウェア開発者のLeonardo Russo氏が、C言語、Node.js、JavaScript向けの依存関係のない推論エンジン「llama3pure」をリリースしました。これにより、開発者はローカルハードウェア上で機械学習推論をより深く理解できるようになります。この技術革新は、AIモデルの実行を容易にし、より多くの開発者が機械学習の力を活用できる可能性を示唆しています。"
     },
     {
       "title": "AI Fear Grips Wall Street as a New Stock Market Reality Sets In",
-      "title_ja": "新たな株式市場の現実が到来し、AIへの懸念がウォール街を席巻",
+      "title_ja": "AIへの恐怖がウォール街を席巻、新たな株式市場の現実が到来",
       "original_url": "https://financialpost.com/pmn/business-pmn/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in",
       "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/software-earnings-estimates-are-moving-higher.jpg",
       "published_at": "2026-02-08T14:21:50Z",
       "source": "Financial Post",
-      "summary_ja": "AIが経済を劇的に変革する可能性への投資家の不安が、先週、株式市場に波及し、市場価値の急落を引き起こしました。ソフトウェア企業の決算報告の低迷も、この不安を増幅させました。マイクロソフトの時価総額は、3570億ドルも減少しました。この出来事は、AIが金融市場に与える影響の大きさを浮き彫りにしています。"
+      "summary_ja": "人工知能（AI）が経済をどのように変革するのかについて、投資家の間で懸念が高まっています。先週、その不安が株式市場に波及し、Microsoft社の業績不振も影響して、株価が大きく下落しました。AI技術の進展が、株価に大きな影響を与えるという新たな現実が、ウォール街で認識され始めています。"
     },
     {
       "title": "Tech and AI brands drive record Super Bowl LX advertising boom",
-      "title_ja": "スーパーボウルLX広告、テクノロジーとAIブランドが牽引し過去最高の広告費を記録",
+      "title_ja": "スーパーボウルLX広告、テクノロジーとAIブランドが牽引し過去最高の広告収入を記録",
       "original_url": "https://www.jpost.com/business-and-innovation/all-news/article-885988",
       "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/705498",
       "published_at": "2026-02-08T14:20:47Z",
       "source": "The Jerusalem Post",
-      "summary_ja": "スーパーボウルLXの広告費は、1スロットあたり平均800万ドルと過去最高額を更新しました。 特にテクノロジー、製薬、ウェルネス分野の新興企業が広告主の約4割を占め、広告費の高騰を後押ししました。 この傾向は、1967年と比較すると驚異的な上昇を見せており、広告業界におけるテクノロジー関連企業の存在感の高まりを浮き彫りにしています。"
+      "summary_ja": "スーパーボウルLXの広告収入が、テクノロジーとAIブランドの参入により過去最高を記録しました。30秒あたりの広告枠の平均価格は800万ドルに達し、一部は1000万ドルを超えるなど、価格も高騰しました。NBCUniversalは、9月までに全ての広告枠を記録的な価格で完売させました。"
     },
     {
       "title": "Betty and Fred's Story: \"Building a Life Together\"",
@@ -62,16 +71,16 @@
       "image_url": null,
       "published_at": "2026-02-08T14:03:00Z",
       "source": "Blogger.com",
-      "summary_ja": "この記事は、AIを活用して作成された、母親であるベティ・バージニア・シーバーのABC伝記を紹介しています。このAI技術は、ベティの人生を詳細に伝え、家族の歴史を記録するのに役立っています。これにより、AIが個人情報を基に物語を生成し、記憶を形作る新たな方法を示しています。"
+      "summary_ja": "この記事は、AIを活用して作成された、ある人物の母親であるベティ・バージニア・シーバーのABC伝記を紹介しています。AIによって家族の歴史が記録され、その生涯が詳細に語られています。これにより、テクノロジーが伝記作成にどのように貢献し、個人の人生をより深く理解する手段を提供しているかが示されています。"
     },
     {
       "title": "Samsung Galaxy S26 Ultra: Game-Changing AI, But at What Cost?",
-      "title_ja": "Samsung Galaxy S26 Ultra：革新的なAI、しかしその代償は？",
+      "title_ja": "Samsung Galaxy S26 Ultra：ゲームチェンジャーAI、しかし対価は？",
       "original_url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-game-changing-ai/",
       "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/S26-2.jpg",
       "published_at": "2026-02-08T14:00:06Z",
       "source": "Geeky Gadgets",
-      "summary_ja": "Samsung Galaxy S26 Ultraは、AIとカメラ性能の大幅な向上により、スマートフォン技術に大きな進歩をもたらしました。しかし、ワイヤレス充電に制限を設けるという議論を呼ぶ変更も加えられています。この新機能は、技術的な進歩を象徴する一方で、ユーザーエクスペリエンスに影響を与える可能性もあり、その影響が注目されています。"
+      "summary_ja": "Samsung Galaxy S26 Ultraは、AIとカメラ性能の大幅な向上により、スマートフォン技術に大きな進歩をもたらしました。しかし、ワイヤレス充電に制限を設けたことで、ユーザーエクスペリエンスに影響を与える可能性があります。この変更が、技術革新の代償として受け入れられるかどうかが注目されます。"
     },
     {
       "title": "One way AI won’t ruin the world: tools to crack down on the $23 billion animal trafficking trade",
@@ -80,16 +89,16 @@
       "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1227424116-e1770484739806.jpg?resize=1200,600",
       "published_at": "2026-02-08T13:45:00Z",
       "source": "Fortune",
-      "summary_ja": "AIは、年間230億ドル規模の動物密売を取り締まるためのツールとして活用される可能性があります。世界的な貨物取引の多くが検査されず、密輸が横行している現状を変えるため、AIは画像認識やデータ分析を通じて密輸品を特定し、取り締まりを強化する役割を担います。これにより、絶滅危惧種の保護に貢献することが期待されます。"
+      "summary_ja": "AIを活用することで、年間230億ドル規模に達する動物密売の取り締まりに新たな可能性が生まれます。国際貨物検査の限界をAIが補完し、密売品特定を効率化することで、違法取引の撲滅に貢献することが期待されます。この技術は、世界的な環境保護と持続可能な社会の実現に大きく影響を与える可能性があります。"
     },
     {
       "title": "Google Discover for Ecommerce",
-      "title_ja": "Google Discover（グーグル・ディスカバー）がEコマースに与える影響",
+      "title_ja": "Google Discover（グーグル・ディスカバー）のeコマース活用",
       "original_url": "https://www.practicalecommerce.com/google-discover-for-ecommerce",
       "image_url": "https://www.practicalecommerce.com/wp-content/uploads/2026/02/020726-discover-featured.jpg",
       "published_at": "2026-02-08T13:21:16Z",
       "source": "Practical Ecommerce",
-      "summary_ja": "AIの概要やショッピングエージェントが従来の検索結果からのクリックを奪う中、Google DiscoverはEコマース事業者にとって新たな、そして成長が見込まれるオーガニックトラフィックの源泉となる可能性があります。この記事では、EコマースにおけるGoogle Discoverの重要性とその活用方法に焦点を当てています。Google DiscoverがEコマースのビジネスモデルにどのようなインパクトを与えるのか、その詳細を探ります。"
+      "summary_ja": "AIによる検索結果の要約やショッピングエージェントの登場により、従来の検索からのトラフィックが減少する中、Google Discoverがeコマース事業者にとって新たなオーガニックトラフィック源として注目されています。この記事では、eコマースにおけるGoogle Discoverの可能性と、その重要性について言及しています。Google Discoverが、eコマースにおける新たな集客チャネルとして重要度を増す可能性があります。"
     },
     {
       "title": "Arabic Manuscripts, Jitish Kallat, AI, More: Sunday ResearchBuzz, February 8, 2026",
@@ -98,7 +107,7 @@
       "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
       "published_at": "2026-02-08T13:01:53Z",
       "source": "Researchbuzz.me",
-      "summary_ja": "マンチェスター大学が、ジョン・ライランズ図書館のアラビア語写本のオンラインコレクションを公開しました。これは、コーランを含む一部の写本へのアクセスを可能にし、研究に新たな資源を提供します。この動きは、デジタル技術を活用して、歴史的資料へのアクセスを向上させる取り組みの一環です。"
+      "summary_ja": "マンチェスター大学が、ジョン・ライランズ図書館のアラビア語写本のオンラインコレクションを公開しました。このコレクションには、コーランを含む貴重な写本が含まれています。これは、研究者や一般の人々が、これらの歴史的資料にアクセスしやすくなることを意味します。"
     },
     {
       "title": "Inside the Complicated Rise of AI Divorces",
@@ -107,25 +116,25 @@
       "image_url": "https://hips.hearstapps.com/hmg-prod/images/canvasflow/42819296-B366-4394-AF4890E8086166FD.jpg?crop=1.00xw:0.370xh;0,0.0849xh&resize=1200:*",
       "published_at": "2026-02-08T12:48:00Z",
       "source": "Cosmopolitan.com",
-      "summary_ja": "近年、離婚手続きにAIを利用する若者が増加しており、その背後には精神的負担の軽減が背景にあります。しかし、弁護士たちは、AI利用のリスクと限界を指摘し、特に未成年者の離婚における注意を促しています。この記事では、離婚におけるAI活用の是非について、専門家の意見を紹介しています。"
+      "summary_ja": "近年、離婚手続きにAIを利用する若者が増加しており、その背景にあるリスクが注目されています。この記事では、離婚におけるAIの利用について、弁護士の見解を交えながら、どのような場合にAIが有効で、どのような場合に避けるべきかを探求しています。特に、未成年者の場合など、精神的な負担が大きい離婚において、AI利用がもたらす影響について考察しています。"
     },
     {
       "title": "Containers, cloud, blockchain, AI – it's all the same old BS, says veteran Red Hatter",
-      "title_ja": "Containers, cloud, blockchain, AI – it's all the same old BS, says veteran Red Hatter",
+      "title_ja": "コンテナ、クラウド、ブロックチェーン、AI – 全て昔から変わらないクソだ、ベテランRed Hatterが激白",
       "original_url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
       "image_url": "https://regmedia.co.uk/2023/06/13/shutterstock_rubbishmeeting.jpg",
       "published_at": "2026-02-08T12:30:08Z",
       "source": "Theregister.com",
-      "summary_ja": "After decades in the trenches, this engineer is done with hype cycles\nOpinion The real opponent of digital sovereignty is \"enterprise IT\" marketing, according to one Red Hat engineer who ranted ent..."
+      "summary_ja": "Red Hatのベテランエンジニアが、業界の誇大広告サイクルに嫌気がさし、コンテナ、クラウド、ブロックチェーン、AIといったテクノロジーは結局のところ大した進歩がないと痛烈に批判しています。彼は、デジタル主権の真の敵は「エンタープライズIT」のマーケティングにあると主張し、技術革新を装ったマーケティング戦略を非難しています。この記事は、技術トレンドに対する懐疑的な視点を提示し、業界の誇大広告に警鐘を鳴らすものです。"
     },
     {
       "title": "arxivy added to PyPI",
-      "title_ja": "arxivy added to PyPI",
+      "title_ja": "arxivyがPyPIに追加",
       "original_url": "https://pypi.org/project/arxivy/",
       "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
       "published_at": "2026-02-08T12:22:16Z",
       "source": "Pypi.org",
-      "summary_ja": "CLI for the arXiv API, for humans and agents alike"
+      "summary_ja": "arXiv API向けのコマンドラインインターフェース「arxivy」がPyPIに公開されました。これは、人間とAIエージェントの両方の利用を想定して設計されています。このツールは、他の学術CLIツールと同様に、統一されたインターフェースを提供し、研究者が論文の検索や管理を効率的に行えるようにします。"
     },
     {
       "title": "Jack Dorsey’s Block may cut up to 10% of staff in business overhaul: Report",
@@ -134,16 +143,16 @@
       "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c3d1d-3dae-757a-8541-857b6efb28be.jpg",
       "published_at": "2026-02-08T12:02:41Z",
       "source": "Cointelegraph",
-      "summary_ja": "ジャック・ドーシー氏のBlock社は、事業再編の一環として最大10%の人員削減を検討していると報じられています。今回の人員削減は、Cash AppとSquareの統合、ビットコインマイニングやAIプロジェクトの拡大など、事業戦略の転換に伴うものです。これにより、Block社の経営効率化と、新技術への集中投資が図られる見込みです。"
+      "summary_ja": "ジャック・ドーシー氏のBlock社は、事業再編の一環として最大10%の人員削減を検討していると報じられています。今回の人員削減は、Cash AppとSquareの統合、ビットコインマイニング、およびAIプロジェクトの拡大に伴うものとされています。これにより、Block社の経営効率化と、新しいテクノロジー分野への注力が図られることになります。"
     },
     {
       "title": "Investors chase cheaper, smaller companies as Big Tech's AI plans spook markets",
-      "title_ja": "ビッグテックのAI戦略が市場を動揺させ、投資家はより安価で小規模な企業へシフト",
+      "title_ja": "ビッグテックのAI戦略が市場を動揺させ、投資家はより安価で小規模な企業へとシフト",
       "original_url": "https://economictimes.indiatimes.com/tech/technology/investors-chase-cheaper-smaller-companies-as-big-techs-ai-plans-spook-markets/articleshow/128070208.cms",
       "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49432,resizemode-75,msid-128070208/tech/technology/investors-chase-cheaper-smaller-companies-as-big-techs-ai-plans-spook-markets.jpg",
       "published_at": "2026-02-08T12:02:26Z",
       "source": "The Times of India",
-      "summary_ja": "ビッグテック各社のAI戦略発表を受け、市場ではリスク回避の動きが強まり、投資家はより安価で小規模な企業へと資金をシフトさせています。市場の変動性から、一部の資産クラスへの投資リスクが再評価され、これまで高い成長を遂げてきたセクターへの警戒感が高まっています。この動きは、市場全体のポートフォリオ再構築を促し、新たな投資機会を生み出しています。"
+      "summary_ja": "ビッグテック各社のAI戦略発表を受け、市場に警戒感が広がり、投資家はリスク回避の動きを見せています。その結果、高リスク資産を避ける傾向が強まり、より安価で小規模な企業への投資が活発化しています。これにより、市場全体のポートフォリオが再編され、一部のセクターでは大きな変動が起きています。"
     },
     {
       "title": "The iPhone Successor? Apple’s New AI Pin is Basically a Talking AirTag",
@@ -152,25 +161,7 @@
       "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-ai-wearable-device-design_optimized.jpg",
       "published_at": "2026-02-08T12:00:41Z",
       "source": "Geeky Gadgets",
-      "summary_ja": "Appleが開発中のAI搭載ウェアラブルデバイスは、日常生活におけるテクノロジーとの関わり方を大きく変える可能性を秘めています。AirTagに似た小型デバイスで、Appleのエコシステムへの統合を前提に設計されています。これにより、音声対話を通じて様々な操作が可能になり、新たなユーザーエクスペリエンスが期待されています。"
-    },
-    {
-      "title": "\"The height of nonsense\": Oracle co-founder Larry Ellison’s 1987 argument that not everything should be AI makes perfect sense in 2026",
-      "title_ja": "「ナンセンスの極み」：オラクル共同創業者ラリー・エリソンの1987年の『全てをAI化すべきではない』という主張が、2026年になって完璧に意味を成す",
-      "original_url": "https://www.techradar.com/pro/the-height-of-nonsense-oracle-co-founder-larry-ellisons-1987-argument-that-not-everything-should-be-ai-makes-perfect-sense-in-2026",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bYxitQV4JdME52QuuruziE-977-80.jpg",
-      "published_at": "2026-02-08T12:00:00Z",
-      "source": "TechRadar",
-      "summary_ja": "現在のAIブームのずっと前に、オラクルのラリー・エリソンは、あらゆる問題にAIを適用することは「ナンセンスの極み」だと主張していました。この記事は、1987年のエリソンの見解を振り返り、AI技術が広く普及した2026年の視点から、その主張がどれほど的を射ているかを検証しています。AIの過度な利用に対する警鐘として、現代社会への示唆に富む内容です。"
-    },
-    {
-      "title": "Avoid costly, large LLM buildouts; focus on smaller models: Sridhar Vembu on India AI strategy",
-      "title_ja": "大規模LLM構築を避け、小規模モデルに注力：インドAI戦略に関するスリダー・ベンブ氏の見解",
-      "original_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/avoid-costly-large-llm-buildouts-focus-on-smaller-models-sridhar-vembu-on-india-ai-strategy/articleshow/128069836.cms",
-      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53298,resizemode-75,msid-128069836/tech/artificial-intelligence/avoid-costly-large-llm-buildouts-focus-on-smaller-models-sridhar-vembu-on-india-ai-strategy.jpg",
-      "published_at": "2026-02-08T11:52:29Z",
-      "source": "The Times of India",
-      "summary_ja": "Zohoの創業者兼チーフサイエンティストであるスリダー・ベンブ氏は、インドが大規模言語モデル（LLM）の構築競争に直接参入するのではなく、より小規模なモデルに焦点を当てるべきだと提言しています。これは、インドがAI分野での関心を高め、国内最大のAIイベントであるIndia AI Impact Summitを控えている時期の発言です。ベンブ氏は、この戦略がコスト効率を向上させ、インド独自のAI開発を促進すると考えています。"
+      "summary_ja": "Appleが開発中のAI搭載ウェアラブルデバイスは、日常生活におけるテクノロジーとの関わり方を革新する可能性があります。AirTagに似た小型デバイスで、Appleのエコシステムへの統合を意図しています。記事によると、このAIピンは、単なる位置情報追跡以上の機能を持つことが期待されています。"
     }
   ]
 }

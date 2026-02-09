@@ -7,6 +7,7 @@
 - **Frontend**: HTML, CSS, Vanilla JS (PWA対応)
 - **Backend/Automation**: GitHub Actions (Node.js script)
 - **News Source**: NewsAPI
+- **Filtering**: キーワード許可 + 除外ドメイン/キーワード（`config/filter_rules.json`）
 - **Summarization**: Google Gemini 1.5 Flash
 
 ## セットアップ手順
@@ -39,6 +40,22 @@ GitHub Pagesの「Build and deployment」sourceを `GitHub Actions` に設定し
 3. `node scripts/fetch_news.js`
    - `public/data/latest.json` が生成されれば成功です。
 4. `index.html` をブラウザで開いて確認。
+
+## AI関連フィルタの仕様
+
+`scripts/fetch_news.js` は NewsAPI の取得結果に対して、配信前に AI 関連フィルタを適用します。
+
+- 許可条件: `title + description + content + source` の結合テキストに、`config/filter_rules.json` の `allow_keywords` のいずれかが一致。
+- 除外条件: `exclude_domains` または `exclude_keywords` に一致した記事は除外。
+- 判定順序: 許可判定 -> 除外判定。最終的に通過した記事のみ新着順で上位20件を要約。
+- フォールバック: フィルタ後が20件未満でも補充せず、その件数のまま配信。
+
+### フィルタのメンテ方法
+
+1. `config/filter_rules.json` を編集します。
+2. 追加したい語は `allow_keywords` に、除外したい媒体ドメインは `exclude_domains` に追記します。
+3. スポーツなどのノイズ語は `exclude_keywords` に追記します。
+4. `node scripts/fetch_news.js` を実行して、`public/data/latest.json` の内容を確認します。
 
 ## 使い方
 - スマホのブラウザでGitHub PagesのURL（例: `https://yourname.github.io/repo-name/`）にアクセス。

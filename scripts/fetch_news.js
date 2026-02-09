@@ -9,6 +9,7 @@ const NEWS_API_KEY = process.env.NEWS_API_KEY;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const DATA_DIR = path.join(__dirname, '../public/data');
 const ARCHIVE_DIR = path.join(__dirname, '../public/archives');
+const FILTER_RULES_PATH = path.join(__dirname, '../config/filter_rules.json');
 
 // Ensure directories exist
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
@@ -18,6 +19,97 @@ if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 // Use latest lightweight flash model
 const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-lite-001" });
+const filterRules = loadFilterRules();
+const allowKeywordMatchers = filterRules.allow_keywords.map((term) => ({
+    term,
+    pattern: buildTermPattern(term)
+}));
+const excludeKeywordMatchers = filterRules.exclude_keywords.map((term) => ({
+    term,
+    pattern: buildTermPattern(term)
+}));
+
+function loadFilterRules() {
+    try {
+        const raw = fs.readFileSync(FILTER_RULES_PATH, 'utf8');
+        const parsed = JSON.parse(raw);
+        return {
+            allow_keywords: Array.isArray(parsed.allow_keywords) ? parsed.allow_keywords : [],
+            exclude_domains: Array.isArray(parsed.exclude_domains) ? parsed.exclude_domains : [],
+            exclude_keywords: Array.isArray(parsed.exclude_keywords) ? parsed.exclude_keywords : []
+        };
+    } catch (error) {
+        console.error(`Failed to load filter rules from ${FILTER_RULES_PATH}:`, error.message);
+        return {
+            allow_keywords: [],
+            exclude_domains: [],
+            exclude_keywords: []
+        };
+    }
+}
+
+function escapeRegExp(value) {
+    return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function buildTermPattern(term) {
+    const escaped = escapeRegExp(term.trim().toLowerCase()).replace(/\s+/g, '\\s+');
+    const isShortWord = /^[a-z0-9]{1,3}$/i.test(term.trim());
+    const regexSource = isShortWord ? `\\b${escaped}\\b` : escaped;
+    return new RegExp(regexSource, 'i');
+}
+
+function extractHost(url) {
+    if (!url) return '';
+    try {
+        return new URL(url).hostname.toLowerCase();
+    } catch (_) {
+        return '';
+    }
+}
+
+function isExcludedDomain(url) {
+    const host = extractHost(url);
+    if (!host) return false;
+    return filterRules.exclude_domains.some((domain) => {
+        const normalized = String(domain).toLowerCase().trim();
+        return host === normalized || host.endsWith(`.${normalized}`);
+    });
+}
+
+function findMatchedTerms(text, matchers) {
+    return matchers
+        .filter(({ pattern }) => pattern.test(text))
+        .map(({ term }) => term.toLowerCase());
+}
+
+function isAiRelatedArticle(article) {
+    const title = article.title || '';
+    const description = article.description || '';
+    const content = article.content || '';
+    const source = article?.source?.name || '';
+    const combinedText = `${title}\n${description}\n${content}\n${source}`.toLowerCase();
+
+    if (isExcludedDomain(article.url)) {
+        return false;
+    }
+
+    const allowHits = findMatchedTerms(combinedText, allowKeywordMatchers);
+    if (allowHits.length === 0) {
+        return false;
+    }
+
+    const excludeHits = findMatchedTerms(combinedText, excludeKeywordMatchers);
+    if (excludeHits.length > 0) {
+        const hasOnlyAiAsAllowTerm = allowHits.every((term) => term === 'ai');
+        if (hasOnlyAiAsAllowTerm) {
+            return false;
+        }
+        return false;
+    }
+
+    return true;
+}
 
 async function fetchNews() {
     try {
@@ -94,16 +186,27 @@ async function processNews() {
         return;
     }
 
-    console.log(`Fetched ${articles.length} articles. Processing top 20...`);
-    
-    // Select top 20 (simple selection for now, could be improved with AI ranking)
-    const topArticles = articles.slice(0, 20);
+    const validArticles = articles.filter((article) => article.title !== '[Removed]');
+    const filteredArticles = validArticles.filter(isAiRelatedArticle);
+    const sortedArticles = filteredArticles.sort((a, b) => {
+        const dateA = new Date(a.publishedAt || 0).getTime();
+        const dateB = new Date(b.publishedAt || 0).getTime();
+        return dateB - dateA;
+    });
+    const topArticles = sortedArticles.slice(0, 20);
+
+    console.log(`Fetched ${articles.length} articles.`);
+    console.log(`After AI filter: ${filteredArticles.length} articles.`);
+    console.log(`Processing ${topArticles.length} articles...`);
+
+    if (topArticles.length === 0) {
+        console.log('No AI-related articles found after filtering.');
+        return;
+    }
+
     const processedArticles = [];
 
     for (const article of topArticles) {
-        // Skip removed contents
-        if (article.title === '[Removed]') continue;
-
         const { title_ja, summary_ja } = await summarizeArticle(article);
         processedArticles.push({
             title: article.title,

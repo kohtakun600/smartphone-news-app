@@ -1,0 +1,47 @@
+{
+  "allow_keywords": [
+    "artificial intelligence",
+    "ai",
+    "machine learning",
+    "ml",
+    "deep learning",
+    "llm",
+    "large language model",
+    "generative ai",
+    "genai",
+    "gpt",
+    "transformer",
+    "diffusion",
+    "multimodal",
+    "agentic",
+    "rag",
+    "fine-tuning",
+    "inference",
+    "model training",
+    "nlp",
+    "computer vision",
+    "ai chip",
+    "ai accelerator",
+    "openai",
+    "anthropic",
+    "google deepmind",
+    "gemini",
+    "copilot"
+  ],
+  "exclude_domains": [
+    "onefootball.com"
+  ],
+  "exclude_keywords": [
+    "premier league",
+    "la liga",
+    "bundesliga",
+    "champions league",
+    "match report",
+    "transfer news",
+    "lineup",
+    "score",
+    "vs",
+    "goal",
+    "striker"
+  ]
+}

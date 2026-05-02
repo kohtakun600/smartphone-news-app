@@ -17,8 +17,8 @@ if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
 
 // Initialize Gemini
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-// Use latest lightweight flash model
-const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-lite-001" });
+// Use the latest lightweight flash-lite alias
+const model = genAI.getGenerativeModel({ model: "gemini-flash-lite-latest" });
 const filterRules = loadFilterRules();
 const allowKeywordMatchers = filterRules.allow_keywords.map((term) => ({
     term,

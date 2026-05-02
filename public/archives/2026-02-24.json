@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-23T23:08:23.919Z",
+  "articles": [
+    {
+      "title": "Can the creator economy stay afloat in a flood of AI slop? | TechCrunch",
+      "title_ja": "AIによる大量のコンテンツ生成時代において、クリエイターエコノミーは生き残れるか？ | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-941290532.jpg?resize=1200,800",
+      "published_at": "2026-02-22T22:18:01Z",
+      "source": "TechCrunch",
+      "summary_ja": "今週のTechCrunch Equityのエピソードでは、クリエイターエコノミーの将来性と、次世代クリエイターが頭角を現せる余地があるのかについて議論されました。AIが生成する低品質なコンテンツ（slop）が溢れる中で、クリエイターは独自のブランドを確立し、どのようにして成功を収めるのかが焦点となっています。MrBeastなどの成功事例と、ハリウッドスタジオの動向が、クリエイターエコノミーの将来を占う上で重要な要素として取り上げられています。"
+    },
+    {
+      "title": "Good Luck, Have Fun, Don't Die Filmmaker on the Film's AI Component",
+      "title_ja": "映画監督が語る『Good Luck, Have Fun, Don't Die』におけるAI要素",
+      "original_url": "https://bleedingcool.com/movies/good-luck-have-fun-dont-die-filmmaker-on-the-films-ai-component/",
+      "image_url": "https://bleedingcool.com/wp-content/uploads/2025/11/GOOD-LUCK-HAVE-FUN-DONT-DIE_Still-1-1-2000x1125.jpg",
+      "published_at": "2026-02-22T22:17:06Z",
+      "source": "Bleeding Cool News",
+      "summary_ja": "ゴア・ヴァービンスキー監督の新作SFアクションコメディ『Good Luck, Have Fun, Don't Die』について、AIが映画制作にもたらした変化に焦点を当てています。物語は奇妙さを増していく展開で、AI技術がどのように活用されているのかに注目です。この映画は、AIが映画のストーリーテリングや制作プロセスに与える影響を探求しています。"
+    },
+    {
+      "title": "blazerpc 1.1.0",
+      "title_ja": "blazerpc 1.1.0",
+      "original_url": "https://pypi.org/project/blazerpc/1.1.0/",
+      "image_url": null,
+      "published_at": "2026-02-22T22:03:11Z",
+      "source": "Pypi.org",
+      "summary_ja": "このライブラリは、機械学習推論のための軽量でフレームワークに依存しないgRPCライブラリです。blazerpcのバージョン1.1.0がリリースされ、様々な技術的改善が施されています。これにより、機械学習モデルのデプロイと推論処理がより効率的になり、開発者にとって使いやすさが向上します。"
+    },
+    {
+      "title": "AWS Outages Caused By AI Agent Errors: Kiro Deletes Critical Systems",
+      "title_ja": "AWS障害はAIエージェントのエラーが原因：Kiroが重要システムを削除",
+      "original_url": "https://www.ubergizmo.com/2026/02/aws-outages-caused-by-ai/",
+      "image_url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/02/aws-outages-ai-e1771765752718.png",
+      "published_at": "2026-02-22T22:00:16Z",
+      "source": "Ubergizmo",
+      "summary_ja": "Amazon Web Services（AWS）で発生した障害は、AIツールの設定ミスが原因であることが判明しました。特に深刻なインシデントでは、自律型AIエージェントが重要システムを削除し、13時間ものサービス停止を引き起こしました。この事件は、AIによる自動化の潜在的なリスクと、インフラ管理における人間の監視の重要性を示しています。"
+    },
+    {
+      "title": "AI agent invasion has people trying to pick winners",
+      "title_ja": "AIエージェントの急増で、勝利者選びが激化",
+      "original_url": "https://japantoday.com/category/tech/ai-agent-invasion-has-people-trying-to-pick-winners",
+      "image_url": null,
+      "published_at": "2026-02-22T21:36:34Z",
+      "source": "Japan Today",
+      "summary_ja": "コード作成から税務相談まで、様々なタスクをこなすAIエージェントが急増し、テクノロジー業界と金融市場は勝利者を選別し、敗者を切り捨てようと躍起になっています。もはやOpenAIのChatGPTのような単純な存在に満足している時代ではなく、AIエージェントの活用がビジネスの成否を大きく左右する時代が到来しています。投資家は、この新たなAI時代における有望な企業を見極めようと、激しい競争を繰り広げています。"
+    },
+    {
+      "title": "Sam Altman: Know What Else Used a Lot of Energy? Human Civilization",
+      "title_ja": "サム・アルトマン氏: 多くのエネルギーを消費しているもの、それは人類文明",
+      "original_url": "https://gizmodo.com/sam-altman-know-what-else-used-a-lot-of-energy-human-civilization-2000725167",
+      "image_url": "https://gizmodo.com/app/uploads/2023/12/4ff1b0f784c6143efba708457fe531b2.jpg",
+      "published_at": "2026-02-22T21:31:27Z",
+      "source": "Gizmodo.com",
+      "summary_ja": "OpenAIのCEOであるサム・アルトマン氏は、AIの環境負荷に関する懸念に対し、人類文明も同様に多くのエネルギーを消費してきたと発言しました。インドで開催されたAIインパクトサミットでは、AIの未来と生活への浸透について議論されました。この記事では、アルトマン氏の発言を通して、AIの環境問題への見方と、その影響について考察しています。"
+    },
+    {
+      "title": "Apple Music 5.2 for Android beta adds iOS 26.4’s Playlist Playground, album redesign",
+      "title_ja": "Android版Apple Music 5.2ベータ、iOS 26.4の「プレイリストプレイグラウンド」とアルバムデザインの刷新を追加",
+      "original_url": "http://9to5google.com/2026/02/22/apple-music-5-2-android/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Apple-Music-iOS-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-02-22T21:22:51Z",
+      "source": "9to5google.com",
+      "summary_ja": "Apple MusicのAndroid版5.2ベータ版がリリースされ、iOS 26.4で導入された「プレイリストプレイグラウンド」機能が追加されました。この機能は、生成AIを活用して、ユーザーのアイデアに基づいて新しいプレイリストを作成します。さらに、アルバムデザインも刷新され、より使いやすくなりました。"
+    },
+    {
+      "title": "Singapore-listed data centre REITs post revenue growth, positive sector outlook for 2026",
+      "title_ja": "シンガポール上場データセンターREIT、増収を達成、2026年を見据えポジティブなセクター展望",
+      "original_url": "https://www.straitstimes.com/business/companies-markets/spore-listed-data-centre-reits-post-revenue-growth-positive-sector-outlook-for-2026",
+      "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/227425470935f044fbf3b9da0274bf707d4a920bd1a5bfdc0bf8a41b733f4e2d",
+      "published_at": "2026-02-22T21:01:38Z",
+      "source": "The Straits Times",
+      "summary_ja": "シンガポール上場のデータセンターREITは、AI需要を背景に2025年に力強い増収を記録し、2026年への基盤を固めました。 積極的な買収と賃料の上昇が業績を牽引し、成長に大きく貢献しました。 この結果、データセンターセクターは今後の成長に対して明るい見通しを示しています。"
+    },
+    {
+      "title": "(VIDEO) Samsung Galaxy S26 Launch Preview: Specs, AI Upgrades, Price Rumors & Release Date",
+      "title_ja": "(動画) Samsung Galaxy S26 発表プレビュー：スペック、AIアップグレード、価格の噂、発売日",
+      "original_url": "https://www.ibtimes.com.au/video-samsung-galaxy-s26-launch-preview-specs-ai-upgrades-price-rumors-release-date-1861890",
+      "image_url": "https://d.ibtimes.com.au/en/full/1891557/samsung-galaxy-s26.jpg",
+      "published_at": "2026-02-22T20:50:32Z",
+      "source": "Ibtimes.com.au",
+      "summary_ja": "Samsungは2026年2月25日にサンフランシスコで開催されるGalaxy Unpackedイベントで、Galaxy S26シリーズを発表する予定です。新モデルは、標準モデルのS26、S26 Plus、そして最上位モデルのS26 Ultraを含みます。期待されるAI機能の強化と、価格に関する噂が注目されており、最新の技術革新と影響が期待されています。"
+    },
+    {
+      "title": "The AI alarm cycle: Lots of talk, little action",
+      "title_ja": "AI警報サイクル：多くを語るが、行動は伴わず",
+      "original_url": "https://www.aljazeera.com/video/the-listening-post/2026/2/22/the-ai-alarm-cycle-lots-of-talk-little-action",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/02/image-1771789973.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-02-22T20:08:45Z",
+      "source": "Al Jazeera English",
+      "summary_ja": "人工知能（AI）に関する警鐘は多く聞かれるものの、その警告を発する人々自身が行動を変えないという矛盾を指摘しています。AI業界からの警告が相次ぐ中で、AIに関する議論がどのような影響を与えているのかが焦点となっています。この記事は、警報を発するだけにとどまる状況が、AIの発展と社会への影響に関してどのような問題を引き起こすのかを探求しています。"
+    },
+    {
+      "title": "NSW Police to set up AI centre",
+      "title_ja": "ニューサウスウェールズ州警察、AIセンターを設立へ",
+      "original_url": "https://www.itnews.com.au/news/nsw-police-to-set-up-ai-centre-623783",
+      "image_url": "https://i.nextmedia.com.au/News/nsw police.jpg",
+      "published_at": "2026-02-22T20:08:06Z",
+      "source": "iTnews",
+      "summary_ja": "ニューサウスウェールズ州警察は、AI技術の導入を統括するAIセンターの設立を初期段階で進めています。このセンターは、リスク評価を主導し、AI技術のあらゆる側面を監督することを目指しています。これにより、警察活動におけるAIの活用が強化され、より効率的なリスク管理が可能になることが期待されます。"
+    },
+    {
+      "title": "spforge 0.9.0",
+      "title_ja": "spforge 0.9.0",
+      "original_url": "https://pypi.org/project/spforge/0.9.0/",
+      "image_url": null,
+      "published_at": "2026-02-22T18:28:24Z",
+      "source": "Pypi.org",
+      "summary_ja": "このフレームワークは、スポーツデータに基づいて特徴量や評価を生成し、機械学習モデルの構築とトレーニング、推論を可能にする柔軟性の高いツールです。これにより、スポーツデータの分析と予測モデル開発が効率化されます。バージョン0.9.0へのアップデートは、このフレームワークの機能強化と安定性の向上を示唆しています。"
+    },
+    {
+      "title": "Why is Phil Spencer retiring? #gaming",
+      "title_ja": "フィル・スペンサー氏が退任する理由とは？ #ゲーム",
+      "original_url": "https://alltoc.com/gaming/why-is-phil-spencer-retiring",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "published_at": "2026-02-22T18:05:26Z",
+      "source": "Alltoc.com",
+      "summary_ja": "マイクロソフトのゲーム部門で、長年トップを務めたフィル・スペンサー氏が退任を発表しました。後任には、マイクロソフトのAI部門から新たなリーダーが就任します。この人事異動は、ゲーム業界におけるマイクロソフトの戦略転換、特にAI技術のゲーム分野への統合を加速させる可能性を示唆しています。"
+    },
+    {
+      "title": "Is OpenAI building a ChatGPT smart speaker? #tech",
+      "title_ja": "OpenAI、ChatGPT搭載スマートスピーカーを開発中か？ #テクノロジー",
+      "original_url": "https://alltoc.com/tech/is-openai-building-a-chatgpt-smart-speaker",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "published_at": "2026-02-22T18:03:22Z",
+      "source": "Alltoc.com",
+      "summary_ja": "OpenAIが消費者向けハードウェアの開発を進めており、初の製品としてカメラ内蔵のスマートスピーカーを計画していると報じられています。このデバイスは、ChatGPTを搭載し、一般消費者向けの価格帯を目指しているとのことです。もし実現すれば、AIアシスタント市場に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Future of AI in medicine: Will algorithms replace doctors?",
+      "title_ja": "医療におけるAIの未来：アルゴリズムは医師に取って代わるのか？",
+      "original_url": "https://kevinmd.com/2026/02/future-of-ai-in-medicine-will-algorithms-replace-doctors.html",
+      "image_url": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_2hf2b32hf2b32hf2-1024x717.png",
+      "published_at": "2026-02-22T18:00:01Z",
+      "source": "Kevinmd.com",
+      "summary_ja": "AIの医療分野への浸透に対する医師たちの不安が表面化している。本記事は、AIが医療にもたらす影響を多角的に分析し、特に医師の役割への影響に焦点を当てている。自動化や破壊といった言葉が飛び交う中、AI技術が医療現場にどのような変化をもたらすのか、その可能性と課題を探る。"
+    },
+    {
+      "title": "The Weekly Dirt: Palantir heads to Miami, but will the real estate impact match Citadel’s?",
+      "title_ja": "週刊ダート：パランティアがマイアミへ、不動産への影響はシタデルに匹敵するか？",
+      "original_url": "https://therealdeal.com/miami/2026/02/22/sizing-up-palantirs-move-to-miami-billionaire-migration/",
+      "image_url": "https://static.therealdeal.com/wp-content/uploads/2026/02/The-Weekly-Dirt-Palantir-heads-to-Miami-but-will-the-real-estate-impact-match-Citadels-.jpg",
+      "published_at": "2026-02-22T18:00:00Z",
+      "source": "The Real Deal",
+      "summary_ja": "AIソフトウェア企業パランティア・テクノロジーズがマイアミへの移転を発表しました。これは、テクノロジー企業誘致に力を入れるマイアミの不動産市場にとって朗報です。しかし、今回の移転が、同様にマイアミへ拠点を移した金融企業シタデルのような大きな影響を不動産市場にもたらすのか、注目が集まっています。パランティアの決断が、他のテクノロジー企業の追随を呼ぶのかも焦点です。"
+    },
+    {
+      "title": "How decentralized AI is leveling the playing field",
+      "title_ja": "分散型AIが競争環境を均等化",
+      "original_url": "https://www.coindesk.com/opinion/2026/02/22/how-decentralized-ai-is-leveling-the-playing-field",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/539b3624af3060d3b7b97245157121135786a49f-1920x1080.jpg?auto=format",
+      "published_at": "2026-02-22T18:00:00Z",
+      "source": "CoinDesk",
+      "summary_ja": "OpenAIやGoogleのような大手テクノロジー企業の独占に終止符を打つべく、新しい分散型AIネットワークが登場しています。2025年には3000億ドル規模に達すると予測されるAIインフラへの投資を背景に、分散型AIは大規模プロジェクトを推進し、AI開発における競争環境を大きく変革しようとしています。これにより、AI技術へのアクセスが民主化され、大手企業に依存しないイノベーションが加速する可能性があります。"
+    },
+    {
+      "title": "AI/ML, multiscale modeling, and emergence",
+      "title_ja": "AI/ML、マルチスケールモデリング、そして創発",
+      "original_url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/13869903/2366398143459835862",
+      "image_url": null,
+      "published_at": "2026-02-22T17:24:50Z",
+      "source": "Blogger.com",
+      "summary_ja": "最近、材料設計と制御におけるAI/機械学習とマルチスケールモデリングに関する講演を多く聴講している。この分野は急速に発展しており、様々なスケールをまたぐ現象の理解と予測にAI/MLが活用されている。これにより、材料科学における新たな知見の獲得と、より効率的な材料開発への貢献が期待されている。"
+    },
+    {
+      "title": "All the important news from the ongoing India AI Impact Summit | TechCrunch",
+      "title_ja": "開催中のインドAIインパクトサミットに関する重要ニュース | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "published_at": "2026-02-22T17:00:00Z",
+      "source": "TechCrunch",
+      "summary_ja": "インドで開催されている4日間のAIサミットには、OpenAI、Anthropic、Nvidia、Microsoft、Google、Cloudflareといった主要AIラボやビッグテックの幹部が出席しています。このサミットは、AI分野への投資を誘致し、インドにおけるAI技術の発展を促進することを目的としています。政府関係者も参加し、国家を挙げてAI分野への取り組みを強化する姿勢を示しています。"
+    },
+    {
+      "title": "Alphabet Inc. (GOOGL) Touted as AI-Driven Search Winner as Analysts See TAM Expansion",
+      "title_ja": "アナリストが市場規模拡大を予測、AI主導の検索分野でAlphabet Inc. (GOOGL) が勝利者と評価",
+      "original_url": "https://finance.yahoo.com/news/alphabet-inc-googl-touted-ai-165312836.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/QNKT1xKnwhJVeafU93VuMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "published_at": "2026-02-22T16:53:12Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "ウォールストリートでは、Alphabet Inc. (GOOGL) がAI関連の有力銘柄として注目されています。アナリストは、AI技術の発展による検索市場全体の成長を予測しており、Alphabetの優位性を強調しています。これにより、同社の株価上昇が見込まれています。"
+    }
+  ]
+}

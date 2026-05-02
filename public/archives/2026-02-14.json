@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-13T23:00:32.071Z",
+  "articles": [
+    {
+      "title": "Applied Materials jumps on earnings strength and bullish forecast tied to AI chip boom",
+      "title_ja": "アプライドマテリアルズ、AIチップブームを背景とした好調な業績と強気の業績見通しで株価急騰",
+      "original_url": "https://siliconangle.com/2026/02/12/applied-materials-jumps-earnings-strength-bullish-forecast-tied-ai-chip-boom/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/appliedmaterials.png",
+      "published_at": "2026-02-12T22:48:56Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "半導体製造装置メーカー、アプライドマテリアルズの株価が、2026年度第1四半期の好決算と好調な業績見通しにより、時間外取引で12%以上急騰しました。これは、AIチップ需要の急増を背景としたもので、同社の収益を大きく押し上げています。この動きは、半導体業界におけるAI関連技術への投資加速の期待を反映しています。"
+    },
+    {
+      "title": "iflow-mcp_sacode-searxng-simple-mcp added to PyPI",
+      "title_ja": "iflow-mcp_sacode-searxng-simple-mcp が PyPI に追加",
+      "original_url": "https://pypi.org/project/iflow-mcp_sacode-searxng-simple-mcp/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-02-12T22:47:03Z",
+      "source": "Pypi.org",
+      "summary_ja": "SearxNG を使用してウェブ検索機能を提供する Model Context Protocol (MCP) サーバーが PyPI に公開されました。これにより、ClaudeのようなAIアシスタントがウェブ検索を実行できるようになります。この技術革新は、AIの検索能力を大幅に拡張し、より多くの情報へのアクセスを可能にします。"
+    },
+    {
+      "title": "The Kindle Scribe’s latest update turns scribbles into action",
+      "title_ja": "Kindle Scribeの最新アップデートで手書きがアクションに",
+      "original_url": "https://www.androidauthority.com/amazon-kindle-scribe-generative-ai-tools-3640638/",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2025/12/Kindle-Scribe-Colorsoft-cover-scaled.jpg",
+      "published_at": "2026-02-12T22:38:15Z",
+      "source": "Android Authority",
+      "summary_ja": "AmazonのKindle Scribeは、最新アップデートにより生成AIツールを搭載し、手書きメモの要約、手書き文字の補正、検索機能の強化を実現しました。これにより、Kindle Scribeは、Amazonのサブスクリプションエコシステムとの連携をさらに深め、ユーザー体験を向上させます。また、Alexa+との連携により、手書きメモを音声で操作することも可能になります。"
+    },
+    {
+      "title": "Newly Appointed Panel on Artificial Intelligence Will Provide Rigorous, Independent, Scientific Insight on AI’s Opportunities, Risks, Impacts, Secretary-General Says",
+      "title_ja": "国連事務総長、AIに関する独立国際科学パネルの任命を発表。AIの機会、リスク、影響について厳格で独立した科学的洞察を提供。",
+      "original_url": "https://press.un.org/en/2026/sgsm23016.doc.htm",
+      "image_url": null,
+      "published_at": "2026-02-12T22:24:46Z",
+      "source": "UN News",
+      "summary_ja": "国連事務総長は、人工知能（AI）に関する独立国際科学パネルのメンバーを任命しました。このパネルは、AIがもたらす機会、リスク、影響について、厳密で独立した科学的分析を提供することを目指します。世界的なAIの発展と、それに関連する課題に対して、専門的な見地から洞察を与えることが期待されます。"
+    },
+    {
+      "title": "Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months",
+      "title_ja": "マイクロソフトAI CEO、18ヶ月以内に「ほぼすべての」ホワイトカラー業務がAIによって自動化されると予測",
+      "original_url": "https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2",
+      "image_url": "https://i.insider.com/698e4b80d3c7faef0ece32cc?width=1200&format=jpeg",
+      "published_at": "2026-02-12T22:16:45Z",
+      "source": "Business Insider",
+      "summary_ja": "マイクロソフトAIのCEO、ムスタファ・スレイマン氏は、AIが12〜18ヶ月以内にホワイトカラー業務を自動化できると予測しています。AI技術が人間レベルのパフォーマンスに達し、多くの業務を効率化すると見込んでいます。これにより、労働市場や業務プロセスに大きな変革がもたらされる可能性があります。"
+    },
+    {
+      "title": "OpenAI says China's DeepSeek trained its AI by distilling US models, memo shows",
+      "title_ja": "OpenAI、中国DeepSeekが米国モデルを蒸留してAIを訓練したと警告、内部文書で判明",
+      "original_url": "https://finance.yahoo.com/news/openai-accuses-deepseek-distilling-us-221629899.html",
+      "image_url": "https://s.yimg.com/os/en/reuters-finance.com/fe0b84c94831e95847f5f0caca18f63a",
+      "published_at": "2026-02-12T22:16:29Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "OpenAIの内部文書によると、中国のAIスタートアップDeepSeekが、OpenAIや他の米国の主要AI企業を標的とし、米国モデルから技術を抽出（蒸留）してAIを訓練していると警告しています。この動きは、米中のAI技術競争における新たな緊張を浮き彫りにしています。DeepSeekによる技術取得の手法は、今後のAI開発競争に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Amazon Bedrock adds support for the latest open-weight models in Asia Pacific (Sydney)",
+      "title_ja": "Amazon Bedrock、アジアパシフィック（シドニー）で最新のオープンウェイトモデルのサポートを追加",
+      "original_url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-support-latest-open-weight-models-asia-pacific-sydney/",
+      "image_url": null,
+      "published_at": "2026-02-12T22:14:00Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon Bedrockは、企業向けの高性能な基盤モデルへのアクセスを提供するサービスです。今回のアップデートにより、アジアパシフィック（シドニー）リージョンで最新のオープンウェイトモデルが利用可能になりました。これにより、生成AIアプリケーションの開発と拡張がさらに容易になり、アジア太平洋地域におけるAI活用の可能性を広げます。"
+    },
+    {
+      "title": "Bank of Canada Deputy Governor Says Economy Needs Small Business AI",
+      "title_ja": "カナダ銀行副総裁、中小企業におけるAI活用が経済に必要と発言",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/bank-of-canada-deputy-governor-says-economy-needs-small-business-ai/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/02/Bank-Canada-AI.png",
+      "published_at": "2026-02-12T22:10:36Z",
+      "source": "pymnts.com",
+      "summary_ja": "カナダ銀行の副総裁は、中小企業における人工知能 (AI) の幅広い導入がカナダの生産性を向上させる可能性があると述べました。 この発言は、経済成長を促進するために中小企業によるAI技術の積極的な活用を促すものであり、カナダ経済への影響が注目されています。 副総裁は、AI導入が生産性向上だけでなく、イノベーションを加速させる可能性についても言及しています。"
+    },
+    {
+      "title": "Apple Music subscribers may soon be able to generate AI playlists",
+      "title_ja": "Apple Music加入者、AIプレイリストの生成が可能になる可能性",
+      "original_url": "https://macdailynews.com/2026/02/12/apple-music-subscribers-may-soon-be-able-to-generate-ai-playlists/",
+      "image_url": "https://macdailynews.com/wp-content/uploads/2023/11/231129_apple_music.png",
+      "published_at": "2026-02-12T22:05:27Z",
+      "source": "Macdailynews.com",
+      "summary_ja": "Apple MusicがAIを活用したプレイリスト生成機能を導入する可能性が出てきました。他の音楽ストリーミングサービスでAIプレイリストが人気を集めていることを踏まえ、Appleも追随する動きと見られます。この機能により、ユーザーは自身の好みに合わせた、よりパーソナライズされた音楽体験を享受できるようになるでしょう。"
+    },
+    {
+      "title": "Japan chip industry reports solid profit growth amid AI boom",
+      "title_ja": "日本の半導体業界、AIブームを受け堅調な利益成長を報告",
+      "original_url": "https://japantoday.com/category/tech/japan-chip-industry-reports-solid-profit-growth-amid-ai-boom",
+      "image_url": null,
+      "published_at": "2026-02-12T21:55:46Z",
+      "source": "Japan Today",
+      "summary_ja": "日本の主要半導体企業は、4月から12月までの期間に力強い業績を報告しました。人工知能（AI）向けのチップ需要増加を背景に、一部企業は当期の業績予想を上方修正しています。AI関連需要が、日本の半導体業界の収益を押し上げ、今後の更なる成長を牽引する見込みです。"
+    },
+    {
+      "title": "SoftBank Group sees profitability return on AI boom",
+      "title_ja": "ソフトバンクグループ、AIブームで収益性回復",
+      "original_url": "https://japantoday.com/category/tech/japan%27s-technology-investor-softbank-group-sees-profitability-return-on-ai-boom",
+      "image_url": null,
+      "published_at": "2026-02-12T21:55:05Z",
+      "source": "Japan Today",
+      "summary_ja": "ソフトバンクグループは、OpenAIなどへの投資が奏功し、2025年最終四半期に黒字転換を果たしました。AI関連ベンチャーへの積極的な投資が、グループ全体の収益を押し上げる結果となりました。この業績回復は、AI分野への投資がもたらす大きな影響を示唆しています。"
+    },
+    {
+      "title": "What one company’s shift towards data centers says about Imperial County’s lithium industry",
+      "title_ja": "ある企業のデータセンターへのシフトが、インペリアル郡のリチウム産業に与える影響",
+      "original_url": "https://www.kpbs.org/news/environment/2026/02/12/what-one-companys-shift-towards-data-centers-says-about-imperial-countys-lithium-industry",
+      "image_url": "https://cdn.kpbs.org/dims4/default/555d6d6/2147483647/strip/true/crop/1500x788+0+107/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F5d%2F9f%2F809cd69f466a954d15a860983ec4%2F20240319-imperial-valley-file-geothermal-280.jpg",
+      "published_at": "2026-02-12T21:54:59Z",
+      "source": "KPBS",
+      "summary_ja": "サルタン海周辺でリチウム採掘を計画している3つのエネルギー企業のうちの1社であるControlled Thermal Resourcesが、急成長する人工知能（AI）産業への電力供給に焦点を当て始めています。この動きは、リチウム抽出よりもAI分野の需要に対応する戦略転換を示唆しており、インペリアル郡のリチウム産業に大きな影響を与える可能性があります。この変化は、AI技術の発展がもたらす電力需要の高まりと、エネルギー供給における優先順位の変化を浮き彫りにしています。"
+    },
+    {
+      "title": "Attackers Attempt to Clone Google Gemini With Over 100,000 Prompts",
+      "title_ja": "攻撃者、10万件以上のプロンプトでGoogle Geminiのクローン作成を試みる",
+      "original_url": "https://www.androidheadlines.com/2026/02/attackers-attempt-to-clone-google-gemini-with-over-100000-prompts.html",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2024/07/Gemini-Logo-15x10-1.png",
+      "published_at": "2026-02-12T21:50:25Z",
+      "source": "Android Headlines",
+      "summary_ja": "Googleは、攻撃者がGemini AIをクローンしようと、10万件以上のプロンプトを送信したインシデントを報告しました。この試みは、計画的なプロンプト攻撃によるもので、AIモデルの複製を目的としています。今回の事例は、AIモデルに対する攻撃の新たな手口と、その対策の重要性を示唆しています。"
+    },
+    {
+      "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in February",
+      "title_ja": "2月に今すぐ買うべき、明白な人工知能（AI）関連の優良株",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6930652-0031-478c-983a-8c1293df598a",
+      "image_url": null,
+      "published_at": "2026-02-12T21:50:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "この記事では、2月に積極的に購入を検討すべき2つのAI関連銘柄を紹介しています。これらの銘柄は、AI技術の成長トレンドを捉え、将来的な大きな成長が見込まれます。投資家にとって、AI分野への参入機会を提示し、ポートフォリオの多様化と潜在的なリターン向上に貢献する可能性があります。"
+    },
+    {
+      "title": "Using an AI chatbot for health advice? Keep these tips in mind",
+      "title_ja": "AIチャットボットで健康に関するアドバイスを受ける際に注意すべきこと",
+      "original_url": "https://news.yale.edu/2026/02/12/using-ai-chatbot-health-advice-keep-these-tips-mind",
+      "image_url": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-02/YNews-Chatbots-medical-advice.jpg?h=fcf25457&itok=6iGe_eY7",
+      "published_at": "2026-02-12T21:46:24Z",
+      "source": "Yale.edu",
+      "summary_ja": "ChatGPTのようなAIチャットボットが健康に関するアドバイスを提供するサービスを開始しており、消費者が利用するケースが増えています。この記事では、臨床医で教育者のシャイリ・グプタ氏が、AIチャットボットの利用におけるメリットとリスクについて解説しています。患者がAIチャットボットから得た情報をもとに相談に来るケースも増えており、その情報源の信頼性を見極める重要性を示唆しています。"
+    },
+    {
+      "title": "Artificial Intelligence Is Here for Your Children",
+      "title_ja": "AI (人工知能) があなたの子供たちのためにやってきた",
+      "original_url": "https://www.dailysignal.com/2026/02/12/artificial-intelligence-is-here-for-your-children/",
+      "image_url": "https://www.dailysignal.com/wp-content/uploads/2026/02/260212_AI.jpeg",
+      "published_at": "2026-02-12T21:45:00Z",
+      "source": "Daily Signal",
+      "summary_ja": "現代の子供たちの生活には、人工知能 (AI) が不可避的に存在しています。この記事は、5年前の育児書では想像もできなかったAIの浸透について述べています。親がAIについて無知であることの重大さにも触れており、子供たちの未来に与える影響に焦点を当てています。"
+    },
+    {
+      "title": "Stocks Fall Sharply Amid AI 'Disruption' Worries",
+      "title_ja": "AIの「破壊」懸念で株価が急落",
+      "original_url": "https://www.newser.com/story/383654/stocks-fall-sharply-amid-ai-disruption-worries.html",
+      "image_url": "https://img1-azrcdn.newser.com/image/1664638-12-20260212160619.jpeg",
+      "published_at": "2026-02-12T21:41:00Z",
+      "source": "Newser",
+      "summary_ja": "AI技術による「破壊」への懸念から、木曜日に米国株式市場は急落しました。S&P500は1.6%下落し、感謝祭以降で2番目に大きな下げ幅となりました。AIの台頭により、市場は特定の企業が潜在的な敗者になると見ており、その影響が株価に反映されています。ソフトウェア企業AppLovinは、好調な四半期決算にも関わらず、約20%の大幅な株価下落を記録しました。"
+    },
+    {
+      "title": "Cursor claims more than 30,000 Nvidia engineers commit 3x more code and make coding 'a lot more fun than it used to be', but is it too good to be true?",
+      "title_ja": "Cursor、3万人以上のNVIDIAエンジニアが3倍のコードをコミットし、コーディングが「以前よりずっと楽しくなった」と主張。しかし、それは現実的か？",
+      "original_url": "https://www.techradar.com/pro/cursor-claims-more-than-30-000-nvidia-engineers-commit-3x-more-code-and-make-coding-a-lot-more-fun-than-it-used-to-be-but-is-it-too-good-to-be-true",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WgYZVv6ucLUnQDJXEGANqc-2560-80.jpg",
+      "published_at": "2026-02-12T21:40:00Z",
+      "source": "TechRadar",
+      "summary_ja": "Cursorは、AIツールを利用することで、NVIDIAのエンジニアが3倍のコードをコミットしていると主張しています。NVIDIAは、コード量の増加にもかかわらず、欠陥率は横ばいを維持していると述べています。しかし、業界専門家は、生成されたコードの品質と安定性について懐疑的な見方を示しており、この主張の信憑性には疑問符がついています。"
+    },
+    {
+      "title": "Amazon Bedrock expands support for AWS PrivateLink",
+      "title_ja": "Amazon BedrockがAWS PrivateLinkのサポートを拡大",
+      "original_url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-expands-aws-privatelink-support-openai-api-endpoints/",
+      "image_url": null,
+      "published_at": "2026-02-12T21:40:00Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon Bedrockは、主要なAI企業の高パフォーマンスな基盤モデルへの安全なアクセスを提供するフルマネージドサービスです。AWS PrivateLinkのサポート拡大により、企業はより安全な環境で生成AIアプリケーションを構築・拡張できるようになります。この拡張は、企業における生成AIの導入とスケーリングを促進します。"
+    },
+    {
+      "title": "Logistics stocks sink as AI fear trade finds latest victim",
+      "title_ja": "AIへの脅威から物流株が暴落、最新の犠牲者に",
+      "original_url": "https://financialpost.com/transportation/logistics-stocks-sink-ai-fear-trade",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/0213-mg-trucks.jpg",
+      "published_at": "2026-02-12T21:29:18Z",
+      "source": "Financial Post",
+      "summary_ja": "人工知能（AI）による業界変革への懸念から、物流関連株が木曜日に急落しました。投資家がAIによる事業への影響を恐れて売りに出たためです。これは、AI関連の懸念が広がる中で、物流業界が最新の犠牲者となったことを示しています。"
+    }
+  ]
+}

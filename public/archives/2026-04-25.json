@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-24T23:07:30.929Z",
+  "articles": [
+    {
+      "title": "Asia Optical and Frore Systems team up on AI data center cooling",
+      "title_ja": "アジア光学とFrore Systems、AIデータセンター冷却で提携",
+      "original_url": "https://www.digitimes.com/news/a20260423PD238/asia-optical-data-cooling-performance-industrial.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260423pd238_files/1_b.jpg",
+      "published_at": "2026-04-23T23:05:22Z",
+      "source": "Digitimes",
+      "summary_ja": "アジア光学とFrore Systemsが、AIデータセンター向けの液冷ソリューション共同開発でMoUを締結しました。急増する計算処理需要に対応するため、熱管理の課題解決を目指します。両社の提携は、AI技術の進化に伴うデータセンターの冷却技術革新に貢献する可能性があります。"
+    },
+    {
+      "title": "numerapi 2.23.1",
+      "title_ja": "numerapi 2.23.1",
+      "original_url": "https://pypi.org/project/numerapi/2.23.1/",
+      "image_url": null,
+      "published_at": "2026-04-23T23:01:14Z",
+      "source": "Pypi.org",
+      "summary_ja": "Numeraiの機械学習コンペティション向けに、データダウンロードとアップロードを自動化するツール、numerapiのバージョン2.23.1がリリースされました。このツールは、コンペティション参加者がデータ管理を効率化し、より分析に集中できるよう支援します。 詳細は記事には記載されていませんが、自動化されたデータフローが改善された可能性が考えられます。"
+    },
+    {
+      "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
+      "title_ja": "トランプ政権、米国製AIモデルを「悪用」する中国企業への取り締まりを表明",
+      "original_url": "https://www.seattlepi.com/business/article/trump-administration-vows-crackdown-on-chinese-22223109.php",
+      "image_url": null,
+      "published_at": "2026-04-23T22:51:15Z",
+      "source": "seattlepi.com",
+      "summary_ja": "トランプ政権は、中国がAI分野で米国との差を縮めている中、米国製AIモデルを「悪用」する外国企業、特に中国企業に対する取り締まりを強化する方針です。これは、AI技術における米国の優位性を維持し、国家安全保障上のリスクを軽減することを目的としています。具体的な措置については今後の発表に注目が集まります。"
+    },
+    {
+      "title": "Meta cuts 10% of staff, cancels 6,000 open roles in AI efficiency push",
+      "title_ja": "Meta、人員の10%を削減、AI効率化への取り組みで6,000件の求人をキャンセル",
+      "original_url": "https://siliconangle.com/2026/04/23/meta-cuts-10-staff-cancels-6000-open-roles-ai-efficiency-push/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Meta_Headquarters_Sign.jpg",
+      "published_at": "2026-04-23T22:48:27Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "Meta社は、AIへの巨額投資を相殺するため、人員の約10%にあたる8,000人のレイオフと、6,000件の求人を取り消す計画を発表しました。この人員削減は、AI技術への効率的な投資を目的としたもので、Metaの事業構造改革の一環として行われます。これにより、AI分野への注力体制を強化し、コスト削減を図る狙いがあります。"
+    },
+    {
+      "title": "AI data centers: The new populist target",
+      "title_ja": "AIデータセンター：新たなポピュリズムの標的",
+      "original_url": "https://www.wnd.com/2026/04/ai-data-centers-new-populist-target/",
+      "image_url": "https://www.wnd.com/wp-content/uploads/2013/12/nsa_utah_data_center.jpg",
+      "published_at": "2026-04-23T22:45:13Z",
+      "source": "Wnd.com",
+      "summary_ja": "アメリカ政治において、AIデータセンターが自由市場と技術革新に対する不満の矛先として台頭しています。経済的な問題の原因を、技術進歩そのものに帰する風潮が強まっています。しかし、技術的な未来から逃れることは現実的な選択肢ではなく、むしろ時代への降伏に等しいと論じられています。"
+    },
+    {
+      "title": "Trump administration targets foreign exploitation of US AI models",
+      "title_ja": "トランプ政権、米国のAIモデルの外国による不正利用を標的",
+      "original_url": "https://apnews.com/article/ai-china-us-model-distillation-kratsios-a5c40346394ef5fa9ae710c5aabdc62c",
+      "image_url": "https://dims.apnews.com/dims4/default/a5e0865/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd4%2F92df95a1ebaf688ba30443e55c0b%2Fa2b5880a16124b8d93e6497a5831d032",
+      "published_at": "2026-04-23T22:42:02Z",
+      "source": "Associated Press",
+      "summary_ja": "トランプ政権は、中国がAI分野で米国との差を縮める中、米国の人工知能（AI）モデルの外国企業による不正利用を取り締まる方針を示しました。これは、AI技術における米国の優位性を維持し、国家安全保障上の懸念に対応することを目的としています。今回の措置は、AI競争における中国の台頭に対する警戒感の表れとも言えます。"
+    },
+    {
+      "title": "Can We Get A.I. Out of Schools?",
+      "title_ja": "学校からAIを排除することは可能か？",
+      "original_url": "https://www.newyorker.com/newsletter/the-daily/can-we-get-ai-out-of-schools",
+      "image_url": "https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/16:9/w_1280,c_limit/newsletter-flagship-daily-header2.png",
+      "published_at": "2026-04-23T22:30:00Z",
+      "source": "The New Yorker",
+      "summary_ja": "AIが教育現場に急速に浸透し、その普及の危険性が指摘されています。この記事は、AIが私たちの日常生活に深く入り込んでいる現状を踏まえ、学校におけるAI利用の是非を問いかけています。AIの過度な導入がもたらす影響を考察し、教育現場におけるAIの適切な活用方法について議論を深めます。"
+    },
+    {
+      "title": "Instant Reaction: Intel Gives Strong AI-Fueled Outlook",
+      "title_ja": "速報：インテル、AI需要を背景に力強い業績見通しを発表",
+      "original_url": "https://omny.fm/shows/the-tape/instant-reaction-intel-gives-strong-ai-fueled-outlook",
+      "image_url": "https://omny.fm/shows/the-tape/instant-reaction-intel-gives-strong-ai-fueled-outlook/image.jpg?t=1750939341&size=wideShare",
+      "published_at": "2026-04-23T22:29:01Z",
+      "source": "Omny.fm",
+      "summary_ja": "インテルは、AIインフラの拡大を背景に、今四半期の売上高予測を上方修正し、力強い業績見通しを示しました。長らく苦戦していた半導体メーカーが、ついにAI分野での需要増加の恩恵を受け始めています。これは、AI技術の発展とそれに伴うインフラ投資の加速が、業界全体に大きな影響を与えていることを示唆しています。"
+    },
+    {
+      "title": "hyrax 0.8.1",
+      "title_ja": "hyrax 0.8.1",
+      "original_url": "https://pypi.org/project/hyrax/0.8.1/",
+      "image_url": null,
+      "published_at": "2026-04-23T22:20:18Z",
+      "source": "Pypi.org",
+      "summary_ja": "hyrax 0.8.1は、天文学における機械学習の迅速な実験を可能にするローコードソリューションです。拡張性が高く、天文学研究者が容易にMLモデルを試せるように設計されています。記事本文はサイトのロードエラーについて言及しており、ブラウザ拡張機能、ネットワーク、または設定の問題を示唆しています。"
+    },
+    {
+      "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "title_ja": "イーロン・マスクとサム・アルトマンの法廷対決、真実が露呈へ",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-04-23T22:19:41Z",
+      "source": "The Verge",
+      "summary_ja": "イーロン・マスクとサム・アルトマンの法廷闘争は、世間の注目を集める裁判として、4月27日にカリフォルニア州オークランドで開始予定です。裁判では、OpenAI共同創設者であるマスクと、CEOのアルトマンとの間で、様々な確執が明らかになる可能性があります。陪審員による審理は行われず、世論への影響が重視される見込みです。"
+    },
+    {
+      "title": "How California can counter China on AI — and engineer a big US win",
+      "title_ja": "カリフォルニアはいかにしてAIで中国に対抗し、米国の大勝利を築けるか",
+      "original_url": "https://nypost.com/2026/04/23/opinion/how-california-can-counter-china-on-ai/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/crop-39179492.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-23T22:17:22Z",
+      "source": "New York Post",
+      "summary_ja": "この記事は、AI開発における中国と米国の対比を、まるで世界選手権の準備をする2つのチームに例えています。カリフォルニアが、明確な戦略と連携によってAI分野で中国に対抗し、米国全体の勝利を導く可能性について考察しています。米国は、高い技術力を持つものの、戦略の統一に課題を抱えている現状を指摘し、今後の発展に向けた示唆を与えています。"
+    },
+    {
+      "title": "Clio Work, Clio’s AI Workspace, Is Now Available To Solo And Smaller Law Firms As A Standalone Product",
+      "title_ja": "リーガルテック企業Clio、AIワークスペース「Clio Work」を独立型製品として中小規模法律事務所向けに提供開始",
+      "original_url": "https://www.lawnext.com/2026/04/clio-work-clios-ai-workspace-is-now-available-to-solo-and-smaller-law-firms-as-a-standalone-product.html",
+      "image_url": "https://www.lawnext.com/wp-content/uploads/2026/04/ClioWorkFeaturedImage.png",
+      "published_at": "2026-04-23T22:16:00Z",
+      "source": "Lawnext.com",
+      "summary_ja": "リーガルテック企業Clioが、AIを活用した法律業務支援ツール「Clio Work」を独立した製品として提供開始しました。これにより、これまではClio Manageの加入者に限定されていた同製品が、中小規模の法律事務所でも利用可能となり、リーガルリサーチ、分析、戦略立案などの業務効率化を促進します。この動きは、AI技術を法的業務に統合する流れを加速させる可能性があります。"
+    },
+    {
+      "title": "With jaw-dropping $1 trillion valuation, Anthropic overtakes OpenAI in market cap race",
+      "title_ja": "驚異の1兆ドル評価額で、AnthropicがOpenAIの時価総額レースで首位を奪取",
+      "original_url": "https://nypost.com/2026/04/23/business/with-jaw-dropping-1-trillion-valuation-anthropic-overtakes-openai-in-market-cap-race/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/2026-anthropic-pbc-donating-20-126254646.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-23T22:15:45Z",
+      "source": "New York Post",
+      "summary_ja": "AI企業Anthropicの株式争奪戦の結果、一部取引プラットフォームでの評価額が1兆ドルに達し、OpenAIを時価総額で上回る事態となりました。これはAI競争における大きな変化を示唆しています。投資家からの強い需要が、この高評価額を支えています。"
+    },
+    {
+      "title": "Meta lines up layoffs while Microsoft offers buyouts",
+      "title_ja": "Metaがレイオフを計画、一方Microsoftは早期退職制度を提示",
+      "original_url": "https://www.aljazeera.com/economy/2026/4/23/meta-lines-up-layoffs-while-microsoft-offers-buyouts",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST-1770666518.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-23T22:11:29Z",
+      "source": "Al Jazeera English",
+      "summary_ja": "Metaは、AIインフラへの投資を加速させる中で、従業員の約10％にあたる8,000人をレイオフする方針を発表しました。一方、Microsoftは、従業員8,750人に対し、早期退職制度を提供しています。これは、Windowsメーカーとしては異例の対応です。両社ともに、AI分野への注力を背景に、人員調整を行っている状況です。"
+    },
+    {
+      "title": "Fox News Poll: Voters see AI as a risk to privacy and paychecks",
+      "title_ja": "FOXニュース世論調査：有権者はAIをプライバシーと給与へのリスクと認識",
+      "original_url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/doctor-ai.jpg",
+      "published_at": "2026-04-23T22:00:02Z",
+      "source": "Fox News",
+      "summary_ja": "FOXニュースの最新世論調査によると、多くの有権者が人工知能（AI）をプライバシーと雇用への脅威と見なしており、AIに対する全体的な否定的な印象を強めています。この調査結果は、AI技術の急速な発展と社会への浸透が進む中で、その影響に対する国民の不安を浮き彫りにしています。結果として、AIに対する否定的な意見が54%に達し、今後のAI技術の発展と社会受容に影響を与える可能性があります。"
+    },
+    {
+      "title": "Meta slashes 8,000 jobs, or 10% of its workforce; Microsoft offers buyouts",
+      "title_ja": "Metaが従業員8,000人（全体の10%）を削減、Microsoftは早期退職制度を提示",
+      "original_url": "https://japantoday.com/category/tech/meta-slashes-8-000-jobs-or-10-of-its-workforce-as-microsoft-offers-buyouts",
+      "image_url": null,
+      "published_at": "2026-04-23T21:45:47Z",
+      "source": "Japan Today",
+      "summary_ja": "Metaは、AIインフラへの投資とAI専門家の雇用を強化するため、人員削減を発表し、全従業員の約10%に当たる8,000人を解雇します。Microsoftも同様に、人員削減の一環として早期退職制度を提示しています。これらの動きは、テクノロジー業界におけるAIへの注力の高まりと、それに伴う組織再編の加速を反映しています。"
+    },
+    {
+      "title": "White House accuses China of ‘deliberate, industrial-scale campaigns’ to steal US AI models",
+      "title_ja": "ホワイトハウス、中国を米国のAIモデル窃取を目的とした「意図的な、産業規模のキャンペーン」で非難",
+      "original_url": "https://www.nextgov.com/artificial-intelligence/2026/04/white-house-accuses-china-deliberate-industrial-scale-campaigns-steal-us-ai-models/413083/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/04/23/042326ChinaAING/open-graph.jpg",
+      "published_at": "2026-04-23T21:40:00Z",
+      "source": "Nextgov",
+      "summary_ja": "ホワイトハウスは、中国を含む外国が米国のAIモデルを盗むための大規模なキャンペーンを展開していると非難しました。この動きに対し、トランプ政権は民間セクターとの連携を強化し、AI分野における米国の優位性を守るための対策を講じています。具体的には、米国のAI技術を劣化させる目的で設計された、外国主導のモデル蒸留キャンペーンに対抗していく方針です。"
+    },
+    {
+      "title": "AI threats in the wild: The current state of prompt injections on the web",
+      "title_ja": "野生でのAI脅威：Web上におけるプロンプトインジェクションの現状",
+      "original_url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/1176949257541686127/820776653483778595",
+      "image_url": null,
+      "published_at": "2026-04-23T21:38:00Z",
+      "source": "Blogger.com",
+      "summary_ja": "Googleの研究者たちは、プロンプトインジェクションと呼ばれる、AIモデルを悪用する攻撃の現状を調査しました。この研究は、AIモデルへの不正アクセスやデータの漏洩につながる可能性のある、Web上でのプロンプトインジェクションの脅威を明らかにしています。この問題に対処するために、Googleは、防御策と対応策の開発に注力しています。"
+    },
+    {
+      "title": "Australia joins countries trialing Claude Mythos 'to ​make sure we are aware of emerging vulnerabilities'",
+      "title_ja": "オーストラリア、Claude Mythosの試験運用に参加、「新たな脆弱性を把握するため」",
+      "original_url": "https://www.techradar.com/pro/security/australia-joins-countries-trialing-claude-mythos-to-make-sure-we-are-aware-of-emerging-vulnerabilities",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg",
+      "published_at": "2026-04-23T21:30:00Z",
+      "source": "TechRadar",
+      "summary_ja": "オーストラリア政府は、Anthropicなどと連携し、最新のサイバーセキュリティ脆弱性に関する情報収集を行っています。これは、AnthropicのMythos Previewなど、様々なAIモデルの脆弱性評価を目的としています。今回の取り組みは、AI技術の進化に伴うリスクを軽減し、安全な利用環境を確保するための政府主導の対策の一環です。"
+    },
+    {
+      "title": "How Genie Code is Transforming Data Workflows in Databricks",
+      "title_ja": "DatabricksのGenie Codeがデータワークフローをどのように変革するか",
+      "original_url": "https://www.c-sharpcorner.com/article/how-genie-code-is-transforming-data-workflows-in-databricks/",
+      "image_url": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "published_at": "2026-04-23T21:29:23Z",
+      "source": "C-sharpcorner.com",
+      "summary_ja": "DatabricksのGenie Codeは、AI支援コーディングから自律型エージェントまで、データワークフローを革新的に変貌させています。これにより、データチームはデータ処理をより効率的に、そして自律的に行えるようになります。結果として、データエンジニアリングと分析の効率化が大きく加速し、データ活用の新たな可能性を切り開くでしょう。"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-16T22:57:59.924Z",
+  "articles": [
+    {
+      "title": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis",
+      "title_ja": "AI需要の急増がメモリ不足を加速、深刻化する半導体チップ危機",
+      "original_url": "https://financialpost.com/pmn/business-pmn/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/hyperscaler-spending-soars-as-firms-double-down-on-ai-combi-2.jpg",
+      "published_at": "2026-02-15T22:48:58Z",
+      "source": "Financial Post",
+      "summary_ja": "人工知能（AI）の需要急増が、メモリチップの供給不足という深刻な問題を引き起こしています。イーロン・マスク氏やティム・クック氏など、業界リーダーが警告を発しており、企業利益の圧迫、計画の遅延、製品価格の高騰につながる恐れがあります。この構造的な需給バランスの崩壊は一時的なものではなく、長期化する可能性が高いと見られています。"
+    },
+    {
+      "title": "‘Pulp Fiction’ Co-Writer Roger Avary Announces 3 AI-Driven Films “In Active Production”",
+      "title_ja": "映画『パルプ・フィクション』共同脚本家ロジャー・アヴァリー、AI駆動型映画3作品を「積極的に製作中」と発表",
+      "original_url": "http://deadline.com/2026/02/roger-avary-3-ai-films-active-production-1236725619/",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-1180531698.jpg?w=1024",
+      "published_at": "2026-02-15T22:48:40Z",
+      "source": "Deadline",
+      "summary_ja": "映画『パルプ・フィクション』の共同脚本家ロジャー・アヴァリーが、ジェネレーティブAIを活用した映画製作に乗り出し、Massive AI Studiosと提携しました。彼の製作会社General Cinema Dynamicsは、AI技術を駆使した3つの映画作品を積極的に製作中であると発表し、映画業界に新たな潮流を巻き起こす可能性があります。これにより、AIが映画製作のプロセスにどのように影響を与えるのか、注目が集まっています。"
+    },
+    {
+      "title": "Continuous batching from first principles (2025)",
+      "title_ja": "第一原理に基づく連続バッチ処理 (2025)",
+      "original_url": "https://huggingface.co/blog/continuous_batching",
+      "image_url": "https://huggingface.co/blog/assets/continuous_batching/thumbnail.png",
+      "published_at": "2026-02-15T22:47:26Z",
+      "source": "Huggingface.co",
+      "summary_ja": "この記事では、AttentionメカニズムとKVキャッシングを出発点として、スループットを最大化するために最適化された連続バッチ処理を解説しています。 QwenやClaudeといったAIチャットボットで既に採用されている技術であり、AIの性能向上に貢献する可能性があります。 オープンソースとオープンサイエンスを通じて、AI技術の発展と民主化を目指す取り組みの一環です。"
+    },
+    {
+      "title": "OpenAI hires OpenClaw founder Peter Steinberger in push toward autonomous agents",
+      "title_ja": "OpenAI、自律型エージェント開発強化に向け、OpenClaw創設者Peter Steinberger氏を迎え入れる",
+      "original_url": "https://siliconangle.com/2026/02/15/openai-hires-openclaw-founder-peter-steinberger-push-toward-autonomous-agents/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/PeterSteinberger.png",
+      "published_at": "2026-02-15T22:43:07Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "急速に成長しているオープンソースのエージェントフレームワークOpenClawの創設者であるPeter Steinberger氏が、OpenAIに参画します。これは、複数の主要AI企業による争奪戦の末、OpenAIが獲得したものであり、自律型エージェント技術開発における大きな前進を意味します。Steinberger氏の専門知識は、OpenAIの技術革新を加速させ、AI分野における競争をさらに激化させるでしょう。"
+    },
+    {
+      "title": "Copyright Infringement: Disney, Paramount-Skydance Send Cease and Desist Letters to China's ByteDance Over Viral AI Videos",
+      "title_ja": "著作権侵害：ディズニー、パラマウント-スカイダンス、中国ByteDanceにAI動画による権利侵害で停止通知",
+      "original_url": "https://www.breitbart.com/entertainment/2026/02/15/copyright-infringement-disney-paramount-skydance-send-cease-and-desist-letters-to-chinas-bytedance-over-viral-ai-videos/",
+      "image_url": "https://media.breitbart.com/media/2026/02/tomcruisebradpitt-640x335.jpg",
+      "published_at": "2026-02-15T22:36:28Z",
+      "source": "Breitbart News",
+      "summary_ja": "ディズニーとパラマウント-スカイダンスは、中国ByteDanceに対し、最近公開されたSeedance 2.0という超リアルなAI動画による著作権侵害を理由に、法的措置を警告する停止通知を送付しました。このSeedance 2.0は、高度なAI技術を利用して、既存の映像作品を模倣したものであり、両社は知的財産権の侵害を主張しています。ByteDanceによるAI技術の利用が、映画業界に大きな影響を与える可能性があり、今後の展開が注目されます。"
+    },
+    {
+      "title": "aitraining 0.0.38",
+      "title_ja": "aitraining 0.0.38",
+      "original_url": "https://pypi.org/project/aitraining/0.0.38/",
+      "image_url": null,
+      "published_at": "2026-02-15T22:24:34Z",
+      "source": "Pypi.org",
+      "summary_ja": "これは、開発中の高度な機械学習トレーニングプラットフォームであるaitrainingのバージョン0.0.38です。このプラットフォームは、最新の技術を活用して機械学習モデルの訓練を効率化することを目指しています。しかし、記事内容は読み込めず、ブラウザの問題やネットワーク接続、またはブラウザの設定に関連する問題を示唆しています。"
+    },
+    {
+      "title": "AI and the Anti-Relationship",
+      "title_ja": "AIと反関係性",
+      "original_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202602/ai-and-the-anti-relationship",
+      "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-02/Anti-Relationship.png.jpg?itok=VTksQ_Vd",
+      "published_at": "2026-02-15T22:24:29Z",
+      "source": "Psychology Today",
+      "summary_ja": "AIとの関係性について考察する記事です。対話が相互に影響し合うことで関係が築かれるという前提に基づき、AIとの関係性が成立し得るのかという根本的な問いを投げかけています。AIとの関わり方を深く掘り下げ、今後の人間とAIの関係性に示唆を与えています。"
+    },
+    {
+      "title": "Paramount Insists ByteDance Stop Use of Copyrighted Material to Train AI Models in Cease-and-Desist: ‘Blatant Infringement’",
+      "title_ja": "パラマウント、著作権侵害でByteDanceにAIモデル訓練への著作物利用停止を要求: 「あからさまな侵害」",
+      "original_url": "https://www.thewrap.com/industry-news/public-policy-legal/paramount-bytedance-stop-copyrighted-material-train-ai-cease-and-desist/",
+      "image_url": "https://www.thewrap.com/wp-content/uploads/2026/02/TheWrap-Photos-11-2.jpg",
+      "published_at": "2026-02-15T21:57:41Z",
+      "source": "TheWrap",
+      "summary_ja": "パラマウントは、ByteDanceがAIモデルの訓練に著作権保護された素材を違法に利用していると非難し、使用停止を要求しました。ハリウッドスタジオは、ジェネレーティブAIモデルが著作権侵害の温床になっていると問題視しており、この動きは業界全体での反発を強めています。ByteDanceのAI開発に対する法的な圧力がさらに高まる可能性があります。"
+    },
+    {
+      "title": "Food Companies Say AI Plays Only Limited Role in Products",
+      "title_ja": "食品会社、AIの製品への役割は限定的と発表",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/food-companies-say-ai-plays-only-limited-role-in-products/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/02/AI-test-kitchen1.jpg",
+      "published_at": "2026-02-15T21:38:09Z",
+      "source": "pymnts.com",
+      "summary_ja": "ユニリーバやマコーミックなどの大手食品会社は、製品開発にAIを長年利用している。しかし、CNBCの報道によると、これらの企業はAIの役割は限定的であると述べている。これは、AI技術が食品業界で急速に進化している中でも、その影響力がまだ限定的であることを示唆している。新興企業の台頭も影響し、AIの活用範囲が注目されている。"
+    },
+    {
+      "title": "aitraining 0.0.37",
+      "title_ja": "aitraining 0.0.37",
+      "original_url": "https://pypi.org/project/aitraining/0.0.37/",
+      "image_url": null,
+      "published_at": "2026-02-15T21:30:07Z",
+      "source": "Pypi.org",
+      "summary_ja": "このサイトは、開発中の高度な機械学習トレーニングプラットフォームの一部です。現時点では、ブラウザ拡張機能やネットワークの問題により、一部の要素が読み込めない可能性があります。ユーザーは、接続を確認し、広告ブロッカーを無効にするか、別のブラウザを試すことで問題を解決できます。"
+    },
+    {
+      "title": "Hollywood groups condemn ByteDance's AI video generator, claim copyright infringement",
+      "title_ja": "ハリウッド団体、ByteDanceのAI動画生成ツールを非難、著作権侵害を主張",
+      "original_url": "https://abcnews.com/Technology/wireStory/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-130193458",
+      "image_url": "https://i.abcnewsfe.com/a/d9f6d117-df51-4c21-a403-54eae0369f46/wirestory_7e445388401d172c6bf51d0d42aa4f24_16x9.jpg?w=1600",
+      "published_at": "2026-02-15T20:25:16Z",
+      "source": "Abcnews.com",
+      "summary_ja": "TikTokの親会社であるByteDanceが開発した新しいAI動画生成ツールに対し、ハリウッド団体が著作権侵害の疑いで非難しています。このツールは、Seedance 2.0と呼ばれ、その技術が著作権を侵害していると主張しています。この問題は、AIによるコンテンツ生成と著作権保護という、現代の技術と法的な課題を浮き彫りにしています。"
+    },
+    {
+      "title": "Why does India have 100M ChatGPT users? #tech",
+      "title_ja": "なぜインドには1億人ものChatGPTユーザーがいるのか？ #テック",
+      "original_url": "https://alltoc.com/tech/why-does-india-have-100m-chatgpt-users",
+      "image_url": "https://alltoc.com/cdn/1045/og.png",
+      "published_at": "2026-02-15T20:02:45Z",
+      "source": "Alltoc.com",
+      "summary_ja": "OpenAIのCEOは、ChatGPTの週次アクティブユーザー数がインドで約1億人に達し、米国に次ぐ2番目の市場であることを発表しました。この数字は、インドにおけるChatGPTの急速な普及を示しており、対話型AIの利用が大幅に増加していることを示唆しています。このことは、インドにおけるAI技術の成長と、人々のデジタルライフへの影響の大きさを浮き彫りにしています。"
+    },
+    {
+      "title": "‘The Simpsons’ Bart Voice Actress Tells AI “Eat My Shorts,” Hopes For Human Successor: “AI Has No Heart”",
+      "title_ja": "『ザ・シンプソンズ』バート役声優、AIに「くそったれ」と拒絶、人間の後継者を希望：「AIには心がない」",
+      "original_url": "http://deadline.com/2026/02/the-simpsons-bart-voice-actress-ai-hopes-human-successor-1236725415/",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/02/2-Nancy-Cartwright-Bart-Simpson-2-shot.jpg?w=1024",
+      "published_at": "2026-02-15T19:51:01Z",
+      "source": "Deadline",
+      "summary_ja": "人気アニメ『ザ・シンプソンズ』のバート役声優であるナンシー・カートライトは、AIが自身の仕事をこなすことに懐疑的であり、800話を超える経験からその考えを強く示唆しています。彼女は、AIには感情や創造性といった人間特有の要素が欠如しているため、声優の仕事は務まらないと考えています。カートライトは、AIではなく人間の後継者を強く望んでいます。"
+    },
+    {
+      "title": "Beyond the AI Revolution: Why Many Companies Live in the Past [Keynote]",
+      "title_ja": "Beyond the AI Revolution: Why Many Companies Live in the Past [Keynote]",
+      "original_url": "https://briansolis.com/2026/02/beyond-the-ai-revolution-why-many-companies-live-in-the-past-keynote/",
+      "image_url": "https://briansolis.com/wp-content/uploads/2026/02/Brian-Solis-hero.png",
+      "published_at": "2026-02-15T19:49:12Z",
+      "source": "Briansolis.com",
+      "summary_ja": "by Chris Killian, Home Care Innovation Forum When Brian Solis, Chief of Global Innovation at ServiceNow, futurist, and bestselling author, took the stage at the Home Care Innovation Forum, he began..."
+    },
+    {
+      "title": "Pentagon, Anthropic in battle over AI usage restrictions",
+      "title_ja": "国防総省、AI利用制限巡りAnthropicと対立",
+      "original_url": "https://www.itnews.com.au/news/pentagon-anthropic-in-battle-over-ai-usage-restrictions-623641?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+      "image_url": "https://i.nextmedia.com.au/News/20200907063223_crn-14_pentagon_jedi_cloud_iStock-1058382956.jpg",
+      "published_at": "2026-02-15T19:40:14Z",
+      "source": "iTnews",
+      "summary_ja": "国防総省は、AI企業Anthropicが軍事利用に関する制限を堅持しているため、同社との関係を解消することを検討しています。これは、軍事用途におけるAIモデルの利用制限を巡る両者の対立を示唆しています。この決定は、AI技術の軍事利用における倫理的・技術的な課題を浮き彫りにしています。"
+    },
+    {
+      "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to 'internalize' costs",
+      "title_ja": "トランプ政権顧問ナバロ氏、メタなどデータセンター建設業者にコストの「内部化」を迫る可能性を示唆",
+      "original_url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108189157-17557906182025-08-21t153526z_1353701691_rc2rbgayz3xz_rtrmadp_0_usa-trump.jpeg?v=1755790639&w=1920&h=1080",
+      "published_at": "2026-02-15T19:39:51Z",
+      "source": "CNBC",
+      "summary_ja": "トランプ政権の貿易顧問ナバロ氏は、AIを支えるデータセンターの電力消費が電力網に負担をかけ、消費者の電気料金を押し上げているとして、メタなどのデータセンター建設業者にコスト負担を求める可能性を示唆しました。これにより、データセンター建設のコスト構造に変化が生じる可能性があります。もし実現すれば、AI技術の発展とデータセンターの建設に影響を与える可能性があります。"
+    },
+    {
+      "title": "Pentagon, Anthropic in battle over AI usage restrictions",
+      "title_ja": "国防総省、AI利用制限を巡りAnthropicと対立",
+      "original_url": "https://www.itnews.com.au/news/pentagon-anthropic-in-battle-over-ai-usage-restrictions-623641?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Software+feed",
+      "image_url": "https://i.nextmedia.com.au/News/20200907063223_crn-14_pentagon_jedi_cloud_iStock-1058382956.jpg",
+      "published_at": "2026-02-15T19:39:24Z",
+      "source": "iTnews",
+      "summary_ja": "国防総省は、AnthropicがAIモデルの軍事利用に関する制限を堅持しているため、同社との関係解消を検討しています。この対立は、AI技術の軍事利用における安全対策と利用範囲のバランスを巡るもので、今後の政策決定に影響を与える可能性があります。結果として、AI技術の軍事応用における倫理的・技術的課題が浮き彫りになるでしょう。"
+    },
+    {
+      "title": "Pentagon, Anthropic in battle over AI usage restrictions",
+      "title_ja": "ペンタゴン、AI利用制限巡りAnthropicと対立",
+      "original_url": "https://www.itnews.com.au/news/pentagon-anthropic-in-battle-over-ai-usage-restrictions-623641?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+      "image_url": "https://i.nextmedia.com.au/News/20200907063223_crn-14_pentagon_jedi_cloud_iStock-1058382956.jpg",
+      "published_at": "2026-02-15T19:36:20Z",
+      "source": "iTnews",
+      "summary_ja": "国防総省は、AI企業Anthropicが軍事利用におけるAIモデルへの制限を堅持しているため、同社との関係を終了する可能性を検討しています。この対立は、軍事におけるAI技術の利用方法に関する政策と安全対策の見直しに繋がる可能性があります。結果として、AI技術の軍事利用における倫理的、技術的な議論が活発化すると考えられます。"
+    },
+    {
+      "title": "Pentagon, Anthropic in battle over AI usage restrictions",
+      "title_ja": "ペンタゴン、AI利用制限巡りAnthropicと対立",
+      "original_url": "https://www.itnews.com.au/news/pentagon-anthropic-in-battle-over-ai-usage-restrictions-623641?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "image_url": "https://i.nextmedia.com.au/News/20200907063223_crn-14_pentagon_jedi_cloud_iStock-1058382956.jpg",
+      "published_at": "2026-02-15T19:35:10Z",
+      "source": "iTnews",
+      "summary_ja": "ペンタゴンは、米軍によるAIモデルの使用制限をAnthropicが譲らないため、同社との関係を打ち切る可能性を検討しています。これは、AIの軍事利用における安全対策と、その実現可能性のバランスを探る上での大きな課題を示しています。この対立は、AI技術の軍事利用に関する政府とテクノロジー企業の間の緊張関係を浮き彫りにしています。"
+    },
+    {
+      "title": "AI video generator from creator of TikTok sparks a Hollywood backlash",
+      "title_ja": "TikTok開発元によるAI動画生成ツールがハリウッドの反発を招く",
+      "original_url": "https://apnews.com/article/ai-seedance-bytedance-hollywood-copyright-7e445388401d172c6bf51d0d42aa4f24",
+      "image_url": "https://dims.apnews.com/dims4/default/6e9be71/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2F64%2F9249f41e569570e2e9192118a176%2F9bcac17fa45847c69619349abbdd2796",
+      "published_at": "2026-02-15T19:31:50Z",
+      "source": "Associated Press",
+      "summary_ja": "TikTokの開発元ByteDanceが発表したAI動画生成ツールが、ハリウッド業界から著作権侵害や無許可での俳優の肖像利用を批判され、強い反発を呼んでいます。このSeedance 2.0は、動画生成技術の進歩を示す一方で、コンテンツ権利保護という新たな課題を浮き彫りにしました。ハリウッドの組織は、この技術が業界に与える影響を警戒しています。"
+    }
+  ]
+}

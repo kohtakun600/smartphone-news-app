@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-27T23:28:16.885Z",
+  "articles": [
+    {
+      "title": "Economists Rethink Chinese Forecasts as AI Fires Up Import Surge",
+      "title_ja": "AIが輸入急増を加速、中国経済予測をエコノミストが再考",
+      "original_url": "https://financialpost.com/pmn/business-pmn/economists-rethink-chinese-forecasts-as-ai-fires-up-import-surge",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/chinas-reliance-on-mideast-oil-leaves-it-exposed-before-the.jpg",
+      "published_at": "2026-04-26T23:20:13Z",
+      "source": "Financial Post",
+      "summary_ja": "AIの台頭により、エコノミストは中国の輸入成長率予測を大幅に上方修正しました。2021年以来初めて、輸入が輸出の伸びを上回り、貿易収支の膨張を抑制すると予想されています。この変化は、中国経済における新たな力としてのAIの役割を浮き彫りにしています。"
+    },
+    {
+      "title": "Meta and Alibaba blur social media and e-commerce boundaries",
+      "title_ja": "MetaとAlibaba、ソーシャルメディアとeコマースの境界線を曖昧に",
+      "original_url": "https://www.digitimes.com/news/a20260424PD226/meta-e-commerce-alibaba-business-competition.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260424pd226_files/2_2b.jpg",
+      "published_at": "2026-04-26T23:14:49Z",
+      "source": "Digitimes",
+      "summary_ja": "生成AIの台頭により、ソーシャルメディアとeコマース業界の境界が曖昧になり、ビジネスモデルが変化しています。MetaとAlibabaの最近の戦略的取り組みは、その顕著な例です。競争の激化に伴い、両社はプラットフォームの融合を図り、ユーザー体験の向上と収益機会の拡大を目指しています。"
+    },
+    {
+      "title": "Ben Sasse on Senate's \"smack-down nonsense\" and his wish for America",
+      "title_ja": "ベン・サス元上院議員、上院の「罵り合いのナンセンス」とアメリカへの願いを語る",
+      "original_url": "https://www.cbsnews.com/news/ben-sasse-cbs-news-60-minutes-town-hall-ai-congress-miracle-drug/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/25/2e693d58-00c5-4abf-9666-a23eb483fed1/thumbnail/1200x630g4/c6ff3f3412e0a7055220ab4c5fd3062b/sasse3.jpg",
+      "published_at": "2026-04-26T23:00:20Z",
+      "source": "CBS News",
+      "summary_ja": "昨年、すい臓がんと診断されたベン・サス元上院議員が、CBSニュースのインタビューで、議会の機能不全とAIの可能性とリスクについて語りました。彼は、上院の機能不全を「罵り合いのナンセンス」と表現し、AI技術の発展がもたらす影響について、楽観的な面と懸念を同時に示唆しています。また、アメリカに対する彼の願望についても言及しています。"
+    },
+    {
+      "title": "Distribution-preserved sampling (DPS) for smarter machine learning assisted ultra-large-scale virtual screening",
+      "title_ja": "よりスマートな機械学習を活用した超大規模仮想スクリーニングのための分布保存サンプリング（DPS）",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d6ra00279j",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6RA00279J",
+      "published_at": "2026-04-26T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、機械学習を支援する超大規模仮想スクリーニングにおいて、分布保存サンプリング（DPS）という新しい手法を提案しています。DPSは、サンプリングプロセスにおいてデータの分布を維持することで、スクリーニングの効率と精度を向上させます。これにより、創薬研究などにおけるリード化合物の発見を加速させる可能性が期待されます。"
+    },
+    {
+      "title": "On the EU AI Omnibus trilogue “Europe and Germany must demonstrate their ability to reform”",
+      "title_ja": "EUのAIオムニバスに関する三者協議：欧州とドイツは改革能力を示す必要あり",
+      "original_url": "http://pr.euractiv.com/node/276350",
+      "image_url": "http://pr.euractiv.com/sites/default/files/Hartmut%20Rauen%20%281%29.jpg",
+      "published_at": "2026-04-26T23:00:00Z",
+      "source": "EURACTIV",
+      "summary_ja": "欧州議会、欧州委員会、理事会による「AIオムニバス」に関する三者協議について、VDMA副事務局長のHartmut Rauen氏はコメントを発表しました。彼は、人工知能（AI）が主要な推進力であるとし、欧州とドイツがAI規制改革におけるリーダーシップを示す必要性を強調しています。この規制は、AI技術の発展と市場への浸透に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "talkpipe 0.12.0a1",
+      "title_ja": "talkpipe 0.12.0a1",
+      "original_url": "https://pypi.org/project/talkpipe/0.12.0a1/",
+      "image_url": null,
+      "published_at": "2026-04-26T22:47:29Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、生成AI分析を行うためのPython製DSLライブラリ、talkpipeのバージョン0.12.0a1について触れています。talkpipeは、内部および外部DSLを提供し、生成AI分析の簡素化を目的としています。記事はウェブサイトの一部が読み込めないという問題について言及しており、ブラウザ設定やネットワーク接続を確認するように促しています。"
+    },
+    {
+      "title": "How beer and AI are changing the course of Canberra's economic future",
+      "title_ja": "ビールとAIがキャンベラ経済の未来を変える：変革の波",
+      "original_url": "https://www.abc.net.au/news/2026-04-27/canberra-economic-growth-from-public-service/106594870",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/be93e0078a38890d9af6b72e78d4322f?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "published_at": "2026-04-26T21:10:00Z",
+      "source": "ABC News (AU)",
+      "summary_ja": "キャンベラは伝統的に公務員の街として知られてきましたが、今や労働者の3分の2が民間部門で雇用されています。首都経済の新たな原動力として、ビール醸造やAIなどの技術が台頭し、その経済構造を変化させています。特に、Capital Brewing社の例に見られるように、製造業と生産ラインが、今後のキャンベラの経済成長の重要な要素となる可能性があります。"
+    },
+    {
+      "title": "glassbox-automl-amisouhaymmo added to PyPI",
+      "title_ja": "glassbox-automl-amisouhaymmo が PyPI に追加",
+      "original_url": "https://pypi.org/project/glassbox-automl-amisouhaymmo/",
+      "image_url": null,
+      "published_at": "2026-04-26T21:04:48Z",
+      "source": "Pypi.org",
+      "summary_ja": "このニュースは、PyPIに「glassbox-automl-amisouhaymmo」というホワイトボックス型AutoMLライブラリが追加されたことを伝えています。これにより、機械学習モデルの解釈可能性に焦点を当てた、スクラッチからの解釈可能な機械学習が可能になります。このライブラリは、AutoML技術をよりアクセスしやすくし、研究者や開発者がモデルの内部動作を理解した上で活用できるようになることを目指しています。"
+    },
+    {
+      "title": "glassbox-automl-amisouhaymmo 1.0.0",
+      "title_ja": "glassbox-automl-amisouhaymmo 1.0.0",
+      "original_url": "https://pypi.org/project/glassbox-automl-amisouhaymmo/1.0.0/",
+      "image_url": null,
+      "published_at": "2026-04-26T21:04:48Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事は、解釈可能な機械学習をゼロから構築できるホワイトボックス型AutoMLライブラリ、glassbox-automl-amisouhaymmo 1.0.0を紹介しています。このライブラリは、AutoML技術を通じて、モデルの透明性を高め、機械学習モデルの解釈可能性を向上させることを目指しています。記事の全文は読み込めませんでしたが、AutoMLの分野における新たな試みである可能性が示唆されます。"
+    },
+    {
+      "title": "What's at stake in the Elon Musk-Sam Altman trial",
+      "title_ja": "イーロン・マスク対サム・アルトマン裁判で何が問われるのか",
+      "original_url": "https://www.nbcnews.com/tech/tech-news/elon-musk-sam-altman-oakland-trial-rcna341919",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260424-elon-musk-sam-altman-ew-255p-c6e694.jpg",
+      "published_at": "2026-04-26T21:00:00Z",
+      "source": "NBC News",
+      "summary_ja": "テクノロジー業界の大物、イーロン・マスクとサム・アルトマンの間で行われる異例の民事裁判が、カリフォルニア州オークランドの連邦裁判所で始まります。この裁判は、AI技術の発展と、その背後にある巨額の富と影響力を巡るもので、業界に大きな影響を与える可能性があります。陪審員の選定から始まるこの裁判は、テクノロジー界の将来を左右する可能性を秘めています。"
+    },
+    {
+      "title": "AI ball-tracking technology trialled in Darwin grade cricket",
+      "title_ja": "ダーウィンのクリケットリーグでAIボールトラッキング技術が試験導入",
+      "original_url": "https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/940dc02dc415316763d0d4278942aacf?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=206&width=862&height=485&imformat=generic",
+      "published_at": "2026-04-26T20:44:01Z",
+      "source": "ABC News (AU)",
+      "summary_ja": "オーストラリアのクリケットリーグで初めて、ダーウィンの女子クリケットプレミアリーグがAI審判レビューシステムを導入しました。このAI技術は、ボールの軌道を追跡し、判定を支援します。これにより、試合の公平性と技術的な精度が向上することが期待されています。"
+    },
+    {
+      "title": "New types of downsizing: AI layoffs in the tech industry surge past 39,000",
+      "title_ja": "新たな人員削減の形：テクノロジー業界におけるAI関連のレイオフが3万9千人超に急増",
+      "original_url": "https://www.digitaljournal.com/business/new-types-of-downsizing-ai-layoffs-in-the-tech-industry-surge-past-39000/article",
+      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/33e6dd28fba099910e6bf314cc95f7e2e2bdc444.jpg",
+      "published_at": "2026-04-26T20:37:49Z",
+      "source": "Digital Journal",
+      "summary_ja": "テクノロジー業界において、AI関連のレイオフが3万9千人を超え、全世界のレイオフ総数8万4223人のほぼ半分を占めるという衝撃的な事態となっています。これは、AI技術の進化が雇用構造に与える影響を浮き彫りにしており、今後の労働市場における大きな変動を示唆しています。この傾向は、特にAI関連のスキルを持つ人材に影響を与え、テクノロジー業界全体の人材需要と供給に変化をもたらす可能性があります。"
+    },
+    {
+      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "title_ja": "米国務省、DeepSeekなど中国企業によるAI技術盗用疑惑に対し、世界的な警告を発令",
+      "original_url": "https://www.itnews.com.au/news/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-625379?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "image_url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg",
+      "published_at": "2026-04-26T20:33:00Z",
+      "source": "iTnews",
+      "summary_ja": "米国務省は、DeepSeekを含む中国企業がAI技術の知的財産を盗用している疑いがあるとして、世界的な注意喚起を呼びかけています。特に、AIモデルの蒸留技術などが標的になっていると指摘しています。この動きは、AI技術における米中間の競争激化と、知的財産の保護をめぐる緊張の高まりを示唆しています。"
+    },
+    {
+      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "title_ja": "米国務省、DeepSeekなど中国企業によるAI技術窃取の疑惑について世界的警告を発令",
+      "original_url": "https://www.itnews.com.au/news/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-625379?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+      "image_url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg",
+      "published_at": "2026-04-26T20:33:00Z",
+      "source": "iTnews",
+      "summary_ja": "米国務省は、DeepSeekを含む中国企業がAI技術の知的財産を広範囲にわたって盗んでいる疑いがあるとして、世界的な注意喚起を促しています。特に、技術の「蒸留」手法による知的財産の窃取に焦点を当てています。この動きは、AI技術における米中の競争激化と、技術流出に対する懸念を浮き彫りにしています。"
+    },
+    {
+      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "title_ja": "米国務省、DeepSeekなど中国企業によるAI技術盗用疑惑に対し、世界的な警告を発令",
+      "original_url": "https://www.itnews.com.au/news/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-625379?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Software+feed",
+      "image_url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg",
+      "published_at": "2026-04-26T20:33:00Z",
+      "source": "iTnews",
+      "summary_ja": "米国務省は、DeepSeekを含む中国企業がAI技術をはじめとする知的財産の盗用を広範囲に行っているとして、世界各国に注意喚起を促しています。この動きは、特にAIモデルの蒸留（distillation）技術への不正アクセスを問題視しています。知的財産の保護を目的としたものであり、AI技術開発における国際的な緊張を高める可能性があります。"
+    },
+    {
+      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "title_ja": "米国務省、DeepSeekなど中国企業によるAI技術盗用疑惑に対し、世界的な警告を発令",
+      "original_url": "https://www.itnews.com.au/news/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-625379?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+      "image_url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg",
+      "published_at": "2026-04-26T20:33:00Z",
+      "source": "iTnews",
+      "summary_ja": "米国務省は、DeepSeekを含む中国企業がAI分野で知的財産を盗用している疑いがあるとして、世界的な注意喚起を促しています。この動きは、特にモデル蒸留と呼ばれる技術に焦点を当てています。これにより、中国企業がAI技術の不正取得を通じて、競争力を高めようとしていると非難しています。"
+    },
+    {
+      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "title_ja": "米国務省、DeepSeekなど中国企業によるAI技術盗用疑惑に対し、世界的な警告を発令",
+      "original_url": "https://www.itnews.com.au/news/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-625379?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed",
+      "image_url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg",
+      "published_at": "2026-04-26T20:33:00Z",
+      "source": "iTnews",
+      "summary_ja": "米国務省は、DeepSeekを含む中国企業がAI技術の知的財産を盗用していると非難し、世界各国に対し注意喚起を促すよう指示しました。特に、AI技術の蒸留（distillation）と呼ばれる手法を用いた情報窃取に焦点を当てています。この措置は、AI技術における米中の競争激化と、知的財産の保護強化を目的としています。"
+    },
+    {
+      "title": "glassbox-automl-medsouhaib 1.0.0",
+      "title_ja": "glassbox-automl-medsouhaib 1.0.0",
+      "original_url": "https://pypi.org/project/glassbox-automl-medsouhaib/1.0.0/",
+      "image_url": null,
+      "published_at": "2026-04-26T20:08:00Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事では、解釈可能な機械学習をゼロから構築するためのホワイトボックス型AutoMLライブラリ「glassbox-automl-medsouhaib」のバージョン1.0.0について紹介しています。 このライブラリは、AutoMLの透明性を重視し、モデルの解釈可能性を向上させることを目指しています。 現時点では、記事のコンテンツが一部しか読み込めない状態となっています。"
+    },
+    {
+      "title": "glassbox-automl-medsouhaib added to PyPI",
+      "title_ja": "glassbox-automl-medsouhaib が PyPI に追加",
+      "original_url": "https://pypi.org/project/glassbox-automl-medsouhaib/",
+      "image_url": null,
+      "published_at": "2026-04-26T20:08:00Z",
+      "source": "Pypi.org",
+      "summary_ja": "このニュースは、説明可能な機械学習をゼロから構築できるホワイトボックス型 AutoML ライブラリである glassbox-automl-medsouhaib が PyPI (Python Package Index) に公開されたことを伝えています。 このライブラリは、解釈可能な機械学習モデルの構築を可能にし、AI技術の透明性を高めることに貢献します。これにより、開発者はモデルの内部動作を理解しやすくなり、より信頼性の高い AI システムを構築できるようになります。"
+    },
+    {
+      "title": "alphapy-pro 3.1.1",
+      "title_ja": "AlphaPy Pro 3.1.1",
+      "original_url": "https://pypi.org/project/alphapy-pro/3.1.1/",
+      "image_url": null,
+      "published_at": "2026-04-26T19:37:38Z",
+      "source": "Pypi.org",
+      "summary_ja": "AlphaPy Pro 3.1.1 は、投機家向けの機械学習パイプラインです。このバージョンでは、サイトの読み込みに問題が発生しており、ブラウザ拡張機能やネットワーク、ブラウザの設定が原因である可能性があります。詳細については、接続状況を確認し、広告ブロッカーを無効にするか、別の方法を試す必要があります。"
+    }
+  ]
+}

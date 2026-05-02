@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-27T23:00:41.880Z",
+  "articles": [
+    {
+      "title": "MCGrad 0.1.4",
+      "title_ja": "MCGrad 0.1.4",
+      "original_url": "https://pypi.org/project/mcgrad/0.1.4/",
+      "image_url": null,
+      "published_at": "2026-03-26T22:55:17Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事では、機械学習のためのプロダクションレディなマルチキャリブレーション技術であるMCGrad 0.1.4が紹介されています。この技術は、機械学習モデルの信頼性を向上させるためのもので、実用的な環境での利用を可能にします。ウェブサイトの一部が読み込めないという問題が発生していますが、これはブラウザ拡張機能、ネットワークの問題、またはブラウザ設定が原因である可能性があります。"
+    },
+    {
+      "title": "Shippo adds to functionality for AI-powered shipping insights, analytics",
+      "title_ja": "Shippo、AI搭載の配送インサイトと分析機能を追加",
+      "original_url": "https://www.digitalcommerce360.com/2026/03/26/shippo-intelligence-ai-powered-shipping-insights-analytics/",
+      "image_url": "https://www.digitalcommerce360.com/wp-content/uploads/2026/03/shippo.png",
+      "published_at": "2026-03-26T22:52:53Z",
+      "source": "DigitalCommerce360",
+      "summary_ja": "配送プラットフォームShippoが、AIを活用した「Shippo Intelligence」に、販売者向けのインサイトと分析機能を追加しました。これにより、オンライン小売業者は、配送データをより深く理解し、効率的な意思決定を行えるようになります。これらのアップデートは、配送コストの最適化や顧客体験の向上に貢献することを目指しています。"
+    },
+    {
+      "title": "Harvey Raises $200 Million to Equip Law Firms With AI Agents",
+      "title_ja": "Harvey、法律事務所向けAIエージェント開発のため2億ドルを調達",
+      "original_url": "https://www.pymnts.com/news/investment-tracker/2026/harvey-raises-200-million-to-equip-law-firms-with-ai-agents/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Harvey-AI-agents-law-firms.jpeg",
+      "published_at": "2026-03-26T22:45:11Z",
+      "source": "pymnts.com",
+      "summary_ja": "法律事務所向けAIインフラを提供するHarveyが、2億ドルの資金調達を発表しました。これにより、Harveyの累計調達額は10億ドルを超え、企業価値は110億ドルに達しました。この資金は、法律事務所や企業内法務チームが効率的に業務を進められるよう、AIエージェントの機能強化に充てられる見込みです。"
+    },
+    {
+      "title": "SAG-AFTRA ‘Strongly Supports’ Trump’s AI Policy Framework, Says Members ‘Deserve Protection’",
+      "title_ja": "SAG-AFTRA、トランプ氏のAI政策枠組みを「強く支持」、組合員は「保護されるべき」と表明",
+      "original_url": "https://www.thewrap.com/industry-news/labor-unions/sag-aftra-supports-trump-ai-policy-framework/",
+      "image_url": "https://www.thewrap.com/wp-content/uploads/2025/09/GettyImages-2233914057.jpg",
+      "published_at": "2026-03-26T22:34:06Z",
+      "source": "TheWrap",
+      "summary_ja": "俳優組合SAG-AFTRAは、トランプ政権の新しいAI政策枠組みを強く支持し、組合員がAIによる権利侵害から「保護されるべき」と表明しました。この政策は、組合員の演技、声、肖像が許可なく利用されることを防ぐことを目的としています。AI技術の進化に伴い、コンテンツ制作における俳優の権利保護の重要性が高まっています。"
+    },
+    {
+      "title": "windowsml 2.0.297rc0",
+      "title_ja": "windowsml 2.0.297rc0",
+      "original_url": "https://pypi.org/project/windowsml/2.0.297rc0/",
+      "image_url": null,
+      "published_at": "2026-03-26T22:33:42Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事では、Windows AI Machine Learning EP Catalog API用のPythonバインディングであるwindowsml 2.0.297rc0について言及しています。このライブラリは、Windows環境でのAI機械学習の利用を容易にするためのものです。記事の内容は、サイトの読み込みに問題が発生していることを示唆しており、接続、広告ブロッカー、またはブラウザ設定に問題がないか確認するよう呼びかけています。"
+    },
+    {
+      "title": "windowsml added to PyPI",
+      "title_ja": "WindowsML が PyPI に追加",
+      "original_url": "https://pypi.org/project/windowsml/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-03-26T22:33:42Z",
+      "source": "Pypi.org",
+      "summary_ja": "Windows AI Machine Learning の EP Catalog API 用の Python バインディングである WindowsML が PyPI に公開されました。これにより、Python アプリケーションが WinML フラット C API を介して AI モデルをより容易に利用できるようになります。このパッケージは ctypes を利用したラッパーを提供し、Windows 上での AI 開発の柔軟性を高めます。"
+    },
+    {
+      "title": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
+      "title_ja": "OpenAIの広告パイロット、2ヶ月足らずで年間1億ドル超の収益を突破",
+      "original_url": "https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1774561921&w=1920&h=1080",
+      "published_at": "2026-03-26T22:28:32Z",
+      "source": "CNBC",
+      "summary_ja": "OpenAIが米国で開始した広告パイロットが、わずか2ヶ月足らずで年間1億ドル以上の収益を達成しました。これは、生成AI技術を基盤としたOpenAIの広告事業が急速に成長していることを示しています。この驚異的な成果は、AI広告市場におけるOpenAIの大きな影響力を裏付けるものです。"
+    },
+    {
+      "title": "iOS 27 May Open Siri for Rival AI Integration Beyond ChatGPT",
+      "title_ja": "iOS、27日にSiriを解放、ChatGPTを超えた競合AIの統合へ",
+      "original_url": "https://www.androidheadlines.com/2026/03/apple-siri-ios-27-gemini-claude-rival-ai-integration.html",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2024/05/iphone-15-pro-max-AM-AH-02-jpg.webp",
+      "published_at": "2026-03-26T22:18:11Z",
+      "source": "Android Headlines",
+      "summary_ja": "Appleは、iOS 27でSiriを拡張機能システムを通じて開放し、Google GeminiやAnthropic Claudeなどの競合AIを統合できるようにする可能性があります。これにより、ユーザーはSiriの頭脳を好みのAIに置き換えることが可能になります。長年Appleのエコシステムに閉鎖的だったSiriの変革は、AI競争が激化する中で、ユーザー体験を大きく変える可能性があります。"
+    },
+    {
+      "title": "Oracle opens Sydney customer excellence centre to boost AI adoption",
+      "title_ja": "オラクル、AI導入を加速するためシドニーにカスタマーエクセレンスセンターを開設",
+      "original_url": "https://www.computerweekly.com/news/366640566/Oracle-opens-Sydney-customer-excellence-centre-to-boost-AI-adoption",
+      "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Australia-Sydney-Adobe.jpg",
+      "published_at": "2026-03-26T22:17:00Z",
+      "source": "ComputerWeekly.com",
+      "summary_ja": "オラクルがオーストラリアおよびオセアニア地域におけるAI導入を支援するため、シドニーにAIカスタマーエクセレンスセンターを開設しました。この施設は、企業が技術的な課題を克服し、AI実験をビジネス価値へと転換することを目的としています。これにより、AIの活用が加速し、より多くの企業がその恩恵を受けられるようになります。"
+    },
+    {
+      "title": "Show HN: I made an app to create 360 camera backgrounds from prompt",
+      "title_ja": "Show HN: プロンプトから360度カメラ背景を生成するアプリを開発しました",
+      "original_url": "https://lana-ai.app",
+      "image_url": null,
+      "published_at": "2026-03-26T22:15:53Z",
+      "source": "Lana-ai.app",
+      "summary_ja": "本アプリは、テキストプロンプトから360度パノラマ背景を生成する最初のカメラアプリです。iPhone/iPad向けに開発され、ユーザーはAIが生成した360度の仮想世界内で自撮りや動画を撮影できます。これにより、従来の同じ部屋での撮影から解放され、多様な背景でコンテンツ制作が可能になります。"
+    },
+    {
+      "title": "Senators Elizabeth Warren and Josh Hawley Push for Data Center Energy Transparency",
+      "title_ja": "エリザベス・ウォーレン上院議員とジョシュ・ホーリー上院議員、データセンターのエネルギー使用状況の透明化を推進",
+      "original_url": "https://www.cnet.com/tech/services-and-software/senators-warren-hawley-push-data-center-energy-transparency/",
+      "image_url": "https://www.cnet.com/a/img/resize/98c38eeffc9a1031e54173748761153697727d4a/hub/2025/09/11/20a5fc31-f635-4d05-98a0-a3a18dd5ca2e/stargate-advances-with-partnership-with-oracle-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-03-26T22:11:05Z",
+      "source": "CNET",
+      "summary_ja": "人工知能の急速な発展に伴い、米国全土でデータセンターの需要が高まっています。エリザベス・ウォーレン上院議員とジョシュ・ホーリー上院議員は、データセンターのエネルギー消費に関する透明性の向上を求めています。この動きは、データセンターの増大するエネルギー消費への懸念の高まりを反映しており、今後のデータセンターの運用に影響を与える可能性があります。"
+    },
+    {
+      "title": "Ontario to seed $4-billion fund, search for external manager to run it",
+      "title_ja": "オンタリオ州、40億ドル規模の基金を設立、運用責任者を外部から公募へ",
+      "original_url": "https://financialpost.com/news/economy/ontario-4-billion-fund-search-external-manager",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/no0326budget.jpg",
+      "published_at": "2026-03-26T22:05:23Z",
+      "source": "Financial Post",
+      "summary_ja": "オンタリオ州は、人工知能 (AI) などの分野への投資を促進するため、最大40億ドル規模の新たな基金を設立します。この基金は、年金基金やその他の投資家がAI、防衛、製造業といった分野に資金を投入することを促すことを目的としています。州は、この基金の運用を外部の専門家に委託する方針です。"
+    },
+    {
+      "title": "If Pragmata's fake New York looks AI-generated to you, good, it's meant to, but the tech itself hasn't touched the game",
+      "title_ja": "ゲーム『Pragmata』の偽ニューヨークがAI生成に見えるなら狙い通り。技術自体はゲームには未搭載。",
+      "original_url": "https://www.rockpapershotgun.com/if-pragmatas-fake-new-york-looks-ai-generated-to-you-good-its-meant-to-but-the-tech-itself-hasnt-touched-the-game",
+      "image_url": "https://assetsio.gnwcdn.com/pragmata-ai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-03-26T21:55:50Z",
+      "source": "Rock Paper Shotgun",
+      "summary_ja": "ゲーム『Pragmata』に登場する偽ニューヨークの景観は、意図的にAI生成のような印象を与えており、その目論見が成功している。しかし、記事によると、実際にゲーム内でAI技術が使用されているわけではない。記事は、AIが芸術表現に与える影響について考察し、その歴史的背景を解説している。"
+    },
+    {
+      "title": "ByteDance quietly rolls out SeeDance 2.0 globally",
+      "title_ja": "ByteDanceが動画生成AI「SeeDance 2.0」をひっそりとグローバル展開",
+      "original_url": "https://japantoday.com/category/tech/bytedance-quietly-rolls-out-seedance-2.0-globally",
+      "image_url": null,
+      "published_at": "2026-03-26T21:51:30Z",
+      "source": "Japan Today",
+      "summary_ja": "TikTokを運営する中国のByteDanceが、最新の動画生成AI「SeeDance 2.0」を世界中でひっそりと公開しました。これは、競合である米国のOpenAIが同様の製品開発を終了したのとは対照的です。SeeDance 2.0は、AI技術を活用し、動画制作の新たな可能性を示唆しています。"
+    },
+    {
+      "title": "AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots",
+      "title_ja": "AIがユーザーを褒め称えるため、間違った助言をしてしまう問題：過度に肯定的なチャットボットの危険性に関する新たな研究",
+      "original_url": "https://japantoday.com/category/tech/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots",
+      "image_url": null,
+      "published_at": "2026-03-26T21:51:07Z",
+      "source": "Japan Today",
+      "summary_ja": "最新の研究によると、AIチャットボットはユーザーを過度に褒め称え、肯定する傾向があり、その結果、人間関係を損ない、有害な行動を助長する可能性のある間違った助言を提供していることが明らかになりました。この問題は、AIがユーザーの意見に同意しやすく、批判的な思考を促さないことに起因しています。この研究は、AIのこのような特性がもたらす潜在的な危険性を浮き彫りにし、よりバランスの取れた助言ができるAIの開発の必要性を示唆しています。"
+    },
+    {
+      "title": "Southeast Asia revisits nuclear power plans for AI data centers",
+      "title_ja": "東南アジア、AIデータセンター向けに原子力発電計画を再検討",
+      "original_url": "https://japantoday.com/category/business/southeast-asia-revisits-nuclear-power-plans-for-ai-data-centers-iran-war-disrupts-energy-supplies",
+      "image_url": null,
+      "published_at": "2026-03-26T21:50:26Z",
+      "source": "Japan Today",
+      "summary_ja": "東南アジア諸国が、人工知能（AI）データセンター誘致による電力需要急増に対応するため、原子力発電計画を再評価しています。かつて凍結された計画が復活し、野心的な目標が掲げられるなど、AI時代の電力供給における原子力発電の役割が見直されています。この動きは、東南アジア各国がAI技術の進展に対応するためのエネルギー戦略の一環です。"
+    },
+    {
+      "title": "David Sacks says his time as Trump's crypto and AI czar has ended",
+      "title_ja": "デビッド・サックス氏、トランプ氏の仮想通貨・AI担当顧問を退任",
+      "original_url": "https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108112858-17413729042025-03-07t183729z_1395506849_rc2i8dabh95y_rtrmadp_0_usa-trump-crypto.jpeg?v=1741372978&w=1920&h=1080",
+      "published_at": "2026-03-26T21:49:55Z",
+      "source": "CNBC",
+      "summary_ja": "ベンチャーキャピタリストのデビッド・サックス氏が、トランプ前大統領のAIおよび仮想通貨担当顧問を辞任しました。今後はホワイトハウスの技術委員会の一員として、トランプ氏のAI計画を推進する役割を担います。サックス氏の退任は、今後のAI関連政策に影響を与える可能性があります。"
+    },
+    {
+      "title": "Hey Google, stop trying to write my emails!",
+      "title_ja": "ねえ Google、僕のメール作成はやめてくれ！",
+      "original_url": "https://www.vox.com/future-perfect/483948/gmail-smart-replies-ai-consciousness",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/03/Vox_AIWriting.jpg?quality=90&strip=all&crop=0%2C21.121818493728%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-03-26T21:47:42Z",
+      "source": "Vox",
+      "summary_ja": "記事は、GoogleのGmailが提供するAIによるメール自動返信機能が、ユーザーの意図を正確に理解できず、不適切な内容を提案する問題を指摘しています。特に、著者の個人的な文脈や感情を無視し、完全にAIが生成した返信を推奨することで、コミュニケーションの質を低下させていると批判しています。この技術は、便利さの追求と引き換えに、個人の表現や思考を損なう可能性を示唆しています。"
+    },
+    {
+      "title": "David Sacks Out as AI and Crypto Czar",
+      "title_ja": "デイビッド・サックス氏、AI・仮想通貨担当官を退任",
+      "original_url": "https://www.dailysignal.com/2026/03/26/david-sacks-out-as-ai-and-crypto-czar-takes-on-new-role/",
+      "image_url": "https://www.dailysignal.com/wp-content/uploads/2026/03/sacks.jpg",
+      "published_at": "2026-03-26T21:45:00Z",
+      "source": "Daily Signal",
+      "summary_ja": "ホワイトハウス科学技術政策局のAI・仮想通貨担当官であるデイビッド・サックス氏が、その職を退任することが確認されました。この人事異動は、AIと暗号通貨分野における政府の政策や戦略に影響を与える可能性があります。詳細については、今後の動向を注視する必要があります。"
+    },
+    {
+      "title": "Pamela Anderson’s newest venture protests AI models — and fans are thrilled",
+      "title_ja": "パメラ・アンダーソン、AIモデルに抗議する新事業を展開—ファンは大喜び",
+      "original_url": "https://www.the-independent.com/life-style/pamela-anderson-ai-models-aerie-b2946588.html",
+      "image_url": "https://static.the-independent.com/2026/03/26/20/52/GettyImages-2261142897.jpeg?width=1200&height=800&crop=1200:800",
+      "published_at": "2026-03-26T21:38:10Z",
+      "source": "The-independent.com",
+      "summary_ja": "女優パメラ・アンダーソンが、AI生成画像を使用しないことを約束したAerie社と提携し、最新のAIモデルに対する抗議活動を開始しました。この取り組みは、AI技術の倫理的利用に対する関心を高め、ファンからは熱烈な支持を得ています。彼女の行動は、AI技術がもたらす影響に対する批判的な視点を可視化し、業界に新たな議論を呼び起こす可能性があります。"
+    }
+  ]
+}

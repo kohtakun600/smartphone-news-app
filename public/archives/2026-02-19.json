@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-18T23:00:46.147Z",
+  "articles": [
+    {
+      "title": "Sony Just Found a Way to Track Copyrighted Music in AI Tracks",
+      "title_ja": "ソニー、AI生成楽曲内での著作権保護音楽の追跡技術を開発",
+      "original_url": "https://www.androidheadlines.com/2026/02/sony-ai-music-attribution-copyright-tracking.html",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2026/01/Sony-LinkBuds-Clip-AM-AH-07.jpg",
+      "published_at": "2026-02-17T22:55:39Z",
+      "source": "Android Headlines",
+      "summary_ja": "ソニーは、AIが生成した楽曲内で著作権で保護された音楽を追跡するシステムを開発しました。これにより、AI学習データとして使用された音楽の権利者に適切な対価を支払うことが可能になります。この技術は、AIと音楽業界の複雑な関係に変化をもたらし、アーティストがAIトレーニングデータに対して報酬を得るための重要な一歩となるでしょう。"
+    },
+    {
+      "title": "Palantir departs Denver, moves headquarters to Miami",
+      "title_ja": "Palantir、デンバーから撤退し、本社をマイアミへ移転",
+      "original_url": "http://coloradosun.com/2026/02/17/palantir-leaving-denver-moving-miami/",
+      "image_url": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/02/AP26020517431286.jpg",
+      "published_at": "2026-02-17T22:37:34Z",
+      "source": "The Colorado Sun",
+      "summary_ja": "AIを活用した大規模監視技術で知られる政府関連企業Palantirが、本社をデンバーからマイアミに移転しました。同社は、3000億ドルの価値を有し、コロラド州では最大の公開企業でした。今回の移転は、Palantirの事業戦略と経営陣の意向の変化を反映していると考えられます。"
+    },
+    {
+      "title": "gradio-client 2.1.0",
+      "title_ja": "gradio-client 2.1.0",
+      "original_url": "https://pypi.org/project/gradio-client/2.1.0/",
+      "image_url": null,
+      "published_at": "2026-02-17T22:33:10Z",
+      "source": "Pypi.org",
+      "summary_ja": "このサイトで利用されているgradio-client 2.1.0 は、機械学習モデルとの対話を容易にするPythonライブラリです。このライブラリのアップデートによって、モデルへのアクセスや利用が更に容易になることが期待されます。ブラウザ拡張機能やネットワークの問題で読み込みが妨げられる可能性があることに注意が必要です。"
+    },
+    {
+      "title": "gradio 6.6.0",
+      "title_ja": "Gradio 6.6.0",
+      "original_url": "https://pypi.org/project/gradio/6.6.0/",
+      "image_url": null,
+      "published_at": "2026-02-17T22:32:57Z",
+      "source": "Pypi.org",
+      "summary_ja": "Gradio 6.6.0は、機械学習モデルとのインタラクションを容易にするPythonライブラリの最新版です。このライブラリは、ウェブインターフェースを素早く構築できるため、モデルのデモンストレーションやテストを簡素化します。これにより、機械学習モデルの開発と利用の敷居が大幅に下がり、より多くの人々がアクセスできるようになります。"
+    },
+    {
+      "title": "Palantir moves HQ to Miami from Denver, boosting Magic City’s AI industry",
+      "title_ja": "Palantir、AI産業活性化のため本社をデンバーからマイアミへ移転",
+      "original_url": "https://therealdeal.com/miami/2026/02/17/ai-firm-palantir-real-estate-firm-trinity-move-hqs-to-miami/",
+      "image_url": "https://static.therealdeal.com/wp-content/uploads/2026/02/AI-Firm-Palantir-Real-Estate-Firm-Trinity-Move-HQs-to-Miami.jpg",
+      "published_at": "2026-02-17T22:27:33Z",
+      "source": "The Real Deal",
+      "summary_ja": "Palantir Technologiesが、AI規制強化への対応と抗議活動を受け、本社をコロラド州デンバーからビジネスフレンドリーなマイアミへ移転しました。この動きは、マイアミのAI産業をさらに発展させる可能性があり、Alex氏率いるPalantirの成長戦略の一環と見られています。同社の移転は、AI技術の発展と規制、そして企業戦略の密接な関係を示すものです。"
+    },
+    {
+      "title": "Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute",
+      "title_ja": "NVIDIA cuda.compute で GPU MODE カーネルリーダーボードを制覇",
+      "original_url": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
+      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/cuda-compute-gpu-mode.png",
+      "published_at": "2026-02-17T22:19:16Z",
+      "source": "Nvidia.com",
+      "summary_ja": "Pythonは機械学習で広く使われているが、高速なGPUコードを書くには従来C++でカスタムカーネルを記述する必要があった。今回、NVIDIAのcuda.computeを使用することで、Pythonの使いやすさを保ちつつ、GPU MODEカーネルリーダーボードでトップを獲得することに成功した。これにより、機械学習の高速化と開発効率の両立が期待される。"
+    },
+    {
+      "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
+      "title_ja": "NVIDIAのハードウェアとソフトウェアの協調設計が、Sarvam AIの独自モデルの推論性能を大幅向上",
+      "original_url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
+      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ov-dgx-cloud-ari-blog-1920x1080-2.png",
+      "published_at": "2026-02-17T22:18:51Z",
+      "source": "Nvidia.com",
+      "summary_ja": "世界的なAI普及に伴い、大規模言語モデル（LLM）のパフォーマンスを現実的な遅延とコストで実現することが課題となっています。NVIDIAは、Sarvam AIの独自モデル向けに、ハードウェアとソフトウェアを協調設計することで、推論性能を大幅に向上させました。これにより、AI開発者は、より効率的で費用対効果の高いLLM実行が可能となり、AI技術の実用化を加速させることができます。"
+    },
+    {
+      "title": "NPR's Radio Host David Greene Says Google's NotebookLM Tool Stole His Voice",
+      "title_ja": "NPRのラジオ司会者、デビッド・グリーン氏、GoogleのNotebookLMツールが自分の声を盗用と主張",
+      "original_url": "https://slashdot.org/submission/17344880/nprs-radio-host-david-greene-says-googles-notebooklm-tool-stole-his-voice",
+      "image_url": null,
+      "published_at": "2026-02-17T22:02:05Z",
+      "source": "Slashdot.org",
+      "summary_ja": "NPRのラジオ司会者デビッド・グリーン氏が、GoogleのAIツールNotebookLMが無許可で自身の声を模倣していると主張しています。このツールは、テキストからポッドキャストを生成する機能を持ち、技術的な影響とともに、AIによる声の生成における倫理的な問題が浮き彫りになりました。グリーン氏は、NotebookLMについて全く知らなかったにも関わらず、かつての同僚から声の無断利用について問い合わせを受けたことが発端となっています。"
+    },
+    {
+      "title": "Laragentic Agents - Add one trait. Get autonomous AI agents.",
+      "title_ja": "Laragentic Agents - 特性一つ追加で自律型AIエージェントを実現",
+      "original_url": "https://github.com/laragentic/agents",
+      "image_url": "https://opengraph.githubassets.com/c4f5f98de9a08100367f22c2deb2fcad45ab6b8d602aa50ba7db818e5bba4689/laragentic/agents",
+      "published_at": "2026-02-17T22:00:00Z",
+      "source": "Github.com",
+      "summary_ja": "LaragenticはLaravel AI SDKを拡張し、agenticループを通じて自律的に推論、ツール呼び出し、そして反復処理を行い、最終的な回答に到達するAIエージェント機能を提供します。開発者は、たった一つの特性を追加するだけで、AIエージェントの力を利用できるようになります。これにより、LaravelアプリケーションへのAI機能統合が簡素化され、開発効率が向上します。"
+    },
+    {
+      "title": "India's tougher AI social media rules spark censorship fears",
+      "title_ja": "インド、AI利用に関するソーシャルメディア規制強化で検閲への懸念が浮上",
+      "original_url": "https://japantoday.com/category/tech/india%27s-tougher-ai-social-media-rules-spark-censorship-fears",
+      "image_url": null,
+      "published_at": "2026-02-17T21:49:00Z",
+      "source": "Japan Today",
+      "summary_ja": "インド政府は、ソーシャルメディアにおけるAI利用に関する規則を厳格化し、誤情報対策を強化しました。しかし、この新たな規制は、検閲やデジタル自由の侵害につながるのではないかという懸念を引き起こしています。2月20日に施行されるこの新規則は、AIのソーシャルメディア利用に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "India eyes $200 bil in data center investments as it ramps up its AI hub ambitions",
+      "title_ja": "インド、AIハブ構想を強化し、データセンター投資に2000億ドルを見込む",
+      "original_url": "https://japantoday.com/category/tech/india-eyes-200b-in-data-center-investments-as-it-ramps-up-its-ai-hub-ambitions",
+      "image_url": null,
+      "published_at": "2026-02-17T21:48:49Z",
+      "source": "Japan Today",
+      "summary_ja": "インドは、人工知能 (AI) のハブを目指し、今後数年間でデータセンターへの最大2,000億ドルの投資を誘致することを目指しています。この大規模な投資は、インドのAI分野における野心的な成長戦略を支え、技術革新を加速させるでしょう。データセンターの拡充は、AI技術の開発と運用に必要なインフラを整備し、インドをグローバルなAIリーダーへと導く可能性を秘めています。"
+    },
+    {
+      "title": "AI 'arms race' risks human extinction, warns top computing expert",
+      "title_ja": "AIの「軍拡競争」は人類絶滅の危険性、コンピューター科学の第一人者が警告",
+      "original_url": "https://japantoday.com/category/tech/ai-%27arms-race%27-risks-human-extinction-warns-top-computing-expert",
+      "image_url": null,
+      "published_at": "2026-02-17T21:48:38Z",
+      "source": "Japan Today",
+      "summary_ja": "一流コンピューター科学者のスチュアート・ラッセル氏は、テクノロジー企業のCEOがAIの「軍拡競争」に突入し、人類を滅亡させる危険性があると警告しました。 彼は、この状況を打開するために、政府が規制を強化し、AI開発のペースを落とす必要があると訴えています。 この「軍拡競争」は、AI技術の急速な発展による潜在的な脅威を示唆しています。"
+    },
+    {
+      "title": "AI analysis of 'Pokemon Sleep' data identifies problematic sleep patterns",
+      "title_ja": "『Pokemon Sleep』データAI分析、問題のある睡眠パターンを特定",
+      "original_url": "https://japantoday.com/category/national/ai-analysis-of-pokemon-sleep-data-identifies-problematic-sleep-patterns",
+      "image_url": null,
+      "published_at": "2026-02-17T21:43:43Z",
+      "source": "Japan Today",
+      "summary_ja": "日本の睡眠研究の第一人者が、スマートフォンアプリ『Pokemon Sleep』のデータを用いて、睡眠と業務パフォーマンスの関係を分析しました。AIを活用し、生産性に悪影響を及ぼす睡眠パターンを特定することに成功しました。この研究は、睡眠改善を通じて、より効率的な働き方を実現する可能性を示唆しています。"
+    },
+    {
+      "title": "AI is helping individual scientists, study suggests — but not science",
+      "title_ja": "AIは個々の科学者を支援するも、科学全体には貢献せず—研究結果が示唆",
+      "original_url": "https://www.npr.org/2026/02/17/nx-s1-5711344/ai-is-helping-individual-scientists-study-suggests-but-not-science",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "published_at": "2026-02-17T21:42:15Z",
+      "source": "NPR",
+      "summary_ja": "AIは、研究者のキャリアアップや特定の課題への深い探求を支援していることが示されています。しかし、この技術は必ずしも科学全体にとって有益とは限らないようです。AIの利用は個々の研究者に恩恵をもたらす一方で、科学的進歩への貢献度合いについてはさらなる検討が必要とされています。"
+    },
+    {
+      "title": "ph-ai-tracker 0.1.3",
+      "title_ja": "ph-ai-tracker 0.1.3",
+      "original_url": "https://pypi.org/project/ph-ai-tracker/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-02-17T21:38:30Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、Product Hunt 上でトレンドのAI製品を特定するための Python ライブラリ、ph-ai-tracker のバージョン 0.1.3 について解説しています。 主にProduct HuntのGraphQL API v2 を利用し、APIが利用できない場合はWebスクレイピング（BeautifulSoup）による代替手段も備えています。 このライブラリは、AI関連製品のトレンドを把握するためのツールとして、開発者や市場分析を行う人々に役立つ可能性があります。"
+    },
+    {
+      "title": "PetVivo Reports Results for Third Quarter and First Nine Months of Fiscal 2026",
+      "title_ja": "PetVivo、2026会計年度第3四半期および最初の9ヶ月間の業績を発表",
+      "original_url": "https://www.globenewswire.com/news-release/2026/02/17/3239794/0/en/PetVivo-Reports-Results-for-Third-Quarter-and-First-Nine-Months-of-Fiscal-2026.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/2f22ddd0-f963-4199-b224-fbca38a7061c",
+      "published_at": "2026-02-17T21:30:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "PetVivo社は、2026年会計年度の第3四半期と最初の9ヶ月間の業績を発表しました。同社は、革新的な医療機器と治療法を提供するバイオメディカル企業であり、ペットの健康とAI技術に焦点を当てています。今回の業績発表は、同社の事業戦略と技術開発の進捗を示すものであり、今後の業界への影響が注目されます。"
+    },
+    {
+      "title": "Google I/O 2026 Will Kick Off May 19",
+      "title_ja": "Google I/O 2026、5月19日に開幕",
+      "original_url": "https://www.cnet.com/tech/mobile/google-io-2026-event-dates-may-19-and-20/",
+      "image_url": "https://www.cnet.com/a/img/resize/a0b96034f1f0910d8697be737f74acaa65a6318d/hub/2026/02/17/0ab6962f-90bd-42e2-bd72-626422e84e28/google-io-2026.png?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-02-17T21:29:00Z",
+      "source": "CNET",
+      "summary_ja": "Google I/O 2026の日程が正式発表されました。この開発者向けイベントでは、Android、Chrome、XR、Geminiなど、Googleの主要プラットフォームと技術の最新情報が公開される予定です。5月19日と20日にかけて、カリフォルニア州マウンテンビューのShoreline Amphitheatreで開催され、今後のGoogleの技術革新に大きな影響を与えることが期待されます。"
+    },
+    {
+      "title": "Forecast data in Connected Sheets using BigQuery ML and TimesFM",
+      "title_ja": "BigQuery MLとTimesFMを活用したConnected Sheetsでの予測データ生成",
+      "original_url": "https://workspaceupdates.googleblog.com/2026/02/forecast-data-in-connected-sheets-BigQueryML-TimesFM.html",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrv12qN1CWEA0evBLMdjmVqSZUk8BJsG_Tu8pFo3QBSgYNsNmvBVSUWwCm4MVmEm57VqKRPwzTepZGjRDEfg4GUOBKk8OKggS29spGDehcWR-WvIvvpcrfa72-KLpWktYhGXQBqEeTQ1GnNzZuO3O6_e463914j2RZNm6Ox-4iyauPIymzYRtzsDN31Xc/w1200-h630-p-k-no-nu/Forecast%20data%20in%20Connected%20Sheets%206336.gif",
+      "published_at": "2026-02-17T21:27:00Z",
+      "source": "Googleblog.com",
+      "summary_ja": "Googleは、Connected SheetsでBigQuery ML (BQML) とGoogleのTimesFM技術を連携させ、Googleスプレッドシート内で直接データ予測を行える新機能を発表しました。これにより、スプレッドシートユーザーは、BigQueryの強力なデータ処理能力を活かし、複雑な予測モデルを容易に構築し、データ分析の幅を広げることが可能になります。この機能は、データに基づいた意思決定を迅速化し、業務効率を向上させることに貢献します。"
+    },
+    {
+      "title": "Why your boss loves AI and you hate it:corporate profits are capturing your extra productivity, and your salary isn’t",
+      "title_ja": "上司がAIを愛し、あなたが嫌う理由：企業の利益があなたの生産性を吸収し、あなたの給料は増えない",
+      "original_url": "https://fortune.com/2026/02/17/why-your-boss-loves-ai-and-you-hate-it-profits-end-of-capitalism/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1022048344-e1771362038824.jpg?resize=1200,600",
+      "published_at": "2026-02-17T21:20:45Z",
+      "source": "Fortune",
+      "summary_ja": "現在のAIブームは、産業革命初期の工場のように生産性を向上させていますが、その恩恵の大部分は労働者ではなく資本に流れています。これは、AI技術の導入によって企業は利益を上げている一方で、労働者の賃金上昇には繋がらないという状況を示唆しています。結果として、AIは一部の企業に富をもたらす一方で、労働者には経済的な恩恵をもたらさないという格差を生み出しています。"
+    },
+    {
+      "title": "Nvidia to sell Meta millions of chips in multiyear deal",
+      "title_ja": "NVIDIA、Metaに数百万個のチップを複数年契約で販売",
+      "original_url": "https://www.channelnewsasia.com/business/nvidia-sell-meta-millions-chips-in-multiyear-deal-5936846",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--736LxqYa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-17T211720Z_1_LYNXMPEM1G13E_RTROPTP_3_USA-CHINA-CHIPS.JPG?itok=uk43YxoX",
+      "published_at": "2026-02-17T21:17:53Z",
+      "source": "CNA",
+      "summary_ja": "NVIDIAは、Meta Platformsとの間で、現在のAIチップおよび将来のAIチップを数百万個にわたって複数年にわたって販売する契約を締結しました。この契約には、IntelやAdvanced Micro Devicesの製品と競合するCPUも含まれています。この取引は、MetaのAIインフラ構築を強化し、NVIDIAのAIチップ市場における地位をさらに強固にするでしょう。"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-28T23:28:44.350Z",
+  "articles": [
+    {
+      "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes",
+      "title_ja": "テイラー・スウィフト、AIディープフェイク対策として音声と肖像権の商標登録を申請",
+      "original_url": "https://nypost.com/2026/04/27/business/taylor-swift-files-to-trademark-her-voice-likeness-to-ward-off-ai-deepfakes/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/crop-39214980.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-27T23:26:32Z",
+      "source": "New York Post",
+      "summary_ja": "ポップスター、テイラー・スウィフトが、AIによって生成されるディープフェイクからの不正利用を防ぐため、自身の音声と肖像に関する商標登録を申請しました。これは、偽広告、政治的な偽の支持表明、わいせつ画像など、様々なディープフェイク被害に対抗する試みです。商標登録は法的保護を強化し、無許可での使用を抑制する効果が期待されます。"
+    },
+    {
+      "title": "AI lifts memory: SK Hynix hits 72% margin as Samsung nears 70%",
+      "title_ja": "AI需要が牽引、SKハイニックスの営業利益率が72%に到達、サムスンも70%に迫る",
+      "original_url": "https://www.digitimes.com/news/a20260427VL214/sk-hynix-samsung-demand-2026-dram.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260427vl214_files/2_r.jpg",
+      "published_at": "2026-04-27T23:25:03Z",
+      "source": "Digitimes",
+      "summary_ja": "AIの需要増加を背景に、SKハイニックスが2026年第1四半期に過去最高の業績を記録し、営業利益率を約72%まで押し上げました。サムスンも70%に迫る勢いを見せており、メモリ価格の高騰が両社の収益を大きく向上させています。これは、AI技術の発展がメモリ市場に与える影響の大きさを物語っています。"
+    },
+    {
+      "title": "Prioritise health over volume, OPay urges fintechs",
+      "title_ja": "OPay、フィンテック企業に取引量よりユーザーの金融健康を優先するよう提言",
+      "original_url": "https://punchng.com/prioritise-health-over-volume-opay-urges-fintechs/",
+      "image_url": "https://cdn.punchng.com/wp-content/uploads/2026/03/12171707/OPay-logoo-1200x630.png",
+      "published_at": "2026-04-27T23:22:44Z",
+      "source": "The Punch",
+      "summary_ja": "OPayのCOOは、フィンテック企業に対し、取引量追求からユーザーの金融健康改善へと戦略を転換するよう促しました。データとAIを活用することで、真の変革と価値創造が可能になると強調しています。この提言は、業界全体における持続可能な成長と、より良いユーザーエクスペリエンスの実現を目指しています。"
+    },
+    {
+      "title": "The third leg of AI’s infrastructure race isn’t silicon or power. It’s capital",
+      "title_ja": "AIインフラ競争の第三の要素は、シリコンや電力ではなく、資本である",
+      "original_url": "https://siliconangle.com/2026/04/27/third-leg-ais-infrastructure-race-isnt-silicon-power-capital/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Gemini_Generated_Image_75rgxv75rgxv75rg.png",
+      "published_at": "2026-04-27T23:20:11Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AIのインフラ競争は、これまでの2年間、Nvidiaのシリコンと大規模な電力供給という2つの制約に焦点を当ててきた。しかし、この記事は、AI開発における真のボトルネックは資本であり、資金調達の成否が今後の競争の勝敗を左右すると指摘している。シリコンと電力の確保に加えて、巨額の投資をいかに集めるかが重要となる。"
+    },
+    {
+      "title": "inference-sdk 1.2.6",
+      "title_ja": "inference-sdk 1.2.6",
+      "original_url": "https://pypi.org/project/inference-sdk/1.2.6/",
+      "image_url": null,
+      "published_at": "2026-04-27T23:18:06Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inference SDK 1.2.6により、機械学習やデバイス特有の知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできるようになりました。このアップデートは、開発者がより容易にモデルを実装し、幅広い環境で活用できることを目指しています。これにより、ビジョンAIの普及が加速する可能性があります。"
+    },
+    {
+      "title": "inference-core 1.2.6",
+      "title_ja": "inference-core 1.2.6",
+      "original_url": "https://pypi.org/project/inference-core/1.2.6/",
+      "image_url": null,
+      "published_at": "2026-04-27T23:17:59Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceの最新版である1.2.6がリリースされました。このプラットフォームは、機械学習やデバイス特有の知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境にデプロイすることを可能にします。これにより、より多くの人々がAI技術を活用しやすくなり、幅広い応用が期待できます。"
+    },
+    {
+      "title": "My Keynote: Goodbye digital transformation, hello AI-first business transformation",
+      "title_ja": "私の基調講演：デジタル変革よ、さようなら。これからはAIファーストのビジネス変革へ",
+      "original_url": "https://briansolis.com/2026/04/goodbye-digital-transformation-hello-ai-first-business-transformation/",
+      "image_url": "https://briansolis.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-3.52.32-PM.png",
+      "published_at": "2026-04-27T23:08:28Z",
+      "source": "Briansolis.com",
+      "summary_ja": "この記事は、従来のデジタル変革の概念が根本的に間違っていたと指摘し、AIを最優先とするビジネス変革へのシフトを提唱しています。過去のモデルやプロセスをデジタル化しただけでは不十分であり、AIを活用してビジネスを根本から再構築する必要があるとしています。AIファーストの変革により、企業は革新的な変化を遂げ、競争優位性を確立できると論じています。"
+    },
+    {
+      "title": "1 in 4 S&P 500 Companies Can Now Prove AI Pays",
+      "title_ja": "S&P 500企業の4分の1が、AIの成果を数値で証明可能に",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/1-in-4-sp-500-companies-can-now-prove-ai-pays/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/AI-investments-returns-back-office-digital-transformation.jpeg",
+      "published_at": "2026-04-27T23:07:24Z",
+      "source": "pymnts.com",
+      "summary_ja": "1年前はAIパイロット導入が主流だった大手企業の間で、現在、その効果を具体的な数値で報告する動きが加速しています。2026年第1四半期には、S&P 500企業の4社に1社がAIによる具体的な影響を報告し、AI技術のビジネスへの貢献が可視化されています。これは、AIの実用化が進み、その投資対効果が明確になりつつあることを示しています。"
+    },
+    {
+      "title": "Sadiq Khan warns one million Londoners could lose their jobs to AI",
+      "title_ja": "サディク・カーン、ロンドン市民100万人がAIによって職を失う可能性を警告",
+      "original_url": "https://www.dailymail.com/news/article-15769459/Sadiq-Khan-warns-one-million-Londoners-lose-jobs-AI.html",
+      "image_url": "https://i.dailymail.com/1s/2026/04/27/17/107603137-0-London_Mayor_Sir_Sadiq_Khan_pictured_called_on_British_diplomats-a-9_1777305856666.jpg",
+      "published_at": "2026-04-27T23:05:09Z",
+      "source": "Dailymail.com",
+      "summary_ja": "ロンドン市長サディク・カーンは、AIの台頭により、ロンドン市民の100万人以上が職を失う可能性があると警告しました。これは、ロンドン労働力の約5分の1がAIによる影響を大きく受ける可能性を示唆しています。この予測は、AIが労働市場に与える影響の深刻さを浮き彫りにしています。"
+    },
+    {
+      "title": "OPENAI outlines plans to create superhuman AI...",
+      "title_ja": "OpenAI、超人AI開発計画を発表…",
+      "original_url": "https://www.the-independent.com/tech/openai-agi-artificial-intelligence-altman-b2965682.html",
+      "image_url": "https://static.the-independent.com/2026/04/15/16/20/GettyImages-2201464164.jpg?width=1200&height=800&crop=1200:800",
+      "published_at": "2026-04-27T23:00:13Z",
+      "source": "The-independent.com",
+      "summary_ja": "OpenAIは、人工汎用知能（AGI）の実現に向けた5つの原則を提示しました。これは、将来的に人間の能力を超えるAIの開発を目指すもので、社会全体に大きな影響を与える可能性があります。同社の計画は、AI技術の進歩と倫理的課題の両方を考慮に入れています。"
+    },
+    {
+      "title": "Qfin Holdings Filed 2025 Annual Report on Form 20-F",
+      "title_ja": "Qfin Holdings、2025年年次報告書（Form 20-F）を提出",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/27/3282149/0/en/Qfin-Holdings-Filed-2025-Annual-Report-on-Form-20-F.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0d26a6cb-4d45-4114-a3c9-ca7e57f38451",
+      "published_at": "2026-04-27T23:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "中国の大手AIを活用したCredit-TechプラットフォームであるQfin Holdingsが、2025年年次報告書（Form 20-F）を提出しました。この報告書は、同社の業績と事業戦略を詳述しており、AI技術を駆使した信用技術プラットフォームの動向を示しています。これにより、同社の将来的な成長と中国のフィンテック市場への影響が注目されます。"
+    },
+    {
+      "title": "Predicting Bandgap of ABX2 Materials: Supervised Machine Learning on Small Datasets",
+      "title_ja": "ABX2材料のバンドギャップ予測：小規模データセットに対する教師あり機械学習",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/tc/d5tc04449a",
+      "image_url": null,
+      "published_at": "2026-04-27T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、太陽光発電用途に不可欠なABX2型材料の電子バンドギャップを予測するために、教師あり機械学習を適用しています。 限られたデータセットでも高精度な予測を実現するため、機械学習モデルを最適化しています。 この技術により、新しい材料設計と太陽光発電技術の進歩に貢献する可能性があります。"
+    },
+    {
+      "title": "Misguided ‘doomers’ celebrating assassins online need to learn how to debate, rather than encourage evil ghouls",
+      "title_ja": "オンラインで暗殺を祝う誤った「破滅論者」は、悪党を助長するのではなく、議論を学ぶ必要がある",
+      "original_url": "https://nypost.com/2026/04/27/opinion/misguided-doomers-celebrating-assassins-online-need-to-learn-how-to-debate-rather-than-encourage-evil-ghouls/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-pj457h0h3-1777328181928.jpg?quality=75&strip=all&1777313932&w=1200",
+      "published_at": "2026-04-27T22:55:04Z",
+      "source": "New York Post",
+      "summary_ja": "OpenAIのサム・アルトマンCEOへの暗殺未遂が4月に2度も発生し、さらにドナルド・トランプ大統領暗殺未遂事件も起こりました。Redditユーザーの一部は、こうした攻撃を支持するような発言をしており、攻撃を肯定的に捉えています。この記事は、これらの暴力行為を批判し、建設的な議論の重要性を訴えています。"
+    },
+    {
+      "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes",
+      "title_ja": "テイラー・スウィフト、AIディープフェイク対策として音声と肖像権の商標登録を申請",
+      "original_url": "https://www.channelnewsasia.com/business/taylor-swift-files-trademark-her-voice-likeness-ward-ai-deepfakes-6084896",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--CNsPpw1J--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-27T224847Z_4_LYNXMPEM3Q1HL_RTROPTP_3_PEOPLE-TAYLORSWIFT.JPG?itok=9rfsI9G4",
+      "published_at": "2026-04-27T22:37:47Z",
+      "source": "CNA",
+      "summary_ja": "ポップスター、テイラー・スウィフトは、AIによるディープフェイク動画や音声から自身の声と肖像権を守るため、2つの音声クリップと1つの画像の商標登録を申請しました。これは、テクノロジーの進化に伴い、著名人の権利保護の重要性が増していることを示しています。彼女の行動は、AIによる模倣技術に対する新たな法的防御策として注目されています。"
+    },
+    {
+      "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes",
+      "title_ja": "テイラー・スウィフト、AIディープフェイク対策のため自身の声と肖像権を商標登録申請",
+      "original_url": "https://cnalifestyle.channelnewsasia.com/entertainment/taylor-swift-ai-deepfakes-voice-trademark-582371",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--X1meTLOM--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-27T224847Z_4_LYNXMPEM3Q1HL_RTROPTP_3_PEOPLE-TAYLORSWIFT.JPG?itok=wjHboNYK",
+      "published_at": "2026-04-27T22:37:00Z",
+      "source": "CNA",
+      "summary_ja": "人気ポップスターのテイラー・スウィフトが、AI生成ディープフェイクによるなりすまし対策として、自身の声と肖像権を商標登録申請しました。これは、偽広告、政治的利用、さらには性的画像など、様々な悪用から彼女の権利を守るための措置です。この動きは、AI技術の進化に伴い、著名人の権利保護が喫緊の課題となっている現状を浮き彫りにしています。"
+    },
+    {
+      "title": "Elon Musk and OpenAI CEO Sam Altman Head To Court",
+      "title_ja": "イーロン・マスクとOpenAI CEOのサム・アルトマン、法廷へ",
+      "original_url": "https://slashdot.org/submission/17346792/elon-musk-and-openai-ceo-sam-altman-head-to-court",
+      "image_url": null,
+      "published_at": "2026-04-27T22:33:25Z",
+      "source": "Slashdot.org",
+      "summary_ja": "イーロン・マスクとOpenAIのサム・アルトマンCEOが、AI開発を巡る裏切りや欺瞞に関する裁判で対峙することになる。かつてビジョンを共有していた両者の間の対立は激化しており、AI技術開発における倫理観や目的の違いが浮き彫りになる。この裁判は、AI技術の未来と、その発展における巨額投資や野望に大きな影響を与える可能性がある。"
+    },
+    {
+      "title": "Reliance Industries to set up India’s largest data centre cluster in Andhra Pradesh",
+      "title_ja": "Reliance Industries to set up India’s largest data centre cluster in Andhra Pradesh",
+      "original_url": "https://economictimes.indiatimes.com/news/india/reliance-industries-to-set-up-indias-largest-data-centre-cluster-in-andhra-pradesh/articleshow/130563318.cms",
+      "image_url": "https://img.etimg.com/thumb/msid-130563322,width-1200,height-630,imgsize-1456631,overlay-economictimes/articleshow.jpg",
+      "published_at": "2026-04-27T22:30:00Z",
+      "source": "The Times of India",
+      "summary_ja": "Reliance Industries (RIL) is set to invest ₹1.6 lakh crore (over $17 billion) to develop a 1.5 GW AI-focused data centre cluster along with a captive solar and battery storage system in Visakhapatn..."
+    },
+    {
+      "title": "Here’s what Apple showcased at ICLR 2026, one of the world’s biggest AI conferences",
+      "title_ja": "Appleが世界最大級のAI会議ICLR 2026で発表した内容",
+      "original_url": "https://9to5mac.com/2026/04/27/heres-what-apple-showcased-at-iclr-2026-one-of-the-worlds-biggest-ai-conferences/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-04-27T22:27:04Z",
+      "source": "9to5Mac",
+      "summary_ja": "第14回国際学習表現会議（ICLR）2026がリオデジャネイロで開催され、Appleはそこで自社のAI技術を披露しました。この会議は、学術界とテクノロジー業界の主要なAI研究者による発表、議論、研究展示を集めたもので、Appleの発表内容が注目を集めました。AppleがどのようなAI技術を発表し、今後のAI開発にどのような影響を与えるのかが期待されています。"
+    },
+    {
+      "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
+      "title_ja": "イーロン・マスク氏とコロラド州のAI法を巡る対立が一時休止、州が改正を検討中",
+      "original_url": "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png",
+      "published_at": "2026-04-27T22:22:51Z",
+      "source": "Decrypt",
+      "summary_ja": "xAI社とコロラド州は、州のAIバイアス法を巡る訴訟を一時停止することで合意しました。コロラド州議会が同法案の修正を検討しているため、その間、施行も保留されます。この動きは、AI規制のあり方に対する注目を高め、技術企業と政府間の今後の関係に影響を与える可能性があります。"
+    },
+    {
+      "title": "Elon Musk’s long-awaited courtroom battle with Sam Altman poised to spill Silicon Valley dirt",
+      "title_ja": "イーロン・マスク氏とサム・アルトマン氏、シリコンバレーの内幕暴露を控えた法廷闘争開始",
+      "original_url": "https://nypost.com/2026/04/27/business/elon-musks-long-awaited-courtroom-battle-with-sam-altman-poised-to-spill-silicon-valley-dirt/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/126515230.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-27T22:22:08Z",
+      "source": "New York Post",
+      "summary_ja": "イーロン・マスク氏がOpenAIのサム・アルトマン氏らを相手取り、組織の当初の目的から逸脱したと訴える法廷闘争が始まりました。この訴訟は、シリコンバレーの主要人物たちの内幕や不都合な事実を暴露する可能性があり、AI業界に大きな影響を与えることが予想されます。人工知能開発における倫理観や企業間の対立が浮き彫りになるでしょう。"
+    }
+  ]
+}

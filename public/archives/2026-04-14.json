@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-13T23:11:00.126Z",
+  "articles": [
+    {
+      "title": "Predicting copper leaching from slag: an interpretable machine learning approach under oxidative sulfuric acid conditions",
+      "title_ja": "スラグからの銅浸出を予測：酸化性硫酸条件下における解釈可能な機械学習アプローチ",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d6ra01571a",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6RA01571A",
+      "published_at": "2026-04-12T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究では、持続可能な資源利用のために、冶金廃棄物からの銅の効率的な回収を目指し、解釈可能な機械学習フレームワークを開発しました。このフレームワークは、酸化性硫酸条件下での銅浸出効率を予測し、その結果を解釈可能にすることで、廃スラグからの銅回収プロセスの最適化に貢献します。これにより、資源循環と環境保全の両立に繋がることが期待されます。"
+    },
+    {
+      "title": "The infinite-dimensional nature of spectroscopy and why models succeed, fail, and mislead",
+      "title_ja": "分光法の無限次元的性質と、モデルが成功、失敗、誤解を招く理由",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/an/d6an00346j",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6AN00346J",
+      "published_at": "2026-04-12T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "機械学習モデルが分光分類タスクで驚異的な精度を達成していますが、化学的に意味のある特徴量を使用しているという明確な証拠はありません。本研究では、分光法の複雑な性質を詳細に分析し、モデルの成功と失敗の理由、そして誤解を招く可能性について考察しています。この分析は、より信頼性の高いモデル開発のための新たな指針を提供する可能性があります。"
+    },
+    {
+      "title": "Major Crunchyroll Isekai Replaces Opening After Confirmed AI Use Controversy",
+      "title_ja": "Crunchyrollの人気異世界アニメ、AI使用騒動受けOPを全面差し替え",
+      "original_url": "http://comicbook.com/anime/news/major-crunchyroll-isekai-replaces-opening-after-confirmed-ai-use-controversy/",
+      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/04/Ascedance-of-a-Bookworm-Season-4-Anime-Opening-Replacement.jpg?resize=2000,1125",
+      "published_at": "2026-04-12T23:00:00Z",
+      "source": "ComicBook.com",
+      "summary_ja": "Crunchyrollで配信中の人気異世界アニメが、AIの使用を認めたことでファンの間で大きな批判が起こり、オープニング映像を全面的に差し替える事態となった。この決定は、アニメ制作におけるAI利用に対する議論を再燃させ、今後のアニメ制作に影響を与える可能性がある。2026年春アニメのスケジュールにも影響が出始めており、今後の動向が注目される。"
+    },
+    {
+      "title": "Selective sensing characteristics of Fe doped and (Fe, N, O) co-doped molybdenum disulfide toward CO, CO2, and NH3 gases: a first-principles investigation",
+      "title_ja": "第一原理計算による、Feドープおよび(Fe, N, O)共ドープされた二硫化モリブデンにおけるCO、CO2、NH3ガスに対する選択的センシング特性の検討",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra09296e",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D5RA09296E",
+      "published_at": "2026-04-12T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、Feをドープし、さらに窒素と酸素を共ドープした二硫化モリブデンが、CO、CO2、NH3ガスに対してどのような選択的センシング特性を示すかを、第一原理計算を用いて調査したものです。この技術は、ガス検知センサーの性能向上に貢献する可能性があり、異なるガスを区別して検出できる新しい材料設計につながる可能性があります。計算結果は、材料の電子構造とガス分子との相互作用を分析し、選択的感度のメカニズムを明らかにしています。"
+    },
+    {
+      "title": "Importance of Consistent and Well-Dispersed Catalyst Datasets for Machine Learning in Oxidative Coupling of Methane",
+      "title_ja": "メタン酸化カップリングにおける機械学習のための、一貫性と分散性に優れた触媒データセットの重要性",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cy/d6cy00228e",
+      "image_url": null,
+      "published_at": "2026-04-12T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、メタン酸化カップリング反応における機械学習モデルの性能を向上させる上で、均質で多様な触媒データセットがいかに重要であるかを強調しています。これにより、反応の効率性と選択性を予測し、新しい触媒設計を加速させることが可能になります。具体的には、これらのデータセットが、反応の理解を深め、最終的により高性能な触媒の開発に貢献すると示唆されています。"
+    },
+    {
+      "title": "Anthropic Gains On OpenAI Amid Rising Adoption Among Enterprises",
+      "title_ja": "Anthropicが企業の間での採用拡大を受け、OpenAIに迫る勢い",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-gains-on-openai-amid-rising-adoption-among-enterprises/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/Claude-ChatGPT-adoption-1.jpg",
+      "published_at": "2026-04-12T22:32:42Z",
+      "source": "pymnts.com",
+      "summary_ja": "Anthropicは、企業によるAIツールの採用増加に伴い、競合OpenAIに追いつきつつあると報じられています。 Financial Times紙によると、先月、アメリカの企業の約3分の1がAnthropicのAIサービスを有料で利用しました。この動きは、AI市場におけるAnthropicの存在感を高め、OpenAIとの競争激化を示唆しています。"
+    },
+    {
+      "title": "'Stop hiring humans'? Silicon Valley confronts AI job panic",
+      "title_ja": "「人間採用停止」？シリコンバレー、AIによる雇用不安に直面",
+      "original_url": "https://japantoday.com/category/tech/%27stop-hiring-humans%27-silicon-valley-confronts-ai-job-panic",
+      "image_url": null,
+      "published_at": "2026-04-12T21:31:43Z",
+      "source": "Japan Today",
+      "summary_ja": "シリコンバレーのAI業界は、人工知能がもたらす雇用への影響に対する懸念に直面し、労働者に対し、より高度なコーディング能力、より深い思考力、そして人間らしさの追求を促しています。HumanXカンファレンスでは、AIによる職の喪失という問題への言及を避けつつ、AI時代における人間の役割を再定義しようとしています。しかしながら、AIが実際にどれほどの数の雇用を奪うのかという根本的な問いに対する具体的な答えは未だ提示されていません。"
+    },
+    {
+      "title": "SoftBank, other major Japan firms set up new company for AI development",
+      "title_ja": "ソフトバンクなど日本の主要企業がAI開発の新会社を設立",
+      "original_url": "https://japantoday.com/category/tech/softbank-other-major-japan-firms-set-up-new-company-for-ai-development",
+      "image_url": null,
+      "published_at": "2026-04-12T21:31:26Z",
+      "source": "Japan Today",
+      "summary_ja": "ソフトバンク、NEC、ホンダ、ソニーなど日本の大手企業が、国内企業向けの大規模AI開発を目的とした新会社を共同で設立しました。この取り組みは、日本の企業がAI技術を自社で活用し、競争力を高めることを目指しています。新会社は、日本のAI開発を加速させ、産業全体の変革を促す可能性があります。"
+    },
+    {
+      "title": "UK regulators rushing to assess risks of latest Anthropic AI model: report",
+      "title_ja": "英国規制当局、Anthropic最新AIモデルのリスク評価を急ピッチで実施：報道",
+      "original_url": "https://nypost.com/2026/04/12/business/uk-regulators-rushing-to-assess-risks-of-latest-anthropic-ai-model-report/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/anthropic-logo-seen-illustration-taken-125522818_20ed54.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-12T21:01:09Z",
+      "source": "New York Post",
+      "summary_ja": "英国の金融規制当局は、Anthropicの最新AIモデルがもたらす可能性のあるリスクを評価するため、政府のサイバーセキュリティ機関や主要銀行と緊急協議を行っています。これは、重要なITシステムにおける脆弱性を特定し、その影響を精査するためです。英国財務省、イングランド銀行、金融行動監視機構が、国家サイバーセキュリティセンターと連携し、リスク分析を進めています。"
+    },
+    {
+      "title": "Will all of Europe soon be a no-go wasteland?",
+      "title_ja": "ヨーロッパ全土が立ち入り禁止地帯になる日は近いのか？",
+      "original_url": "https://www.israelnationalnews.com/news/425384",
+      "image_url": "https://2.a7.org/files/pictures/000/1214885.jpg",
+      "published_at": "2026-04-12T21:00:00Z",
+      "source": "Israelnationalnews.com",
+      "summary_ja": "この記事は、ヨーロッパにおける治安悪化と、一部地域が立ち入り禁止地帯化している現状について論じています。特に、フランスのテレビ番組を例に挙げ、日常的な治安問題の深刻さを指摘しています。高度な技術の利用は必要とせず、現実の報道を通して現状を認識できると示唆しています。"
+    },
+    {
+      "title": "White House Tells Banks to Use Anthropic to Spot Vulnerabilities",
+      "title_ja": "ホワイトハウス、銀行に対し脆弱性発見にAnthropicの利用を指示",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/white-house-tells-banks-to-use-anthropic-to-spot-vulnerabilities/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/Anthropic-Claude-Mythos-banks.jpg",
+      "published_at": "2026-04-12T20:27:58Z",
+      "source": "pymnts.com",
+      "summary_ja": "アメリカ政府は、国内大手銀行に対し、Anthropic社のMythos AIモデルを用いた脆弱性発見テストを開始するよう指示しました。これは、国家安全保障上の脅威に対抗するためで、AI技術を活用したサイバーセキュリティ対策を強化する動きです。この取り組みは、金融機関のシステムにおける潜在的なリスクを特定し、より強固なセキュリティ体制を構築することを目指しています。"
+    },
+    {
+      "title": "spforge 0.11.3",
+      "title_ja": "spforge 0.11.3",
+      "original_url": "https://pypi.org/project/spforge/0.11.3/",
+      "image_url": null,
+      "published_at": "2026-04-12T20:23:17Z",
+      "source": "Pypi.org",
+      "summary_ja": "このフレームワークは、スポーツデータの特徴量生成、レーティング計算、機械学習モデル構築を柔軟に行うためのものです。これにより、スポーツデータの分析やモデル構築を効率化し、トレーニングと推論の両方に利用できます。バージョン0.11.3への更新で、さらに機能が強化されている可能性があります。"
+    },
+    {
+      "title": "A novelist was accused of using AI. Why the literary world is still grappling with gu",
+      "title_ja": "小説家がAI利用で告発、文学界が未だに葛藤する理由",
+      "original_url": "https://www.mobileread.com/forums/showthread.php?s=4eba0d2b1e83ded4afe4cea3a88deb66&p=4579150#post4579150",
+      "image_url": null,
+      "published_at": "2026-04-12T20:04:19Z",
+      "source": "Mobileread.com",
+      "summary_ja": "小説家がAIを使用した疑いで告発され、文学界に波紋が広がっている。この事件は、AIによる文章生成の急増が、カナダの電子書籍会社Koboを混乱させていることからも明らかになった。出版業界はAI技術の導入に慎重な姿勢を示しており、著作権問題を含め、今後の対応に注目が集まっている。"
+    },
+    {
+      "title": "Man Suing City After AI Camera Flags Him For Wrongful Arrest",
+      "title_ja": "AIカメラの誤検知で不当逮捕された男性、市を提訴",
+      "original_url": "http://futurism.com/artificial-intelligence/facial-recognition-ai-reno",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/facial-recognition-ai-reno.jpg?quality=85&w=1200",
+      "published_at": "2026-04-12T19:45:00Z",
+      "source": "Futurism",
+      "summary_ja": "AI顔認証カメラによる誤った身元特定で不当逮捕された男性が、市を相手取り訴訟を起こしました。この事件は、AI技術の誤作動が個人の自由を侵害する可能性を示唆しています。テクノロジーの進歩に伴い、AIシステムの精度と倫理的な運用がこれまで以上に重要になることを浮き彫りにしています。"
+    },
+    {
+      "title": "How Data Analytics Helps Developers Deliver Better Tech Services",
+      "title_ja": "データ分析が開発者によるより良い技術サービスの提供をどのように支援しているか",
+      "original_url": "https://www.smartdatacollective.com/how-data-analytics-helps-developers-deliver-better-tech-services/",
+      "image_url": "https://www.smartdatacollective.com/wp-content/uploads/2026/04/cabb03a9-9173-42fa-b41e-eb7b875750c0.png",
+      "published_at": "2026-04-12T19:31:04Z",
+      "source": "Smartdatacollective.com",
+      "summary_ja": "この記事では、開発者がデータ分析とAIツールをどのように活用して、パフォーマンス向上、問題予測、そしてよりスマートなソリューションの構築を実現しているのかを探求しています。データ分析は、技術企業向けのサービス改善に不可欠な役割を果たし、開発者にとって重要なツールとなっています。Smart Data Collectiveは、データ分析がソフトウェア開発者のサービス提供をどのように支援しているかに焦点を当てています。"
+    },
+    {
+      "title": "New award to help researchers catalyse AI-driven discovery for the public good",
+      "title_ja": "研究者を支援し、AI主導の公共利益のための発見を促進する新たな賞",
+      "original_url": "https://www.digitaljournal.com/tech-science/new-award-to-help-researchers-catalyse-ai-driven-discovery-for-the-public-good/article",
+      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Fertility-clinics-West-Bank-AFP-1K.jpg",
+      "published_at": "2026-04-12T19:15:33Z",
+      "source": "Digital Journal",
+      "summary_ja": "この賞は、AIを活用して公共の利益に貢献する研究を支援することを目的としています。 AI技術は、医療やその他の分野における革新を加速させ、世界規模での生活改善を目指しています。 この賞は、研究者たちがAI主導の発見を促進し、世界を変える可能性を秘めたプロジェクトを支援します。"
+    },
+    {
+      "title": "A Necessary Critique of Fontcuberta’s Algorithmic Photography",
+      "title_ja": "Fontcuberta氏のアルゴリズム写真に対する必要不可欠な批判",
+      "original_url": "https://petapixel.com/2026/04/12/a-necessary-critique-of-fontcubertas-algorithmic-photography/",
+      "image_url": "https://petapixel.com/assets/uploads/2026/04/ai-photography-essay-feat.jpg",
+      "published_at": "2026-04-12T19:00:34Z",
+      "source": "PetaPixel",
+      "summary_ja": "スペインのコンセプチュアルアーティスト、Joan Fontcuberta氏が発表した新著で、AIと写真に関する議論が提起されました。この議論は、AI生成画像が写真コンテストで受賞したことに対する疑問や、AIによる写真技術の進化が写真芸術にもたらす影響を考察しています。Fontcuberta氏は、AI写真の倫理的側面や芸術的価値を評価するための批判的な視点を提供しています。"
+    },
+    {
+      "title": "From Prompting to Governing: Metacognitive AI with the GSCP-15 Framework",
+      "title_ja": "プロンプトからガバナンスへ：GSCP-15フレームワークを用いたメタ認知AI",
+      "original_url": "https://www.c-sharpcorner.com/article/from-prompting-to-governing-metacognitive-ai-with-the-gscp-15-framework/",
+      "image_url": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "published_at": "2026-04-12T18:45:30Z",
+      "source": "C-sharpcorner.com",
+      "summary_ja": "AIは、単なる出力の質だけでなく、実行の規律、追跡可能性、そして継続的な学習能力が求められる段階に入っています。GSCP-15フレームワークは、AIシステムの信頼性を高めるために、実行のガバナンス、追跡可能性の確保、そして継続的な学習を促進するメタ認知AIを実現するためのものです。このフレームワークの導入は、AIの運用における透明性と信頼性の向上に貢献し、より洗練されたAIシステムの開発を可能にします。"
+    },
+    {
+      "title": "Strengthening the hands of agentic AI",
+      "title_ja": "自律型AIの強化",
+      "original_url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/strengthening-the-hands-of-agentic-ai/article70855222.ece",
+      "image_url": "https://bl-i.thgim.com/public/incoming/yi543d/article70855226.ece/alternates/LANDSCAPE_1200/BL1304_Spark_QA.jpg",
+      "published_at": "2026-04-12T18:42:23Z",
+      "source": "BusinessLine",
+      "summary_ja": "Wyser Capitalは、企業向けに業務自動化と効率化を促進する自律型AIスタートアップへの投資を強化しています。これは、AIが単なる技術革新ではなく、産業革命であるという信念に基づいています。この投資は、AI技術を活用して企業の生産性を向上させることに焦点を当てています。"
+    },
+    {
+      "title": "End of an era at Apple as Tim Cook’s hopeful hire from Google leaves the company",
+      "title_ja": "アップル、ティム・クック氏が期待を込めてGoogleから採用した人物が退社へ",
+      "original_url": "https://www.phonearena.com/news/tim-cooks-hire-from-google-leaves-apple_id179619",
+      "image_url": "https://m-cdn.phonearena.com/images/article/179619-wide-two_1200/End-of-an-era-at-Apple-as-Tim-Cooks-hopeful-hire-from-Google-leaves-the-company.jpg",
+      "published_at": "2026-04-12T18:41:37Z",
+      "source": "PhoneArena",
+      "summary_ja": "アップルのティム・クックCEOが、AIと機械学習部門を統括するためにGoogleから採用した人物が、8年間の勤務を経て今週退社します。この動きは、アップルのAI戦略に影響を与える可能性があり、今後の技術開発に注目が集まっています。退社の詳細は明らかにされていませんが、AI分野におけるアップルの今後の動向に変化をもたらす可能性があります。"
+    }
+  ]
+}

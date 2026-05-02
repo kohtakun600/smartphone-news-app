@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-26T23:00:58.206Z",
+  "articles": [
+    {
+      "title": "Nvidia Earnings Results Steady Markets as AI Spending Debate Intensifies",
+      "title_ja": "NVIDIAの好決算が市場を安定化、AI投資の行方を巡る議論が激化",
+      "original_url": "https://decrypt.co/359175/nvidia-earnings-steady-markets-ai-spending-debate-intensifies",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png",
+      "published_at": "2026-02-25T22:59:46Z",
+      "source": "Decrypt",
+      "summary_ja": "NVIDIAの決算発表は、AIインフラへの巨額投資を背景に、データセンター部門の売上高が75%増となるなど、テクノロジー株を押し上げ、市場全体を安定させました。しかし、投資家はAI投資サイクルの持続可能性について懸念を強めており、今後の動向に注目が集まっています。NVIDIAの圧倒的な優位性が示された一方で、AI投資の成長性に対する議論は今後も続くと予想されます。"
+    },
+    {
+      "title": "AI: When your financial adviser is a chatbot",
+      "title_ja": "AI：チャットボットがあなたのファイナンシャルアドバイザーに",
+      "original_url": "https://theweek.com/business/ai-financial-adviser-chatbot",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pW4Zqg9TErD3JURByGR3gY-2000-80.jpg",
+      "published_at": "2026-02-25T22:56:11Z",
+      "source": "The Week Magazine",
+      "summary_ja": "多くの人々が、税務相談、投資アドバイス、そして退職後のプランニングまで、AIチャットボットを利用するようになっています。ニューヨーク・タイムズによると、人工知能を利用した人の約3分の1が、AIに財務に関する助言を求めているとのことです。この傾向は、個人の財務管理におけるAIの役割がますます重要になっていることを示唆しています。"
+    },
+    {
+      "title": "What AI bubble? Nvidia posts record $68 billion quarterly revenue and $78 billion forecast, as Jensen Huang cites ‘skyrocketing’ adoption of agents",
+      "title_ja": "AIバブルはどこへ？NVIDIA、過去最高の680億ドルの四半期収益と780億ドルの予測を発表、ジェンスン・フアンCEOはエージェントの「急上昇」を引用",
+      "original_url": "https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2256812905-e1772053490355.jpg?resize=1200,600",
+      "published_at": "2026-02-25T22:49:49Z",
+      "source": "Fortune",
+      "summary_ja": "NVIDIAが、驚異的な四半期決算を発表し、市場の予想を上回りました。ジェンスン・フアンCEOは、AIエージェント技術の急速な普及を強調し、今後の更なる成長に自信を示しています。これにより、AI関連の投資熱が依然として高い水準にあることを示し、AI分野におけるNVIDIAの優位性が改めて浮き彫りになりました。"
+    },
+    {
+      "title": "Oura Ring Launches Proprietary AI for Personalized Women’s Health Support",
+      "title_ja": "Oura Ring、女性の健康をパーソナライズ化する独自のAIをローンチ",
+      "original_url": "https://www.androidheadlines.com/2026/02/oura-ring-launches-proprietary-ai-for-personalized-womens-health-support.html",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2025/10/Oura-Ring-4-Ceramic-collection-featured.jpg",
+      "published_at": "2026-02-25T22:48:35Z",
+      "source": "Android Headlines",
+      "summary_ja": "人気スマートリング「Oura Ring」を提供するOuraが、女性の健康管理をパーソナライズ化する独自のAIモデルを公開しました。このAIは、個々のユーザーの生理周期、ホルモンバランス、全体的な健康状態を分析し、パーソナライズされた健康アドバイスを提供します。これにより、Oura Ringは単なるウェアラブルデバイスを超え、女性の健康を包括的にサポートするプラットフォームへと進化しました。"
+    },
+    {
+      "title": "ai-accelerator 1.0.1",
+      "title_ja": "AIアクセラレーター 1.0.1",
+      "original_url": "https://pypi.org/project/ai-accelerator/1.0.1/",
+      "image_url": null,
+      "published_at": "2026-02-25T22:38:31Z",
+      "source": "Pypi.org",
+      "summary_ja": "AIアクセラレーターは、機械学習モデルをセキュアかつスケーラブルにデプロイ、監視、ガバナンスするための、プロダクションレディなMLOpsプラットフォームです。このプラットフォームは、監査可能性も提供し、AIモデルの運用効率と信頼性を向上させることを目指しています。記事の内容が完全に読み込めなかったため、詳細については不明です。"
+    },
+    {
+      "title": "Nutanix rallies on strong quarter and AMD investment as Everpure tops estimates",
+      "title_ja": "Nutanixが好調な四半期決算とAMDへの投資で株価上昇、Everpureも予想上回る",
+      "original_url": "https://siliconangle.com/2026/02/25/nutanix-rallies-strong-quarter-amd-investment-everpure-tops-estimates/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/nutanix-mainstage-e1765999016910.jpg",
+      "published_at": "2026-02-25T22:34:18Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "NutanixとEverpureの株価が、それぞれ好調な四半期決算を発表し、投資家の期待を上回ったことで上昇しました。特にNutanixは、AMDへの投資と、企業向けAI分野での新たな提携を発表し、今後の成長への期待が高まっています。両社の好業績は、データストレージ市場における競争激化と、AI分野への注目の高まりを反映しています。"
+    },
+    {
+      "title": "Nvidia’s upbeat sales forecast shows AI boom remains strong",
+      "title_ja": "NVIDIAの好調な売上予測、AIブームの勢い持続を示す",
+      "original_url": "https://financialpost.com/investing/nvidia-upbeat-sales-forecast-ai-boom-strong",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/no0225nvidia.jpg",
+      "published_at": "2026-02-25T22:29:27Z",
+      "source": "Financial Post",
+      "summary_ja": "世界で最も価値のある企業であるNVIDIAは、AIコンピューティング分野の大規模な構築が順調に進んでいることを示す、強気の四半期売上高予測を発表しました。この予測は、AI技術の需要が依然として非常に強く、市場が拡大し続けていることを示しています。NVIDIAの業績は、AI分野の技術革新と経済的影響力を浮き彫りにしています。"
+    },
+    {
+      "title": "Samsung Unveils Galaxy S26 Series: The Most Intuitive Galaxy AI Phone Yet",
+      "title_ja": "サムスン、Galaxy S26シリーズを発表：これまでで最も直感的なGalaxy AI搭載スマートフォン",
+      "original_url": "https://news.samsung.com/in/samsung-unveils-galaxy-s26-series-the-most-intuitive-galaxy-ai-phone-yet",
+      "image_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/02/tm.jpg",
+      "published_at": "2026-02-25T22:23:34Z",
+      "source": "Samsung.com",
+      "summary_ja": "サムスンは、直感的で積極的に動作するGalaxy AIを搭載したGalaxy S26シリーズを発表しました。業界をリードするカメラシステムと連動し、日常的な作業をこれまで以上に簡単かつ迅速にします。この新シリーズは、ユーザーのスマートフォン利用をさらに簡素化することを目指しています。"
+    },
+    {
+      "title": "[Galaxy Unpacked 2026] A First Look at the Galaxy Buds4 Series: Precision Sound Meets Intelligent Design",
+      "title_ja": "[Galaxy Unpacked 2026] Galaxy Buds4シリーズ発表：精密サウンドとインテリジェントデザインが融合",
+      "original_url": "https://news.samsung.com/in/galaxy-unpacked-2026-a-first-look-at-the-galaxy-buds4-series-precision-sound-meets-intelligent-design",
+      "image_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/02/ccc.jpg",
+      "published_at": "2026-02-25T22:23:34Z",
+      "source": "Samsung.com",
+      "summary_ja": "Samsungは、2月25日にサンフランシスコで開催されたGalaxy Unpacked 2026で、Galaxy Buds4シリーズを発表しました。この新シリーズは、卓越したサウンド性能と高度なAI機能を特徴としています。Galaxy Buds4は、オーディオ体験を再定義し、洗練されたデザインとインテリジェントな機能でユーザーの耳を魅了することでしょう。"
+    },
+    {
+      "title": "Kneat Releases 2025 Annual Shareholder Letter Highlighting Resilience, Opportunities Presented by Artificial Intelligence",
+      "title_ja": "Kneat社、2025年年次株主向け書簡を発表、回復力と人工知能がもたらす機会を強調",
+      "original_url": "https://financialpost.com/globe-newswire/kneat-releases-2025-annual-shareholder-letter-highlighting-resilience-opportunities-presented-by-artificial-intelligence",
+      "image_url": null,
+      "published_at": "2026-02-25T22:21:15Z",
+      "source": "Financial Post",
+      "summary_ja": "デジタル検証および品質プロセス自動化のリーダーであるKneat社は、2025年年次株主向け書簡を発表しました。この書簡では、同社の事業の回復力と、人工知能（AI）がもたらす新たな機会に焦点を当てています。Kneat社は、AI技術を活用した革新的な取り組みを通じて、業界におけるリーダーシップを強化することを目指しています。"
+    },
+    {
+      "title": "Alexa Plus Now Adapts to Your Moods in Real Time: We Try It Out",
+      "title_ja": "Alexa Plus、あなたの気分にリアルタイムで適応: 実際に試してみました",
+      "original_url": "https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/",
+      "image_url": "https://www.cnet.com/a/img/resize/03afc671c9a6e797df7687ac9e649f7dcde02761/hub/2026/02/25/8dbed3dc-c8ee-4bfc-8852-393c7747c900/alexa-plus-personalities.png?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-02-25T22:18:13Z",
+      "source": "CNET",
+      "summary_ja": "Amazonは、生成AIアシスタントAlexa Plusに3つのスタイルを追加し、ユーザーの気分に合わせて応答を変える機能を発表しました。これにより、短い返答、落ち着いた返答、甘い返答など、状況に応じたパーソナリティで対話が可能になります。この新機能は、音声アシスタントのパーソナライズ化をさらに進め、ユーザー体験を向上させる可能性があります。"
+    },
+    {
+      "title": "Kneat Releases 2025 Annual Shareholder Letter Highlighting Resilience, Opportunities Presented by Artificial Intelligence",
+      "title_ja": "Kneat社、2025年年次株主への手紙を発表、レジリエンスと人工知能がもたらす機会を強調",
+      "original_url": "https://www.globenewswire.com/news-release/2026/02/25/3245113/0/en/Kneat-Releases-2025-Annual-Shareholder-Letter-Highlighting-Resilience-Opportunities-Presented-by-Artificial-Intelligence.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/7cad6de1-fc6b-4663-a974-ec38d312f093",
+      "published_at": "2026-02-25T22:17:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "Kneat社は、検証と品質管理プロセスのデジタル化と自動化をリードしており、2025年の年次株主への手紙を発表しました。この手紙では、同社のレジリエンス（回復力）と、人工知能（AI）がもたらすビジネス機会に焦点を当てています。Kneat社は、AI技術を活用し、ビジネスの効率化と成長を加速させる戦略を説明しています。"
+    },
+    {
+      "title": "16 HVAC Marketing Strategies to Generate Leads in 2025: Your Master Plan",
+      "title_ja": "2025年版：HVACリード獲得のための16のマーケティング戦略：あなたのマスタープラン",
+      "original_url": "https://www.ciwebgroup.com/blog/hvac-marketing-plan-ultimate-guide",
+      "image_url": "https://cdn.prod.website-files.com/686a4a57c6a95c701441abea/699e62880d6c324ef6d16b92_89b49692b5e9442195008903271bd0ac.png",
+      "published_at": "2026-02-25T22:14:57Z",
+      "source": "Ciwebgroup.com",
+      "summary_ja": "2025年のHVACビジネスにおけるリード獲得を最大化するための16の戦略を紹介しています。SEOやAI活用など、効果が実証された様々な施策を組み合わせ、地域市場での優位性を確立することを目指します。従来のマーケティング手法が時代遅れになりつつある現状を踏まえ、新しい顧客獲得のための具体的な方法を提示しています。"
+    },
+    {
+      "title": "Nvidia Reports Another Quarter of Blowout Growth",
+      "title_ja": "NVIDIA、またしても驚異的な成長を報告",
+      "original_url": "https://www.newser.com/story/384397/nvidia-reports-another-quarter-of-blowout-growth.html",
+      "image_url": "https://img2-azrcdn.newser.com/image/1667389-12-20260225161413.jpeg",
+      "published_at": "2026-02-25T22:14:12Z",
+      "source": "Newser",
+      "summary_ja": "AIチップメーカーのNVIDIAが、またもや驚異的な四半期成長を発表しました。売上の90%以上を占めるデータセンター部門は、GPU接続用のネットワーク部品の売上が前年同期比263%増と急増。この結果は、テクノロジー業界の最新トレンドが過剰な誇張なのか、新たな繁栄と生産性向上への足がかりとなるのか、投資家が判断を迫られる中での発表となりました。"
+    },
+    {
+      "title": "Lockheed Martin Tests Missile-Evasion AI on X-62 VISTA",
+      "title_ja": "ロッキード・マーティン、ミサイル回避AIをX-62 VISTAで試験",
+      "original_url": "https://theaviationist.com/2026/02/25/lockheed-martin-tests-missile-evasion-ai-on-x-62-vista/",
+      "image_url": "https://theaviationist.com/wp-content/uploads/2024/04/X-62_VISTA_AI_Dogfight_1.jpg",
+      "published_at": "2026-02-25T22:11:51Z",
+      "source": "Theaviationist.com",
+      "summary_ja": "ロッキード・マーティンと米空軍テストパイロットスクールは、ミサイル回避AIをX-62 VISTA試験機で実証実験を行いました。このAIは、Have Remy Test Management Projectの一環として開発され、学生がその開発、シミュレーション、実機試験に直接関与しました。この技術は、将来の航空機の防御能力を向上させる可能性を秘めています。"
+    },
+    {
+      "title": "Giraffe PRO Camera: A Photographer-First Approach to AI-Powered Real Estate Images",
+      "title_ja": "Giraffe PRO カメラ：写真家主導のAI搭載不動産画像ソリューション",
+      "original_url": "https://fstoppers.com/gear/giraffe-pro-camera-photographer-first-approach-ai-powered-real-estate-images-721675",
+      "image_url": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/01/giraffe_header_image1.jpg?itok=aVuks5E2",
+      "published_at": "2026-02-25T22:09:01Z",
+      "source": "Fstoppers",
+      "summary_ja": "不動産写真の分野で、AIを活用したGiraffe PROカメラが登場し、写真家が主導する革新的なアプローチが注目されています。動画、間取り図、没入型のドローン風マーケティングコンテンツなどを生成し、写真家がワンストップで多様なニーズに対応できるようになります。この技術により、不動産マーケティングにおける写真家の役割が強化され、より包括的なサービス提供が可能になります。"
+    },
+    {
+      "title": "Once a Niche Topic in Federal Lobbying, AI Is Now a Major Area of Focus",
+      "title_ja": "かつて連邦ロビー活動のニッチなテーマだったAIが、今や主要な焦点に",
+      "original_url": "https://www.opensecrets.org/news/2026/02/ai-lobbying-defense-industry",
+      "image_url": "https://truthout.org/app/uploads/2026/02/GettyImages-2027926323-scaled.jpg",
+      "published_at": "2026-02-25T22:08:39Z",
+      "source": "Opensecrets.org",
+      "summary_ja": "AIは、かつては一部の分野に限られていた連邦ロビー活動において、急速に主要な焦点へと進化しました。従来の軍事請負業者と新興企業の双方が、この技術を戦略の中心に据え、政府との関係を深めています。この変化は、AI技術の進歩とその政治的影響力の増大を反映しており、今後の政策形成に大きな影響を与えるでしょう。"
+    },
+    {
+      "title": "Tech stocks today: Apple teases product launch, Nvidia stock falters despite upbeat outlook",
+      "title_ja": "本日のテクノロジー株：Appleが製品発表を予告、Nvidiaは強気の見通しにも関わらず株価低迷",
+      "original_url": "https://finance.yahoo.com/news/live/tech-stocks-today-apple-teases-product-launch-nvidia-stock-falters-despite-upbeat-outlook-220259044.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/9LGCrC1JcpAVUESBk9xiLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/7cb6c550-10f9-11f1-b8eb-6bfabaf499c1",
+      "published_at": "2026-02-25T22:02:59Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "市場はAIへの懸念を抱き、Nvidiaの第4四半期決算に注目が集まっています。強気の見通しにも関わらず株価が低迷している点が注目されます。一方、Anthropicは新たなエンタープライズ向けサービスの発表を行い、AI分野における技術革新と競争激化が投資家の心理に影響を与えています。"
+    },
+    {
+      "title": "Battery Innovation Is the Key to Escaping China's Supply Chain Dominance",
+      "title_ja": "バッテリー技術革新が、中国のサプライチェーン支配からの脱却の鍵を握る",
+      "original_url": "https://oilprice.com/Energy/Energy-General/Battery-Innovation-Is-the-Key-to-Escaping-Chinas-Supply-Chain-Dominance.html",
+      "image_url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-25_txilhyvmlj.jpg",
+      "published_at": "2026-02-25T22:00:00Z",
+      "source": "OilPrice.com",
+      "summary_ja": "クリーンエネルギーへの移行やデータセンター、AIの普及に伴い、世界的なバッテリー市場が急成長しています。この記事では、中国が優勢なバッテリーサプライチェーンから脱却するために、技術革新が不可欠であると論じています。特に、ビッグテックによるデータセンター向けのバッテリー需要の増加に焦点を当て、その重要性を強調しています。"
+    },
+    {
+      "title": "Datadog and Sakana AI Announce Strategic Partnership to Advance AI Innovation and Observability for Enterprises",
+      "title_ja": "DatadogとSakana AIが戦略的パートナーシップを発表、エンタープライズ向けAIイノベーションとオブザーバビリティを推進",
+      "original_url": "https://www.globenewswire.com/news-release/2026/02/25/3245098/0/en/Datadog-and-Sakana-AI-Announce-Strategic-Partnership-to-Advance-AI-Innovation-and-Observability-for-Enterprises.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/edde3b32-cb96-4a2a-a453-0e3710949ddc",
+      "published_at": "2026-02-25T22:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "DatadogとSakana AIは、次世代AIアプリケーションを支援するため、戦略的パートナーシップを締結しました。この提携により、AI研究の最前線とクラウドオブザーバビリティの専門知識が融合し、企業におけるAI活用を加速させます。DatadogのプラットフォームにSakana AIの技術が統合され、AIワークロードのパフォーマンス監視とセキュリティ強化が実現します。"
+    }
+  ]
+}

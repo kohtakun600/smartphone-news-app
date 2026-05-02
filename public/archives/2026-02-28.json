@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-27T22:51:23.257Z",
+  "articles": [
+    {
+      "title": "The Pentagon says it has offered compromises to Anthropic, including putting in writing that laws already bar the military from mass surveillance of Americans (Jennifer Jacobs/CBS News)",
+      "title_ja": "国防総省、Anthropic社に対し、米国民に対する大規模監視を法で禁じていることを書面で保証するなどの妥協案を提示 (Jennifer Jacobs/CBS News)",
+      "original_url": "https://www.techmeme.com/260226/p53",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/26/81c02f17-e877-4b5e-9f77-f6ccc5207e87/thumbnail/1200x630/a5275fed69cb0a9fe162affa0d630cd6/ap26035615816169.jpg",
+      "published_at": "2026-02-26T22:50:01Z",
+      "source": "Techmeme.com",
+      "summary_ja": "国防総省は、Anthropic社との提携を巡り、米国民に対する軍による大規模監視を法律で禁止していることを書面で明記するなど、いくつかの譲歩案を提示したと発表しました。この動きは、Anthropic社が軍との協力に対する懸念を表明したことへの対応です。この合意は、軍事利用におけるプライバシー保護と技術開発のバランスを探る上で、重要な意味を持ちます。"
+    },
+    {
+      "title": "Anthropic CEO Amodei says Pentagon's threats 'do not change our position' on AI",
+      "title_ja": "Anthropic CEO Amodei氏、ペンタゴンの脅迫はAIに関する自社の立場を「変えない」と発言",
+      "original_url": "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1771956566&w=1920&h=1080",
+      "published_at": "2026-02-26T22:48:39Z",
+      "source": "CNBC",
+      "summary_ja": "AnthropicのCEO、Dario Amodei氏は、国防総省からの要請を「良心に従って」受け入れることはできないと表明しました。同氏は、国防総省からの脅迫にも関わらず、AI開発における自社の立場を変えることはないと強調しました。この発言は、AI開発における倫理的側面と軍事利用のバランスを巡る議論に影響を与える可能性があります。"
+    },
+    {
+      "title": "Anthropic CEO Says AI Company 'Cannot In Good Conscience Accede' To Pentagon's Demands",
+      "title_ja": "Anthropic CEO、国防総省の要求に「良心的に賛同できない」と表明",
+      "original_url": "https://www.huffpost.com/entry/pentagon-ai-anthropic-reject-demands_n_69a0cd11e4b07886170538c0",
+      "image_url": "https://img.huffingtonpost.com/asset/69a0cd12270000e84947238a.jpeg?ops=1200_630",
+      "published_at": "2026-02-26T22:48:01Z",
+      "source": "HuffPost",
+      "summary_ja": "AI企業AnthropicのCEOが、国防総省からの自社技術の広範な利用に関する要求に対し、倫理的な観点から同意できないと発表しました。この決定は、AI技術の軍事利用における倫理的ジレンマを浮き彫りにしています。Anthropicの姿勢は、AI開発における企業倫理と社会への影響についての議論を活発化させるでしょう。"
+    },
+    {
+      "title": "The Pentagon and Anthropic’s High-Stakes Game of Chicken",
+      "title_ja": "ペンタゴンとAnthropic、AI企業を巡るハイリスクなチキンゲーム",
+      "original_url": "http://foreignpolicy.com/2026/02/26/pentagon-anthropic-fight-hegseth-amodei-meeting/",
+      "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2259073124.jpg?w=1000",
+      "published_at": "2026-02-26T22:47:59Z",
+      "source": "Foreign Policy",
+      "summary_ja": "アメリカ国防総省は、Anthropic社のAI言語モデルを軍事利用するために、同社との間で交渉を行っています。これは、AI技術の軍事転用を巡る激しい駆け引きであり、国家安全保障におけるAIの重要性を示しています。国防総省は、AnthropicのAIを制限なく利用できるようになることを目指しています。"
+    },
+    {
+      "title": "AI can slowly shift an organisation’s core principles. How to spot ‘value drift’ early",
+      "title_ja": "AIが組織のコア原則を徐々に変化させる可能性：『価値観のずれ』を早期に発見する方法",
+      "original_url": "https://theconversation.com/ai-can-slowly-shift-an-organisations-core-principles-how-to-spot-value-drift-early-276511",
+      "image_url": "https://images.theconversation.com/files/720799/original/file-20260226-57-7e2i8i.jpg?ixlib=rb-4.1.0&rect=0%2C626%2C7500%2C3750&q=45&auto=format&w=1356&h=668&fit=crop",
+      "published_at": "2026-02-26T22:46:07Z",
+      "source": "The Conversation Africa",
+      "summary_ja": "AIの導入が進む中で、企業が自社の説明に使用するテキストを生成するようになると、コアバリューが徐々に変化し、誰も気づかないうちに組織の基盤が揺らぐ可能性があります。 この記事では、オーストラリアとニュージーランドにおけるAIの安全な利用に関するガイダンスに触れつつ、そのような『価値観のずれ』を早期に特定するための考察が示されています。AI技術がもたらす影響を理解し、組織文化への潜在的な影響を注視することの重要性を説いています。"
+    },
+    {
+      "title": "AWS successfully completed its first surveillance audit for ISO 42001:2023 with no findings",
+      "title_ja": "AWS、ISO 42001:2023の初の監視監査を問題なく完了",
+      "original_url": "https://aws.amazon.com/blogs/security/aws-successfully-completed-its-first-surveillance-audit-for-iso-420012023-with-no-findings/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png",
+      "published_at": "2026-02-26T22:45:04Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon Web Services (AWS) は、主要クラウドサービスプロバイダーとして初めて、AIサービス向けISO/IEC 42001認証を取得しました。これにより、Amazon Bedrock、Amazon Q Business、Amazon Textract、Amazon Transcribeなどのサービスが対象となり、AIサービスの信頼性とコンプライアンスを強化しました。今回の監視監査の完了は、AWSのAIサービスに対する品質保証と顧客からの信頼獲得に繋がります。"
+    },
+    {
+      "title": "Ruoming Pang, Meta’s $200M Superintelligence Hire, Jumps to OpenAI After Just 7 Months",
+      "title_ja": "Metaの2億ドル超えAI専門家、潘汝明氏がわずか7ヶ月でOpenAIへ移籍",
+      "original_url": "https://observer.com/2026/02/ruoming-pang-leave-meta-for-openai/",
+      "image_url": "https://observer.com/wp-content/uploads/sites/2/2026/02/GettyImages-2225607795.jpg?quality=80",
+      "published_at": "2026-02-26T22:42:32Z",
+      "source": "Observer",
+      "summary_ja": "Metaが巨額の報酬で採用したAI研究者、潘汝明氏がOpenAIへ電撃移籍し、Metaのスーパーインテリジェンス開発への取り組みに痛手を与えました。OpenAIは長期間にわたり潘氏を勧誘していたと報じられています。今回の移籍は、AI分野における人材獲得競争の激化と、OpenAIの技術力への期待を象徴しています。"
+    },
+    {
+      "title": "Courts Were Already Getting Video Evidence Wrong. AI Will Make That Look Like A Warm-Up.",
+      "title_ja": "裁判所はすでにビデオ証拠を誤っていた。AIはその準備運動のように見えるだろう。",
+      "original_url": "https://www.forbes.com/sites/larsdaniel/2026/02/26/courts-were-already-getting-video-evidence-wrong-ai-will-make-that-look-like-a-warm-up/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a0c373c49e5930bc3794c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-02-26T22:23:03Z",
+      "source": "Forbes",
+      "summary_ja": "誤った殺人有罪判決は、裁判所がビデオ証拠の評価にどれだけ不慣れであるかを露呈しました。AIの登場により、この問題は無視できない深刻な状況となっています。AI技術の進化により、ビデオや写真証拠の検証は今後大きく変化し、その正確性や信頼性の評価はさらに複雑化していくでしょう。"
+    },
+    {
+      "title": "Wiwynn's AI products exceed 50% of sales in 2025, revenue and profit double",
+      "title_ja": "WiwynnのAI関連製品、2025年に売上の50%超え、収益と利益が倍増",
+      "original_url": "https://www.digitimes.com/news/a20260227PD200/csp-revenue-2025-profit-wiwynn.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260227pd200_files/2_b.jpg",
+      "published_at": "2026-02-26T22:22:00Z",
+      "source": "Digitimes",
+      "summary_ja": "WiwynnのAI関連製品が、2025年に売上全体の半分以上を占め、大幅な収益増と利益倍増を達成する見込みです。これは、米国クラウドサービスプロバイダー（CSP）によるAIへの積極的な投資が背景にあり、Nvidiaの好調な業績もAIインフラ需要の強さを裏付けています。Wiwynnは、この需要拡大を背景に、AI分野での成長を加速させています。"
+    },
+    {
+      "title": "As Pentagon-Anthropic feud risks boiling over, military says it's made compromises",
+      "title_ja": "ペンタゴンとAnthropicの対立激化の危機、軍は妥協策を提示",
+      "original_url": "https://www.cbsnews.com/news/pentagon-anthropic-feud-ai-military-says-it-made-compromises/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/26/81c02f17-e877-4b5e-9f77-f6ccc5207e87/thumbnail/1200x630/a5275fed69cb0a9fe162affa0d630cd6/ap26035615816169.jpg",
+      "published_at": "2026-02-26T22:21:23Z",
+      "source": "CBS News",
+      "summary_ja": "アメリカ国防総省とAI企業のAnthropicとの提携関係が危機に瀕する中、軍はAnthropicとの合意を目指し、いくつかの妥協案を提示したと報じられています。今回の対立は、Anthropicの技術利用に関する制限の可能性を巡るもので、国防総省はAI技術の確保に苦慮しています。この問題は、軍事利用におけるAI技術の進展と、企業との関係性に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "US Nabs Man Behind OnlyFake, Which Trafficked in AI-Powered Digital Fake IDs",
+      "title_ja": "アメリカ、AI搭載の偽造デジタルIDを販売していたOnlyFakeの運営者を逮捕",
+      "original_url": "https://uk.pcmag.com/ai/163419/us-nabs-man-behind-onlyfake-which-trafficked-in-ai-powered-digital-fake-ids",
+      "image_url": "https://sm.pcmag.com/t/pcmag_uk/news/u/us-nabs-ma/us-nabs-man-behind-onlyfake-which-trafficked-in-ai-powered-d_ua96.1200.jpg",
+      "published_at": "2026-02-26T22:10:23Z",
+      "source": "PCMag.com",
+      "summary_ja": "アメリカ合衆国は、AIを利用して偽造デジタルIDを作成し、銀行や仮想通貨取引所などの本人確認システムを欺くことを可能にしていたウェブサイトOnlyFakeの運営者を逮捕しました。このサイトは、高度なAI技術を駆使して、本物と区別がつかない精巧な偽造IDを提供し、犯罪行為を助長していました。今回の逮捕は、AI技術が悪用された犯罪に対する取締りの強化を示すものです。"
+    },
+    {
+      "title": "US Nabs Man Behind OnlyFake, Which Trafficked in AI-Powered Digital Fake IDs",
+      "title_ja": "アメリカ、AI搭載のデジタル偽IDを販売していたOnlyFakeの運営者を逮捕",
+      "original_url": "https://me.pcmag.com/en/ai/35593/us-nabs-man-behind-onlyfake-which-trafficked-in-ai-powered-digital-fake-ids",
+      "image_url": "https://sm.pcmag.com/t/pcmag_me/news/u/us-nabs-ma/us-nabs-man-behind-onlyfake-which-trafficked-in-ai-powered-d_nb8w.1200.jpg",
+      "published_at": "2026-02-26T22:10:23Z",
+      "source": "PCMag.com",
+      "summary_ja": "アメリカは、AIを利用して政府発行の身分証明書のデジタル偽造を作成していたOnlyFakeの運営者を逮捕しました。このウェブサイトは、銀行や暗号通貨取引所など、本人確認のためにデジタルIDの提出を求めるシステムを回避するのに利用されていました。偽造されたIDは、不正利用や詐欺行為に繋がる可能性があり、金融機関やオンラインサービスに大きな影響を与える恐れがあります。"
+    },
+    {
+      "title": "Block rallies after Dorsey slashes 40% of workforce in AI-native reset as earnings top estimates",
+      "title_ja": "ブロック、AI主導の再編で従業員40%削減を発表後、株価急騰、業績は予想を上回る",
+      "original_url": "https://siliconangle.com/2026/02/26/block-rallies-dorsey-slashes-40-workforce-ai-native-reset-earnings-top-estimates/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/blocklayoffs.png",
+      "published_at": "2026-02-26T22:09:25Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "金融サービス企業ブロック社は、AI技術を重点に置いた経営戦略への転換を図り、約1万人の従業員のうち40%以上を削減するリストラを発表しました。この大胆なリストラ策と、2025年第4四半期の好調な業績発表を受け、同社の株価は23%以上急上昇しました。この動きは、AI技術へのシフトが企業に与える影響と、業績改善への期待を示しています。"
+    },
+    {
+      "title": "AI giant Nvidia made $120 billion in profit last year. Investors are still spooked.",
+      "title_ja": "AI大手NVIDIA、昨年の利益は1200億ドルに。投資家は依然として警戒。",
+      "original_url": "https://www.nbcnews.com/business/markets/nvidia-made-120-billion-profit-last-year-investors-are-worried-rcna260839",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250127-nvidia-mn-0900-f5a055.jpg",
+      "published_at": "2026-02-26T22:07:58Z",
+      "source": "NBC News",
+      "summary_ja": "AI分野のリーダーであるNVIDIAは、昨年1200億ドルという驚異的な利益を計上しました。しかし、AI関連株の価格変動に対する投資家の懸念は依然強く、世界で最も価値のある企業であるにも関わらず、その影響を受けています。この状況は、AI技術の進歩と市場の不確実性が共存していることを示唆しています。"
+    },
+    {
+      "title": "Block Q4 2025 earnings: Profit jumps as AI transformation begins",
+      "title_ja": "Blockの2025年第4四半期決算：AI変革開始により利益が急増",
+      "original_url": "https://www.fool.com.au/2026/02/27/block-q4-2025-earnings-profit-jumps-as-ai-transformation-begins/",
+      "image_url": "https://www.fool.com.au/wp-content/uploads/2021/12/couple-reading-asx-news-16.9-1200x675.jpg",
+      "published_at": "2026-02-26T22:01:00Z",
+      "source": "Motley Fool Australia",
+      "summary_ja": "Blockは、2025年第4四半期決算で堅調な利益成長とCash Appの利用増加を発表しました。2026年に向けて、より効率的なAIを活用したモデルへの大胆な転換を図っており、これが業績に大きく貢献しています。このAI主導の変革は、Blockの将来的な収益性と競争力に重要な影響を与えるでしょう。"
+    },
+    {
+      "title": "Bitcoin Miner MARA jumps 17% after striking a deal with Starwood to build AI data centers",
+      "title_ja": "ビットコインマイナーMARA、StarwoodとのAIデータセンター建設契約発表を受け17%急騰",
+      "original_url": "https://www.coindesk.com/markets/2026/02/26/bitcoin-miner-mara-jumps-17-after-striking-a-deal-with-starwood-to-build-ai-data-centers",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/756af48ce44d1f3c565e79176cfbfe217549c725-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "published_at": "2026-02-26T21:56:52Z",
+      "source": "CoinDesk",
+      "summary_ja": "ビットコインマイニング企業MARAが、投資会社Starwood Capital Groupと提携し、既存施設をAIデータセンターに転換・拡張することで合意し、株価が17%急上昇しました。この契約は、ビットコインマイニングからAI分野への事業多角化を加速させ、新たな収益源を創出する可能性を示唆しています。既存の米国拠点を活用することで、効率的なデータセンターの立ち上げを目指しています。"
+    },
+    {
+      "title": "A new platform “by creators, for creators” will root out AI deepfakes",
+      "title_ja": "クリエイターによる、クリエイターのための新プラットフォームがAIディープフェイクを一掃へ",
+      "original_url": "https://www.tubefilter.com/2026/02/26/fanlock-creator-platform-take-down-ai-deepfakes-morgpie-zander-small/",
+      "image_url": "https://www.tubefilter.com/wp-content/uploads/2026/02/fanlock-platform.jpg",
+      "published_at": "2026-02-26T21:46:25Z",
+      "source": "Tubefilter",
+      "summary_ja": "クリエイターを対象とした新しいプラットフォームが登場し、AI生成によるなりすまし動画（ディープフェイク）問題に対処します。無許可のAI生成コンテンツは著作権侵害を助長し、ファンが現実と虚構を見分けることを困難にしています。このプラットフォームは、クリエイターが自らの作品を守り、AIによる不正利用に対抗するためのツールを提供するでしょう。"
+    },
+    {
+      "title": "Apple seeks dismissal of fraud lawsuit over Siri AI promises, Epic Games injunction",
+      "title_ja": "Apple、SiriのAI性能誇張を巡る詐欺訴訟とEpic Gamesの差し止め命令を退けるよう要請",
+      "original_url": "https://macdailynews.com/2026/02/26/apple-seeks-dismissal-of-fraud-lawsuit-over-siri-ai-promises-epic-games-injunction/",
+      "image_url": "https://macdailynews.com/wp-content/uploads/2024/05/240502_apple_logo.png",
+      "published_at": "2026-02-26T21:45:43Z",
+      "source": "Macdailynews.com",
+      "summary_ja": "Appleは、SiriのAI性能を実際以上に誇張したとして株主から起こされた集団訴訟に対し、訴えの却下をサンノゼ連邦裁判所に求めました。この訴訟は、2024年6月に発表されたSiriのAIアップデートが、現実よりも過剰に宣伝されたと主張しています。同時に、Epic Gamesとの問題に関する差し止め命令についても争っています。"
+    },
+    {
+      "title": "Burger King testing AI headsets that track how friendly employees are to customers",
+      "title_ja": "バーガーキング、従業員の顧客対応を追跡するAIヘッドセットを試験運用",
+      "original_url": "https://nypost.com/2026/02/26/business/burger-king-testing-ai-headsets-that-track-how-friendly-employees-are-to-customers/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/111BK1212.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-02-26T21:45:00Z",
+      "source": "New York Post",
+      "summary_ja": "バーガーキングが、レシピの読み上げ、在庫切れの通知、さらには従業員の顧客対応の親切さを追跡できるAI搭載ヘッドセットの試験運用を開始しました。この技術は、店舗運営の効率化を目指し、従業員の行動をデータ化することで、より質の高いサービス提供を可能にする可能性を秘めています。顧客対応の評価まで行う点が特徴的で、飲食業界におけるAI活用の新たな一歩と言えるでしょう。"
+    },
+    {
+      "title": "Burger King is testing AI headsets that will know if employees say 'welcome' or 'thank you'",
+      "title_ja": "バーガーキング、従業員の「いらっしゃいませ」や「ありがとうございます」をAIヘッドセットが認識するテストを実施",
+      "original_url": "https://japantoday.com/category/tech/burger-king-is-testing-ai-headsets-that-will-know-if-employees-say-welcome-or-thank-you",
+      "image_url": null,
+      "published_at": "2026-02-26T21:31:28Z",
+      "source": "Japan Today",
+      "summary_ja": "バーガーキングは、AI搭載ヘッドセットの試験運用を開始し、レシピの読み上げ、在庫切れアラート、さらには従業員の接客態度までモニタリングする機能をテストしています。この技術は、顧客対応の質を向上させるとともに、店舗運営の効率化に貢献する可能性があります。AIが接客用語を認識することで、よりきめ細やかなサービス提供を目指しています。"
+    }
+  ]
+}

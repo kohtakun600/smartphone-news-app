@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-12T22:53:40.357Z",
+  "articles": [
+    {
+      "title": "Cybersecurity startup Kai raises $125M to build agent-driven AI security platform",
+      "title_ja": "サイバーセキュリティ新興企業Kai、エージェント駆動型AIセキュリティプラットフォーム構築のため1億2500万ドルを調達",
+      "original_url": "https://siliconangle.com/2026/03/11/cybersecurity-startup-kai-raises-125m-build-agent-driven-ai-security-platform/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/kai.png",
+      "published_at": "2026-03-11T22:51:24Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "サイバーセキュリティ分野の新興企業Kaiは、エージェント駆動型AIセキュリティプラットフォームの開発と拡大のため、1億2500万ドルの資金調達を発表しました。このプラットフォームは、AIを活用してサイバー攻撃を検知・対応することを目的としています。Claroty Ltd.の共同創業者であるGalina Antova氏が2025年に設立し、今後のセキュリティ業界に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "The convergence crisis: Why AI adoption demands a new architectural blueprint",
+      "title_ja": "収束の危機：AI導入が新たなアーキテクチャ設計を求める理由",
+      "original_url": "https://siliconangle.com/2026/03/11/convergence-crisis-ai-adoption-demands-new-architectural-blueprint/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/f5signs.jpg",
+      "published_at": "2026-03-11T22:51:16Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "企業は現在、AI導入を加速させたい一方で、エッジ、クラウド、オンプレミス環境が分断され、スケーリングが困難という二重の課題に直面しています。AIの急速な普及は、既存のインフラストラクチャの限界を露呈させ、AI技術を最大限に活用するための新たなアーキテクチャ設計を不可欠なものにしています。この問題に対処するため、企業は、複雑さを軽減し、スケーラビリティを向上させるような新しいアプローチを模索する必要があります。"
+    },
+    {
+      "title": "YouTube enters next phase of deepfake crackdown with likeness detection for celebs and journalists",
+      "title_ja": "YouTube、著名人やジャーナリスト向けに顔検出機能を導入し、ディープフェイク対策を強化",
+      "original_url": "https://www.tubefilter.com/2026/03/11/youtube-ai-deepfake-likeness-detection-celebrities-journalists/",
+      "image_url": "https://www.tubefilter.com/wp-content/uploads/2026/03/youtube-creator-protections.jpg",
+      "published_at": "2026-03-11T22:49:03Z",
+      "source": "Tubefilter",
+      "summary_ja": "YouTubeは、ジェネレーティブAIへの投資を継続し、クリエイターが新しい技術に対抗するためのリソースを開発しています。特に、著名人やジャーナリストの顔を検出する機能の実装は、ディープフェイクによるなりすまし対策を強化する上で重要な一歩となります。これにより、YouTubeプラットフォーム上での信頼性と安全性の確保を目指しています。"
+    },
+    {
+      "title": "Atlassian layoffs see software giant cut 1600 jobs amid AI investment",
+      "title_ja": "アトラシアン、AI投資を背景に1600人削減を発表",
+      "original_url": "https://www.afr.com/technology/atlassian-slashes-1600-jobs-as-ai-challenges-its-future-20260311-p5o9m5",
+      "image_url": "https://static.ffx.io/images/$zoom_0.3287%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_694%2C$y_129/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e6060eafe56748fdd737a2f31ca070ee66d55ec0",
+      "published_at": "2026-03-11T22:41:16Z",
+      "source": "Australian Financial Review",
+      "summary_ja": "ソフトウェア大手のアトラシアンが、AI技術の台頭と株価低迷を受け、全従業員の10%にあたる1600人の人員削減を発表しました。今回のリストラは、AIによる業務効率化と、その節約分をAI分野への投資に充てるためのものです。CTOを含む多くの役職が削減対象となり、今後の同社のAI戦略に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
+      "title_ja": "3つの質問：AIの未来と、数学・物理学の連携について",
+      "original_url": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
+      "image_url": "https://news.mit.edu/sites/default/files/images/202603/AI%2BMPS-abstract-00_0.jpg",
+      "published_at": "2026-03-11T22:30:00Z",
+      "source": "Mit.edu",
+      "summary_ja": "ジェシー・セイラー教授は、AIと数学・物理学の間で両方の発展を促す架け橋を提唱しています。彼のビジョンは、AIを活用して物理学の研究を加速させ、逆に物理学の知見をAIの発展に活かすというものです。これにより、原子の研究が量子力学を生み出し、ひいては現代コンピューティングの基盤となったトランジスタのように、AIと科学技術の双方に革新をもたらすことが期待されています。"
+    },
+    {
+      "title": "AI-fueled memory chip shortage could raise prices of everyday tech",
+      "title_ja": "AI需要増でメモリチップ不足、日常的なテック製品の価格上昇の可能性",
+      "original_url": "https://www.cbsnews.com/video/ai-fueled-memory-chip-shortage-could-raise-prices-everyday-tech/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/11/62d5ee57-fe8b-4539-93c2-1726b050038e/thumbnail/1200x630/fc7a36acb3c7dbf1511ef01c1388a468/cbsn-fusion-ai-fueled-memory-chip-shortage-could-raise-prices-everyday-tech-thumbnail.jpg",
+      "published_at": "2026-03-11T22:21:00Z",
+      "source": "CBS News",
+      "summary_ja": "人工知能データセンターとクラウドコンピューティングの急増により、メモリチップの供給がひっ迫し、価格上昇につながる可能性があります。この影響は、スマートフォンやパソコンなど、私たちが日常的に使用するテック製品の価格に反映される見込みです。CBSニュースの報道によると、AI技術の発展が、価格面で消費者にとって大きな負担となる可能性が指摘されています。"
+    },
+    {
+      "title": "Optimus AI Review: Trusted Trading System or Fraud? Results Exposed",
+      "title_ja": "Optimus AI レビュー：信頼できる取引システムか、それとも詐欺か？結果を暴露",
+      "original_url": "https://whatjapanthinks.com/optimus-ai-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-11T22:14:25Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Optimus AIは、オンライン市場参加者向けに開発された新しい取引プログラムです。AIと自動化システムを駆使し、ユーザーエクスペリエンスを向上させることを謳っています。本レビューでは、Optimus AIの機能と信頼性を検証し、その結果を詳細に分析します。詐欺の可能性についても徹底的に調査します。"
+    },
+    {
+      "title": "Sprinklr Reports 'Turning Point' Year as Customer Experience Reaches 'Inflection Point'",
+      "title_ja": "Sprinklrが「ターニングポイント」の年を報告、顧客体験が「転換点」に到達",
+      "original_url": "https://www.cmswire.com/customer-experience/sprinklr-revenue-hits-857m-as-ai-native-cxm-bet-gains-traction/",
+      "image_url": "https://www.cmswire.com/-/media/3963159c500040e7a45de21f23c4f264.ashx",
+      "published_at": "2026-03-11T22:06:04Z",
+      "source": "CMSWire",
+      "summary_ja": "Sprinklrは、顧客体験（CX）が転換点を迎えたとし、FY2026の結果において、企業規模での統合されたAIネイティブCXの未来を示唆する成長を報告しました。同社は、低い顧客解約率と高い利益率を達成し、積極的な事業変革が成功したことを示しています。今回の報告は、顧客体験管理プラットフォームの市場における同社の地位を強化するものであり、今後の動向に注目が集まります。"
+    },
+    {
+      "title": "cdklabs.generative-ai-cdk-constructs 0.1.315",
+      "title_ja": "cdklabs.generative-ai-cdk-constructs 0.1.315",
+      "original_url": "https://pypi.org/project/cdklabs-generative-ai-cdk-constructs/0.1.315/",
+      "image_url": null,
+      "published_at": "2026-03-11T22:04:53Z",
+      "source": "Pypi.org",
+      "summary_ja": "このライブラリは、AWSの生成AIパターンを構築するためのCDK（Cloud Development Kit）コンストラクトを提供します。これにより、開発者は生成AIアプリケーションをより効率的かつ、洗練された方法で構築できます。今回のアップデートでは、パフォーマンス向上やバグ修正が含まれている可能性があります。"
+    },
+    {
+      "title": "Netflix may have paid $600 million for Ben Affleck's AI startup | TechCrunch",
+      "title_ja": "Netflix、ベン・アフレック氏のAIスタートアップを6億ドルで買収か | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/cash-ransomware-ransom-payments-hackers-getty.jpg?resize=1200,675",
+      "published_at": "2026-03-11T22:01:48Z",
+      "source": "TechCrunch",
+      "summary_ja": "Netflixは、ベン・アフレック氏が共同設立したAI企業InterPositiveを買収し、映画製作者のポストプロダクションにおける編集を支援する技術を獲得しました。この買収により、Netflixは映像制作の効率化を図り、コンテンツ制作におけるAI活用の可能性を大きく広げます。買収金額は最大で6億ドルに達する可能性があります。"
+    },
+    {
+      "title": "AI ‘Actor’ Tilly Norwood Releases a Music Video… and It's Pretty Stupid",
+      "title_ja": "AI『俳優』ティリー・ノーウッドがミュージックビデオを公開…その出来はかなり酷評",
+      "original_url": "https://geektyrant.com/news/ai-actor-tilly-norwood-releases-a-music-video-and-its-not-good",
+      "image_url": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/69b07eded4dd753d592690ff/1773266445213/Screenshot+2026-03-10+at+1.38.40%E2%80%AFPM.jpg?format=1500w",
+      "published_at": "2026-03-11T22:00:00Z",
+      "source": "GeekTyrant",
+      "summary_ja": "ハリウッドで話題のAI技術を活用した、AI俳優ティリー・ノーウッドがミュージックビデオをリリースしました。しかし、その作品は「世界初のAI俳優」としての期待を裏切り、酷評されています。この試みは、AIによるエンターテイメント制作の可能性と課題を示すものであり、今後のAI技術の発展と表現方法に影響を与える可能性があります。"
+    },
+    {
+      "title": "Trump’s AI-Powered World Wars",
+      "title_ja": "トランプ大統領のAI活用型世界戦争",
+      "original_url": "https://theintercept.com/2026/03/11/podcast-trump-ai-world-wars/",
+      "image_url": "https://theintercept.com/wp-content/uploads/2026/03/Iran_Oil.jpg?fit=2000%2C1000&w=1200&h=800",
+      "published_at": "2026-03-11T22:00:00Z",
+      "source": "The Intercept",
+      "summary_ja": "この記事では、ドナルド・トランプ大統領のイランに対する軍事行動について議論されており、その背後にあるAI技術の利用に焦点を当てています。石油価格の高騰や市場の変動が、地域紛争の拡大を加速させる中で、AIがどのように戦争を推し進めているのか、その影響について分析しています。特に、AIが紛争の行方や戦略に与える影響について深く掘り下げています。"
+    },
+    {
+      "title": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales",
+      "title_ja": "Atlassian、AIとエンタープライズセールスへの投資を「自己資金調達」するため、従業員の10%を削減",
+      "original_url": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108276934-1773265619777-gettyimages-2147914841-AUSTRALIA_CANNON-BROOKES.jpeg?v=1773265646&w=1920&h=1080",
+      "published_at": "2026-03-11T21:48:50Z",
+      "source": "CNBC",
+      "summary_ja": "Atlassianは、AIおよびエンタープライズセールスへの投資を加速させるため、従業員の10%にあたる約1,600人を削減すると発表しました。これは、株価下落への対応と、競争激化するAI分野への注力のためです。今回の人員削減は、Atlassianの事業戦略を大きく転換させる可能性を秘めています。"
+    },
+    {
+      "title": "Ambiorax+AI Review: Genuine Trading Platform or Fake? Reality Check",
+      "title_ja": "Ambiorax+AI レビュー：本物の取引プラットフォームか、それとも詐欺か？真実を検証",
+      "original_url": "https://whatjapanthinks.com/ambioraxai-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-11T21:44:31Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Ambiorax+AIは、仮想通貨トレーダー向けに開発された新しいデジタル資産取引プラットフォームです。スマートコンピューティングなどの高度な手法を使用し、取引体験を向上させると主張しています。この記事では、Ambiorax+AIが実際に機能し、信頼できるプラットフォームなのか、詳細に検証します。"
+    },
+    {
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "title_ja": "Atlassian、AI分野への注力のため約1,600人の人員削減を発表",
+      "original_url": "https://www.channelnewsasia.com/business/atlassian-cut-roughly-1600-jobs-in-pivot-ai-5987751",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+      "published_at": "2026-03-11T21:27:43Z",
+      "source": "CNA",
+      "summary_ja": "Atlassianは、AIおよびエンタープライズセールスへの注力を目指し、全従業員の約10％にあたる1,600人の人員削減を行うと発表しました。この大胆な動きは、同社がAI技術を活用した新しいビジネスモデルへの転換を図ることを示唆しています。発表後、同社の株価は時間外取引で上昇しました。"
+    },
+    {
+      "title": "Atlassian to cut roughly 10% jobs in pivot to AI",
+      "title_ja": "アトラシアン、AIシフトのため約10%の人員削減を発表",
+      "original_url": "https://www.channelnewsasia.com/business/atlassian-cut-roughly-10-jobs-in-pivot-ai-5987751",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Cl96hT5n--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-11T225907Z_2_LYNXMPEM2A1IG_RTROPTP_3_USA-CORPBONDS-QUALTRICS.JPG?itok=BasrXqdL",
+      "published_at": "2026-03-11T21:27:43Z",
+      "source": "CNA",
+      "summary_ja": "Atlassianは、AI分野への注力とエンタープライズセールスの強化のため、人員の約10％にあたる1,600人規模のレイオフを実施すると発表しました。今回のリストラは、同社がAI技術を活用した製品開発に重点を置くための戦略転換の一環です。この発表を受け、同社の株価は時間外取引で上昇しました。"
+    },
+    {
+      "title": "Grammarly Disables Tool Offering Generative-AI Feedback Credited To Real Writers",
+      "title_ja": "Grammarly、実在のライターを名指ししたAI生成フィードバック提供ツールを停止",
+      "original_url": "https://slashdot.org/story/26/03/11/2121238/grammarly-disables-tool-offering-generative-ai-feedback-credited-to-real-writers",
+      "image_url": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "published_at": "2026-03-11T21:25:00Z",
+      "source": "Slashdot.org",
+      "summary_ja": "Grammarlyは、実在のライターの名前を無断で使用してAIが生成したフィードバックを提供したことで、ライターからの反発を受け、Expert Review機能を停止しました。この機能は、第三者の大規模言語モデル（LLM）からの公開情報に基づいて、執筆の提案を行っていました。GrammarlyのCEOは、今後はAIの学習に使用したライターの許諾を得ると表明しました。"
+    },
+    {
+      "title": "Grammarly Disables Tool Offering Generative-AI Feedback Credited To Real Writers",
+      "title_ja": "Grammarly、実在のライターに帰属する生成AIフィードバック提供ツールを無効化",
+      "original_url": "https://slashdot.org/story/26/03/11/2121238/grammarly-disables-tool-offering-generative-ai-feedback-credited-to-real-writers",
+      "image_url": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "published_at": "2026-03-11T21:25:00Z",
+      "source": "Slashdot.org",
+      "summary_ja": "Grammarlyは、生成AIによって生成されたフィードバックを許可なくライターの名前と共に提示したことで、ライターからの反発を受け、Expert Review機能を無効化しました。この機能は、公開情報に基づいて第三者の大規模言語モデル（LLM）を利用して執筆の提案を行うものでした。今回の決定は、AI技術の利用における著作権と帰属に関する問題が浮き彫りになったことを示しています。"
+    },
+    {
+      "title": "Trade Deltrox 9.2 Review: Genuine Trading Platform or Fake? Reality Check",
+      "title_ja": "Trade Deltrox 9.2 レビュー：本物の取引プラットフォームか、それとも詐欺か？真実を検証",
+      "original_url": "https://whatjapanthinks.com/trade-deltrox-9-2-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-11T21:24:35Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Trade Deltrox 9.2は、仮想通貨市場への投資を容易にするために開発された新しいオンライン取引プラットフォームです。AIなどの最新技術を駆使していると主張していますが、その実態は評価によって大きく異なっています。レビューでは、その信憑性や機能性について徹底的に検証し、投資家にとってのメリットとリスクを明らかにします。"
+    },
+    {
+      "title": "Apple Trains AI to Recognize Custom Hand Gesture Controls",
+      "title_ja": "Apple、独自のハンドジェスチャー操作を認識するAIを開発",
+      "original_url": "https://www.androidheadlines.com/2026/03/apple-ai-trained-hand-gestures-wearable-sensors.html",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2024/09/Apple-Logo-AM-AH.jpg",
+      "published_at": "2026-03-11T21:21:17Z",
+      "source": "Android Headlines",
+      "summary_ja": "Appleの研究者は、未学習のハンドジェスチャーを認識できるAIモデルを開発しました。このAIは、筋肉の電気活動を解釈するゼロショット認識手法を用いており、ユーザーが事前に定義したジェスチャーを使わなくても、独自のジェスチャーを理解することができます。これにより、将来的に様々なデバイスの操作性が向上する可能性が期待されます。"
+    }
+  ]
+}

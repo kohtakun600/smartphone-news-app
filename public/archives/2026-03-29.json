@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-28T22:57:08.943Z",
+  "articles": [
+    {
+      "title": "AI tokens emerge as new workplace metric, reshaping productivity and competition",
+      "title_ja": "AIトークンが新たな職場指標として登場、生産性と競争を再構築",
+      "original_url": "https://www.digitimes.com/news/a20260325PD203/performance-efficiency.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260325pd203_files/2_b.jpg",
+      "published_at": "2026-03-27T22:56:06Z",
+      "source": "Digitimes",
+      "summary_ja": "人工知能の急速な台頭により、企業は生産性の測定方法と従業員への報酬体系を変化させています。特に、AIモデルの使用量を定量化する「トークン」が、職場における新たな業績評価基準として浮上しています。この動きは、生産性向上だけでなく、企業間の競争にも影響を与え、AI技術活用の度合いが勝敗を分ける時代へとシフトしています。"
+    },
+    {
+      "title": "Iranian AI slop propaganda video presents Trump and Netanyahu as Lego characters",
+      "title_ja": "イランのAIが生成したプロパガンダ動画、トランプとネタニヤフをレゴ風キャラクターで表現",
+      "original_url": "https://www.snopes.com//fact-check/iran-ai-slop-propganda-lego-trump/",
+      "image_url": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/03/iran_4.png",
+      "published_at": "2026-03-27T22:50:00Z",
+      "source": "Snopes.com",
+      "summary_ja": "イランが制作したプロパガンダ動画が、AI技術を用いてトランプ前米大統領とネタニヤフ・イスラエル首相をレゴ風のキャラクターとして登場させました。この動画は、特定のプラットフォームで拡散され、政治的なメッセージを視覚的に伝えることを目的としています。このようなAIによる画像生成技術は、プロパガンダにおける影響力を高める可能性を示しています。"
+    },
+    {
+      "title": "SAG-AFTRA applauds the Trump Admin’s new AI policy framework",
+      "title_ja": "SAG-AFTRA、トランプ政権の新しいAI政策フレームワークを称賛",
+      "original_url": "https://nypost.com/2026/03/27/us-news/sag-aftra-applauded-the-trump-administrations-new-ai-policy-framework-declaring-thursday-that-it-strongly-supports-the-initiative/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/124549129.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-03-27T22:42:46Z",
+      "source": "New York Post",
+      "summary_ja": "俳優組合SAG-AFTRAは、トランプ政権が発表した、人間の創造性を保護することを目的とした新しいAI政策フレームワークを高く評価しました。この政策は、AI技術が人間の創造性に与える影響に対する懸念を表明し、その保護の必要性を強調しています。このフレームワークは、AI技術の発展と人間の創造性の調和を目指しています。"
+    },
+    {
+      "title": "Hegseth’s War On Anthropic Encounters The First Amendment",
+      "title_ja": "ヘグセス氏とAnthropic社の対立、合衆国憲法修正第1条に抵触",
+      "original_url": "https://www.techdirt.com/2026/03/27/hegseths-war-on-anthropic-encounters-the-first-amendment/",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "published_at": "2026-03-27T22:31:00Z",
+      "source": "Techdirt",
+      "summary_ja": "保守派論客のピート・ヘグセス氏が、AI開発企業Anthropic社を批判した件で、表現の自由を保障する合衆国憲法修正第1条との関係が焦点となっています。 この論争は、トランプ前大統領や国防総省も関与する可能性があり、AI技術と政府との関係性に大きな影響を与える可能性があります。記事では、この問題を「連邦裁判沙汰」と表現しており、事態の深刻さを示唆しています。"
+    },
+    {
+      "title": "Monaro Bondleigh Review: Trusted Trading System or Fraud? Results Exposed",
+      "title_ja": "Monaro Bondleigh レビュー：信頼できる取引システムか、それとも詐欺か？結果が明らかに",
+      "original_url": "https://whatjapanthinks.com/monaro-bondleigh-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-27T22:08:32Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Monaro Bondleighは、オンライン市場参加者向けの使いやすさを向上させるために設計された、新しくローンチされたオンライン取引プログラムです。AIなどの高度な技術を使用していると主張していますが、その実態は不明です。この記事では、Monaro Bondleighの信頼性について検証し、その結果を公開しています。"
+    },
+    {
+      "title": "Time to rethink cloud architecture for enterprise AI",
+      "title_ja": "エンタープライズAIのためにクラウドアーキテクチャを再考する時",
+      "original_url": "https://www.techtarget.com/searchenterpriseai/post/Time-to-rethink-cloud-architecture-for-enterprise-AI",
+      "image_url": "https://www.techtarget.com/rms/onlineimages/cloud_g943065362.jpg",
+      "published_at": "2026-03-27T22:02:00Z",
+      "source": "Techtarget.com",
+      "summary_ja": "エンタープライズAIシステムは、長期的な信頼性を確保するために、永続的な状態、ガバナンス、そして適応性のあるインフラストラクチャを重視したクラウドアーキテクチャを必要としています。 記事では、従来のワークロード中心の設計から、AIの特性に合わせたアーキテクチャへのシフトの必要性を強調しています。 具体的には、状態の管理、ガバナンス、そしてインフラの適応能力が、AIシステムの持続的な運用において不可欠であると述べています。"
+    },
+    {
+      "title": "AI revolution is coming for service jobs: How work will change by 2030 - Bruce Cotterill",
+      "title_ja": "サービス業にAI革命到来：2030年までに仕事はどう変わるか - Bruce Cotterill",
+      "original_url": "https://www.nzherald.co.nz/business/economy/employment/ai-revolution-is-coming-for-service-jobs-how-work-will-change-by-2030-bruce-cotterill/premium/7MESZEPEYJBR7EX7MBHRAUP4MU/",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/2L4O2ITVZBBCPAX2CWNYCCNPBM.jpg?auth=43e8a2c5b6ee3a639fec459670144ebe8b75c94e1c3f1a39914ed57748a37ec1&width=1200&height=675&quality=70&focal=969%2C615&smart=false",
+      "published_at": "2026-03-27T22:00:00Z",
+      "source": "New Zealand Herald",
+      "summary_ja": "この記事は、AIがサービス業に革命をもたらし、2030年までに労働環境を大きく変革するという予測に基づいています。世界人口の約13%がAI技術に触れ始め、その影響が今後さらに加速すると見込まれています。労働構造の変化、職務内容の再定義、そしてAIとの共存が不可避となる未来を描いています。"
+    },
+    {
+      "title": "Concerns About AI Model Capabilities Drive Down Cybersecurity Stocks",
+      "title_ja": "AIモデルの能力に関する懸念からサイバーセキュリティ株が下落",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/concerns-about-ai-model-capabilities-drive-down-cybersecurity-stocks/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/12/Anthropic-hq.jpg",
+      "published_at": "2026-03-27T21:58:00Z",
+      "source": "pymnts.com",
+      "summary_ja": "Anthropicがテスト中のAIモデルの能力に対する懸念が、金曜日にサイバーセキュリティ関連株を下落させた。Bloombergの報道によると、これはFortuneの記事で、Anthropicのブログ投稿草案が、AIの新たな脅威に対するセキュリティ対策の有効性を疑問視していると報じられたため。このニュースは、AI技術の進化がサイバーセキュリティ分野に及ぼす影響への懸念を浮き彫りにした。"
+    },
+    {
+      "title": "Harta Capitalode Review: Trusted Trading System or Fraud? Results Exposed",
+      "title_ja": "Harta Capitalode レビュー：信頼できる取引システムか詐欺か？結果を暴露",
+      "original_url": "https://whatjapanthinks.com/harta-capitalode-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-27T21:48:29Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Harta Capitalodeは、暗号通貨市場への参入を容易にするために開発された新しい取引システムです。AIやスマートツールなどの高度な技術を活用し、取引プロセスを簡素化すると主張しています。この記事では、このプラットフォームの信頼性について調査し、その結果を詳細に分析します。"
+    },
+    {
+      "title": "Hollywood’s Classics Get an AI Upgrade",
+      "title_ja": "ハリウッドの名作がAIで進化",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/hollywoods-classics-get-an-ai-upgrade/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Hollywood-classics-AI.png",
+      "published_at": "2026-03-27T21:46:41Z",
+      "source": "pymnts.com",
+      "summary_ja": "AI技術が、ハリウッドの映画アーカイブから中国のカンフー映画まで、数十年前のフィルム修復に活用されています。画像品質の向上、物理的な損傷の修復、劣化音響の再構築などが行われ、かつて手作業で行われていた修復作業が効率化されています。これにより、過去の名作が新たなクオリティで蘇り、より多くの視聴者に届けられる可能性が広がっています。"
+    },
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "title_ja": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "original_url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "image_url": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/191:100/w_1280,c_limit/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg",
+      "published_at": "2026-03-27T21:46:39Z",
+      "source": "Wired",
+      "summary_ja": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed."
+    },
+    {
+      "title": "Bipartisan Skepticism Greets Director Squires at First House Oversight Hearing",
+      "title_ja": "下院監視委員会初の公聴会で、スクワイアーズ長官に超党派の懐疑的な見方",
+      "original_url": "https://patentlyo.com/patent/2026/03/bipartisan-skepticism-greets-director-squires-at-first-house-oversight-hearing.html",
+      "image_url": null,
+      "published_at": "2026-03-27T21:32:54Z",
+      "source": "Patentlyo.com",
+      "summary_ja": "2026年3月25日、下院司法小委員会はUSPTOに関する初の監視公聴会を開催し、スクワイアーズ長官は、IPR制度のポリシー、遡及的な制度廃止、平和の商標権、そしてPTAB改革におけるルトニック長官の役割について、超党派から懐疑的な目を向けられました。この公聴会は、知的財産権制度における現在の課題と将来の方向性に関する議論を活発化させる可能性があります。特に、特許審査における公平性と透明性の確保が重要な焦点となっています。"
+    },
+    {
+      "title": "preflight-data 0.1.0",
+      "title_ja": "preflight-data 0.1.0",
+      "original_url": "https://pypi.org/project/preflight-data/0.1.0/",
+      "image_url": null,
+      "published_at": "2026-03-27T21:14:14Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事は、機械学習のためのデータセット準備状況確認ツール「preflight-data」のバージョン0.1.0のリリースについて報じています。このツールは、機械学習モデルのトレーニング前に、DataFrameに対して事前チェックリストを実行し、データの準備が整っているかを検証します。これにより、データ品質の問題を早期に発見し、より効率的な機械学習ワークフローを実現することが期待されます。"
+    },
+    {
+      "title": "preflight-data added to PyPI",
+      "title_ja": "PyPIに'preflight-data'が追加",
+      "original_url": "https://pypi.org/project/preflight-data/",
+      "image_url": null,
+      "published_at": "2026-03-27T21:14:10Z",
+      "source": "Pypi.org",
+      "summary_ja": "機械学習用のデータセット準備チェックツールである'preflight-data'がPyPIに登場しました。これは、トレーニング前にDataFrameに対して事前チェックリストを実行し、データセットの準備状況を評価するものです。これにより、データの前処理に関する問題を早期に発見し、より効率的な機械学習ワークフローを構築できるようになります。"
+    },
+    {
+      "title": "The contradiction at the heart of OpenAI",
+      "title_ja": "OpenAIの核心にある矛盾",
+      "original_url": "https://www.vox.com/podcasts/484173/openai-restructure-for-profit-mission-legal",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267710394.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-03-27T21:08:48Z",
+      "source": "Vox",
+      "summary_ja": "OpenAIは、AIビデオ生成アプリSoraのサービスをわずか数ヶ月で終了することを発表し、組織再編も実施するなど、大きな変化を迎えています。一方で、非営利部門を通じてAI関連の活動に多額の投資を行う計画を発表しており、営利目的と非営利目的の間で矛盾が生じています。この動きは、OpenAIの戦略の方向性と、AI技術開発における倫理的な課題を浮き彫りにしています。"
+    },
+    {
+      "title": "The Billion-Dollar Pivot: Fans Tell Disney Exactly How to Spend the Scrapped OpenAI Windfall",
+      "title_ja": "10億ドル規模の転換：ファンがディズニーに、中止となったOpenAIとの連携による資金の使い道を提言",
+      "original_url": "https://insidethemagic.net/2026/03/disney-has-an-extra-1-billion-after-openai-deal-fell-through-fans-have-ideas-on-how-disney-can-spend-that-money-rl1/",
+      "image_url": "https://insidethemagic.net/wp-content/uploads/2023/12/Untitled-design-2023-12-08T134639.320.jpg",
+      "published_at": "2026-03-27T21:08:28Z",
+      "source": "Inside the Magic",
+      "summary_ja": "ディズニーとOpenAIの提携が中止となり、10億ドルの資金が新たな用途に振り向けられることになりました。テーマパークのファンたちは、この資金をどのように活用すべきか、具体的な提案を行っています。彼らは、AI技術を活用したアトラクション開発や、没入型のエンターテイメント体験の向上を求めており、ディズニーの今後の戦略に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "inference-sdk 1.2.0",
+      "title_ja": "inference-sdk 1.2.0",
+      "original_url": "https://pypi.org/project/inference-sdk/1.2.0/",
+      "image_url": null,
+      "published_at": "2026-03-27T21:05:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceのinference-sdk 1.2.0がリリースされました。機械学習やデバイス特有のデプロイに関する専門知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単に展開できるようになります。このSDKにより、開発者はより手軽に画像認識などのAI機能を実装し、幅広いプラットフォームで利用できるようになることが期待されます。"
+    },
+    {
+      "title": "inference-gpu 1.2.0",
+      "title_ja": "inference-gpu 1.2.0",
+      "original_url": "https://pypi.org/project/inference-gpu/1.2.0/",
+      "image_url": null,
+      "published_at": "2026-03-27T21:05:25Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceの最新バージョンであるinference-gpu 1.2.0が登場しました。このツールを使用すると、機械学習やデバイス特有の知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできます。これにより、専門知識がないユーザーでも、画像認識などのモデルを迅速に実用化することが可能になります。"
+    },
+    {
+      "title": "inference-cpu 1.2.0",
+      "title_ja": "inference-cpu 1.2.0",
+      "original_url": "https://pypi.org/project/inference-cpu/1.2.0/",
+      "image_url": null,
+      "published_at": "2026-03-27T21:05:23Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceの最新バージョンであるinference-cpu 1.2.0がリリースされました。このプラットフォームにより、機械学習やデバイス特有の知識がなくても、様々なデバイスや環境にコンピュータビジョンモデルを簡単にデプロイできるようになります。これにより、より多くの人々が高度なAI技術を容易に利用できるようになり、幅広いアプリケーションでの活用が期待されます。"
+    },
+    {
+      "title": "At 'Davos of energy', AI looks to gas to power its rapid expansion",
+      "title_ja": "「エネルギー版ダボス会議」で、AIの急成長を支えるガスに注目",
+      "original_url": "https://japantoday.com/category/tech/at-%27davos-of-energy%27-ai-looks-to-gas-to-power-its-rapid-expansion",
+      "image_url": null,
+      "published_at": "2026-03-27T21:02:52Z",
+      "source": "Japan Today",
+      "summary_ja": "世界最大のエネルギー会議CERAWeekにて、人工知能 (AI) の急速な発展を支えるエネルギー源として天然ガスに焦点が当てられました。約1万人の専門家や経営幹部が集まり、AIの電力需要増に対応するための議論が交わされました。エネルギー業界は、AIの台頭がもたらす電力需要への対応を迫られており、そのために天然ガスが重要な役割を担う可能性が議論されています。"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-15T23:10:40.579Z",
+  "articles": [
+    {
+      "title": "NLR-mlclouds added to PyPI",
+      "title_ja": "NLR-mlclouds added to PyPI",
+      "original_url": "https://pypi.org/project/nlr-mlclouds/",
+      "image_url": null,
+      "published_at": "2026-04-14T23:03:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "A machine learning approach to predicting missing cloud properties in the National Solar Radiation Database (mlclouds)"
+    },
+    {
+      "title": "NLR-mlclouds 0.0.6",
+      "title_ja": "NLR-mlclouds 0.0.6",
+      "original_url": "https://pypi.org/project/nlr-mlclouds/0.0.6/",
+      "image_url": null,
+      "published_at": "2026-04-14T23:03:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、国立太陽放射データベース (NSRDB) における欠損した雲の特性を機械学習を用いて予測する「mlclouds」の新しいバージョン 0.0.6 が発表されました。この技術は、機械学習モデルを利用して、太陽光発電などの再生可能エネルギー分野における気象データ分析の精度向上に貢献すると期待されています。欠損データの補完により、より正確な太陽光発電予測やエネルギー資源の最適化が可能になります。"
+    },
+    {
+      "title": "OpenAI acquires AI financial planning startup Hiro Finance",
+      "title_ja": "OpenAI、AI金融プランニングスタートアップのHiro Financeを買収",
+      "original_url": "https://siliconangle.com/2026/04/14/openai-acquires-ai-financial-planning-startup-hiro-finance/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/OpenAI1.png",
+      "published_at": "2026-04-14T23:00:08Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "OpenAIが、AIを活用した金融プランニングツールを提供する新興企業Hiro Financeを買収しました。買収金額は非公開ですが、OpenAIの技術力を活かした金融分野への進出が期待されます。この買収により、AI技術を活用したパーソナルファイナンスサービスの更なる発展が加速する可能性があります。"
+    },
+    {
+      "title": "Starburst adds AI front end in a bid to make conventional business intelligence dashboards obsolete",
+      "title_ja": "Starburst、AIフロントエンドを追加し、従来のビジネスインテリジェンスダッシュボードの代替を目指す",
+      "original_url": "https://siliconangle.com/2026/04/14/starburst-adds-ai-front-end-bid-make-conventional-bi-dashboards-obsolete/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/explosion-2483998_1920.jpg",
+      "published_at": "2026-04-14T22:46:22Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "Starburst Data社は、自然言語を使って企業データに問い合わせと分析を可能にするAI機能を発表しました。これにより、従来のビジネスインテリジェンスダッシュボードからの脱却を目指しています。このAI機能は、ビジネスユーザーが複雑なクエリを書くことなくデータにアクセスできるようになり、データ分析の民主化を促進する可能性があります。"
+    },
+    {
+      "title": "Mati Staniszewski: Modern audio models replicate human speech using neural networks, the importance of text and voice characteristics, and Eleven Labs’ mission to transform business communication | Cheeky Pint",
+      "title_ja": "Mati Staniszewski氏：ニューラルネットワークを用いた現代のオーディオモデルによる人間音声の再現、テキストと音声特性の重要性、そしてEleven Labsによるビジネスコミュニケーション変革への取り組み | Cheeky Pint",
+      "original_url": "https://cryptobriefing.com/mati-staniszewski-modern-audio-models-replicate-human-speech-using-neural-networks-the-importance-of-text-and-voice-characteristics-and-eleven-labs-mission-to-transform-business-communication-c/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03012432/podcast-cover-cheeky-pint-1-800x420.jpg",
+      "published_at": "2026-04-14T22:43:42Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "Eleven LabsのAIオーディオモデルは、ニューラルネットワークを活用し、人間のような自然な音声合成を実現することで、ビジネスコミュニケーションに革新をもたらそうとしています。この記事では、テキストと音声の特徴が重要であることが強調されており、Eleven Labsがどのようにこの技術を通じてビジネスを変革していくのかが焦点となっています。この技術は、電話応対やナレーションなど、多様なビジネスシーンでのコミュニケーションを大きく変える可能性を秘めています。"
+    },
+    {
+      "title": "Attorney for suspect in attack at Sam Altman’s home says he was in midst of ‘mental health crisis’",
+      "title_ja": "サム・アルトマン氏宅への襲撃容疑者の弁護士、容疑者は「精神的な健康危機」にあったと主張",
+      "original_url": "https://www.ocregister.com/2026/04/14/openai-fire-arrest-court-appearance/",
+      "image_url": "https://www.ocregister.com/wp-content/uploads/2026/04/OpenAI_Fire_Arrest_2322_.jpg?w=1024&h=682",
+      "published_at": "2026-04-14T22:43:39Z",
+      "source": "OCRegister",
+      "summary_ja": "OpenAIのサム・アルトマンCEOの自宅に火炎瓶を投げつけようとした容疑者の弁護士は、容疑者が「精神的な健康危機」にあったと発表しました。この事件は、AI開発の最前線にいる人物に対する攻撃であり、テクノロジー業界に衝撃を与えています。容疑者の精神状態が事件にどのように影響したのか、今後の捜査の焦点となります。"
+    },
+    {
+      "title": "cogflow 2.0.1b1",
+      "title_ja": "cogflow 2.0.1b1",
+      "original_url": "https://pypi.org/project/cogflow/2.0.1b1/",
+      "image_url": null,
+      "published_at": "2026-04-14T22:25:23Z",
+      "source": "Pypi.org",
+      "summary_ja": "COGFlowは、モジュール型の機械学習ワークフロー管理システムです。この更新により、システムの機能向上が期待されますが、具体的な内容は記事の大部分が読み込めなかったため不明です。 読み込みエラーの原因を調査し、問題解決に努める必要があります。"
+    },
+    {
+      "title": "Attorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis'",
+      "title_ja": "サム・アルトマン氏宅への襲撃容疑者の弁護士、被告は「精神的危機」の最中にあったと語る",
+      "original_url": "https://www.click2houston.com/business/2026/04/14/attorney-for-suspect-in-attack-at-sam-altmans-home-says-he-was-in-midst-of-mental-health-crisis/",
+      "image_url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/72OGD7G2WJBHHGO34DJYIPDYNY.jpg?_a=DATAg1fkZAA0",
+      "published_at": "2026-04-14T22:23:48Z",
+      "source": "KPRC Click2Houston",
+      "summary_ja": "OpenAIのCEOであるサム・アルトマン氏の自宅に火炎瓶を投げつけようとした容疑者の弁護士は、クライアントが自閉症で「急性精神的危機」にあったと主張しています。この事件は、AI技術の発展とそれに伴うリスクに対する社会の懸念を浮き彫りにしています。容疑者の精神状態と事件の背景に関する詳細は、今後の捜査と裁判を通じて明らかになる見込みです。"
+    },
+    {
+      "title": "Man accused of attacking Sam Altman's home was in midst of mental health crisis, lawyer says",
+      "title_ja": "サム・アルトマン氏宅を襲撃した容疑者、弁護士は精神的な危機状態にあったと主張",
+      "original_url": "https://www.cbc.ca/news/world/suspect-attack-sam-altman-openai-house-9.7163832",
+      "image_url": "https://i.cbc.ca/ais/340636d5-8ddc-42b7-8504-370c777dbc47,1776202843738/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C302%2C3000%2C1687%29%3BResize%3D620",
+      "published_at": "2026-04-14T22:07:33Z",
+      "source": "CBC News",
+      "summary_ja": "OpenAIのサム・アルトマンCEOの自宅に火炎瓶を投げつけようとした容疑者について、弁護士は精神的な問題を抱えていたと主張しました。この事件は、AI開発の最前線にいる人物に対する攻撃であり、テクノロジー業界に衝撃を与えています。弁護側は、検察による過剰な起訴であると主張しており、今後の裁判の行方が注目されています。"
+    },
+    {
+      "title": "PROMPERÚ launches AI-powered virtual assistant to enhance travel planning to Peru",
+      "title_ja": "PROMPERÚ、ペルー旅行計画を強化するAI搭載バーチャルアシスタントをローンチ",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/14/3274042/0/en/PROMPER%C3%9A-launches-AI-powered-virtual-assistant-to-enhance-travel-planning-to-Peru.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d3c37f2a-0aa5-4712-af77-2717e3b91081",
+      "published_at": "2026-04-14T22:04:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "ペルーは、南米で初めて公式AI旅行アシスタントを自国の観光プラットフォームに統合しました。このAIアシスタントは、旅行計画をよりパーソナライズされ、効率的にすることを目指しています。観光客は、これによりペルー旅行に関する情報収集や計画が容易になり、より充実した旅行体験を期待できます。"
+    },
+    {
+      "title": "DLSS 5’s biggest crime is making us forget how good Nvidia's tech can be, as my time testing DLSS 4.5 proves",
+      "title_ja": "DLSS 5の最大の欠点は、NVIDIAの技術がいかに優れているかを忘れさせてしまうこと。DLSS 4.5のテスト結果がそれを証明しています。",
+      "original_url": "https://www.techradar.com/computing/gpu/dlss-5s-biggest-crime-is-making-us-forget-how-good-nvidias-tech-can-be-as-my-time-testing-dlss-4-5-proves",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/VSmwpRdAXFrWAR2z8nMaUm-1920-80.jpg",
+      "published_at": "2026-04-14T22:00:00Z",
+      "source": "TechRadar",
+      "summary_ja": "記事は、NVIDIAのDLSS 4.5の性能に焦点を当てています。4K解像度でCyberpunkを270fpsで実行できた例を挙げ、その驚異的なパフォーマンスを強調しています。AI技術の進歩に懐疑的な著者が、DLSS 4.5の無料アップデートのパフォーマンスが「あまりにも良い」のではないかと疑問を呈しています。"
+    },
+    {
+      "title": "ai-critic 3.4.6",
+      "title_ja": "ai-critic 3.4.6",
+      "original_url": "https://pypi.org/project/ai-critic/3.4.6/",
+      "image_url": null,
+      "published_at": "2026-04-14T21:54:56Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事では、機械学習モデルの評価に特化したグラフベースのエンジン「ai-critic 3.4.6」について紹介しています。 このエンジンは、ネットワーク問題やブラウザ拡張機能などの影響で一部コンテンツが読み込めない可能性があると示唆されています。 この技術は、機械学習モデルのパフォーマンス評価をより効率的かつ詳細に行うことを目指していると考えられます。"
+    },
+    {
+      "title": "Google's new Windows app is yet another way to access Gemini",
+      "title_ja": "Google、Geminiへのアクセスを容易にするWindows向け新アプリを発表",
+      "original_url": "https://slashdot.org/firehose.pl?op=view&amp;id=181712126",
+      "image_url": null,
+      "published_at": "2026-04-14T21:53:43Z",
+      "source": "Slashdot.org",
+      "summary_ja": "Googleは、Windowsデスクトップ向けに、AIを前面に押し出した新しいアプリをリリースしました。これにより、Geminiチャットボットへのアクセスがさらに簡単になります。Geminiのヘビーユーザーにとっては、作業効率が向上する可能性があり、AI活用の幅が広がる可能性があります。"
+    },
+    {
+      "title": "Attorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis'",
+      "title_ja": "サム・アルトマン氏宅への襲撃容疑者の弁護士、容疑者は「精神的危機」の最中だったと主張",
+      "original_url": "https://www.wgal.com/article/sam-altman-attack-molotov-suspect-charges/71018742",
+      "image_url": "https://kubrick.htvapps.com/htv-prod/images/5745bac1-d90b-41ce-adcf-128d97bad358.jpg?crop=1.00xw:0.846xh;0,0.0793xh&resize=1200:*",
+      "published_at": "2026-04-14T21:45:51Z",
+      "source": "WGAL Susquehanna Valley Pa.",
+      "summary_ja": "OpenAIのサム・アルトマンCEOの自宅に火炎瓶を投げつけようとした容疑者の弁護士は、容疑者が自閉症であり、「急性精神的危機」を経験していたと述べている。この事件は、AI開発における著名人の安全と、精神的健康の問題がどのように絡み合うのかを浮き彫りにした。一方、この事件の詳細は、AI業界のリーダーの安全と、テクノロジー業界に影響を与える可能性について議論を呼んでいる。"
+    },
+    {
+      "title": "Attorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis'",
+      "title_ja": "サム・アルトマン氏宅への襲撃容疑者の弁護士、被告は「精神的危機」の最中だったと主張",
+      "original_url": "https://www.wxii12.com/article/sam-altman-attack-molotov-suspect-charges/71018742",
+      "image_url": "https://kubrick.htvapps.com/htv-prod/images/5745bac1-d90b-41ce-adcf-128d97bad358.jpg?crop=1.00xw:0.846xh;0,0.0793xh&resize=1200:*",
+      "published_at": "2026-04-14T21:44:55Z",
+      "source": "WXII12 Winston-Salem",
+      "summary_ja": "OpenAIのCEO、サム・アルトマン氏の自宅に火炎瓶を投げ込んだ容疑者の弁護士は、被告が自閉症を患い、「急性精神的危機」に陥っていたと発表しました。この事件は、AI開発における主要人物への脅威として注目を集め、その背景にある精神的健康問題が焦点となっています。今後の裁判の行方は、AI業界のセキュリティと個人の精神的健康という二つの側面から、大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Attorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis'",
+      "title_ja": "サム・アルトマン氏宅への襲撃容疑者の弁護士、被告は「精神的危機」の最中だったと主張",
+      "original_url": "https://www.4029tv.com/article/sam-altman-attack-molotov-suspect-charges/71018742",
+      "image_url": "https://kubrick.htvapps.com/htv-prod/images/5745bac1-d90b-41ce-adcf-128d97bad358.jpg?crop=1.00xw:0.846xh;0,0.0793xh&resize=1200:*",
+      "published_at": "2026-04-14T21:44:31Z",
+      "source": "4029tv",
+      "summary_ja": "OpenAI CEO、サム・アルトマン氏の自宅に火炎瓶を投げつけようとした容疑者の弁護士は、クライアントが自閉症で「急性精神的危機」に陥っていたと発表しました。この事件は、AI開発をリードする企業のCEOに対する攻撃であり、その背景に精神疾患があった可能性を示唆しています。この事件は、AI業界のリーダーに対する脅威と、精神疾患とテクノロジーの関係性についての議論を呼ぶ可能性があります。"
+    },
+    {
+      "title": "News of the day: Anthropic AI, domestic investment, moral taxes, homebuying, EV sales and more",
+      "title_ja": "今日のニュース：Anthropic AI、国内投資、道徳税、住宅購入、EV販売など",
+      "original_url": "https://financialpost.com/uncategorized/news-of-the-day-anthropic-ai-domestic-investment-moral-taxes-homebuying-ev-sales-and-more",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/no0413anthropic.jpg",
+      "published_at": "2026-04-14T21:30:57Z",
+      "source": "Financial Post",
+      "summary_ja": "本日のニュースでは、Anthropic社のAIに関する最新情報、国内投資の動向、倫理的な観点からの税制改革（道徳税）、住宅購入市場の動き、電気自動車（EV）の販売状況などが注目されています。これらのトピックは、カナダ国内の経済、社会情勢に大きな影響を与える可能性があります。詳細については、購読者限定の記事で詳しく解説されています。"
+    },
+    {
+      "title": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
+      "title_ja": "NAACP、イーロン・マスクのxAIをメンフィスデータセンターの大気汚染で提訴",
+      "original_url": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108264237-1770777595689-gettyimages-2255986185-boivin-notitle260116_npWRa.jpeg?v=1770777619&w=1920&h=1080",
+      "published_at": "2026-04-14T21:25:11Z",
+      "source": "CNBC",
+      "summary_ja": "NAACPは、イーロン・マスク氏のAI企業xAIを相手取り、メンフィスのデータセンターにおける天然ガス燃焼タービンによる大気汚染がクリーンエア法に違反するとして訴訟を起こしました。この訴訟は、xAIのデータセンター建設における環境への影響と、AI開発が抱えるエネルギー問題に焦点を当てています。xAIは、世界一の富豪であるイーロン・マスク氏が主導する企業であり、今後の展開に注目が集まっています。"
+    },
+    {
+      "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
+      "title_ja": "Meta、AI野心実現に向けBroadcomとのカスタムチップ契約を拡大",
+      "original_url": "https://www.channelnewsasia.com/business/meta-extends-custom-chips-deal-broadcom-power-ai-ambitions-6056821",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Ez2AmDp3--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-14T212315Z_1_LYNXMPEM3D1EH_RTROPTP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG?itok=baxOJWEr",
+      "published_at": "2026-04-14T21:23:15Z",
+      "source": "CNA",
+      "summary_ja": "Metaは、AI機能の強化に必要な計算能力を構築するため、チップ設計会社BroadcomとのカスタムAIプロセッサに関する契約を拡大しました。これにより、Metaは複数の世代にわたるカスタムAIプロセッサをBroadcomと共同で開発します。この提携は、MetaがAI分野での競争力を高め、将来のAI技術開発を加速させる上で重要な役割を果たすでしょう。"
+    },
+    {
+      "title": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon",
+      "title_ja": "Meta社、Broadcom社と提携しカスタムAIシリコンを共同開発",
+      "original_url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
+      "image_url": "https://about.fb.com/wp-content/uploads/2026/04/Meta_Broadcom_Header.jpg?w=1200",
+      "published_at": "2026-04-14T21:05:14Z",
+      "source": "Fb.com",
+      "summary_ja": "Meta社は、Broadcom社との提携を拡大し、次世代MTIA（Meta Training and Inference Accelerator）チップを含む複数の世代にわたるカスタムAIシリコンを共同開発します。これにより、Meta社の長期的なAI戦略を支えるコンピューティング基盤を確保します。この取り組みは、AI分野におけるMeta社の野心的な目標達成に貢献する見込みです。"
+    }
+  ]
+}

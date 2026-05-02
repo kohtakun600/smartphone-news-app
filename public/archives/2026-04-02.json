@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-01T23:05:31.847Z",
+  "articles": [
+    {
+      "title": "AI is looking like the Sub Prime Crisis. The math ain't mathing.",
+      "title_ja": "AIはサブプライムローンの危機に似ている？計算が合わない。",
+      "original_url": "https://slashdot.org/submission/17346092/ai-is-looking-like-the-sub-prime-crisis-the-math-aint-mathing",
+      "image_url": null,
+      "published_at": "2026-03-31T23:02:02Z",
+      "source": "Slashdot.org",
+      "summary_ja": "生成AIの莫大なコストと、データセンターや電力供給のインフラ整備の遅れが、いずれ大きな問題として顕在化する可能性が指摘されています。AIの開発・運用コストが販売価格を大きく下回っており、採算が取れていない状況です。この状況は、かつてのサブプライムローンのような金融危機につながるリスクを孕んでいると警鐘を鳴らしています。"
+    },
+    {
+      "title": "Why physicians must lead the design of artificial intelligence in health care [PODCAST]",
+      "title_ja": "医療におけるAI設計を医師が主導すべき理由 [ポッドキャスト]",
+      "original_url": "https://kevinmd.com/2026/03/why-physicians-must-lead-the-design-of-artificial-intelligence-in-health-care-podcast.html",
+      "image_url": "https://kevinmd.com/wp-content/uploads/156891f3-d875-411e-9a3e-c50a13997d53.jpeg",
+      "published_at": "2026-03-31T23:00:33Z",
+      "source": "Kevinmd.com",
+      "summary_ja": "この記事では、医療における人工知能 (AI) の設計を医師が主導すべきだと主張しています。 医療デバイスの発明家であり起業家でもあるTod Stillson氏が、現代医療に対する最大の脅威は、AI開発を医師以外に任せることだと警告しています。Podcastでは、AIガバナンスと、医療への影響について議論しています。"
+    },
+    {
+      "title": "Leverage Agentic AI for Autonomous Incident Response with AWS DevOps Agent",
+      "title_ja": "AWS DevOps Agent を活用した自律的なインシデント対応へのエージェントAIの活用",
+      "original_url": "https://aws.amazon.com/blogs/devops/leverage-agentic-ai-for-autonomous-incident-response-with-aws-devops-agent/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/03/31/devops-agent-blog-featured-image-1122x630.png",
+      "published_at": "2026-03-31T22:58:13Z",
+      "source": "Amazon.com",
+      "summary_ja": "この記事では、分散ワークロード環境におけるインシデント発生時の対応を自動化するため、エージェントAIを活用するAWS DevOps Agentについて解説しています。この技術により、ログ、デプロイパイプライン、設定履歴など、様々な情報源から必要な情報を収集し、問題を迅速に解決することが可能になります。これにより、運用チームは複雑な問題解決プロセスから解放され、より効率的なシステム運用を実現できます。"
+    },
+    {
+      "title": "kymnasium 1.1.3",
+      "title_ja": "kymnasium 1.1.3",
+      "original_url": "https://pypi.org/project/kymnasium/1.1.3/",
+      "image_url": null,
+      "published_at": "2026-03-31T22:54:25Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、江原大学校コンピュータ工学科の人工知能コース向けに開発された、強化学習環境のコレクションであるkymnasiumのバージョン1.1.3について述べています。強化学習の学習環境を提供し、AI教育における実践的な活用を促進することを目的としています。記事全文が読み込めないため詳細は不明ですが、ネットワークやブラウザの設定に問題がある可能性が示唆されています。"
+    },
+    {
+      "title": "Cybersecurity services startup Tenex raises $250M in funding",
+      "title_ja": "サイバーセキュリティサービス新興企業Tenexが2億5000万ドルの資金調達を実施",
+      "original_url": "https://siliconangle.com/2026/03/31/cybersecurity-services-startup-tenex-raises-250m-funding/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/security-265130_1280.jpg",
+      "published_at": "2026-03-31T22:46:18Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "マネージド脅威検知・対応サービスを提供するTenex.aiが、シリーズBラウンドで2億5000万ドルの資金調達を発表しました。この資金は、サイバーセキュリティ分野における脅威に対する包括的な対策を強化するために活用される見込みです。Crosspoint Capital Partnersが主導し、Shield CapitalやDeepWork Capitalも参加しており、今後の事業拡大への期待が高まっています。"
+    },
+    {
+      "title": "Anthropic accidentally exposes Claude Code source code in npm packaging error",
+      "title_ja": "AnthropicがnpmパッケージングエラーでClaude Codeのソースコードを誤って公開",
+      "original_url": "https://siliconangle.com/2026/03/31/anthropic-accidentally-exposes-claude-code-source-code-npm-packaging-error/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/claudecodeleak.png",
+      "published_at": "2026-03-31T22:37:48Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "Anthropic社が、コマンドラインツールClaude Codeのソースコードを、npmへのパッケージングエラーにより誤って公開してしまいました。この問題は、機密ファイルが公開されたnpmリリースに含まれてしまったことによるものです。これにより、Claude Codeの技術的な詳細が外部に漏洩し、影響が及ぶ可能性があります。"
+    },
+    {
+      "title": "Anthropic in deal with Albanese government",
+      "title_ja": "AI企業Anthropic、アルバニージー豪政府と提携",
+      "original_url": "https://www.smh.com.au/technology/albanese-government-reaches-deal-with-550b-ai-giant-in-legal-battle-with-trump-20260401-p5zkht.html",
+      "image_url": "https://static.ffx.io/images/$zoom_0.6471%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_176%2C$y_80/t_crop_custom/q_86%2Cf_auto/75ec8f6004ee1fb49b667c740330ef8ac27dc855",
+      "published_at": "2026-03-31T22:34:29Z",
+      "source": "The Sydney Morning Herald",
+      "summary_ja": "AI分野の巨人Anthropicが、トランプ政権との法廷闘争中にも関わらず、オーストラリアのアルバニージー政府と協定を締結しました。この提携は、AnthropicのAI技術が政府部門に導入される可能性を示唆しており、AI技術の普及と政府機関への影響を加速させる可能性があります。詳細な協定内容や技術的な連携については、今後の発表が注目されます。"
+    },
+    {
+      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking",
+      "title_ja": "Anthropic社、AI安全と経済データ追跡に関するオーストラリア政府との契約に署名へ",
+      "original_url": "https://www.channelnewsasia.com/business/anthropic-sign-deal-australia-ai-safety-and-economic-data-tracking-6029661",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+      "published_at": "2026-03-31T22:33:49Z",
+      "source": "CNA",
+      "summary_ja": "Anthropic社は、オーストラリア政府との間で、経済指標データを共有する契約を締結予定です。この契約により、AIの経済への浸透度や、労働者および雇用への影響を追跡することが可能になります。これにより、AI技術の経済への影響を詳細に把握し、政策立案に役立てることが期待されます。"
+    },
+    {
+      "title": "aait 3.3.14",
+      "title_ja": "AAIT 3.3.14",
+      "original_url": "https://pypi.org/project/aait/3.3.14/",
+      "image_url": null,
+      "published_at": "2026-03-31T22:24:11Z",
+      "source": "Pypi.org",
+      "summary_ja": "このエラーは、高度なAI機能をOrangeで開発および有効化するためのパッケージであるAdvanced Artificial Intelligence Tools (AAIT) の一部が読み込めなかったことを示唆しています。ブラウザの拡張機能、ネットワーク接続、またはブラウザの設定に問題がある可能性があります。AAITがOrangeにおけるAI機能拡張を阻害する可能性があるため、注意が必要です。"
+    },
+    {
+      "title": "Lagan Bondspire Review: Legit or Scam? Full Breakdown",
+      "title_ja": "Lagan Bondspire レビュー：合法か詐欺か？徹底分析",
+      "original_url": "https://whatjapanthinks.com/lagan-bondspire-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-31T22:23:56Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Lagan Bondspire は、仮想通貨市場への投資を支援すると謳う新しいオンライン取引プログラムです。AIなどの高度なシステムを利用し、投資プロセスを円滑にすることを目指しています。しかし、その合法性については、レビュー記事による徹底的な検証が必要とされています。"
+    },
+    {
+      "title": "Jamie Dimon says rejecting capitalism is \"dead wrong\" in CBS News interview",
+      "title_ja": "ジェイミー・ダイモン氏、CBSニュースのインタビューで資本主義拒否は「完全に間違っている」と発言",
+      "original_url": "https://www.cbsnews.com/news/jamie-dimon-capitalism-dead-wrong-jpmorganchase/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/11/3ac639d9-4f81-4b6f-b706-f1e1153d9464/thumbnail/1200x630/b2ee84cccebf0052cb941eab6536c014/gettyimages-2180806087.jpg",
+      "published_at": "2026-03-31T22:14:05Z",
+      "source": "CBS News",
+      "summary_ja": "JPモルガン・チェースのCEO、ジェイミー・ダイモン氏は、CBSニュースのインタビューで資本主義への支持を表明しました。彼は、資本主義に対する批判を否定し、AIや予測市場など幅広いテーマについて自身の考えを語っています。この発言は、経済システムの現状と今後の展望に影響を与える可能性があります。"
+    },
+    {
+      "title": "Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
+      "title_ja": "Amazon Bedrock AgentCore Evaluations で信頼性の高い AI エージェントを構築",
+      "original_url": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/31/ml-20076-1120x630.png",
+      "published_at": "2026-03-31T22:11:23Z",
+      "source": "Amazon.com",
+      "summary_ja": "この記事では、AIエージェントの開発ライフサイクル全体でパフォーマンスを評価するためのフルマネージドサービスであるAmazon Bedrock AgentCore Evaluationsを紹介しています。このサービスは、様々な品質評価指標を用いてエージェントの精度を測定します。これにより、開発者は本番環境でのAIエージェントのパフォーマンスを向上させ、信頼性を高めることが可能になります。"
+    },
+    {
+      "title": "India’s education technology sector faces a ‘structural reset’. What does it mean for investors, learners?",
+      "title_ja": "インドの教育テクノロジー分野、構造的なリセットに直面。投資家と学習者への影響は？",
+      "original_url": "https://www.channelnewsasia.com/asia/india-schools-edtech-online-learning-ai-upgrad-unacademy-6027696",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--H07RDB2y--/c_crop,h_900,w_1600,x_0,y_34/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/31/india_online_education_-_afp.jpg?itok=TzcO75LI",
+      "published_at": "2026-03-31T22:00:00Z",
+      "source": "CNA",
+      "summary_ja": "インドのオンライン教育ブームは、資金調達の減少と企業の統合により減速しています。しかし、アナリストや業界関係者は、人工知能（AI）主導の新たな段階が、数百万人の学習方法と料金を再構築する可能性があると述べています。結果重視の企業が、この変化する教育テクノロジー分野で生き残る可能性が高いと予測されており、投資家と学習者の両方に大きな影響を与えると考えられます。"
+    },
+    {
+      "title": "Jamie Dimon says AI could help shorten work week, cure cancer",
+      "title_ja": "ジェイミー・ダイモン、AIは週休3.5日制と癌治療を可能にする可能性を指摘",
+      "original_url": "https://www.cbsnews.com/news/jamie-dimon-artificial-intelligence-work-week/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/31/03869df3-04cb-40cd-9287-339789bca4be/thumbnail/1200x630/b3b98e99d237ade552b3c287b7fc345f/dimonformary-1.jpg",
+      "published_at": "2026-03-31T21:55:49Z",
+      "source": "CBS News",
+      "summary_ja": "JPモルガンCEOのジェイミー・ダイモン氏は、AIが労働週間の短縮と医療の大幅な進歩、具体的には癌の治療に貢献すると予測しています。一方で、AIが国の労働力に与える影響も認め、技術革新がもたらす変化に言及しています。この楽観的な見解は、AIがもたらすポジティブな影響に焦点を当てています。"
+    },
+    {
+      "title": "Former BP CEO takes over Wyoming data center developer, as first woman leader of Big Oil giant becomes new BP chief",
+      "title_ja": "元BP CEO、ワイオミングのデータセンター開発会社を経営へ、一方、石油大手BPでは初の女性CEOが就任",
+      "original_url": "https://fortune.com/2026/03/31/former-bp-ceo-looney-takes-over-prometheus-hyperscale-meg-oneill-to-lead-bp/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2023/09/GettyImages-1253577759-e1774992110567.jpg?resize=1200,600",
+      "published_at": "2026-03-31T21:50:41Z",
+      "source": "Fortune",
+      "summary_ja": "元BPのCEO、バーナード・ルーニー氏が、データセンター開発会社プロメテウス・ハイパースケールのCEOに就任し、AI時代への参入を目指します。ルーニー氏の就任は、大規模データセンタープロジェクトへの新たな動きを示唆しています。同時に、BPでは初の女性CEOが就任し、エネルギー業界におけるリーダーシップの変化を象徴しています。"
+    },
+    {
+      "title": "mlrun 1.11.0rc48",
+      "title_ja": "mlrun 1.11.0rc48",
+      "original_url": "https://pypi.org/project/mlrun/1.11.0rc48/",
+      "image_url": null,
+      "published_at": "2026-03-31T21:46:21Z",
+      "source": "Pypi.org",
+      "summary_ja": "機械学習の実行を追跡および設定するためのツール、mlrunのバージョン1.11.0rc48がリリースされました。このバージョンは、機械学習ワークフローの管理と再現性を向上させることを目的としています。現時点では、サイトの一部が読み込めない問題が発生しているようです。"
+    },
+    {
+      "title": "ByteDance adds watermarking and IP guardrails to Seedance 2.0 as it begins cautious global rollout",
+      "title_ja": "ByteDance、慎重なグローバル展開を開始するSeedance 2.0に、ウォーターマークと知的財産保護ガードレールを追加",
+      "original_url": "https://thenextweb.com/news/bytedance-seedance-watermarking-ip-global-rollout/",
+      "image_url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fbytedance-seedance-watermarking-ip-global-rollout.png&signature=5f0e31065305f3e0f2c7bd9285f4d3d6",
+      "published_at": "2026-03-31T21:35:04Z",
+      "source": "The Next Web",
+      "summary_ja": "ByteDanceは、AI動画生成モデルSeedance 2.0のグローバル展開にあたり、動画にウォーターマークを埋め込み、知的財産保護のための規制を強化しました。これは、トム・クルーズとブラッド・ピットの偽動画が拡散した問題を受け、生成されたコンテンツの信頼性確保と著作権保護を目的としています。この措置は、AIによる動画生成技術の普及に伴う課題に対応し、より安全な利用環境を構築しようとするByteDanceの取り組みです。"
+    },
+    {
+      "title": "WHOOP Health Platform Gets Glitzy Investors, Makes Big Promises",
+      "title_ja": "WHOOPヘルスプラットフォーム、華々しい投資家を獲得し、大きな約束を果たす",
+      "original_url": "https://www.forbes.com/sites/michaelmillenson/2026/03/31/whoop-health-platform-gets-glitzy-investors-makes-big-promises/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cc38f67f889681ee0236e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-03-31T21:26:36Z",
+      "source": "Forbes",
+      "summary_ja": "WHOOPヘルスプラットフォームは、AIを活用したパーソナルヘルスプラットフォームのために、著名なスポーツ選手や投資ファンドから巨額の資金調達に成功しました。この資金調達は、プラットフォームの更なる発展を加速させ、個人向けヘルスケア分野におけるAI技術の進歩を牽引する可能性があります。レブロン・ジェームズ選手も投資家の一人として名を連ねています。"
+    },
+    {
+      "title": "Jamie Dimon says AI will shorten work week to 3.5 days, cure cancer",
+      "title_ja": "ジェイミー・ダイモン氏、AIが週の労働時間を3.5日に短縮、癌を治療すると予測",
+      "original_url": "https://www.cbsnews.com/video/jamie-dimon-says-ai-will-shorten-work-week-to-3-5-days-cure-cancer/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/31/7d8dbb0e-8b07-41f0-b16d-9ced2cdf3e6d/thumbnail/1200x630/a3fe964ab8e9a2870609602a59c21b02/dimonai.jpg",
+      "published_at": "2026-03-31T21:26:00Z",
+      "source": "CBS News",
+      "summary_ja": "JPモルガン・チェースのCEO、ジェイミー・ダイモン氏は、AIが30年後の労働時間短縮と癌治療に貢献すると楽観的な見解を示しました。 AIの進化により、将来的に子供たちの週の労働時間が3.5日にまで短縮される可能性があると述べています。 このような技術革新が、社会に大きな影響を与えることが期待されています。"
+    },
+    {
+      "title": "How Artificial Intelligence Could Improve Fracture Detection in Horses",
+      "title_ja": "AIが馬の骨折検出を改善する可能性",
+      "original_url": "http://www.equinechronicle.com/how-artificial-intelligence-could-improve-fracture-detection-in-horses/",
+      "image_url": null,
+      "published_at": "2026-03-31T21:24:47Z",
+      "source": "Equinechronicle.com",
+      "summary_ja": "ロイヤル獣医大学の研究者たちは、人工知能(AI)が獣医による動物の骨折検出を迅速かつ正確にするのに役立つ方法を研究しています。 この技術は、獣医がより効率的に診断を下し、馬の健康を向上させる可能性を秘めています。 研究はまだ初期段階ですが、獣医学におけるAI活用の可能性を示唆しています。"
+    }
+  ]
+}

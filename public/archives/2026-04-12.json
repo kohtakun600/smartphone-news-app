@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-11T23:01:10.370Z",
+  "articles": [
+    {
+      "title": "Interpretable Machine Learning Model-Driven Electrochemical Impedance Spectroscopic Analysis for Determination of Nitrate, Nitrite Ammonium Ions in Water",
+      "title_ja": "解釈可能な機械学習モデルを用いた電気化学インピーダンス分光分析による水中の硝酸イオン、亜硝酸イオン、アンモニウムイオンの定量",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/an/d5an01279a",
+      "image_url": null,
+      "published_at": "2026-04-10T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、機械学習モデルを活用し、電気化学インピーダンス分光法を用いて水中の硝酸イオン、亜硝酸イオン、アンモニウムイオンを正確に測定する手法を開発しました。 この技術は、材料化学の進歩とデータ駆動型アプローチを組み合わせ、長期的な水質モニタリングにおける課題を解決することを目指しています。 従来の分析手法に比べて、より迅速かつ正確な栄養素の検出が可能になり、水質管理の効率化に貢献することが期待されます。"
+    },
+    {
+      "title": "BMO Accelerates Quantum Push With New Tech Institute",
+      "title_ja": "BMO、新たな技術研究所設立で量子コンピューティングへの取り組みを加速",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/bmo-accelerates-quantum-push-with-new-tech-institute/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2023/11/BMO-Financial-Group.jpg",
+      "published_at": "2026-04-10T22:54:43Z",
+      "source": "pymnts.com",
+      "summary_ja": "BMOは、人工知能（AI）と量子コンピューティングに特化した全社組織を設立しました。この「BMO応用人工知能&量子研究所」は、AI技術の革新、応用、ガバナンスを担い、量子コンピューティング分野における開発も推進します。この取り組みは、金融業界におけるAIと量子技術の活用を加速させる可能性を秘めています。"
+    },
+    {
+      "title": "How worried should Americans be as AI threatens jobs?",
+      "title_ja": "アメリカ国民はAIによる職の脅威をどれほど心配すべきか？",
+      "original_url": "https://www.pbs.org/newshour/show/how-worried-should-americans-be-as-ai-threatens-jobs",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2025-12-12T182506Z_757399372_RC2GEIAK1RDY_RTRMADP_3_USA-AI-1024x683.jpg",
+      "published_at": "2026-04-10T22:30:59Z",
+      "source": "PBS",
+      "summary_ja": "アメリカでは、人工知能 (AI) が雇用を奪うのではないかと、多くの国民が不安を感じています。一部の専門家はAIを壊滅的な脅威と見ていますが、一方で誇大広告に過ぎないという意見もあります。現時点でのデータは両者の間で意見が分かれており、議論が続いています。この問題は、今後のAI技術の発展と社会への影響を考える上で重要な課題となっています。"
+    },
+    {
+      "title": "Phantom Blade Zero wants nothing to do with AI tech that alters artists' intent as the game enters its final stretch",
+      "title_ja": "『Phantom Blade Zero』、アーティストの意図を改変するAI技術を拒否、最終段階へ",
+      "original_url": "https://www.tweaktown.com/news/110962/phantom-blade-zero-wants-nothing-to-do-with-ai-tech-that-alters-artists-intent-as-the-game-enters-its-final-stretch/index.html",
+      "image_url": "https://static.tweaktown.com/news/1/1/110962_1_phantom-blade-zero-wont-use-any-generative-ai_full.jpg",
+      "published_at": "2026-04-10T22:30:04Z",
+      "source": "TweakTown",
+      "summary_ja": "2024年の発表以来、期待を集めてきたアクションRPG『Phantom Blade Zero』が、ついに今年発売へ向けて最終段階に入りました。開発元のS-Gameは、AIによる技術革新を導入するのではなく、ゲームのリアリティを追求するため、武術家や剣術の専門家との連携を深めています。この方針は、アーティストの意図を尊重し、ゲームの世界観を忠実に再現することを目指しています。"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
+      "title_ja": "OpenAI CEOサム・アルトマン氏の自宅に火炎瓶攻撃",
+      "original_url": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-20T193909Z_1777114240_RC2I2KAPTRYB_RTRMADP_3_OPENAI-ALTMAN-SISTER-LAWSUIT-1775856572.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-10T22:29:07Z",
+      "source": "Al Jazeera English",
+      "summary_ja": "OpenAIのCEOであるサム・アルトマン氏のサンフランシスコにある自宅が、早朝に火炎瓶による攻撃を受けました。20歳の男性が逮捕され、警察が捜査を進めています。今回の事件は、AI技術の発展とそれに伴う社会的影響に対する懸念の高まりを象徴している可能性があり、今後のAI業界のセキュリティ対策にも影響を与える可能性があります。"
+    },
+    {
+      "title": "Illia Polosukhin: Traditional AI services expose sensitive data, crypto simplifies global payments, and AI will redefine computing interfaces | Bankless",
+      "title_ja": "イリヤ・ポロスーヒン氏: 従来のAIサービスは機密データを露呈、暗号資産はグローバル決済を簡素化、AIがコンピューティングインターフェースを再定義 | Bankless",
+      "original_url": "https://cryptobriefing.com/illia-polosukhin-traditional-ai-services-expose-sensitive-data-crypto-simplifies-global-payments-and-ai-will-redefine-computing-interfaces-bankless/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/24141156/bankless-podcast-featured-800x420.png",
+      "published_at": "2026-04-10T22:28:49Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "イリヤ・ポロスーヒン氏は、従来のAIサービスが機密データのリスクを抱える一方、暗号資産はグローバル決済を効率化すると主張しています。さらに、AIがコンピューティングインターフェースを変革し、従来のOSを時代遅れにする可能性を示唆しています。この変革は、ブロックチェーン技術による安全な統合によって支えられると述べています。"
+    },
+    {
+      "title": "Dmitri Dolgov: Waymo’s 360-degree sensor integration enhances autonomous driving, AI’s role in real-time decision-making, and the challenges of achieving full autonomy | Cheeky Pint",
+      "title_ja": "ドミトリ・ドルゴフ氏：Waymoの360度センサー統合が自動運転を強化、リアルタイム意思決定におけるAIの役割、そして完全自動運転実現への課題 | Cheeky Pint",
+      "original_url": "https://cryptobriefing.com/dmitri-dolgov-waymos-360-degree-sensor-integration-enhances-autonomous-driving-ais-role-in-real-time-decision-making-and-the-challenges-of-achieving-full-autonomy-cheeky-pint/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03012432/podcast-cover-cheeky-pint-1-800x420.jpg",
+      "published_at": "2026-04-10T22:24:41Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "Waymoは週に約50万回のライドを実現し、AIを活用した自動運転技術の進歩を示しています。同社の360度センサー統合は、自動運転能力を向上させ、リアルタイムの意思決定におけるAIの役割を強化しています。記事では、完全自動運転の実現に向けた技術的な課題についても言及されています。"
+    },
+    {
+      "title": "AI’s speed paradox: why faster individuals don’t mean faster organizations",
+      "title_ja": "AIの速度パラドックス：個々の能力向上は、なぜ組織全体の速度向上に繋がらないのか",
+      "original_url": "https://www.atlassian.com/blog/artificial-intelligence/ais-speed-paradox-why-faster-individuals-dont-mean-faster-organizations",
+      "image_url": "https://www.atlassian.com/blog/wp-content/uploads/2024/05/atlassian-intelligence_mark_neutral-4x.png",
+      "published_at": "2026-04-10T22:23:00Z",
+      "source": "Atlassian.com",
+      "summary_ja": "AIの導入により業務の実行速度は向上している一方で、目標の不一致が組織全体の成果を蝕んでいます。本記事では、AI時代における組織運営の課題と、ForresterのシニアアナリストやAtlassianの専門家によるイベントでの議論を基に、リーダーが取るべき対策について解説しています。個々の能力向上だけでは組織全体の速度向上に繋がらないという、AI時代における新たなパラドックスに焦点を当てています。"
+    },
+    {
+      "title": "Mark Suman: AI systems can understand human thought patterns better than we do, the rapid pace of AI development outstrips ethical considerations, and the opacity of AI companies raises serious privacy concerns | The Peter McCormack Show",
+      "title_ja": "マーク・スーマン氏：AIシステムは人間の思考パターンを我々よりも深く理解、AI開発の急速な進歩は倫理的配慮を上回り、AI企業の透明性の欠如は深刻なプライバシー問題を提起 | ピーター・マコーマック・ショー",
+      "original_url": "https://cryptobriefing.com/mark-suman-ai-systems-can-understand-human-thought-patterns-better-than-we-do-the-rapid-pace-of-ai-development-outstrips-ethical-considerations-and-the-opacity-of-ai-companies-raises-serious-privac/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/11174218/peter-mccormack-cover-457x457.png",
+      "published_at": "2026-04-10T22:09:01Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "AIの急速な発展は、倫理的な問題やプライバシーへの懸念を上回り、社会への影響を深刻化させています。特に、AIシステムが人間の思考パターンを人間自身よりも深く理解できる可能性があり、その技術的な進歩と同時に、AI企業の不透明性がプライバシーリスクを増大させています。このため、倫理的な枠組みの構築が急務となっています。"
+    },
+    {
+      "title": "Police arrest suspect after Molotov cocktail thrown at home of OpenAI's Sam Altman",
+      "title_ja": "OpenAIのサム・アルトマン氏の自宅に火炎瓶を投げつけられた事件、容疑者を逮捕",
+      "original_url": "https://www.cbc.ca/news/world/altman-home-molotov-cocktail-attack-suspect-arrest-9.7159863",
+      "image_url": "https://i.cbc.ca/ais/9a84d1ad-e796-4dae-a7ea-3c5d5ce2a328,1775856443946/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C3000%2C1687%29%3BResize%3D620",
+      "published_at": "2026-04-10T21:54:09Z",
+      "source": "CBC News",
+      "summary_ja": "OpenAIのCEO、サム・アルトマン氏のサンフランシスコの自宅に火炎瓶が投げつけられる事件が発生し、20歳の容疑者が逮捕されました。容疑者はその後、OpenAI本社でも脅迫行為を行ったとされています。この事件は、AI開発の最前線にいる人物に対する脅威を示唆しており、テクノロジー業界に衝撃を与えています。"
+    },
+    {
+      "title": "François Chollet: AGI progress is accelerating towards 2030, symbolic models will reshape machine learning, and coding agents are revolutionizing automation | Y Combinator Startup Podcast",
+      "title_ja": "フランソワ・ショレ氏：AGI進捗は2030年へ加速、シンボリックモデルが機械学習を再構築、コーディングエージェントが自動化を革新 | Yコンビネーター・スタートアップポッドキャスト",
+      "original_url": "https://cryptobriefing.com/francois-chollet-agi-progress-is-accelerating-towards-2030-symbolic-models-will-reshape-machine-learning-and-coding-agents-are-revolutionizing-automation-y-combinator-startup-podcast/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/10151634/podcast-cover-yc-startup-800x419.png",
+      "published_at": "2026-04-10T21:51:40Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "新たなAGI研究室が、従来のディープラーニングを超えるシンボリックモデルを用いて、機械学習に革命を起こそうとしています。フランソワ・ショレ氏は、AGIの開発が2030年までに加速し、コーディングエージェントが自動化を根本的に変えると予測しています。この変化は、機械学習の新たな地平を切り開き、AI技術の発展に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Apple previews AI, accessibility, and AirPods Pro 3 research for CHI 2026",
+      "title_ja": "Apple、CHI 2026でAI、アクセシビリティ、AirPods Pro 3の研究を発表予定",
+      "original_url": "https://9to5mac.com/2026/04/10/apple-previews-ai-accessibility-and-airpods-pro-3-research-for-chi-2026/",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-04-10T21:44:24Z",
+      "source": "9to5Mac",
+      "summary_ja": "Appleは、2026年開催のACMヒューマンコンピュータインタラクション会議（CHI）にて、AIによるUI生成、アクセシビリティ、AirPods Pro 3の再設計に関する3つの研究を発表することを明らかにしました。これらの研究は、Appleがユーザーエクスペリエンスを向上させるためのAI技術とアクセシビリティへの取り組み、そして最新のオーディオデバイスの開発における技術革新を示唆しています。"
+    },
+    {
+      "title": "Ranjan Roy: The appeal of video AI is waning, OpenAI shifts focus to powerful models, and SaaS companies are embracing AI integration | Big Technology",
+      "title_ja": "ラジャン・ロイ氏: 動画AIの魅力は薄れ、OpenAIは強力なモデルに注力、SaaS企業はAI統合を推進 | Big Technology",
+      "original_url": "https://cryptobriefing.com/ranjan-roy-the-appeal-of-video-ai-is-waning-openai-shifts-focus-to-powerful-models-and-saas-companies-are-embracing-ai-integration-big-technology/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg",
+      "published_at": "2026-04-10T21:35:48Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "OpenAIが動画生成から高性能AIモデルへの重点移行を進めており、業界全体で戦略的な再編が起きています。 これにより、動画AIへの関心は薄れつつあり、SaaS企業はAI技術を自社サービスへ積極的に統合する傾向を強めています。 この動きは、AI技術の進化と市場ニーズの変化を反映しており、今後の技術開発とビジネス戦略に大きな影響を与えるでしょう。"
+    },
+    {
+      "title": "Suspect Arrested After Molotov Cocktail Thrown at Home of OpenAI CEO Sam Altman",
+      "title_ja": "OpenAI CEOサム・アルトマン氏の自宅に火炎瓶が投げ込まれた事件で容疑者逮捕",
+      "original_url": "https://www.commondreams.org/news/sam-altman-attack",
+      "image_url": "https://www.commondreams.org/media-library/image.jpg?id=65506254&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+      "published_at": "2026-04-10T21:31:13Z",
+      "source": "Common Dreams",
+      "summary_ja": "人工知能企業OpenAIのCEO、サム・アルトマン氏の自宅に火炎瓶が投げ込まれた事件で、20歳の男性が逮捕されました。この事件は、AI技術の最前線にいる人物に対する攻撃であり、AI開発を取り巻く社会的な緊張の一端を露わにしています。OpenAIは、大規模言語モデルなどの革新的な技術を開発しており、その影響力が増すにつれて、このような事件のリスクも高まる可能性があります。"
+    },
+    {
+      "title": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say",
+      "title_ja": "米財務長官とFRB議長が銀行CEOに対し、Anthropicモデルのリスクについて警告",
+      "original_url": "https://www.livemint.com/companies/bessent-powell-warned-bank-ceos-about-anthropic-model-risks-sources-say-11775855556546.html",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+      "published_at": "2026-04-10T21:12:36Z",
+      "source": "Livemint",
+      "summary_ja": "米財務長官と連邦準備制度理事会（FRB）議長が、AnthropicのAIモデルがもたらすサイバーセキュリティリスクについて、銀行CEOに対して警告を発しました。この動きは、金融機関における最新のAI技術利用に伴う潜在的な脅威に対する警戒を強めるもので、具体的な詳細についてはまだ明らかになっていません。政府と金融機関が協力して、このような新しいリスクに対応していく姿勢を示しています。"
+    },
+    {
+      "title": "A man allegedly threw a Molotov cocktail at Sam Altman's house",
+      "title_ja": "サム・アルトマン氏の自宅に男が火炎瓶を投げたとされる",
+      "original_url": "https://slashdot.org/firehose.pl?op=view&amp;id=181546892",
+      "image_url": null,
+      "published_at": "2026-04-10T21:12:16Z",
+      "source": "Slashdot.org",
+      "summary_ja": "OpenAIのCEOであるサム・アルトマン氏の自宅に、20歳の男性が火炎瓶を投げつけた疑いで逮捕されました。サンフランシスコ市警が発表し、ニューヨーク・タイムズが報じました。この事件は、AI技術開発をリードする人物への脅迫行為として、AI業界に衝撃を与えています。"
+    },
+    {
+      "title": "Agentic AI will force a rethink at the network edge",
+      "title_ja": "自律型AIがネットワークエッジの再考を迫る",
+      "original_url": "https://siliconangle.com/2026/04/10/agentic-ai-will-force-rethink-network-edge/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/01/AIcomputingattheedge.png",
+      "published_at": "2026-04-10T21:03:09Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "自律型AIの登場により、人間による継続的な監督なしに、自律的に動作し学習するシステムが実現します。これにより、分散環境全体で独立して機能し、他のエージェントとリアルタイムで協調する能力がもたらされます。この進化は、ネットワークエッジにおけるAIの運用方法を根本的に見直し、その可能性を大きく広げることになります。"
+    },
+    {
+      "title": "Wit Studio Will Remove Ascendance of a Bookworm Anime AI Scenes",
+      "title_ja": "アニメ『本好きの下剋上』、WIT STUDIOがAI生成シーンを差し替えへ",
+      "original_url": "https://www.siliconera.com/wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes/",
+      "image_url": "https://www.siliconera.com/wp-content/uploads/2026/04/ascendance-of-bookworm-op-04102026.jpg",
+      "published_at": "2026-04-10T21:00:00Z",
+      "source": "Siliconera",
+      "summary_ja": "WIT STUDIOは、アニメ『本好きの下剋上』第4期のオープニング制作に生成AIを利用したことを認め、手描きのアートに差し替えることを発表しました。この対応は、アニメ業界におけるAI利用に対する議論を反映したもので、今後のアニメ制作に影響を与える可能性があります。手描きのシーンへの変更は、作品のクオリティとクリエイターの意図を重視する姿勢を示しています。"
+    },
+    {
+      "title": "gradio-client 2.4.1",
+      "title_ja": "gradio-client 2.4.1",
+      "original_url": "https://pypi.org/project/gradio-client/2.4.1/",
+      "image_url": null,
+      "published_at": "2026-04-10T20:57:11Z",
+      "source": "Pypi.org",
+      "summary_ja": "gradio-client 2.4.1は、訓練された機械学習モデルと容易にやり取りするためのPythonライブラリです。このライブラリのアップデートは、機械学習モデルへのアクセスと利用を簡素化し、開発者にとって重要なツールとなっています。エラーメッセージが表示されているため、ブラウザの設定やネットワーク接続に問題がないか確認する必要があります。"
+    },
+    {
+      "title": "gradio 6.12.0",
+      "title_ja": "Gradio 6.12.0",
+      "original_url": "https://pypi.org/project/gradio/6.12.0/",
+      "image_url": null,
+      "published_at": "2026-04-10T20:56:59Z",
+      "source": "Pypi.org",
+      "summary_ja": "Gradio 6.12.0 は、訓練された機械学習モデルと容易にインタラクションするための Pythonライブラリです。ウェブサイトの表示に関する問題が発生している可能性がありますが、これはブラウザ拡張機能、ネットワーク接続、またはブラウザ設定が原因であると考えられます。Gradio は、機械学習モデルのデプロイを簡素化し、ユーザーがモデルを試すためのインターフェースを迅速に作成することを可能にします。"
+    }
+  ]
+}

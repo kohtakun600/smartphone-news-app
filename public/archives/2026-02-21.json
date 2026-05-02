@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-20T22:55:40.776Z",
+  "articles": [
+    {
+      "title": "Most Meta staff to get 5% less in equity rewards as Zuckerberg cuts costs for AI spending, FT reports",
+      "title_ja": "ザッカーバーグCEOがAI投資のためコスト削減、Meta従業員の株式報酬を5%削減へ、FT報道",
+      "original_url": "https://www.channelnewsasia.com/business/most-meta-staff-get-5-less-in-equity-rewards-zuckerberg-cuts-costs-ai-spending-ft-reports-5941641",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--jeObkpXJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-19T225435Z_2_LYNXMPEM1I1EN_RTROPTP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG?itok=Wo5uQq2U",
+      "published_at": "2026-02-19T22:53:05Z",
+      "source": "CNA",
+      "summary_ja": "マーク・ザッカーバーグCEO率いるMetaは、AI開発への巨額投資のため、大部分の従業員に対する株式報酬を約5%削減すると報じられました。これは、MetaがAI分野への重点的な投資を進める一方で、コスト削減を図る戦略の一環です。この決定は、MetaのAI戦略に対する大規模なコミットメントとその財務的影響を示すものです。"
+    },
+    {
+      "title": "DHS awards Palantir up to $1B to deploy AI and data analytics platforms",
+      "title_ja": "DHSがPalantirに最大10億ドルを付与、AIとデータ分析プラットフォームを展開",
+      "original_url": "https://siliconangle.com/2026/02/19/dhs-awards-palantir-1b-deploy-ai-data-analytics-platforms/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/palantir.png",
+      "published_at": "2026-02-19T22:45:08Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "米国国土安全保障省（DHS）は、Palantir Technologies社に対し、5年間の包括的購入契約を締結し、AIと大規模データ分析プラットフォームの利用を拡大します。この契約により、DHSは様々な機関でこれらの技術を導入し、データに基づいた意思決定を強化することを目指します。Palantirはこの契約を通じて、政府機関向けの高度な分析能力を提供することになります。"
+    },
+    {
+      "title": "AI Darwinism can unleash new potential of energy workforce – Enlit Magazine",
+      "title_ja": "AIダーウィニズムがエネルギー業界の労働力の新たな可能性を引き出す – Enlit誌",
+      "original_url": "https://briansolis.com/2026/02/ai-darwinism-can-unleash-new-potential-of-energy-workforce-enlit-magazine/",
+      "image_url": "https://briansolis.com/wp-content/uploads/2026/02/Screenshot-2026-02-19-at-2.39.09-PM.jpg",
+      "published_at": "2026-02-19T22:43:25Z",
+      "source": "Briansolis.com",
+      "summary_ja": "AIを活用した「AIダーウィニズム」という考え方が、エネルギー業界における労働力の変革を促すと提唱されています。これは単なる自動化ではなく、人間の能力を拡張し、エネルギーセクターの効率化とイノベーションを加速させる可能性を秘めています。この技術は、Baker Hughesの年次総会での基調講演で取り上げられ、注目を集めています。"
+    },
+    {
+      "title": "AI companies aren’t our masters … yet",
+      "title_ja": "AI企業はまだ支配者ではない",
+      "original_url": "https://www.wnd.com/2026/02/ai-companies-arent-our-masters-yet/",
+      "image_url": "https://www.wnd.com/wp-content/uploads/2017/02/internet-servers-technology-600.jpg",
+      "published_at": "2026-02-19T22:38:57Z",
+      "source": "Wnd.com",
+      "summary_ja": "記事は、AI技術がまだ我々の支配者ではないと示唆しています。ベネズエラの共産主義独裁者ニコラス・マドゥロの逮捕において、AIプログラムClaudeが活用されたという事例を挙げています。しかし、中国が西洋文明のルールに従うとは限らないという懸念も示唆されており、AI技術の発展と地政学的な問題が複雑に絡み合っていることを示唆しています。"
+    },
+    {
+      "title": "PromptSpy is the first Android malware to use generative AI at runtime",
+      "title_ja": "PromptSpy：実行時に生成AIを利用する初のAndroidマルウェア",
+      "original_url": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-android-malware-to-use-generative-ai-at-runtime/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
+      "published_at": "2026-02-19T22:36:25Z",
+      "source": "BleepingComputer",
+      "summary_ja": "研究者らは、GoogleのGeminiモデルを使用してデバイス間で持続性を適応させる、実行フローに生成AIを利用する初のAndroidマルウェアを発見しました。このマルウェアは、マルウェアの進化と適応能力を向上させるために生成AIを活用しており、セキュリティ業界に新たな脅威をもたらす可能性があります。この発見は、モバイルセキュリティにおけるAIの悪用に対する懸念を高めています。"
+    },
+    {
+      "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
+      "title_ja": "PromptSpy：実行時に生成AIを利用する初のAndroidマルウェア",
+      "original_url": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
+      "published_at": "2026-02-19T22:36:25Z",
+      "source": "BleepingComputer",
+      "summary_ja": "研究者は、GoogleのGeminiモデルを利用し、デバイスごとに持続性を適応させる初のAndroidマルウェアを発見しました。このマルウェアは、実行フローの中で生成AIを活用しており、感染後の振る舞いを動的に変化させます。これにより、従来のマルウェア対策からの検出を回避する可能性が高まっています。"
+    },
+    {
+      "title": "35 AI content generators to explore in 2026",
+      "title_ja": "2026年注目のAIコンテンツ生成ツール35選",
+      "original_url": "https://www.techtarget.com/searchenterpriseai/feature/35-AI-content-generators-to-explore-in-2026",
+      "image_url": "https://www.techtarget.com/rms/onlineimages/ai_a311883856.jpg",
+      "published_at": "2026-02-19T22:30:00Z",
+      "source": "Techtarget.com",
+      "summary_ja": "2022年のChatGPT登場以来、生成AIはコンテンツ制作に革命をもたらし、テキスト、画像、音楽、コードなど、様々なメディアを生成するツールが急速に増えています。この記事では、企業が活用できる、多岐にわたるAIコンテンツ生成ツールを35種類紹介し、その進化とビジネスへの影響を解説します。"
+    },
+    {
+      "title": "When AI Becomes More You Than You",
+      "title_ja": "AIがあなた自身よりもあなたらしくなる時",
+      "original_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202602/when-ai-becomes-more-you-than-you",
+      "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-02/AgenticSelf.png.jpg?itok=yXPYmsJA",
+      "published_at": "2026-02-19T22:29:47Z",
+      "source": "Psychology Today",
+      "summary_ja": "AIが私たちの代わりに発言するようになると、私たちが認識しないような声で語る可能性が出てきます。エージェントAIは、個人をシミュレートし、私たちの代わりに様々な行動をとるように設計されています。この技術の進化は、私たちが自身の声を失い、AIに自己を委ねる未来を示唆しています。"
+    },
+    {
+      "title": "MVP Development in the Age of AI: How Startups Can Build Smarter, Faster and Leaner",
+      "title_ja": "AI時代におけるMVP開発：スタートアップがよりスマートに、より速く、より無駄なく構築する方法",
+      "original_url": "https://hackread.com/mvp-development-ai-startups-build-smarter-faster-leaner/",
+      "image_url": "https://hackread.com/wp-content/uploads/2026/02/mvp-development-ai-startups-build-smarter-faster-leaner.jpg",
+      "published_at": "2026-02-19T22:21:37Z",
+      "source": "HackRead",
+      "summary_ja": "AIがMVP開発を再構築し、スタートアップがより迅速に、より賢く検証し、過剰な構築を避け、技術的負債を管理し、早期にセキュリティを組み込むことを支援しています。これにより、開発期間の短縮、市場投入までの時間の短縮、そして成功の可能性の向上が期待できます。AIを活用することで、MVP開発はより効率的かつリスクの低いプロセスへと進化しています。"
+    },
+    {
+      "title": "Israeli freelancer platform Fiverr faces revenue drop after losing a third of its value amid AI fears",
+      "title_ja": "イスラエルのフリーランスプラットフォームFiverr、AIへの懸念から3分の1の価値を失い、収益減少に直面",
+      "original_url": "https://www.haaretz.com/israel-news/2026-02-20/ty-article/.premium/israeli-freelancer-platform-fiverr-expects-to-lose-up-to-12-of-its-revenue-in-2026/0000019c-7724-db1e-a3fd-f73f0fac0000",
+      "image_url": "https://img.haarets.co.il/bs/0000019c-7724-db1e-a3fd-f73f0fac0000/3b/37/e9e08d154707a01e36347321f405/630721.jpg?&width=1200&height=630&cmsprod",
+      "published_at": "2026-02-19T22:21:33Z",
+      "source": "Haaretz",
+      "summary_ja": "イスラエルのフリーランスプラットフォームFiverrが、2025年第4四半期の業績報告で期待外れの結果を発表し、その価値が大幅に下落しました。これは、AI技術の発展により、同社のビジネスモデルが陳腐化するのではないかという市場の懸念が反映されたものです。ニューヨーク証券取引所に上場しているFiverrは、AIの台頭による影響を受け、将来的な収益の減少が見込まれています。"
+    },
+    {
+      "title": "aitraining 0.0.44",
+      "title_ja": "aitraining 0.0.44",
+      "original_url": "https://pypi.org/project/aitraining/0.0.44/",
+      "image_url": null,
+      "published_at": "2026-02-19T22:14:01Z",
+      "source": "Pypi.org",
+      "summary_ja": "このサイトは、開発中の高度な機械学習トレーニングプラットフォームであるaitrainingのバージョン0.0.44です。記事内容は読み込めないエラーを示唆しており、ブラウザ拡張機能、ネットワーク問題、またはブラウザ設定が原因として考えられます。 プラットフォームの機能や影響に関する詳細情報は提供されていませんが、エラーによりアクセスが制限されている可能性があります。"
+    },
+    {
+      "title": "Targeted AI adoption can drive change, current and former officials say",
+      "title_ja": "AIの的を絞った導入が変革を促進、現・元政府関係者が語る",
+      "original_url": "https://www.nextgov.com/artificial-intelligence/2026/02/targeted-ai-adoption-can-drive-change-current-and-former-officials-say/411550/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/02/19/021926AING/open-graph.jpg",
+      "published_at": "2026-02-19T22:07:00Z",
+      "source": "Nextgov",
+      "summary_ja": "政府機関は、顧客対応業務の改善に、必ずしも最新のAIモデルを必要とせず、戦略的にAIツールを導入すべきだと、元退役軍人省CXOのジョン・ボーストラー氏が指摘しました。目的を明確にしたAIの導入が、組織変革を促進し、業務効率化に繋がる可能性を示唆しています。政府機関のAI戦略の重要性を強調し、今後の導入における注意点を促しています。"
+    },
+    {
+      "title": "Walmart outlines big AI ambitions as it reports mixed results",
+      "title_ja": "ウォルマート、AI戦略を大々的に発表、業績はまちまちの結果",
+      "original_url": "https://japantoday.com/category/business/walmart-outlines-big-ai-ambitions-as-it-reports-mixed-results",
+      "image_url": null,
+      "published_at": "2026-02-19T21:58:39Z",
+      "source": "Japan Today",
+      "summary_ja": "ウォルマートは、新しい経営陣のもと、AI統合を強化する計画を発表しました。慎重な業績見通しにも関わらず、この発表により株価は上昇しました。AI技術の積極的な導入は、小売大手ウォルマートの競争力強化を目指すもので、今後の動向が注目されます。"
+    },
+    {
+      "title": "OpenAI's Altman says world 'urgently' needs AI regulation",
+      "title_ja": "OpenAIのアルトマン氏、世界はAI規制を「緊急に」必要と発言",
+      "original_url": "https://japantoday.com/category/tech/openai%27s-altman-says-world-%27urgently%27-needs-ai-regulation",
+      "image_url": null,
+      "published_at": "2026-02-19T21:58:08Z",
+      "source": "Japan Today",
+      "summary_ja": "ChatGPTの開発元であるOpenAIのサム・アルトマンCEOは、AI技術の急速な進化に対応するため、世界的なAI規制が「緊急に」必要だと主張しました。国際的な組織を設立し、規制を調整することも提案しています。これは、AI技術が社会に与える影響が大きくなるにつれて、その制御と安全性を確保するための重要な動きです。"
+    },
+    {
+      "title": "'Warhammer' Veteran Jervis Johnson Warns AI Could Become the 'Asbestos of the Internet'",
+      "title_ja": "「Warhammer」ベテラン、ジャービス・ジョンソン氏がAIを「インターネットのアスベスト」と警告",
+      "original_url": "https://decrypt.co/358680/warhammer-veteran-jervis-johnson-warns-ai-asbestos-internet",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/warhammer-40000-space-marines-decrypt-style-gID_7.jpg",
+      "published_at": "2026-02-19T21:56:11Z",
+      "source": "Decrypt",
+      "summary_ja": "人気ゲーム「Warhammer」のデザイナーであるジャービス・ジョンソン氏が、生成AIがクリエイティブワークを損なうとして、AIを「インターネットのアスベスト」と表現し、その危険性を訴えました。Games Workshop社が1月に生成AIをWarhammerのデザインから正式に禁止したことを支持しています。AI技術がゲームデザインをはじめとする創作活動に与える影響について警鐘を鳴らしています。"
+    },
+    {
+      "title": "Matthew McConaughey sounds the alarm for artists in fight against AI misuse: ‘Own yourself…so no one can steal you’",
+      "title_ja": "マシュー・マコノヒー、AIの不正利用に対抗し、アーティストに警鐘：「自分自身を所有せよ…誰にも盗まれないように」",
+      "original_url": "https://fortune.com/2026/02/19/matthew-mcconaughey-ai-likeness-warns-artists-own-yourself/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2233443409-e1771537138306.jpg?resize=1200,600",
+      "published_at": "2026-02-19T21:49:31Z",
+      "source": "Fortune",
+      "summary_ja": "俳優マシュー・マコノヒーが、AIによるアーティストの権利侵害に警鐘を鳴らしました。彼は、AIの台頭を認め、自己所有の重要性を強調しました。これは、AI技術の発展がもたらす著作権問題や創造性への影響に対する、業界への警告と捉えられます。"
+    },
+    {
+      "title": "cellmap-data 2026.2.19.2140",
+      "title_ja": "cellmap-data 2026.2.19.2140",
+      "original_url": "https://pypi.org/project/cellmap-data/2026.2.19.2140/",
+      "image_url": null,
+      "published_at": "2026-02-19T21:40:41Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、機械学習のトレーニングに使用するCellMapデータをロードするためのユーティリティについて説明しています。PyTorch、Xarray、TensorStore、およびPyDanticを利用しており、データ処理の効率化を目指しています。現時点では、サイトの一部が読み込めないという問題が発生しています。"
+    },
+    {
+      "title": "AI in Hollywood? 'Silicon Valley' Star T.J. Miller Isn't Worried",
+      "title_ja": "ハリウッドにおけるAI？「シリコンバレー」のT.J.ミラーは心配なし",
+      "original_url": "https://decrypt.co/358660/ai-hollywood-silicon-valley-star-tj-miller-isnt-worried",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-tj-miller-gID_7.png",
+      "published_at": "2026-02-19T21:36:47Z",
+      "source": "Decrypt",
+      "summary_ja": "人気ドラマ「シリコンバレー」の俳優T.J.ミラーが、ETH Denverの司会をAIボットが「代役」を務めたと冗談を言いました。彼は、AIが自分の俳優としての仕事を奪うことはないと楽観的です。しかし、この出来事は、エンターテイメント業界におけるAIの役割拡大と、それに伴う雇用への影響に対する懸念を浮き彫りにしました。"
+    },
+    {
+      "title": "qtype 0.1.18",
+      "title_ja": "qtype 0.1.18",
+      "original_url": "https://pypi.org/project/qtype/0.1.18/",
+      "image_url": null,
+      "published_at": "2026-02-19T21:36:15Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、生成AIのプロトタイピングのためのDSL（ドメイン固有言語）であるqtypeのバージョン0.1.18について言及しています。この技術は、生成AIの迅速な開発と実験を容易にする可能性を秘めています。しかし、ウェブサイトの一部が読み込めないという問題も報告されており、技術的な課題も存在することが示唆されています。"
+    },
+    {
+      "title": "Wikipedia Grapples With New Challenges From AI",
+      "title_ja": "AIによる新たな課題に直面するウィキペディア",
+      "original_url": "https://www.techdirt.com/2026/02/19/wikipedia-grapples-with-new-challenges-from-ai/",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "published_at": "2026-02-19T21:30:49Z",
+      "source": "Techdirt",
+      "summary_ja": "先月25周年を迎えたウィキペディアは、AIの台頭により新たな課題に直面しています。オンライン活動の中心的存在であるウィキペディアは、AIの生成する情報との関連性や、その信頼性の検証という問題に直面し、その中立性や正確性を維持するための新たな対策を迫られています。AI時代におけるウィキペディアの役割と、その基盤技術への影響が注目されています。"
+    }
+  ]
+}

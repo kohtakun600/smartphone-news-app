@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-20T22:56:27.956Z",
+  "articles": [
+    {
+      "title": "Google is Reportedly Testing New Gemini App for Mac",
+      "title_ja": "GoogleがMac向けGeminiアプリをテスト中と報道",
+      "original_url": "https://www.thurrott.com/a-i/334005/google-is-reportedly-testing-new-gemini-app-for-mac-users",
+      "image_url": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/03/Google-Gemini-app.jpg",
+      "published_at": "2026-03-19T22:51:55Z",
+      "source": "Thurrott.com",
+      "summary_ja": "Googleは、Macでネイティブに利用可能な他のAIチャットボットに対抗するため、新しいGeminiアプリのテストを開始したと報じられています。BloombergのMark Gurman氏によると、Googleは現在、社内でこのアプリをテストしており、近日中に公開される可能性があるとのことです。この動きは、デスクトッププラットフォームにおけるAIチャットボット競争を激化させる可能性があります。"
+    },
+    {
+      "title": "2,400 Kaiser Mental Health Professionals Strike in California Over AI Concerns",
+      "title_ja": "カリフォルニア州で、AIへの懸念から2,400人のカイザー精神科医療専門家がストライキ",
+      "original_url": "https://www.insurancejournal.com/news/west/2026/03/19/862708.htm",
+      "image_url": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "published_at": "2026-03-19T22:47:21Z",
+      "source": "Insurance Journal",
+      "summary_ja": "カリフォルニア州北部で、約2,400人のカイザー・パーマネンテの精神科医療専門家が、AI（人工知能）導入への懸念からストライキを実施しています。彼らは、カイザー社がセラピストをAIに置き換えているのではないかと懸念しており、患者のケアの質が低下する可能性を危惧しています。このストライキは、医療におけるAIの役割と、それが専門家の職務に与える影響に関する議論を活発化させるでしょう。"
+    },
+    {
+      "title": "Oasis Security raises $120M to secure non-human identities across AI and cloud environments",
+      "title_ja": "Oasis Security、AIとクラウド環境における非人間型IDのセキュリティ強化のため1億2000万ドルを調達",
+      "original_url": "https://siliconangle.com/2026/03/19/oasis-security-raises-120m-secure-non-human-identities-across-ai-cloud-environments/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/oasissecurity.png",
+      "published_at": "2026-03-19T22:30:24Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "イスラエルの新興企業Oasis Securityが、AIとクラウド環境における非人間型IDのセキュリティを強化するため、1億2000万ドルの資金調達を発表しました。この資金は、プラットフォームの拡大、研究開発、および市場投入戦略の強化に充てられます。これにより、同社はAI技術の普及に伴い重要性を増す、非人間型IDのセキュリティ課題への対応を加速させる見込みです。"
+    },
+    {
+      "title": "U.S. tech execs smuggled Nvidia chips to China, prosecutors say",
+      "title_ja": "米テクノロジー幹部、Nvidia製チップを中国へ密輸、検察が発表",
+      "original_url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
+      "published_at": "2026-03-19T22:22:39Z",
+      "source": "CNBC",
+      "summary_ja": "米検察は、米国サーバーメーカーの関係者が、AI用途向けに設計されたNvidia製高度チップを中国へ違法に転売したとして起訴しました。この行為は、数十億ドル規模の取引に及び、米国の輸出規制に違反するものです。今回の事件は、AI技術の軍事転用を懸念する米国政府が、ハイエンド半導体の中国への流出を阻止しようとする中での出来事として注目されています。"
+    },
+    {
+      "title": "The new control plane: How the cloud-native ecosystem is shaping production AI",
+      "title_ja": "新たなコントロールプレーン: クラウドネイティブエコシステムが本番環境AIをどのように形成するか",
+      "original_url": "https://siliconangle.com/2026/03/19/cloud-native-ecosystem-shaping-production-ai-kubeconeu/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/KubeCon-EU-Market-Insights-2026.png",
+      "published_at": "2026-03-19T22:04:18Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "人工知能（AI）実験の時代が終わり、本番環境インフラの現実が迫っています。 企業が大規模言語モデル（LLM）の初期導入段階を超え、クラウドネイティブエコシステム内では、これらのモデルをいかに効率的かつスケーラブルに運用するかに焦点が移っています。 この変化は、AIの生産性を高め、より多くの企業がAIを実用化する道を拓くことになります。"
+    },
+    {
+      "title": "Samsung ups R&D investment to lead the AI race",
+      "title_ja": "サムスン、AI競争をリードするため研究開発投資を増額",
+      "original_url": "https://www.gsmarena.com/samsung_ups_r_d_investment_to_lead_the_ai_race-news-72024.php",
+      "image_url": "https://fdn.gsmarena.com/imgroot/news/26/03/samsung-r-and-d-ai/-952x498w6/gsmarena_000.jpg",
+      "published_at": "2026-03-19T22:02:02Z",
+      "source": "GSMArena.com",
+      "summary_ja": "ロイターの報道によると、サムスン電子はAI分野における半導体業界を牽引するため、約730億ドル（110兆ウォン）を研究開発および施設に投資する計画です。この巨額投資は、AI技術の開発を加速させ、競争激化する半導体市場での優位性を確立することを目的としています。サムスンは、この投資を通じて、AI技術革新のリーダーシップを確立することを目指しています。"
+    },
+    {
+      "title": "Veteran game dev reacts to NVIDIA's infamous AI-powered DLSS 5 Resident Evil Requiem Grace comparison — \"No, no, no, no, no, no, no, no, no, no\"",
+      "title_ja": "ベテランゲーム開発者がNVIDIAの悪名高いAI DLSS 5『バイオハザード レクイエム』比較に激怒—「駄目だ、駄目だ、駄目だ…」",
+      "original_url": "https://www.windowscentral.com/gaming/pc-gaming/veteran-game-dev-reacts-to-nvidias-infamous-ai-powered-dlss-5-resident-evil-requiem-grace-comparison",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kMU5DsXkYydtbLCL4oK7YC-2560-80.jpg",
+      "published_at": "2026-03-19T22:01:54Z",
+      "source": "Windows Central",
+      "summary_ja": "NVIDIAのAI技術を駆使したDLSS 5の映像比較に対し、ベテランゲーム開発者が「怖い」と評し、コミュニティと同様に酷評しています。このDLSS 5は、AIを用いてゲームの映像を向上させる技術ですが、一部からはその画質への違和感や、技術の進歩に対する懸念の声が上がっています。特に、ゲーム業界の専門家がその技術の危険性を指摘し、今後のゲーム開発への影響が注目されています。"
+    },
+    {
+      "title": "What does Agentic AI mean for today’s businesses?",
+      "title_ja": "自律型AIが今日の企業にもたらす意味とは？",
+      "original_url": "https://www.digitaljournal.com/business/what-does-agentic-ai-mean-for-todays-businesses/article",
+      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2026/03/01ab944d06b1ea89cf91c40731767d35fef180da.jpg",
+      "published_at": "2026-03-19T21:56:24Z",
+      "source": "Digital Journal",
+      "summary_ja": "自律型AIは、複雑なタスクを解決するために計画、ツール使用、フィードバックへのリアルタイム適応を行う「デジタル従業員」として機能します。 この技術革新は、保険会社がその誤りをカバーすることを躊躇するほど、企業運営に大きな影響を与えています。 自律型AIの登場は、ビジネスモデルや業務プロセスに大きな変革をもたらす可能性を秘めています。"
+    },
+    {
+      "title": "Mediahuis suspends former Irish boss over use of AI",
+      "title_ja": "メディアハウス、AI利用で発言を捏造した元アイルランド責任者を一時停職処分",
+      "original_url": "https://www.rte.ie/news/2026/0319/1564281-mediahuis-suspends-former-irish-boss-over-use-of-ai/",
+      "image_url": "https://www.rte.ie/images/00241665-1600.jpg",
+      "published_at": "2026-03-19T21:56:20Z",
+      "source": "RTE",
+      "summary_ja": "メディアハウスは、AIを使用して他者の発言を不適切に利用したとして、アイルランド部門の元責任者を一時的に停職処分としました。この事件は、AI技術がニュース報道に与える影響と、その倫理的な側面に対する重要な問題提起となりました。メディア企業におけるAI利用の管理体制の強化が急務となっています。"
+    },
+    {
+      "title": "American Airlines and Google say AI helped airplanes reduce contrails that trap heat",
+      "title_ja": "アメリカン航空とGoogle、AI活用で熱を閉じ込める飛行機雲の発生を抑制",
+      "original_url": "https://japantoday.com/category/tech/american-airlines-and-google-say-ai-helped-airplanes-reduce-contrails-that-trap-heat",
+      "image_url": null,
+      "published_at": "2026-03-19T21:48:04Z",
+      "source": "Japan Today",
+      "summary_ja": "アメリカン航空とGoogleは、AIを活用した予測ツールを用いて、一部のフライトにおける飛行機雲の形成を抑制し、気候への影響を大幅に削減したと発表しました。このAI技術は、飛行機が特定の条件下で飛行する際に発生する熱を閉じ込める飛行機雲を予測し、その発生を避ける飛行ルートを提案します。これにより、航空業界における気候変動対策への新たな取り組みとして注目されています。"
+    },
+    {
+      "title": "Q&A: Trusted data and consumer-first AI creates conversational financial guidance",
+      "title_ja": "Q&A：信頼できるデータと消費者主導AIが会話型金融ガイダンスを創出",
+      "original_url": "https://www.digitaljournal.com/business/qa-trusted-data-and-consumer-first-ai-creates-conversational-financial-guidance/article",
+      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2024/09/dea49fc833ee3dee8fd0c14117bb3730b8e0ee3e.jpg",
+      "published_at": "2026-03-19T21:44:54Z",
+      "source": "Digital Journal",
+      "summary_ja": "消費者主導のAIは、金融情報の意思決定を支援するためのデータとAIの活用に焦点を当てています。Experianは、最新のExperian Virtual Assistantを発表し、信頼できるデータに基づいたパーソナライズされた金融アドバイスを提供することを目指しています。これにより、消費者は会話形式で金融に関する明確な情報とガイダンスを得られるようになります。"
+    },
+    {
+      "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+      "title_ja": "「アンキャニーバレー」：Nvidiaの「AI版スーパーボウル」、テスラは期待外れ、MetaのVRメタバース「閉鎖」",
+      "original_url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+      "image_url": "https://media.wired.com/photos/69bb27db20b5c90983327a6a/191:100/w_1280,c_limit/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg",
+      "published_at": "2026-03-19T21:43:56Z",
+      "source": "Wired",
+      "summary_ja": "今回のエピソードでは、Nvidiaの開発者会議に焦点を当て、ジェンセン・フアンCEOが語る同社の未来について議論しています。テスラが一部の熱心なファンを失望させた理由や、MetaのVRメタバースプロジェクトの進捗状況についても触れています。AI技術の進歩と、それらが様々な企業に与える影響について深く掘り下げています。"
+    },
+    {
+      "title": "Odysight.ai Reports Full Year 2025 Financial Results and Strategic Progress Across Aerospace, Defense, and Industrial Markets",
+      "title_ja": "Odysight.ai、2025年通期決算を発表、航空宇宙、防衛、産業市場における戦略的進捗も報告",
+      "original_url": "https://www.globenewswire.com/news-release/2026/03/19/3259482/0/en/Odysight-ai-Reports-Full-Year-2025-Financial-Results-and-Strategic-Progress-Across-Aerospace-Defense-and-Industrial-Markets.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/fe840a3d-d94f-4b27-ba22-45a8615ddcfb",
+      "published_at": "2026-03-19T21:28:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "Odysight.aiは、航空宇宙、防衛、産業市場向けのAIを活用した視覚センシングと予知保全(PdM)ソリューションを提供する企業です。2025年通期の財務結果を発表し、これらの市場全体での戦略的進捗を報告しました。同社の技術は、設備の異常を早期に検出し、ダウンタイムを削減することで、運用効率の向上に貢献します。"
+    },
+    {
+      "title": "Congress moves to scrutinize AI use in federal court (Aaron Mak/Politico)",
+      "title_ja": "連邦裁判所におけるAI利用を精査へ：議会が動き出す（Politico）",
+      "original_url": "https://www.memeorandum.com/260319/p113",
+      "image_url": "https://www.politico.com/dims4/default/9bb9b50/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F3d%2Fa7%2F9fb9ed8d4e4a8ff94614d055bc9e%2Fmideast-wars-congress-85692.jpg",
+      "published_at": "2026-03-19T21:25:00Z",
+      "source": "Memeorandum.com",
+      "summary_ja": "米議会は、連邦裁判所における人工知能（AI）の利用を監視するための法案を提出する構えです。この動きは、司法判断におけるAIの影響力と透明性を高めることを目的としています。この法案は、AI技術が司法プロセスにどのように影響を与えているのかを調査し、その結果に基づいて適切な規制を検討することになるでしょう。"
+    },
+    {
+      "title": "AI “Meltdown” Warning From Ex CIA Advisor Was Just Issued",
+      "title_ja": "元CIA顧問、AIの「メルトダウン」警告を発令",
+      "original_url": "https://www.globenewswire.com/news-release/2026/03/19/3259480/0/en/AI-Meltdown-Warning-From-Ex-CIA-Advisor-Was-Just-Issued.html",
+      "image_url": null,
+      "published_at": "2026-03-19T21:23:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "元CIA顧問が、人工知能 (AI) の急速な発展が深刻な問題を引き起こす可能性があると警告する動画を発表しました。この発表は、AIブームの背後にある隠れた圧力と、それがもたらす潜在的なリスクを暴露しています。この警告は、AI技術の進歩がもたらす影響について、警戒を促しています。"
+    },
+    {
+      "title": "OpenAI acquires open-source Python tooling startup Astral",
+      "title_ja": "OpenAIがオープンソースのPythonツール開発スタートアップ、Astralを買収",
+      "original_url": "https://siliconangle.com/2026/03/19/openai-acquires-open-source-python-tooling-startup-astral/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Unsplash1.png",
+      "published_at": "2026-03-19T21:21:32Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "OpenAIは、人気のあるPython開発ツールを提供するスタートアップ、Astral Software Inc.を買収すると発表しました。買収条件は明らかにされていません。この買収は、OpenAIが開発者向けツールを強化し、より効率的なPython開発環境を構築することを目指していることを示唆しています。AstralのツールはRustで記述されており、OpenAIの技術基盤への統合も期待されます。"
+    },
+    {
+      "title": "Meta Phases Out Human Moderators as AI Detection Outpaces Teams",
+      "title_ja": "Meta、AIによるコンテンツ検出能力向上に伴い、人間モデレーターを段階的に廃止",
+      "original_url": "https://www.pymnts.com/meta/2026/meta-phases-out-human-moderators-as-ai-detection-outpaces-teams/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Meta-moderators-AI.png",
+      "published_at": "2026-03-19T21:15:16Z",
+      "source": "pymnts.com",
+      "summary_ja": "Metaは、自社アプリにおけるコンテンツモデレーションを、今後数年かけて外部委託からAIシステムへと移行すると発表しました。これにより、AIのコンテンツ検出能力が向上し、人間によるモデレーションチームの必要性が減少する見込みです。この動きは、ソーシャルメディアプラットフォームにおけるAIの役割拡大と、コンテンツ管理方法の変革を示唆しています。"
+    },
+    {
+      "title": "DoorDash will start paying gig workers for creating content to train AI models",
+      "title_ja": "DoorDash、AIモデル訓練用コンテンツ作成でギグワーカーに報酬を支払い開始",
+      "original_url": "https://slashdot.org/firehose.pl?op=view&amp;id=181051164",
+      "image_url": null,
+      "published_at": "2026-03-19T21:12:06Z",
+      "source": "Slashdot.org",
+      "summary_ja": "フードデリバリーサービスのDoorDashは、ギグワーカー向けにAIモデル訓練用コンテンツ作成の報酬プログラム「Tasks」を開始しました。これにより、配達員の隙間時間を利用した写真撮影などのタスクで追加収入を得られるようになります。これは、DoorDashがAI技術を強化し、サービス向上を目指す動きの一環であり、ギグワーカーの新たな収益源となる可能性があります。"
+    },
+    {
+      "title": "Telecom and Energy Networks Embed AI to Streamline Workloads",
+      "title_ja": "通信・エネルギーネットワークがAIを組み込み、ワークロードを効率化",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/telecom-and-energy-networks-embed-ai-to-streamline-workloads/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/telecom-AI-power-grid-1.jpg",
+      "published_at": "2026-03-19T21:09:07Z",
+      "source": "pymnts.com",
+      "summary_ja": "大手通信・テクノロジー企業3社が、AIを遠隔データセンターから日常インフラへと展開し、情報生成と同時にAIが処理できるようにしています。この動きにより、AIはデータの遅延なく即座に意思決定を行い、ネットワークの効率性と応答性が向上します。これにより、エネルギー消費の最適化や、通信ネットワークの負荷分散などの革新的な利用が期待されます。"
+    },
+    {
+      "title": "AI firms fuel rebound in Manhattan office leases — strongest year in over a decade",
+      "title_ja": "マンハッタンオフィス賃貸、AI企業の躍進で回復—10年以上ぶりの好調",
+      "original_url": "https://nypost.com/2026/03/19/business/ai-firms-fuel-rebound-in-manhattan-office-leases-strongest-year-in-over-a-decade/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/7-9-14-real-estate-123984160.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-03-19T21:06:11Z",
+      "source": "New York Post",
+      "summary_ja": "AI関連企業がマンハッタンのオフィス賃貸市場を牽引し、需要が10年以上ぶりに力強く回復しています。この傾向は、特に広大なオフィススペースへの需要増加に繋がっています。AI技術の発展が、オフィス市場の活性化に大きな影響を与えていることが伺えます。"
+    }
+  ]
+}

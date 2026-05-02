@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-23T23:13:31.835Z",
+  "articles": [
+    {
+      "title": "snapml 1.17.2",
+      "title_ja": "SnapML 1.17.2",
+      "original_url": "https://pypi.org/project/snapml/1.17.2/",
+      "image_url": null,
+      "published_at": "2026-04-22T23:08:23Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、SnapMLのバージョン1.17.2に関するものです。SnapMLは、機械学習を高速化するライブラリであり、その最新版に関する更新情報が示唆されています。記事の内容は、サイトの一部の読み込みに問題が発生しており、ブラウザ拡張機能やネットワークの問題の可能性を指摘しています。"
+    },
+    {
+      "title": "Elon Musk says Tesla expenses will rise ‘substantially in the future’ as he funds AI and robotic dreams",
+      "title_ja": "イーロン・マスク氏、AIとロボット開発への投資により、テスラの費用が「今後大幅に増加」と発言",
+      "original_url": "https://nypost.com/2026/04/22/business/elon-musk-says-tesla-expenses-will-rise-substantially-in-the-future/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/elon-musk-tesla-earnings.jpg?quality=75&strip=all&1776883409&w=1200",
+      "published_at": "2026-04-22T23:07:43Z",
+      "source": "New York Post",
+      "summary_ja": "イーロン・マスク氏は、AIとロボット技術への大規模投資を計画しており、その結果、テスラの資本支出が将来的に大幅に増加すると予想しています。これは、自動運転タクシーや人型ロボットの開発といった野心的なプロジェクトへの取り組みによるものです。この投資は、テスラの新たな成長戦略の中核を担い、自動運転技術とロボット工学の分野で大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Majority of doctors use AI in clinical practice - survey",
+      "title_ja": "医師の過半数が臨床現場でAIを活用 – 調査結果",
+      "original_url": "https://www.rte.ie/news/ireland/2026/0423/1569625-ai-clinical-practice/",
+      "image_url": "https://www.rte.ie/images/0020ef07-1600.jpg",
+      "published_at": "2026-04-22T23:01:00Z",
+      "source": "RTE",
+      "summary_ja": "最新の調査によると、医師の58%が過去1年以内に臨床診療でAIを活用しており、5人に1人以上が毎日使用していることが判明しました。この結果は、医療現場におけるAIの急速な浸透を示唆しています。AI技術は診断、治療計画、患者管理など、様々な分野で活用されており、医療の効率化と質の向上に貢献しています。"
+    },
+    {
+      "title": "Gradually, then suddenly: Dr. Robert Wachter on health care’s giant AI leap [PODCAST]",
+      "title_ja": "徐々に、そして突然に：ロバート・ワクター医師が語る、医療におけるAIの巨大な飛躍 [ポッドキャスト]",
+      "original_url": "https://kevinmd.com/2026/04/gradually-then-suddenly-dr-robert-wachter-on-health-cares-giant-ai-leap-podcast.html",
+      "image_url": "https://kevinmd.com/wp-content/uploads/Design-1-1-scaled.jpg",
+      "published_at": "2026-04-22T23:00:28Z",
+      "source": "Kevinmd.com",
+      "summary_ja": "カリフォルニア大学サンフランシスコ校医学部長のロバート・ワクター医師が、著書『A Giant Leap: How AI Is Transforming Healthcare and What That Means for Our Future』について語ります。AIが医療を変革し、その影響が徐々に現れながらも、最終的には大きな変化をもたらす可能性について議論しています。電子カルテの技術的な問題点よりも、その期待値自体に問題があるという視点も示唆しています。"
+    },
+    {
+      "title": "First-Principles and Machine Learning Investigation of Pressure-Induced Elastic, Electronic, and Magnetic Behavior in FeZrTiX (X = Al, Si) Heusler Alloys",
+      "title_ja": "第一原理計算と機械学習によるFeZrTiX（X = Al, Si）ホイスラー合金の圧力誘起弾性、電子、磁気特性の調査",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00025h",
+      "image_url": null,
+      "published_at": "2026-04-22T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、FeZrTiX (X = Al, Si) ホイスラー合金における、圧力下での弾性、電子、磁気的挙動を、第一原理計算と機械学習を用いて詳細に解析しています。このアプローチにより、合金の構造的安定性、電子構造、磁気特性への圧力の影響を明らかにすることを目指しています。将来の材料設計における重要な知見を提供し、新しい機能性材料開発への貢献が期待されます。"
+    },
+    {
+      "title": "Government launches national AI skills platform",
+      "title_ja": "政府がAIスキル習得のための全国プラットフォームを公開",
+      "original_url": "https://www.rte.ie/news/2026/0423/1569642-ai-skills-platform/",
+      "image_url": "https://www.rte.ie/images/001bf445-1600.jpg",
+      "published_at": "2026-04-22T23:00:00Z",
+      "source": "RTE",
+      "summary_ja": "政府は、国民のAIスキル向上を目的とした新しい全国AIトレーニングプラットフォームを公開しました。このプラットフォームは、AIの基礎を学びたい人々に対して、アクセスしやすい環境を提供します。AI人材育成を強化することで、国内のAI技術革新を加速させることを目指しています。"
+    },
+    {
+      "title": "Singlet machine learning photodynamics reveal competing inversion paths of methylated cyclooctatetrathiophene",
+      "title_ja": "単一分子機械学習光力学が、メチル化シクロオクタテトラチオフェンの競合する反転経路を明らかに",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc00969g",
+      "image_url": null,
+      "published_at": "2026-04-22T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、最先端の機械学習と光力学的手法を駆使し、メチル化シクロオクタテトラチオフェン分子の光励起ダイナミクスを解析しています。これにより、分子の反転経路が複数存在し、互いに競合していることが明らかになりました。この発見は、分子レベルでの光化学反応の理解を深め、将来の分子デバイス開発に貢献する可能性があります。"
+    },
+    {
+      "title": "SK Hynix posts record first-quarter profit, in line with estimates as memory prices climb",
+      "title_ja": "SKハイニックス、メモリ価格上昇を受け、市場予想通り四半期利益が過去最高を記録",
+      "original_url": "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108258731-1769661681267-gettyimages-1953500088-AFP_34GV6KQ.jpeg?v=1776839949&w=1920&h=1080",
+      "published_at": "2026-04-22T22:55:30Z",
+      "source": "CNBC",
+      "summary_ja": "SKハイニックスは、AI需要の拡大を背景にメモリ価格が高騰し、四半期利益と売上高が過去最高を更新しました。同社の好調な業績は、メモリチップ市場における強い需要と価格上昇を反映しています。この結果は、テクノロジー業界におけるAI関連需要の増加が、半導体メーカーに大きな利益をもたらしていることを示しています。"
+    },
+    {
+      "title": "ServiceNow CEO downplays impact of Iran war and AI: 'Our business is doing great'",
+      "title_ja": "ServiceNow CEO、イラン戦争とAIの影響を軽視：「当社のビジネスは好調」",
+      "original_url": "https://www.cnbc.com/2026/04/22/servicenow-ceo-downplays-impact-of-iran-war-and-ai-our-business-is-doing-great.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108090677-1737564483883-Wi3Jjocc.jpg?v=1769716464&w=1920&h=1080",
+      "published_at": "2026-04-22T22:50:44Z",
+      "source": "CNBC",
+      "summary_ja": "ServiceNowのビル・マクダーモットCEOは、CNBCのインタビューで、イラン戦争によるビジネスへの大きな影響とAIによる事業へのリスクを否定しました。同氏は、同社の業績は好調であると述べ、AIの脅威よりもビジネスチャンスに焦点を当てています。同社は、第1四半期の業績は一部影響を受けたものの、全体としては順調に推移していると説明しています。"
+    },
+    {
+      "title": "Nvidia supplier SK Hynix's Q1 profit rises five-fold, meets forecasts",
+      "title_ja": "NVIDIAサプライヤーSKハイニックス、第1四半期の利益が5倍に急増、予想を上回る",
+      "original_url": "https://www.channelnewsasia.com/business/nvidia-supplier-sk-hynixs-q1-profit-rises-five-fold-meets-forecasts-6074941",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Fy23flhZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-22T224946Z_1_LYNXMPEM3L1HC_RTROPTP_3_SK-HYNIX-SOUTHKOREA.JPG?itok=gHMT_4d5",
+      "published_at": "2026-04-22T22:49:46Z",
+      "source": "CNA",
+      "summary_ja": "韓国のSKハイニックスは、人工知能（AI）ブームによる高度および従来型メモリチップに対する旺盛な需要を背景に、第1四半期の営業利益が5倍以上に急増し、過去最高を記録しました。この好調な業績は、NVIDIAへの供給を含む、高性能メモリチップの需要拡大を反映しています。AI市場の成長に伴い、SKハイニックスの今後の業績にも期待が寄せられています。"
+    },
+    {
+      "title": "Reese Witherspoon Clarifies AI Stance After Backlash: “I Don’t Believe Computers Should Replace Humanity”",
+      "title_ja": "リース・ウィザースプーン、批判受けAIに対するスタンスを明確化：「コンピューターが人類に取って代わるべきではない」",
+      "original_url": "http://deadline.com/2026/04/reese-witherspoon-clarifies-ai-stance-after-backlash-1236868789/",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/04/P1025YOV-e1776896948194.jpg?w=810",
+      "published_at": "2026-04-22T22:41:25Z",
+      "source": "Deadline",
+      "summary_ja": "女優のリース・ウィザースプーンが、AIへの関心表明後に批判を受け、AIに対する考えを明確にしました。彼女は、AIについて積極的に学びながらも、コンピューターが人類に取って代わるべきではないという立場を表明しています。この発言は、AI技術の進展に伴う懸念が高まる中で、特に女性の職への影響について議論を呼んでいます。"
+    },
+    {
+      "title": "Google launches AI research agents powered by Gemini 3.1 Pro",
+      "title_ja": "Google、Gemini 3.1 Proを搭載したAI研究エージェントを発表",
+      "original_url": "https://siliconangle.com/2026/04/22/google-launches-ai-research-agents-powered-gemini-3-1-pro/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Research-Agent.png",
+      "published_at": "2026-04-22T22:39:17Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "Googleが、Gemini 3.1 Proを基盤としたAI研究エージェントを2種類リリースしました。これらのエージェントは、ユーザーが指定したテーマに関する研究レポートを生成できます。これにより、専門家でなくても、幅広いトピックの研究にAIを活用できるようになり、情報収集の効率化が期待されます。"
+    },
+    {
+      "title": "numerapi 2.23.0",
+      "title_ja": "numerapi 2.23.0",
+      "original_url": "https://pypi.org/project/numerapi/2.23.0/",
+      "image_url": null,
+      "published_at": "2026-04-22T22:33:14Z",
+      "source": "Pypi.org",
+      "summary_ja": "Numeraiの機械学習コンペティション向けに、データダウンロードとアップロードを自動化するツール、numerapiのバージョン2.23.0がリリースされました。この更新により、Numeraiプラットフォームとの連携がよりスムーズになり、参加者がより効率的にモデル構築に集中できるようになります。ブラウザ拡張機能やネットワークの問題でサイトが読み込めない場合があることに注意が必要です。"
+    },
+    {
+      "title": "AI will boost productivity so ServiceNow won't have to backfill open jobs, CEO says",
+      "title_ja": "ServiceNow CEO、AIが生産性を向上させるため、空きポストを埋める必要がなくなると発言",
+      "original_url": "https://www.cnbc.com/2026/04/22/servicenow-mcdermott-ai-jobs-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108090677-1737564483883-Wi3Jjocc.jpg?v=1769716464&w=1920&h=1080",
+      "published_at": "2026-04-22T22:29:49Z",
+      "source": "CNBC",
+      "summary_ja": "ServiceNowのCEOは、AIの導入により生産性が向上し、買収統合を進めながらも、2027年初頭の人員は2026年と同数を維持できると予測しています。株価低迷の中、AIがビジネスモデルを脅かす可能性に言及しつつ、人員増強ではなくAIによる業務効率化を図る方針を示しました。これにより、同社は競争力を維持し、コスト削減も目指すと考えられます。"
+    },
+    {
+      "title": "Hands on with X's new AI-powered custom feeds | TechCrunch",
+      "title_ja": "Xが提供するAI搭載の新しいカスタムフィードを試す | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+      "published_at": "2026-04-22T22:25:53Z",
+      "source": "TechCrunch",
+      "summary_ja": "X（旧Twitter）が、AIを活用したカスタムフィード機能を導入しました。GrokというAIによってキュレーションされたフィードが提供され、コミュニティ機能に代わるものとなります。この新機能には広告枠も含まれており、Xの収益化戦略にも影響を与える可能性があります。"
+    },
+    {
+      "title": "Anthropic investigates unauthorized access to restricted Claude Mythos AI model",
+      "title_ja": "Anthropic社、制限付きClaude Mythos AIモデルへの不正アクセスを調査",
+      "original_url": "https://siliconangle.com/2026/04/22/anthropic-investigates-unauthorized-access-restricted-claude-mythos-ai-model/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png",
+      "published_at": "2026-04-22T22:25:19Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "Anthropic社は、危険なサイバー攻撃を可能にするほど強力と自社が謳う次世代AIモデルClaude Mythosへの不正アクセスに関する報告を調査しています。このモデルはまだ一般公開されておらず、一部のユーザーがオンラインフォーラムを通じてアクセスしたとされています。今回の事態は、高度なAIモデルのセキュリティと潜在的な悪用リスクへの懸念を浮き彫りにしています。"
+    },
+    {
+      "title": "mlbench-lite 3.0.2",
+      "title_ja": "mlbench-lite 3.0.2",
+      "original_url": "https://pypi.org/project/mlbench-lite/3.0.2/",
+      "image_url": null,
+      "published_at": "2026-04-22T22:05:53Z",
+      "source": "Pypi.org",
+      "summary_ja": "mlbench-lite 3.0.2は、機械学習ベンチマークのためのシンプルなライブラリです。この記事では、サイトの一部が読み込めない問題が発生していることが示唆されており、ブラウザ拡張機能、ネットワーク、またはブラウザ設定が原因の可能性があります。この問題は、ベンチマークツールの利用に影響を与える可能性があります。"
+    },
+    {
+      "title": "Creatorverse: What to Learn From Khaby Lame’s $975 Million AI Deal",
+      "title_ja": "クリエイターバース：カビ・レイムの9億7500万ドルAI契約から何を学ぶべきか",
+      "original_url": "https://www.thewrap.com/commentary-analysis/columns/creatorverse-khaby-lames-ai-deal/",
+      "image_url": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/04/khaby-lame-1.jpg?fit=1200%2C675&quality=89&ssl=1",
+      "published_at": "2026-04-22T22:00:00Z",
+      "source": "TheWrap",
+      "summary_ja": "TikTokで人気のカビ・レイムが、9億7500万ドルという巨額のAI関連契約を結んだことが注目を集めています。この記事では、この契約に潜むリスクや注意点に焦点を当て、クリエイターエコノミーにおける適切な権利保護の重要性を強調しています。高額契約における不透明な部分や、クリエイターにとっての適切な代理人の重要性を解説しています。"
+    },
+    {
+      "title": "Jon Favreau Talks Mandalorian, AI, and Movie Theaters",
+      "title_ja": "ジョン・ファヴロー、『マンダロリアン』、AI、映画館について語る",
+      "original_url": "https://www.laughingplace.com/entertainment/cinemacon-2026-jon-favreau-mandalorian-grogu-ai-theaters/",
+      "image_url": "https://www.laughingplace.com/uploads/media/2026/04/CinemaCon-2026-Jon-Favreau-Lunch.png",
+      "published_at": "2026-04-22T21:59:17Z",
+      "source": "LaughingPlace.com",
+      "summary_ja": "ジョン・ファヴローはCinemaCon 2026にて、『マンダロリアン & グローグ』の技術、AIの透明性、オズワルド・ザ・ラッキー・ラビットのプロジェクト、そして映画館の未来について言及しました。彼は、特に『マンダロリアン』における最先端技術の使用と、映画制作におけるAIの役割について詳しく語りました。また、映画館での上映体験の重要性についても強調しました。"
+    },
+    {
+      "title": "windowsml 1.8.2192",
+      "title_ja": "windowsml 1.8.2192",
+      "original_url": "https://pypi.org/project/windowsml/1.8.2192/",
+      "image_url": null,
+      "published_at": "2026-04-22T21:55:32Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、Windows AI Machine Learning EP Catalog API用のPythonバインディングであるwindowsmlの新しいバージョン1.8.2192に関するものです。この更新により、開発者はWindows環境でAIと機械学習機能をより効率的に利用できるようになります。サイトの一部が読み込めないという問題も報告されており、ブラウザ拡張機能、ネットワーク、またはブラウザ設定が原因の可能性があります。"
+    }
+  ]
+}

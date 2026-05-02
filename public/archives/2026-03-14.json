@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-13T22:53:16.133Z",
+  "articles": [
+    {
+      "title": "Canadian Tech Entrepreneur Yanik Guillemette Publishes Analysis on the Future of Artificial Intelligence in the Workplace",
+      "title_ja": "カナダのテクノロジー起業家ヤニック・ギルルメット氏、職場における人工知能の未来に関する分析を発表",
+      "original_url": "https://www.globenewswire.com/news-release/2026/03/12/3255214/0/en/Canadian-Tech-Entrepreneur-Yanik-Guillemette-Publishes-Analysis-on-the-Future-of-Artificial-Intelligence-in-the-Workplace.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/21f58e50-e157-468f-ab90-9c05a95cb4b5",
+      "published_at": "2026-03-12T22:47:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "カナダのテクノロジー起業家ヤニック・ギルルメット氏が、人工知能 (AI) が職場の生産性とエンゲージメントをどのように変革するかを分析したレポートを発表しました。この分析は、AIが現代の職場に与える影響に焦点を当て、その将来展望を示しています。ギルルメット氏の分析は、AI技術が労働環境を根本的に変える可能性を示唆しています。"
+    },
+    {
+      "title": "'We have this power from the wind. We have free cooling': This startup wants to build underwater data centers inside wind turbines at sea - using the icy North Sea waters to keep everything cool",
+      "title_ja": "風力から電力を、そして無料の冷却も：スタートアップが洋上風力発電機内に水中データセンターを構築、北海の冷たい海水を利用",
+      "original_url": "https://www.techradar.com/pro/we-have-this-power-from-the-wind-we-have-free-cooling-this-startup-wants-to-build-underwater-data-centers-inside-wind-turbines-at-sea-using-the-icy-north-sea-waters-to-keep-everything-cool",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+      "published_at": "2026-03-12T22:40:00Z",
+      "source": "TechRadar",
+      "summary_ja": "あるスタートアップが、洋上風力発電機内にAIサーバーを収容する水中データセンターを建設する計画です。北海の冷たい海水を利用して冷却し、変動する風力エネルギー供給はバッテリーと送電網接続で対応します。この技術は、データセンターの電力消費と冷却コストを大幅に削減する可能性を秘めており、持続可能なコンピューティングの新たな可能性を示唆しています。"
+    },
+    {
+      "title": "Adobe CEO Shantanu Narayen is stepping down after 18 years—as pressure on the company mounts to deliver on AI",
+      "title_ja": "アドビCEOのシャンタヌ・ナラヤン氏、18年間の在任期間を経て退任へ—AIへの対応強化が求められる中",
+      "original_url": "https://fortune.com/2026/03/12/adobe-ceo-shantanu-narayen-stepping-down-after-18-years-pressure-deliver-ai/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1622069988.jpg?resize=1200,600",
+      "published_at": "2026-03-12T22:32:04Z",
+      "source": "Fortune",
+      "summary_ja": "アドビのCEO、シャンタヌ・ナラヤン氏が18年間務めたCEOを退任することになりました。同社は、AIを活用した収益が過去最高を記録し、第1四半期の収益予測を上回る結果を発表しましたが、第2四半期については慎重な見通しを示しています。このCEO交代は、AI技術への期待が高まる中で、アドビが新たな成長戦略を打ち出すための大きな転換点となるでしょう。"
+    },
+    {
+      "title": "Defense official reveals how AI chatbots could be used for targeting decisions",
+      "title_ja": "国防当局、AIチャットボットを標的決定に利用する可能性を明かす",
+      "original_url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/03/genai-mil2.jpg?resize=1200,600",
+      "published_at": "2026-03-12T22:23:34Z",
+      "source": "MIT Technology Review",
+      "summary_ja": "米国防当局は、攻撃目標の優先順位付けや、どの標的を最初に攻撃すべきかの推奨事項作成に生成AIシステムを利用する可能性を示唆した。この技術は、最終的には人間が検証するものの、AIが攻撃判断プロセスに組み込まれる可能性を示唆している。これは、軍事におけるAI活用の新たな一例であり、意思決定の迅速化と効率化をもたらす可能性がある。"
+    },
+    {
+      "title": "ChatGPT tool will spy on your bank accounts and credit cards...",
+      "title_ja": "ChatGPTがあなたの銀行口座とクレジットカードを監視するツールが登場…",
+      "original_url": "https://www.the-sun.com/money/16078082/chatgpt-finance-section-financial-assistant/",
+      "image_url": null,
+      "published_at": "2026-03-12T22:00:12Z",
+      "source": "The-sun.com",
+      "summary_ja": "ChatGPTが、ユーザーの財務管理を支援する新機能として、銀行口座やクレジットカードの情報へのアクセスを可能にするツールを開発していると報じられています。この機能により、AIが個人の支出パターンを分析し、よりパーソナルな財務アドバイスを提供できるようになる可能性があります。しかし、プライバシーとセキュリティに関する懸念も高まっています。"
+    },
+    {
+      "title": "Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says",
+      "title_ja": "パランティアの技術が中東で西側諸国に決定的な優位性をもたらすと、CEOのアレックス・カープ氏が語る",
+      "original_url": "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254382-17689273942026-01-20t141007z_981211654_rc225jaxntas_rtrmadp_0_davos-meeting.jpeg?v=1768927415&w=1920&h=1080",
+      "published_at": "2026-03-12T21:59:48Z",
+      "source": "CNBC",
+      "summary_ja": "パランティアのCEO、アレックス・カープ氏は、イランとの紛争を含む中東情勢において、AI技術が米国とその同盟国に優位性をもたらしているとCNBCに語りました。この技術は、紛争の激化の中で、重要な情報収集と意思決定を支援する可能性があります。パランティアは、政府機関や軍事組織向けのデータ分析プラットフォームを提供しており、AIを活用した分析能力で注目を集めています。"
+    },
+    {
+      "title": "Side-hustling Californians strap on body cams to help AI bots behave more like humans: ‘Like getting paid for breathing’",
+      "title_ja": "副業で収入を得たいカリフォルニア州民が、AIボットを人間らしく訓練するため、ボディーカムを装着: 「呼吸するだけでお金がもらえるようなもの」",
+      "original_url": "https://nypost.com/2026/03/12/lifestyle/humans-are-now-getting-paid-to-train-ai-bots-how-to-act-human/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/123398832.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-03-12T21:58:34Z",
+      "source": "New York Post",
+      "summary_ja": "カリフォルニア州では、AIの行動を人間らしくするための訓練に協力する副業が人気を集めています。参加者はボディーカムを装着し、AIに様々な状況での人間の行動を学習させています。これにより、AIがより自然な振る舞いを習得し、人間とのインタラクションを向上させることに貢献しています。"
+    },
+    {
+      "title": "cog 0.17.0rc2",
+      "title_ja": "cog 0.17.0rc2",
+      "original_url": "https://pypi.org/project/cog/0.17.0rc2/",
+      "image_url": null,
+      "published_at": "2026-03-12T21:55:19Z",
+      "source": "Pypi.org",
+      "summary_ja": "cog 0.17.0rc2 は、機械学習モデルのコンテナ化を目的としたツールです。これにより、機械学習モデルのデプロイと実行が容易になり、異なる環境間での互換性を確保できます。今回のリリースは、より安定した機械学習パイプラインの構築に貢献すると期待されています。"
+    },
+    {
+      "title": "‘Baby/Girls’ Review: A Gentle Documentary on Teen Pregnancy With Some Strange AI Artifacts",
+      "title_ja": "『Baby/Girls』レビュー：AIの奇妙なアーティファクトを伴う、十代の妊娠をテーマにした穏やかなドキュメンタリー",
+      "original_url": "https://variety.com/2026/film/reviews/baby-girls-review-documentary-teen-pregnancy-ai-1236682689/",
+      "image_url": "https://variety.com/wp-content/uploads/2026/03/baby-girls-357756.jpg?w=1000&h=563&crop=1",
+      "published_at": "2026-03-12T21:50:00Z",
+      "source": "Variety",
+      "summary_ja": "本作は、米アーカンソー州の十代の妊娠に焦点を当てたドキュメンタリーです。監督は、長期間にわたる取材と深いアクセスを通して、その背景にある問題や心情を丁寧に描き出しています。しかし、AIに関する奇妙な現象も現れており、ドキュメンタリーの表現に新たな側面をもたらしています。"
+    },
+    {
+      "title": "Google overhauls its Maps app, adding in more AI features to help people get around",
+      "title_ja": "Google、AI機能を大幅追加し、ユーザーの移動を支援するマップアプリを刷新",
+      "original_url": "https://japantoday.com/category/tech/google-overhauls-its-maps-app-adding-in-more-ai-features-to-help-people-get-around",
+      "image_url": null,
+      "published_at": "2026-03-12T21:33:49Z",
+      "source": "Japan Today",
+      "summary_ja": "Googleは、木曜日に発表された大規模な再設計の一環として、人工知能を大幅に活用し、ユーザーの目的地と最適な移動手段を提示するGoogle Mapsを刷新しました。この刷新はGoogleのGemini技術を基盤とし、AIを活用した新しい機能が追加されます。これにより、ユーザーの移動体験がより効率的かつ洗練されることが期待されます。"
+    },
+    {
+      "title": "Top Tech CEO's Vision Of AI-Driven Future Seems Tailor-Made For Trump",
+      "title_ja": "テクノロジー大手CEOのAI主導型未来ビジョン、トランプ氏に都合良く見える",
+      "original_url": "https://www.huffpost.com/entry/palantir-ceo-ai-future-job-market-democrats_n_69b301b5e4b05a3e2aa502ce",
+      "image_url": "https://img.huffingtonpost.com/asset/69b321b31b000022dc14e1ae.jpeg?cache=To0r8U6KKO&ops=1200_630",
+      "published_at": "2026-03-12T21:31:38Z",
+      "source": "HuffPost",
+      "summary_ja": "PalantirのCEO、Alex Karp氏は、AIが社会にもたらす変化について語り、従来のMAGA支持層ではなく、ある層が最も大きな影響を受けると予測しました。この発言は、AIがもたらす未来に対する懸念を表明し、特にテクノロジー業界における政治的影響を示唆しています。Karp氏のビジョンは、AI技術の進歩がもたらす社会への影響と、テクノロジーリーダーが持つ政治的見解との関係性を示唆しています。"
+    },
+    {
+      "title": "Chinese author highlights power of cross-cultural travel, AI in writing at London Book Fair",
+      "title_ja": "ロンドンブックフェアで中国の作家が異文化旅行と執筆におけるAIの力を強調",
+      "original_url": "https://www.thestar.com.my/news/world/2026/03/13/chinese-author-highlights-power-of-cross-cultural-travel-ai-in-writing-at-london-book-fair",
+      "image_url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "published_at": "2026-03-12T21:31:00Z",
+      "source": "The Star Online",
+      "summary_ja": "ロンドンブックフェアにて、中国の作家、徐知遠氏は異文化旅行が世界を理解する上で重要であると述べました。彼はまた、執筆におけるAIの潜在的な影響についても言及し、議論を深めました。このイベントは、国際的な読者に向けて、旅行とテクノロジーが融合した現代的な視点を提示しました。"
+    },
+    {
+      "title": "Can AI help predict which heart-failure patients will worsen within a year?",
+      "title_ja": "Can AI help predict which heart-failure patients will worsen within a year?",
+      "original_url": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
+      "image_url": "https://news.mit.edu/sites/default/files/images/202602/mit-jameel-yau-bergamaschi-PULSE.jpg",
+      "published_at": "2026-03-12T21:30:00Z",
+      "source": "Mit.edu",
+      "summary_ja": "A new deep learning model can predict a patient&#039;s heart failure trajectory up to a year in advance. The work was developed by researchers at MIT, Mass General Brigham, and Harvard Medical School."
+    },
+    {
+      "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
+      "title_ja": "Amazon Bedrockの推論ワークロード向けに、TTFTと推定クォータ消費量に関する新しいCloudWatchメトリクスで運用可視性を向上",
+      "original_url": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-20654-1120x630.png",
+      "published_at": "2026-03-12T21:20:17Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon Bedrockで生成AIワークロードを運用する際に、推論パフォーマンスとリソース消費に関する運用可視性は重要となります。本日発表された新しいCloudWatchメトリクスであるTimeToFirstToken (TTFT)とEstimatedTPMQuotaUsageは、これらの課題に対応し、レイテンシに敏感なアプリケーションのパフォーマンス最適化と、利用可能なリソースの効率的な管理を可能にします。これにより、開発者はアラーム設定やベースライン確立、キャパシティのプロアクティブな管理を行い、Bedrock上のAIアプリケーションのスケーラビリティと安定性を向上させることができます。"
+    },
+    {
+      "title": "ironforest 0.5.2",
+      "title_ja": "ironforest 0.5.2",
+      "original_url": "https://pypi.org/project/ironforest/0.5.2/",
+      "image_url": null,
+      "published_at": "2026-03-12T21:19:54Z",
+      "source": "Pypi.org",
+      "summary_ja": "このソフトウェアは、高速な空間検索とツリーベースの機械学習を可能にするライブラリです。0.5.2バージョンがリリースされました。この技術は、地理空間データ分析や機械学習モデルの構築など、様々な分野での応用が期待されています。"
+    },
+    {
+      "title": "Microsoft launches Copilot Health to help consumers understand their medical data",
+      "title_ja": "Microsoft、医療データの理解を支援するCopilot Healthをローンチ",
+      "original_url": "https://siliconangle.com/2026/03/12/microsoft-launches-copilot-health-help-consumers-understand-medical-data/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Copilot-Health.png",
+      "published_at": "2026-03-12T21:18:47Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "Microsoftは、AIアシスタントCopilotに、ユーザーの医療に関する質問に答える新ツール「Copilot Health」を追加しました。本ツールは、米国の成人向けにウェイティングリスト形式で提供が開始され、将来的にはアクセスを拡大する予定です。Copilot Healthにより、消費者は自身の医療データをより深く理解し、自己管理に役立てることが期待されます。"
+    },
+    {
+      "title": "Secure AI agents with Policy in Amazon Bedrock AgentCore",
+      "title_ja": "Amazon Bedrock AgentCoreにおけるポリシーによる安全なAIエージェントの実現",
+      "original_url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-20050-1120x630.png",
+      "published_at": "2026-03-12T21:16:50Z",
+      "source": "Amazon.com",
+      "summary_ja": "この記事では、Amazon Bedrock AgentCoreのポリシー機能が、エージェントの推論とは独立して動作する決定論的な実行レイヤーをどのように実現するかを紹介しています。規制の厳しい業界でのAIエージェントの安全な運用を可能にし、機密データへのアクセスやトランザクション実行におけるセキュリティリスクを低減します。自然言語で記述されたビジネスルールを、このポリシーを通じてC言語ライクなコードに変換し、エージェントの動作を厳密に制御できるようになります。"
+    },
+    {
+      "title": "Webflow Acquires Vidoso.ai to Solve AI Marketing's Brand Problem",
+      "title_ja": "WebflowがVidoso.aiを買収、AIマーケティングにおけるブランド問題の解決へ",
+      "original_url": "https://www.cmswire.com/digital-experience/webflow-acquires-vidoso-ai-to-solve-ai-marketings-brand-problem/",
+      "image_url": "https://www.cmswire.com/-/media/2f0353e056ff4bca871715b24dcd8bd2.ashx",
+      "published_at": "2026-03-12T21:07:10Z",
+      "source": "CMSWire",
+      "summary_ja": "Webflowは、AIコンテンツ生成を強化するため、AI資産生成スタートアップのVidoso.aiを買収しました。この買収により、AIが生成するコンテンツのブランドイメージとの不一致という、マーケティングチームが抱える課題を解決することを目指しています。Vidoso.aiの技術は、ブランドの一貫性を保ったビジュアルと動画の生成を可能にし、より効率的かつブランドに沿ったコンテンツ作成を実現します。"
+    },
+    {
+      "title": "I Hate Alphy, Sony Alpha India’s AI-Generated Photographer Rodent",
+      "title_ja": "私、Alphyが大嫌い：ソニーα IndiaのAI生成ネズミ写真家",
+      "original_url": "https://petapixel.com/2026/03/12/i-hate-alphy-sony-alpha-indias-ai-generated-photographer-rodent/",
+      "image_url": "https://petapixel.com/assets/uploads/2026/03/alphy-ugh-featured.jpg",
+      "published_at": "2026-03-12T20:53:30Z",
+      "source": "PetaPixel",
+      "summary_ja": "ソニーα Indiaが、AIによって生成されたネズミのマスコット「Alphy」を発表しました。Alphyはソニーαカメラを愛用し、世界を旅して写真を撮るという設定ですが、人間の創造性を冒涜していると批判されています。AI技術が写真の世界に浸透し、マスコットにも利用されることで、クリエイティブな分野への影響が懸念されています。"
+    },
+    {
+      "title": "Mickey Goes TikTok: Why Disney+ Vertical Video is the Secret Key to a Generative AI Revolution",
+      "title_ja": "ミッキーがTikTokへ：ディズニー+の縦型動画が生成AI革命の秘密鍵となる理由",
+      "original_url": "https://insidethemagic.net/2026/03/disney-plus-adds-vertical-videos-the-first-step-toward-user-created-artificial-intelligence-videos-rl1/",
+      "image_url": "https://insidethemagic.net/wp-content/uploads/2024/09/disney-plus-logo.jpg",
+      "published_at": "2026-03-12T20:51:46Z",
+      "source": "Inside the Magic",
+      "summary_ja": "物語の消費方法が劇的に変化しました。2026年3月12日、ディズニー+は多くの人が予期していたものの、その真の重要性を見抜いていなかった機能を正式に開始しました。この縦型動画へのシフトは、生成AI技術と深く結びついており、エンターテイメント業界全体に革新的な影響を与えるでしょう。未来のコンテンツ制作における大きな転換点となる可能性があります。"
+    }
+  ]
+}

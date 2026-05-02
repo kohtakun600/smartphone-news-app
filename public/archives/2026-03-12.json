@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-11T22:50:21.261Z",
+  "articles": [
+    {
+      "title": "runpod-flash 1.8.1",
+      "title_ja": "RunPod Flash 1.8.1",
+      "original_url": "https://pypi.org/project/runpod-flash/1.8.1/",
+      "image_url": null,
+      "published_at": "2026-03-10T22:44:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "RunPod Flash 1.8.1 は、機械学習モデルの分散推論とサービングを可能にするPythonライブラリです。このライブラリは、高性能な推論処理を効率的に実現し、大規模なモデルの運用を容易にします。この記事では、ライブラリのロードに問題が発生している可能性が示唆されており、ブラウザ拡張機能、ネットワーク、またはブラウザ設定に問題がある可能性があります。"
+    },
+    {
+      "title": "ChatGPT, other AI chatbots approved for official use in US Senate, NYT reports",
+      "title_ja": "米上院、ChatGPTらAIチャットボットの公式利用を承認、NYT報道",
+      "original_url": "https://www.channelnewsasia.com/business/chatgpt-other-ai-chatbots-approved-official-use-in-us-senate-nyt-reports-5985271",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Y7Jrv8gF--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-10T225621Z_3_LYNXMPEM291GZ_RTROPTP_3_OPENAI-RESULTS.JPG?itok=ddYYibFY",
+      "published_at": "2026-03-10T22:43:23Z",
+      "source": "CNA",
+      "summary_ja": "ニューヨーク・タイムズの報道によると、米国上院がChatGPTを含む3つのAIチャットボットの公式利用を承認しました。上院議員の補佐官は、Google Gemini、OpenAI ChatGPT、Microsoft Copilotを利用できるようになり、政策立案や情報収集の効率化が期待されます。この動きは、AI技術の政治利用における大きな一歩であり、今後の展開に注目が集まっています。"
+    },
+    {
+      "title": "Amazon Scales Health AI Assistant to All US Customers",
+      "title_ja": "Amazon、AIヘルスアシスタントを全米の顧客向けに拡大",
+      "original_url": "https://www.pymnts.com/amazon/2026/amazon-scales-health-ai-assistant-to-all-us-customers/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Amazon-One-Medical-AI-health-1.jpg",
+      "published_at": "2026-03-10T22:34:57Z",
+      "source": "pymnts.com",
+      "summary_ja": "Amazonは、AIを活用したヘルスアシスタントを米国の全顧客向けに提供開始しました。これにより、Amazon.comやAmazonアプリを通じて、健康に関する情報へのアクセスが容易になります。この技術革新は、消費者が健康管理を行う上での新たな選択肢を提供し、ヘルスケア分野におけるAIの利用を加速させる可能性があります。"
+    },
+    {
+      "title": "Amazon Bedrock now supports observability of First Token Latency and Quota Consumption",
+      "title_ja": "Amazon Bedrock、最初のトークン遅延時間とクォータ消費量の可観測性をサポート",
+      "original_url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/",
+      "image_url": null,
+      "published_at": "2026-03-10T22:21:00Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon Bedrockは、主要なAIプロバイダーの高性能基盤モデルを活用して生成AIアプリケーションを構築できるフルマネージドサービスです。今回のアップデートにより、CloudWatchメトリクスとしてTimeToFirstToken（最初のトークンまでの時間）とEstimatedTPMQuotaUsage（推定TPMクォータ使用量）が追加され、利用状況をより詳細に可視化できるようになりました。これにより、開発者はBedrockのパフォーマンスとリソース使用状況をより効果的に監視し、最適化することが可能になります。"
+    },
+    {
+      "title": "WGA West Leadership Talks Healthcare, AI, Paramount-WBD Merger & More Ahead Of Studio Negotiations",
+      "title_ja": "全米脚本家組合（WGA）西支部、スタジオ交渉を前に医療保険、AI、パラマウント-ワーナーブラザース・ディスカバリー合併などについて言及",
+      "original_url": "http://deadline.com/2026/03/wga-west-leaders-talk-2026-bargaining-priorities-amptp-1236749232/",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/03/WGA_c63f5f.jpg?w=1024",
+      "published_at": "2026-03-10T22:17:45Z",
+      "source": "Deadline",
+      "summary_ja": "全米脚本家組合（WGA）西支部は、スタジオとの契約交渉を控え、医療保険、AI技術、パラマウントとワーナーブラザース・ディスカバリーの合併など、重要な課題について議論を行っています。 特に、変化の激しい時代において、長期契約サイクルの受け入れには消極的な姿勢を示しています。 AI技術の進歩が業界に与える影響についても注目が集まっています。"
+    },
+    {
+      "title": "Why 2026 will be the year of governed cybersecurity AI",
+      "title_ja": "ガバナンスが効いたサイバーセキュリティAIが台頭する2026年",
+      "original_url": "https://thenextweb.com/news/why-2026-will-be-the-year-of-governed-cybersecurity-ai",
+      "image_url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FTNW-Article-Banner-4.png&signature=2fa5648b39df569364bde8d4aea813ed",
+      "published_at": "2026-03-10T22:17:24Z",
+      "source": "The Next Web",
+      "summary_ja": "IBMの調査によると、データ侵害による世界の平均コストは2025年に9%減少し、5年ぶりに減少しました。これは、セキュリティAIと自動化の進歩によるもので、ガバナンスが効いたAIの導入がサイバーセキュリティ分野に大きな影響を与えることが期待されています。2026年には、AIによるサイバーセキュリティ対策がより洗練され、企業のリスク管理とデータ保護を強化するでしょう。"
+    },
+    {
+      "title": "Fox News Poll: Voters expect AI to transform our lives — but today is not that day",
+      "title_ja": "FOXニュース世論調査：AIが生活を変革すると有権者は予想 — しかし今日はその日ではない",
+      "original_url": "https://www.foxnews.com/politics/fox-news-poll-voters-expect-ai-transform-our-lives-today-not-day",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/ai-computer-polls.jpg",
+      "published_at": "2026-03-10T22:06:35Z",
+      "source": "Fox News",
+      "summary_ja": "FOXニュースの世論調査によると、AIがアメリカ国民の生活を劇的に変えると考えている有権者は53%に上り、2023年の43%から増加しました。しかし、多くの有権者は、AIによる変革はまだ現実味を帯びていないと感じています。AIの潜在的な影響力は認識されているものの、国民生活への具体的な影響はまだ実感として伴っていないという現状が浮き彫りになりました。"
+    },
+    {
+      "title": "AI Companions, Video Generators and Coding Tools Spawn a New App Boom",
+      "title_ja": "AIコンパニオン、動画生成、コーディングツールが新たなアプリブームを創出",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-companions-video-generators-and-coding-tools-spawn-a-new-app-boom/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/CapCut-AI-tools.jpg",
+      "published_at": "2026-03-10T22:01:29Z",
+      "source": "pymnts.com",
+      "summary_ja": "生成AIを中心に、AIコンパニオン、会話型検索、プロンプトベースのコーディングツール、動画生成ツールなど、新たな種類の消費者向けソフトウェアが台頭し、アプリ市場に活況をもたらしています。わずか2年前にはアプリのロードマップに存在しなかったこれらの製品は、AI技術の進化により、急速に普及しています。このトレンドは、アプリ開発の新たな可能性を開き、今後さらに多様なサービスが登場する可能性を示唆しています。"
+    },
+    {
+      "title": "Cal AI, New Owner of MyFitnessPal, Hit by Alleged Breach of 3 Million Users",
+      "title_ja": "AI搭載カロリー管理アプリ「MyFitnessPal」の新オーナーCal AI、300万ユーザーの情報漏洩疑惑",
+      "original_url": "https://hackread.com/cal-ai-myfitnesspal-data-breach-3m-users/",
+      "image_url": "https://hackread.com/wp-content/uploads/2026/03/cal-ai-myfitnesspal-data-breach-3m-users-3.jpg",
+      "published_at": "2026-03-10T21:58:59Z",
+      "source": "HackRead",
+      "summary_ja": "AIを利用したカロリー管理アプリ「MyFitnessPal」を所有するCal AIが、300万人分のユーザーデータ漏洩の疑いで問題となっています。ハッカーは、メールアドレス、健康に関する詳細、およびサブスクリプション情報を含むデータを公開したと主張しています。この事件は、AIを活用した健康管理アプリにおけるセキュリティ脆弱性と、個人情報保護の重要性を浮き彫りにしています。"
+    },
+    {
+      "title": "Competition Bureau Warns Scammers are Now Using AI Fakes of Politicians to Scam You",
+      "title_ja": "競争局、詐欺師がAI生成の政治家偽物を使って詐欺を働いていると警告",
+      "original_url": "https://www.iphoneincanada.ca/2026/03/10/competition-bureau-warns-scammers-are-now-using-ai-fakes-of-politicians-to-scam-you/",
+      "image_url": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/03/deepfake-scams.jpg",
+      "published_at": "2026-03-10T21:44:47Z",
+      "source": "iPhone in Canada",
+      "summary_ja": "競争局は、詐欺師がAI技術を駆使して政府高官や政治家の偽物を生成し、巧妙な詐欺行為を行っているとカナダ国民に注意喚起しています。この高度な技術を用いた詐欺は、個人の銀行口座から資金を奪ったり、個人情報を盗んだりするなど、甚大な被害をもたらす可能性があります。国民は、不審な連絡には警戒し、安易に個人情報を提供しないよう求められています。"
+    },
+    {
+      "title": "Meta to acquire Moltbook, the social network for AI agents",
+      "title_ja": "Meta、AIエージェント向けソーシャルネットワークMoltbookを買収へ",
+      "original_url": "https://japantoday.com/category/tech/meta-to-acquire-moltbook-the-social-network-for-ai-agents",
+      "image_url": null,
+      "published_at": "2026-03-10T21:42:15Z",
+      "source": "Japan Today",
+      "summary_ja": "Metaが、AIエージェント専用のソーシャルネットワークであるMoltbookを買収すると発表しました。これにより、MetaはAI技術に関する実験を強化し、AI同士が投稿し交流するプラットフォームを自社に取り込むことになります。FacebookやInstagramを運営するMetaによるこの買収は、AI分野における新たな展開を示唆しています。"
+    },
+    {
+      "title": "Oracle posts strong Q3 results amid rising AI cloud demand",
+      "title_ja": "オラクル、AIクラウド需要の高まりを受け、第3四半期の好調な業績を発表",
+      "original_url": "https://www.thestar.com.my/news/world/2026/03/11/oracle-posts-strong-q3-results-amid-rising-ai-cloud-demand",
+      "image_url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "published_at": "2026-03-10T21:41:00Z",
+      "source": "The Star Online",
+      "summary_ja": "Oracleは、クラウドサービスの急速な成長と人工知能（AI）需要の高まりを背景に、2026年度第3四半期において好調な業績を報告しました。この結果は、同社がAI分野における競争力を高めていることを示唆しています。クラウドへの移行が進む中、OracleはAI関連サービスの需要を取り込み、さらなる成長を目指しています。"
+    },
+    {
+      "title": "New ultra-compact light-based chip processes data at the speed of light, demonstrating high accuracy",
+      "title_ja": "光を利用した超小型チップ、光速でデータ処理を実現、高精度も実証",
+      "original_url": "https://www.notebookcheck.net/New-ultra-compact-light-based-chip-processes-data-at-the-speed-of-light-demonstrating-high-accuracy.1246198.0.html",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-conceptual-image-of-a-photonic-chip-1.jpg",
+      "published_at": "2026-03-10T21:40:00Z",
+      "source": "Notebookcheck.net",
+      "summary_ja": "研究者らは、従来の電気ではなく光を利用し、ナノスケールで動作するプロセッサを開発しました。この革新的なチップは、エネルギー消費を大幅に削減しながら、複雑な計算を1兆分の1秒単位で実行できます。AIモデルの複雑化に伴う計算速度とエネルギー需要の高まりに対応し、次世代コンピューティングへの道を開く可能性があります。"
+    },
+    {
+      "title": "ironforest 0.5.1",
+      "title_ja": "ironforest 0.5.1",
+      "original_url": "https://pypi.org/project/ironforest/0.5.1/",
+      "image_url": null,
+      "published_at": "2026-03-10T21:32:03Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、高速な空間クエリとツリーベースの機械学習を可能にする「ironforest 0.5.1」について紹介しています。この技術は、効率的な空間データ検索と分析に貢献し、機械学習モデルの構築を高速化する可能性があります。Webサイトの一部が読み込めないという問題も報告されています。"
+    },
+    {
+      "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
+      "title_ja": "フォード、数十億ドル規模のPro商用車ビジネスを成長させるための新しいAIを発表",
+      "original_url": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107124992-1664285162057-2023_Ford_Super_Duty_F-550_Chassis_Cab_01.jpg?v=1664321401&w=1920&h=1080",
+      "published_at": "2026-03-10T21:30:01Z",
+      "source": "CNBC",
+      "summary_ja": "フォードは、Pro商用車部門の利益とソフトウェア収入を増やすため、新しいAIシステムを導入します。このAIは、特にソフトウェア分野での収益多様化を目指すフォードにとって、重要な成長戦略の一環です。 ジム・ファーリーCEOは、この戦略がProビジネスの拡大に不可欠であると述べています。"
+    },
+    {
+      "title": "Meta to acquire Moltbook, the social network for AI agents",
+      "title_ja": "Meta、AIエージェント向けソーシャルネットワーク「Moltbook」を買収",
+      "original_url": "https://abcnews.com/Technology/wireStory/meta-acquire-moltbook-social-network-ai-agents-130948125",
+      "image_url": "https://i.abcnewsfe.com/a/293169aa-101e-4a01-baa3-f15ed4b65e0a/wirestory_31af42ccbb04001dd17a3fc7067d1de3_16x9.jpg?w=1600",
+      "published_at": "2026-03-10T21:13:46Z",
+      "source": "Abcnews.com",
+      "summary_ja": "Metaが、AIエージェント同士が投稿やチャットを行うソーシャルネットワーク「Moltbook」を買収します。この買収により、MetaはAIエージェント間のコミュニケーションに関する技術とデータを獲得し、AI開発を加速させる可能性があります。Moltbookの買収は、メタバース構想におけるAIの役割を強化する動きとも考えられます。"
+    },
+    {
+      "title": "Yann LeCun’s new startup AMI Labs raises $1.03B to train world models",
+      "title_ja": "ヤン・ルカン氏のスタートアップAMI Labsが、世界モデルの訓練に向けて10.3億ドルを調達",
+      "original_url": "https://siliconangle.com/2026/03/10/yann-lecuns-new-startup-ami-labs-raises-1-03b-train-world-models/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/unsplash2.png",
+      "published_at": "2026-03-10T21:10:05Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AI研究の第一人者ヤン・ルカン氏が共同設立した新興企業AMI Labsが、世界モデルのトレーニングを目指し、10.3億ドルという巨額の資金調達を発表しました。この資金調達は、AI技術の進歩を加速させ、より洗練されたAIモデルの開発に貢献すると期待されています。Bezos Expeditionsなど、複数の投資家がこのシードラウンドを共同でリードしています。"
+    },
+    {
+      "title": "Google Pixel’s AI icons are a poor substitute for real personalization on Android",
+      "title_ja": "Google PixelのAIアイコンは、Androidの真のパーソナライゼーションの代わりにはならない",
+      "original_url": "http://9to5google.com/2026/03/10/google-pixels-ai-icons-are-a-poor-substitute-for-real-personalization-on-android/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-ai-generated-icons-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-03-10T21:10:00Z",
+      "source": "9to5google.com",
+      "summary_ja": "Google Pixel向けにAndroid 16 QPR3を通じて導入されたカスタムアプリアイコン機能は、AIを活用してアイコンを生成するものの、Androidの真のパーソナライゼーション体験としては物足りないという評価です。AI生成の限界から、ユーザーの個性的なニーズに応えきれていない点が指摘されています。この機能は、Androidのカスタマイズ性を向上させる試みですが、まだ課題も多く、今後の改善が期待されます。"
+    },
+    {
+      "title": "‘Your AI Slop Bores Me’ is a New Website That Lets Humans Steal an AI’s Job",
+      "title_ja": "「AIの凡庸なアウトプットはうんざりだ」：人間がAIの仕事を奪える新ウェブサイトが登場",
+      "original_url": "https://cheezburger.com/44634373/your-ai-slop-bores-me-is-a-new-website-that-lets-humans-steal-an-ais-job",
+      "image_url": "https://i.chzbgr.com/thumb1200/44634373/h6B240667/your-ai-slop-bores-me-drawings-funny-twitter-funny-chronically-online-44634373",
+      "published_at": "2026-03-10T21:00:00Z",
+      "source": "Cheezburger.com",
+      "summary_ja": "「Your AI Slop Bores Me」という新しいウェブサイトが、AIに代わって人間が仕事をすることで話題を呼んでいます。AIによる仕事の自動化へのアンチテーゼとして、ユーザーはAIの生成物を模倣することで、AIの仕事を「奪う」ことができます。このサイトは、AIの画一的な表現に対する飽きから生まれたもので、インターネット上で大きな反響を呼んでいます。"
+    },
+    {
+      "title": "Silicon Valley Is Buzzing About This New Idea: AI Compute As Compensation",
+      "title_ja": "シリコンバレーで話題沸騰：AI計算力を報酬とする新たな試み",
+      "original_url": "https://news.slashdot.org/story/26/03/10/200253/silicon-valley-is-buzzing-about-this-new-idea-ai-compute-as-compensation",
+      "image_url": "https://a.fsdn.com/sd/topics/money_64.png",
+      "published_at": "2026-03-10T21:00:00Z",
+      "source": "Slashdot.org",
+      "summary_ja": "シリコンバレーでは、給与、ボーナス、株式報酬に加えて、AI推論能力を報酬とする新たな動きが活発化しています。生成AIツールの普及に伴い、企業は優秀な人材獲得のため、AIインフラへのアクセス権を報酬に組み込み始めています。このトレンドは、人材競争とAI技術の浸透が加速していることを示唆しています。"
+    }
+  ]
+}

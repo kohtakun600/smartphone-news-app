@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-02T22:55:13.858Z",
+  "articles": [
+    {
+      "title": "AI high school football highlights create new new recruiting challenge",
+      "title_ja": "AI生成高校フットボールハイライトが、新たなスカウト活動の課題を生む",
+      "original_url": "https://www.usatodayhss.com/story/sports/high-school/football/2026/03/01/ai-high-school-football-highlights-college-recruiting/88934034007/",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/S6W0XT6DKB2zGLsnYoeemA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/high_school_sports_usa_today_sports_articles_147/8a31fa95b4dfe2fb3a17e06235c39169",
+      "published_at": "2026-03-01T22:44:22Z",
+      "source": "Usatodayhss.com",
+      "summary_ja": "AIが生成した高校フットボールのハイライト映像が拡散され、大学スカウトに新たな課題を突きつけている。本物かどうかを見極めるために、スカウトは時間と労力を費やす必要に迫られている。この技術革新は、スカウト活動における映像の信憑性検証の重要性を高め、その評価方法に大きな影響を与える可能性がある。"
+    },
+    {
+      "title": "spforge 0.10.9",
+      "title_ja": "spforge 0.10.9",
+      "original_url": "https://pypi.org/project/spforge/0.10.9/",
+      "image_url": null,
+      "published_at": "2026-03-01T22:44:07Z",
+      "source": "Pypi.org",
+      "summary_ja": "このフレームワークは、スポーツデータに基づいて特徴量や評価を生成し、機械学習モデルなどを構築するための柔軟なツールです。バージョン0.10.9では、スポーツデータを用いたモデルの訓練や推論をより効率的に行うための改善が施されています。これにより、スポーツ分析や予測におけるパフォーマンス向上が期待されます。"
+    },
+    {
+      "title": "Anthropic Plans to Sue Pentagon Following Government Ban",
+      "title_ja": "Anthropic社、政府による禁止措置を受け、国防総省を提訴へ",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-plans-to-sue-pentagon-following-government-ban/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Anthropic-Claude-Pentagon.jpeg?w=457",
+      "published_at": "2026-03-01T22:38:24Z",
+      "source": "pymnts.com",
+      "summary_ja": "AIスタートアップのAnthropic社が、国防総省による安全保障上のリスク指定を受け、法的措置を計画しています。この決定は、Anthropic社が政府との取引を停止されるまでの6ヶ月間を与えられたことを受けたものです。今回の措置は、Anthropic社に大きな影響を与える可能性があり、AI技術の安全保障に関する今後の動向に注目が集まっています。"
+    },
+    {
+      "title": "spforge 0.10.8",
+      "title_ja": "spforge 0.10.8",
+      "original_url": "https://pypi.org/project/spforge/0.10.8/",
+      "image_url": null,
+      "published_at": "2026-03-01T21:53:23Z",
+      "source": "Pypi.org",
+      "summary_ja": "このフレームワークは、スポーツデータから特徴量や評価を生成し、機械学習モデル構築を支援します。バージョン0.10.8では、スポーツデータの学習と推論のためのモデル構築を柔軟に行えるように改良されています。これにより、スポーツ分析におけるデータ処理とモデル開発の効率化に貢献します。"
+    },
+    {
+      "title": "You Don't Have To",
+      "title_ja": "You Don't Have To",
+      "original_url": "https://www.scottsmitelli.com/articles/you-dont-have-to/",
+      "image_url": "https://www.scottsmitelli.com/img/mortal-damage.jpg",
+      "published_at": "2026-03-01T21:47:13Z",
+      "source": "Scottsmitelli.com",
+      "summary_ja": "\"In the year 5555, your arms are hangin' limp at your sides, your legs got nothing to do, some machine doin' that for you.\" Zager and Evans sang these words in 1969. Now, thirty-five centuries ahea..."
+    },
+    {
+      "title": "spforge 0.10.7",
+      "title_ja": "spforge 0.10.7",
+      "original_url": "https://pypi.org/project/spforge/0.10.7/",
+      "image_url": null,
+      "published_at": "2026-03-01T21:31:16Z",
+      "source": "Pypi.org",
+      "summary_ja": "このソフトウェアは、スポーツデータから特徴量やレーティングを生成し、機械学習モデルなどを構築するための柔軟なフレームワークです。これにより、スポーツデータの分析とモデル構築が効率的に行えるようになります。今回のバージョンアップにより、さらに高度なデータ処理とモデル開発が可能になることが期待されます。"
+    },
+    {
+      "title": "Apple Plans Week of Product Announcements",
+      "title_ja": "Apple、今週中に複数の製品発表を計画",
+      "original_url": "https://www.pymnts.com/apple/2026/apple-plans-week-of-product-announcements/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Apple-AI-iPhone-1.jpg",
+      "published_at": "2026-03-01T21:30:54Z",
+      "source": "pymnts.com",
+      "summary_ja": "Appleは、今週中に複数の新製品を発表する予定です。特に人工知能（AI）関連の新機能への期待が高まっています。Tim Cook CEOのX投稿によると、最初の発表は月曜日（3月2日）になる可能性があるようです。今回の発表は、Appleの今後の技術戦略における重要な一歩となる可能性があります。"
+    },
+    {
+      "title": "Amazing Spider-Man #23 Preview: MJ's Venomous Secret Stings",
+      "title_ja": "アメイジング・スパイダーマン#23 プレビュー：MJのヴェノムの秘密が炸裂",
+      "original_url": "https://bleedingcool.com/comics/amazing-spider-man-23-preview-mjs-venomous-secret-stings/",
+      "image_url": "https://bleedingcool.com/wp-content/uploads/2026/03/ASM2025023_Preview-3-2000x1125.jpeg",
+      "published_at": "2026-03-01T21:26:06Z",
+      "source": "Bleeding Cool News",
+      "summary_ja": "アメイジング・スパイダーマン#23では、ピーター・パーカーがメリー・ジェーンがヴェノムの宿主であることを知るという衝撃的な展開が描かれます。これにより、スパイダーマンとヴェノムの関係性だけでなく、MJ自身のキャラクターにも大きな影響を与える可能性があります。この大胆な展開は、マーベルユニバースにおける今後の物語に大きな波紋を呼ぶでしょう。"
+    },
+    {
+      "title": "Marketing Measurement Strategy with AI: 5 Steps to Better ROI",
+      "title_ja": "AIを活用したマーケティング測定戦略：ROIを向上させるための5つのステップ",
+      "original_url": "https://www.blog.darwinapps.com/blog/marketing-measurement-strategy-ai",
+      "image_url": "https://cdn.prod.website-files.com/66583f38976bf1e061ae3746/699ff3f2b7505b638bfd2587_10.png",
+      "published_at": "2026-03-01T21:14:42Z",
+      "source": "Darwinapps.com",
+      "summary_ja": "この記事では、AIをマーケティング測定、アトリビューションモデル、そしてインクリメンタリティテストに統合し、より良い予算決定とキャンペーンパフォーマンスの向上を図る方法を解説しています。AIの活用により、マーケターは予算配分の最適化とキャンペーン効果の最大化を実現し、最終的に投資対効果（ROI）を向上させることが期待できます。 具体的な5つのステップを通じて、AIを活用した効果的なマーケティング戦略の構築を支援します。"
+    },
+    {
+      "title": "Prosperity's Path: OpenAI has shown it cannot be trusted. Canada needs nationalized, public AI",
+      "title_ja": "繁栄への道：OpenAIは信用できないと判明。カナダはAIの国有化と公共利用を必要とする",
+      "original_url": "https://www.theglobeandmail.com/business/commentary/article-openai-tumbler-ridge-chatgpt/",
+      "image_url": "https://www.theglobeandmail.com/resizer/v2/TJ7DH7PM5RCKDOBXG2QCTRW7ZM.jpg?auth=931d25d60fe0051ea14cfca510f31ec744f10fe05dca34bb9155e57cbe02e5ea&width=1200&height=800&quality=80&smart=true",
+      "published_at": "2026-03-01T21:05:39Z",
+      "source": "The Globe And Mail",
+      "summary_ja": "ChatGPTを開発したOpenAIは、カナダ政府に対してロビー活動を行いながら、Tumbler Ridge銃乱射事件に関する情報を隠蔽していました。この記事は、OpenAIの行動が信頼を損ねたとし、カナダ政府はAI技術を国民のために国有化し、公共利用を通じて管理すべきだと主張しています。この提案は、AI開発における透明性と倫理的責任の重要性を強調しています。"
+    },
+    {
+      "title": "aitraining 0.0.47",
+      "title_ja": "aitraining 0.0.47",
+      "original_url": "https://pypi.org/project/aitraining/0.0.47/",
+      "image_url": null,
+      "published_at": "2026-03-01T20:39:02Z",
+      "source": "Pypi.org",
+      "summary_ja": "このアップデートは、開発中の高度な機械学習トレーニングプラットフォームであるaitrainingのバージョン0.0.47です。Webサイトの一部が読み込めない問題が発生しており、ブラウザ拡張機能、ネットワーク接続、またはブラウザ設定が原因として考えられます。この問題は、プラットフォームの利用に影響を与える可能性がありますが、開発中であるため、更なる改善が期待されます。"
+    },
+    {
+      "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart (New York Times)",
+      "title_ja": "Anthropic社と国防総省の交渉決裂の経緯 (ニューヨーク・タイムズ)",
+      "original_url": "https://www.memeorandum.com/260301/p59",
+      "image_url": "https://static01.nyt.com/images/2026/03/01/multimedia/01biz-anthropic-ticktock2-pgbj/01biz-anthropic-ticktock2-pgbj-facebookJumbo.jpg",
+      "published_at": "2026-03-01T20:00:29Z",
+      "source": "Memeorandum.com",
+      "summary_ja": "Anthropic社とアメリカ国防総省の間で、AI技術の軍事利用に関する合意が目前で交渉決裂となった。両者の対立や反発、そして競合他社の存在が主な原因である。この破談は、AI技術の軍事利用における企業と政府間の複雑な関係性を浮き彫りにした出来事と言える。"
+    },
+    {
+      "title": "'Pay with your privacy': Fears over OpenAI's move to insert ads in chatbot",
+      "title_ja": "プライバシーを犠牲に？ OpenAI、チャットボットへの広告導入に懸念",
+      "original_url": "https://www.abc.net.au/news/2026-03-02/open-ai-testing-ads-in-chatgpt-in-us-plans-to-rollout-globally/106377798",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/850ded88944133c974c42cc768a8a697?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "published_at": "2026-03-01T20:00:24Z",
+      "source": "ABC News (AU)",
+      "summary_ja": "OpenAIがChatGPTへの広告表示をテストしており、ユーザーの会話内容に基づいた広告が表示される予定です。これにより、ユーザーのプライバシーへの懸念が高まっています。この動きは、ChatGPTの収益化を加速させる一方、ユーザー体験への影響やデータプライバシーの問題を引き起こす可能性があります。"
+    },
+    {
+      "title": "'Something has changed': Is the era of AI job replacement here?",
+      "title_ja": "「何かが変わった」：AIによる職の代替時代は到来か？",
+      "original_url": "https://www.abc.net.au/news/2026-03-02/agentic-ai-job-losses-australia/106397256",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/2eb2641401236b4c93460f77328dcca4?impolicy=wcms_watermark_news&cropH=1875&cropW=3333&xPos=0&yPos=1567&width=862&height=485&imformat=generic",
+      "published_at": "2026-03-01T19:46:17Z",
+      "source": "ABC News (AU)",
+      "summary_ja": "AIによる大規模な人員削減を発表したWiseTech Globalの動きは、AIによる職の代替が現実のものとなりつつあることを示唆しています。同社は、AIを活用した変革の一環として2,000人の人員削減を行うと発表しました。この動きは、物流業界を含む様々な業界に広がる可能性があり、AI技術の進化が雇用に与える影響を浮き彫りにしています。"
+    },
+    {
+      "title": "2 Top Artificial Intelligence Stocks to Buy Right Now",
+      "title_ja": "今すぐ買うべきAI関連の優良株2選",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2169f132-3a4f-4d0f-9cd8-35f64ea59e63",
+      "image_url": null,
+      "published_at": "2026-03-01T19:43:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "この記事では、現在注目すべき2つのAI関連の有望な株式を紹介しています。詳細な内容には言及されていませんが、AI分野における成長の可能性と投資機会を示唆しています。この情報に基づき、読者はAI関連株への投資を検討できます。"
+    },
+    {
+      "title": "Carney lands in Delhi, to meet Modi today; 10-year uranium deal, agreements on fuel, AI, education likely",
+      "title_ja": "カーニー氏、デリー入り、本日モディ首相と会談へ；10年間のウラン協定、燃料、AI、教育に関する合意の見込み",
+      "original_url": "https://indianexpress.com/article/india/carney-lands-in-delhi-to-meet-modi-today-10-year-uranium-deal-agreements-on-fuel-ai-education-likely-10560038/",
+      "image_url": "https://images.indianexpress.com/2026/03/carney-4col.jpg",
+      "published_at": "2026-03-01T19:07:36Z",
+      "source": "The Indian Express",
+      "summary_ja": "カナダのカーニー首相がデリーを訪問し、モディ首相と会談し、2023年に悪化した印加関係の再構築を目指します。会談では、10年間のウラン供給契約に加え、燃料、人工知能（AI）、教育分野での協力に関する合意が焦点となる見込みです。この動きは、貿易、技術、エネルギー分野での両国間の関係を再活性化させることを目的としています。"
+    },
+    {
+      "title": "The Best AI Recruitment Software Solution: Transforming Hiring with Smarter Tech",
+      "title_ja": "最高のAI採用ソフトウェアソリューション：よりスマートなテクノロジーで採用を変革",
+      "original_url": "https://www.smartdatacollective.com/best-ai-recruitment-software-solution-transforming-hiring-with-smarter-tech/",
+      "image_url": "https://www.smartdatacollective.com/wp-content/uploads/2026/03/ai-recruitment-software-solution.jpg",
+      "published_at": "2026-03-01T19:07:07Z",
+      "source": "Smartdatacollective.com",
+      "summary_ja": "今日の競争激化する求人市場において、AI採用ソフトウェアは、より良い人材のマッチング、バイアスの削減、そして時間短縮を通じて、採用活動を劇的に変革しています。従来の書類選考を超え、AIは候補者のスキルと企業ニーズを的確に照合し、効率的かつ公平な採用プロセスを可能にします。この技術革新は、企業が最適な人材を迅速に見つけ、ビジネス目標を達成するための重要な要素となっています。"
+    },
+    {
+      "title": "Middle East conflict, rising oil prices threaten to slow India IT growth to 2–3% in FY27",
+      "title_ja": "中東紛争と原油価格高騰により、インドIT成長率は2027年度に2～3%へ減速する恐れ",
+      "original_url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/middle-east-conflict-rising-oil-prices-threaten-to-slow-india-it-growth-to-23-in-fy27/articleshow/128925154.cms",
+      "image_url": "https://img.etimg.com/thumb/msid-128925234,width-1200,height-630,imgsize-14402,overlay-economictimes/articleshow.jpg",
+      "published_at": "2026-03-01T18:55:56Z",
+      "source": "The Times of India",
+      "summary_ja": "中東紛争の激化は、インドIT企業の湾岸地域での事業拡大を停滞させ、IT投資の減速を招く可能性があります。 さらに、原油価格の高騰は世界経済に影響を与え、インドITセクターの成長を抑制する可能性があります。 この複合的な要因により、2027年度のインドIT成長率は2～3%に落ち込むと予測されています。"
+    },
+    {
+      "title": "poroflow added to PyPI",
+      "title_ja": "poroflowがPyPIに追加",
+      "original_url": "https://pypi.org/project/poroflow/",
+      "image_url": null,
+      "published_at": "2026-03-01T18:40:37Z",
+      "source": "Pypi.org",
+      "summary_ja": "多孔質媒体における流れを対象とした、物理学に基づいた機械学習手法「poroflow」がPyPI (Python Package Index) に公開されました。これにより、研究者や開発者は、複雑な流体シミュレーションや予測分析に、よりアクセスしやすくなりました。 この技術は、エネルギー分野や環境科学など、様々な分野での応用が期待されています。"
+    },
+    {
+      "title": "How Big Data Is Changes How We Buy and Sell Real Estate",
+      "title_ja": "ビッグデータが不動産の売買をどのように変革しているか",
+      "original_url": "https://www.smartdatacollective.com/how-big-data-is-changes-how-we-buy-and-sell-real-estate/",
+      "image_url": "https://www.smartdatacollective.com/wp-content/uploads/2026/02/image_fx-49.jpg",
+      "published_at": "2026-03-01T18:40:20Z",
+      "source": "Smartdatacollective.com",
+      "summary_ja": "データ分析とAIの活用により、不動産の設計、価格設定、建設方法が劇的に変化しています。競争の激しい市場において、ビッグデータは不動産プロジェクトのデザイン、資金調達、建設に大きな影響を与えています。このテクノロジーは、不動産業界全体の意思決定プロセスを根本から変革し、効率性と透明性を向上させています。"
+    }
+  ]
+}

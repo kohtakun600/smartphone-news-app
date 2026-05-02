@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-19T23:00:11.578Z",
+  "articles": [
+    {
+      "title": "Republican lawmakers ask GAO to review current AI regulatory landscape",
+      "title_ja": "共和党議員、GAOに現行のAI規制状況の調査を要請",
+      "original_url": "https://www.nextgov.com/artificial-intelligence/2026/02/republican-lawmakers-ask-gao-review-current-ai-regulatory-landscape/411516/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/02/18/021826BabinNG/open-graph.jpg",
+      "published_at": "2026-02-18T22:52:00Z",
+      "source": "Nextgov",
+      "summary_ja": "米国下院科学・宇宙・技術委員会は、政府説明責任局（GAO）に対し、連邦および州レベルにおけるAI規制の現状に関する包括的なレビューを要請しました。この動きは、AI技術の急速な発展に対応するため、現行の法的枠組みを評価し、将来的な規制の必要性を検討することを目的としています。今回の調査は、AI技術の進歩が社会に与える影響と、それに伴う法整備の重要性を浮き彫りにしています。"
+    },
+    {
+      "title": "Made in China robotic dog gets Indian university kicked out of AI summit",
+      "title_ja": "中国製ロボット犬、インド大学をAIサミットから締め出し",
+      "original_url": "https://www.abc.net.au/news/2026-02-19/chinese-robotic-dog-indian-university-kicked-out-of-ai-summit/106361756",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/3e5cb14eb77f35369933b8831ae37976?impolicy=wcms_watermark_news&cropH=304&cropW=541&xPos=0&yPos=2&width=862&height=485&imformat=generic",
+      "published_at": "2026-02-18T22:29:01Z",
+      "source": "ABC News (AU)",
+      "summary_ja": "インドの教授が、ニューデリーで開催された主要AIサミットで展示された中国製の市販ロボット犬を、自身の大学が開発したものと虚偽の主張をし、物議を醸しました。この不適切な行動により、その大学はAIサミットから締め出される事態となりました。今回の騒動は、AI技術に対する誤解と、情報発信における倫理的問題を浮き彫りにしました。"
+    },
+    {
+      "title": "AI is helping hackers make new malware faster and more complex than ever - and things may only get tougher",
+      "title_ja": "AIがハッカーによるマルウェア作成を加速、これまで以上に複雑化 - 今後さらに厳しくなる可能性も",
+      "original_url": "https://www.techradar.com/pro/security/ai-is-helping-hackers-make-new-malware-faster-and-more-complex-than-ever-and-things-may-only-get-tougher",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
+      "published_at": "2026-02-18T22:15:00Z",
+      "source": "TechRadar",
+      "summary_ja": "AIの進化により、ハッカーはマルウェアをこれまで以上に迅速かつ複雑に作成できるようになり、サイバー攻撃のリスクが深刻化しています。特に、生成AIの活用により、データ窃取にかかる時間が大幅に短縮され、攻撃の効率が向上しています。パロアルト社は、この傾向が今後も強まり、サイバーセキュリティ対策の重要性が増すと警告しています。"
+    },
+    {
+      "title": "Osaka to Use AI-Based Addiction Support",
+      "title_ja": "大阪府、AIを活用した依存症対策を導入",
+      "original_url": "https://newsonjapan.com/article/148423.php",
+      "image_url": "https://i2.ytimg.com/vi/uaM1krpSd-Q/mqdefault.jpg",
+      "published_at": "2026-02-18T22:07:20Z",
+      "source": "Newsonjapan.com",
+      "summary_ja": "大阪府は、2030年のカジノを含む統合型リゾート（IR）開業を見据え、AIを基盤とした依存症対策を強化する方針を発表しました。2月18日に暫定的な大阪依存症対策センターを設立し、ギャンブル依存症を含む様々な依存症への対策を進めます。この取り組みは、IR誘致に伴う依存症のリスクに対応するためのもので、AI技術を活用した新たな支援体制を構築します。"
+    },
+    {
+      "title": "Valve Blames Steam Deck Shortages on AI-Driven RAM Crisis as Memory Prices Spiral",
+      "title_ja": "Valve、Steam Deckの供給不足はAI需要によるRAM価格高騰が原因と発表、メモリ不足の世界的な影響を指摘",
+      "original_url": "https://news.sankakucomplex.com/n/ccr7yffxmYtmntSxD0oDyQ",
+      "image_url": "https://news.sankakucomplex.com/wp-content/uploads/2024/03/KisaragiChihaya-Gyaru-Art-by-JabaraTornado-2024-Thumb.jpg",
+      "published_at": "2026-02-18T22:00:00Z",
+      "source": "Sankakucomplex.com",
+      "summary_ja": "Valveは、Steam Deckの供給不足が、AI需要の急増による世界的なメモリ不足に起因すると発表しました。これは、AIブームがゲームハードウェア市場に具体的な影響を与え始めたことを示唆しています。メモリ価格の高騰により、Steam Deckの製造に支障が出ており、一般消費者の手に届くまでに時間がかかる可能性があります。"
+    },
+    {
+      "title": "UTRGV awarded $1.2M NASA grant to develop artificial intelligence-enhanced biodegradable sensors for climate, public health and planetary science research",
+      "title_ja": "UTRGVがNASAから120万ドルの助成金を受け、気候変動、公衆衛生、惑星科学研究向けにAI強化型生分解性センサーの開発へ",
+      "original_url": "https://www.utrgv.edu/newsroom/2026/02/18/utrgv-awarded-1-2m-nasa-grant-to-develop-artificial-intelligence-enhanced-biodegradable-sensors.htm",
+      "image_url": "https://www.utrgv.edu/newsroom/2026/02/18/nasa-grant-slider.png",
+      "published_at": "2026-02-18T21:59:07Z",
+      "source": "Utrgv.edu",
+      "summary_ja": "UTRGVは、NASAから120万ドルの助成金を得て、人工知能（AI）を搭載した生分解性センサーを開発し、気候変動、公衆衛生、惑星科学の研究を推進します。このセンサーは、環境への影響を最小限に抑えつつ、データ収集能力を向上させることを目指しています。これらの技術革新は、将来の地球および宇宙探査におけるデータ収集方法に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "AI doomsday where many workers are ‘essentially unemployable’ is totally possible, Fed governor says",
+      "title_ja": "AIによる労働市場崩壊、多くの労働者が事実上「雇用不能」になる可能性も、FRB理事が見解",
+      "original_url": "https://fortune.com/2026/02/18/ai-doomsday-where-many-workers-are-essentially-unemployable-is-totally-possible-fed-governor-says/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2245935583-e1771449950217.jpg?resize=1200,600",
+      "published_at": "2026-02-18T21:46:33Z",
+      "source": "Fortune",
+      "summary_ja": "FRB理事のマイケル・S・バーは、AIの急速な進歩により、多くの労働者が職を失い、事実上「雇用不能」になる可能性があると警鐘を鳴らしました。このシナリオでは、AIが一部の職務を完全に代替し、労働市場に深刻な影響を与える可能性があります。バー理事は、AIの発展がもたらす様々なシナリオを提示し、そのリスクへの対応の重要性を訴えました。"
+    },
+    {
+      "title": "Treasury to Roll Out AI Success Manuals for Financial Firms",
+      "title_ja": "財務省、金融機関向けAI活用マニュアルを公開へ",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/treasury-to-roll-out-ai-success-manuals-for-financial-firms/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/02/US-Treasury-Department-AI.jpeg",
+      "published_at": "2026-02-18T21:37:23Z",
+      "source": "pymnts.com",
+      "summary_ja": "アメリカ財務省は、金融システム全体における安全で強固なAIの活用を支援するため、6つのリソースを段階的に公開します。これらのマニュアルは、金融機関がAIを効果的に導入し、リスクを管理できるよう設計されています。この取り組みは、金融テクノロジー分野におけるAIの安全性と信頼性を高めることを目指しています。"
+    },
+    {
+      "title": "Doordash falls 8% on lackluster fourth-quarter results",
+      "title_ja": "DoorDash、不振の第4四半期決算を受け株価8%下落",
+      "original_url": "https://www.cnbc.com/2026/02/18/doordash-dash-q4-2025-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108100569-1739280990634-gettyimages-2171598118-avdanksept24lot6m.jpeg?v=1771446523&w=1920&h=1080",
+      "published_at": "2026-02-18T21:28:54Z",
+      "source": "CNBC",
+      "summary_ja": "フードデリバリープラットフォームのDoorDashは、第4四半期の決算と今後の見通しが期待を下回ったため、株価が8%下落しました。 同社は人工知能（AI）と自動運転技術への投資を加速させており、投資家の間ではその野心的な計画への懸念が高まっています。 新技術への大規模な投資が、当面の業績に影響を与えた形です。"
+    },
+    {
+      "title": "Labor launches new open data portal",
+      "title_ja": "労働省が新たなオープンデータポータルを開設",
+      "original_url": "https://www.nextgov.com/digital-government/2026/02/labor-launches-new-open-data-portal/411511/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/02/18/GettyImages_2228505166/open-graph.jpg",
+      "published_at": "2026-02-18T21:27:00Z",
+      "source": "Nextgov",
+      "summary_ja": "労働省は、米国の労働力に関する統計データへのより詳細なアクセスを提供する、刷新されたオープンデータポータルを発表しました。このポータルは、他の連邦政府データソースとの連携を強化し、データの検索、可視化、利用を容易にするためのAI互換性を備えています。これにより、データの利用が促進され、労働市場に関するより深い洞察が得られることが期待されます。"
+    },
+    {
+      "title": "Meta Begins $65 Million Election Push to Advance AI Agenda",
+      "title_ja": "Meta社、AI推進のため6500万ドルの選挙支援を開始",
+      "original_url": "https://slashdot.org/submission/17344918/meta-begins-65-million-election-push-to-advance-ai-agenda",
+      "image_url": null,
+      "published_at": "2026-02-18T21:25:16Z",
+      "source": "Slashdot.org",
+      "summary_ja": "Meta社は、AI産業に友好的な州の政治家を支援するため、今年6500万ドルを投じる選挙支援を開始します。テキサス州とイリノイ州から始まり、AI関連法案の成立を後押しする狙いがあります。これにより、Meta社のAI開発における政治的な影響力がさらに増大することが予想されます。"
+    },
+    {
+      "title": "World Labs Raises $1 Billion to Scale Spatial AI",
+      "title_ja": "World Labsが空間AIのスケーリングに向けて10億ドルを調達",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/world-labs-raises-1-billion-to-scale-spatial-ai/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/02/World-Labs-fundraise1.jpg",
+      "published_at": "2026-02-18T21:09:01Z",
+      "source": "pymnts.com",
+      "summary_ja": "AIパイオニアの李飛飛氏が設立したWorld Labsが、空間知能を発展させるための資金として10億ドルを調達しました。この資金は、世界モデルの構築を通じて空間AIのミッションを加速するために使用されます。これにより、現実世界をより深く理解し、革新的な製品開発に繋がる可能性があります。"
+    },
+    {
+      "title": "Figma stock jumps 15% as company sees AI monetization accelerating growth",
+      "title_ja": "Figma株が15％上昇、AI収益化の加速が成長を牽引",
+      "original_url": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108266965-1771443021997-gettyimages-2227186723-FIGMA_IPO.jpeg?v=1771448858&w=1920&h=1080",
+      "published_at": "2026-02-18T21:08:06Z",
+      "source": "CNBC",
+      "summary_ja": "デザインソフトウェア会社Figmaの株価が、好調な業績と今後の見通しを受けて15%上昇しました。同社は、AIツール「Figma Make」の普及にも関わらず、高い粗利益率を維持しました。これは、AI技術を活用した収益化戦略が順調に進み、成長を加速させていることを示唆しています。"
+    },
+    {
+      "title": "AI Is Starting to Show an Impact in Early-Career Jobs, Irish Government Says",
+      "title_ja": "アイルランド政府、AIがキャリア初期の仕事に影響を与え始めていると発表",
+      "original_url": "https://gizmodo.com/ai-is-starting-to-show-an-impact-in-early-career-jobs-irish-government-says-2000723436",
+      "image_url": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2682506945-1200x675.jpg",
+      "published_at": "2026-02-18T21:05:43Z",
+      "source": "Gizmodo.com",
+      "summary_ja": "アイルランド政府の報告によると、人工知能が労働市場の一部、特にキャリア初期の職に影響を与え始めています。これは米国を含む他の国々にとっても、今後の労働力へのAIの影響を示す早期警告となる可能性があります。この変化は、特に若い労働者層に大きな影響を与えることが示唆されています。"
+    },
+    {
+      "title": "Clarte Finexus Review: Secure or Risky Trading Tool? Tested & Analyzed",
+      "title_ja": "Clarte Finexus レビュー：安全な取引ツールか、それともリスクがあるのか？テストと分析",
+      "original_url": "https://whatjapanthinks.com/clarte-finexus-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/02/clarte-finexus.png",
+      "published_at": "2026-02-18T21:05:01Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Clarte Finexus は、仮想通貨トレーダー向けの取引体験を向上させることを目指して新たにローンチされたオンライン取引プログラムです。AIなどの最新技術を駆使し、取引の効率化を図ることを謳っています。本レビューでは、このプラットフォームの安全性と有効性を検証し、リスクについても分析しています。"
+    },
+    {
+      "title": "AI emerges as cornerstone of Singapore’s new economic playbook",
+      "title_ja": "シンガポールの新経済戦略の要としてAIが台頭",
+      "original_url": "https://www.straitstimes.com/business/ai-emerges-as-cornerstone-of-singapores-new-economic-playbook",
+      "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/4848e60924cbe3759f5dd1914da7857adb998a173db3be2c444eb3795af67a69",
+      "published_at": "2026-02-18T21:01:52Z",
+      "source": "The Straits Times",
+      "summary_ja": "シンガポールは、世界的な貿易の分断と加速する技術革新に対応するため、AIを経済戦略の中核に据えています。2026年予算では、AIを成長と国際競争力向上のための主要な原動力として位置付けています。これにより、シンガポールは、AI技術を駆使して新たな経済的優位性を確立しようとしています。"
+    },
+    {
+      "title": "Beyond The Bubble: Why 2026 Will Be The Year AI Replaces Human Workers",
+      "title_ja": "バブルの向こう側へ：AIが人間の労働者に取って代わる年、2026年",
+      "original_url": "https://www.activistpost.com/beyond-the-bubble-why-2026-will-be-the-year-ai-replaces-human-workers/",
+      "image_url": "https://www.activistpost.com/wp-content/uploads/2026/02/ai-displacement-human-cognition-machine-intelligence-218-original.jpg",
+      "published_at": "2026-02-18T21:00:00Z",
+      "source": "Activistpost.com",
+      "summary_ja": "この記事は、AIが2026年に人間の労働力を置き換えるという大胆な予測を提示しています。2025年にAIの停滞が主張されたにも関わらず、AI技術は進化を続け、人間の知的作業を代替する能力を獲得すると分析しています。これは、労働市場に大きな変化をもたらし、多くの職種に影響を与える可能性があります。"
+    },
+    {
+      "title": "This AI Company Wants to Pay You for Your Photos",
+      "title_ja": "AI企業があなたの写真に報酬を支払う",
+      "original_url": "https://petapixel.com/2026/02/18/this-ai-company-wants-to-pay-you-for-your-photos/",
+      "image_url": "https://petapixel.com/assets/uploads/2026/02/dataforce-featured.jpg",
+      "published_at": "2026-02-18T20:57:10Z",
+      "source": "PetaPixel",
+      "summary_ja": "AI技術がデータに依存する現代において、ある企業が写真家を対象に、オリジナルの写真を提供することで報酬を得られる新たな取り組みを開始しました。この動きは、AI開発に必要なデータを調達しつつ、一般の写真家にも新たな収入源を提供する可能性を秘めています。Ronia Raw Photo Collectionと呼ばれるこの取り組みは、写真家が撮影した画像を買い取ることで、AIの進化に貢献する新たな方法を提示しています。"
+    },
+    {
+      "title": "Meta Drops $65 Million on Super PACs to Back Pro-AI Candidates Against Populist Tech Critics",
+      "title_ja": "Meta社、AI推進派候補を支援するためスーパーPACに6500万ドルを投じ、テクノロジー批判勢力に対抗",
+      "original_url": "https://www.commondreams.org/news/meta-super-pacs-ai",
+      "image_url": "https://www.commondreams.org/media-library/image.png?id=55561811&width=1200&height=600&coordinates=0%2C124%2C0%2C124",
+      "published_at": "2026-02-18T20:50:54Z",
+      "source": "Common Dreams",
+      "summary_ja": "Meta社は、AI開発における規制を阻止するため、AI推進派の候補者を支援するスーパーPACに6500万ドルを投じました。これは、FacebookやInstagramなどのプラットフォームを持つ同社が、AI分野での野心を追求する上で、政府規制を回避しようとする戦略の一環です。テクノロジーに対する批判的な動きに対抗し、AI技術の発展を後押しする狙いがあります。"
+    },
+    {
+      "title": "Deutsche Bank asked AI how it was planning to destroy jobs. And the robot answered",
+      "title_ja": "ドイツ銀行、AIに職を奪う計画について質問。AIが回答",
+      "original_url": "https://fortune.com/2026/02/18/will-ai-destroy-jobs-deutsche-bank-asks-ai-to-predict/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2241357338-e1771445779364.jpg?resize=1200,600",
+      "published_at": "2026-02-18T20:50:02Z",
+      "source": "Fortune",
+      "summary_ja": "ドイツ銀行の研究機関は、グローバル経済の将来に関する実験として、AIに職を破壊する計画について質問しました。従来の経済モデルに頼るのではなく、AIの分析能力を活用し、人間の雇用への影響を調査しました。この実験は、AIが労働市場に与える可能性のある破壊的な影響を浮き彫りにしています。"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-16T23:09:21.833Z",
+  "articles": [
+    {
+      "title": "Parasail raises $32M for its pay-per-token inference cloud",
+      "title_ja": "Parasail、トークンごとの従量課金型推論クラウド向けに3200万ドルを調達",
+      "original_url": "https://siliconangle.com/2026/04/15/parasail-raises-32m-pay-per-token-inference-cloud/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/unsplash-1.png",
+      "published_at": "2026-04-15T23:00:30Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AIインフラスタートアップのParasailが、シリーズAラウンドで3200万ドルの資金調達を発表しました。この資金は、トークンごとの従量課金制を採用した推論クラウドの構築に充てられます。Samsung Electronicsなども出資しており、AI分野における同社の技術革新と影響力に注目が集まっています。"
+    },
+    {
+      "title": "Determination of organic arsenic acids by machine learning-assisted SERS on a silicon-modified coating of Fe3O4@Ag",
+      "title_ja": "機械学習支援型SERS法による、Fe3O4@Agのシリコン修飾コーティング上での有機ヒ素酸の定量",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ja/d6ja00017g",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6JA00017G",
+      "published_at": "2026-04-15T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究では、機械学習を活用した表面増強ラマン分光法（SERS）を用いて、Fe3O4@Agナノ粒子をシリコンで修飾したコーティング上で有機ヒ素酸を効率的に定量する方法を開発しました。 この技術は、環境中のヒ素汚染の検出に役立つ可能性があります。 新しいSERS技術と機械学習の組み合わせにより、微量有機物の分析における精度と効率が向上します。"
+    },
+    {
+      "title": "DeFecT-FF: a machine learning force field framework for high throughput defect modeling in CdTe-based solar cells",
+      "title_ja": "DeFecT-FF：CdTe系太陽電池における高スループット欠陥モデリングのための機械学習力場フレームワーク",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00170j",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6CP00170J",
+      "published_at": "2026-04-15T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究では、CdTe系太陽電池における欠陥のエネルギーと基底状態構造を予測する、機械学習を活用した力場フレームワーク「DeFecT-FF」を開発しました。このフレームワークは、ネイティブ点欠陥、外因性ドーパント、不純物、および欠陥複合体の挙動を効率的にシミュレーションすることを可能にします。これにより、太陽電池の性能向上に向けた材料設計を加速させることが期待されます。"
+    },
+    {
+      "title": "Reimagining Generative Design exhibition maps artificial intelligence (AI) in architecture",
+      "title_ja": "生成デザインを再考する展覧会、建築におけるAIの可能性を探る",
+      "original_url": "https://archinect.com/news/article/150537337/reimagining-generative-design-exhibition-maps-artificial-intelligence-ai-in-architecture",
+      "image_url": "https://archinect.gumlet.io/uploads/88/889097c57bdab1c97461521cc027389b.jpg?fit=crop&auto=compress%2Cformat&enlarge=true&crop=faces&w=1200&h=707",
+      "published_at": "2026-04-15T23:00:00Z",
+      "source": "Archinect",
+      "summary_ja": "この展覧会は、現代のAIシステムの技術的能力と斬新さに焦点を当て、建築におけるAIの活用を探求しています。生成デザインを通じて、AIがどのように建築設計を変革し、新しい可能性を切り開くのかを提示します。Tulane School of Architecture and Built Environment が主催し、建築とAIの融合による未来の建築像を展望します。"
+    },
+    {
+      "title": "cogflow 2.0.1b3",
+      "title_ja": "cogflow 2.0.1b3",
+      "original_url": "https://pypi.org/project/cogflow/2.0.1b3/",
+      "image_url": null,
+      "published_at": "2026-04-15T22:49:11Z",
+      "source": "Pypi.org",
+      "summary_ja": "COGFlowは、モジュール型の機械学習ワークフロー管理システムです。このバージョンアップにより、機械学習パイプラインの構築と実行がより効率的になることが期待されます。詳細な変更点については記事が読み込めないため不明ですが、パフォーマンス向上や機能追加がされている可能性が高いです。"
+    },
+    {
+      "title": "Snap cutting 16% of staff amid AI push",
+      "title_ja": "SnapがAIへの注力に伴い、従業員の16%を削減",
+      "original_url": "https://mobilesyrup.com/2026/04/15/snap-lays-off-16-staff-ai-push/",
+      "image_url": "https://production-static.mobilesyrup.com/uploads/2026/04/snapchat-header-shutterstock-scaled.jpg",
+      "published_at": "2026-04-15T22:38:22Z",
+      "source": "MobileSyrup",
+      "summary_ja": "Snapは、収益改善のためAIへの転換を進めており、その一環として世界規模で従業員の約16%を解雇する方針です。Evan Spiegel CEOからの社内メモによると、約1,000人の正社員が影響を受ける見込みです。この人員削減は、AI技術への投資を強化し、事業の効率化を図るための戦略的な動きと考えられます。"
+    },
+    {
+      "title": "Sneaker company Allbirds to become AI business",
+      "title_ja": "スニーカーメーカーAllbirds、AI企業へ転換",
+      "original_url": "https://www.cbsnews.com/video/sneaker-company-allbirds-pivots-ai/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/15/3ec53984-7e9f-4fab-9abc-23e4eb825d80/thumbnail/1200x630/fe40f892ebc1106d047b20b8995527c1/cbsn-fusion-sneaker-company-allbirds-pivots-ai-thumbnail.jpg",
+      "published_at": "2026-04-15T22:29:52Z",
+      "source": "CBS News",
+      "summary_ja": "フットウェアブランドAllbirdsが、布製スニーカーの製造を中止し、AI企業へと転換すると発表しました。この発表を受けて、同社の株価は600％以上も急騰しました。AI分野への参入が、Allbirdsの今後のビジネスに大きな影響を与えることが期待されています。"
+    },
+    {
+      "title": "cogflow 2.0.1b2",
+      "title_ja": "cogflow 2.0.1b2",
+      "original_url": "https://pypi.org/project/cogflow/2.0.1b2/",
+      "image_url": null,
+      "published_at": "2026-04-15T22:16:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "COGFlowは、モジュール型の機械学習ワークフロー管理システムです。今回のバージョンアップにより、システムの安定性と機能が向上している可能性があります。エラーメッセージが表示されているため、ブラウザ拡張機能、ネットワーク、またはブラウザ設定に問題があると考えられます。"
+    },
+    {
+      "title": "Allbirds, a former Wall Street darling fallen on hard times, looks to AI for its future",
+      "title_ja": "かつてのウォール街の寵児、Allbirdsが苦境を脱するためAIに活路を見出す",
+      "original_url": "https://www.bostonherald.com/2026/04/15/allbirds-ai/",
+      "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/04/Allbirds_28473.jpg?w=1024&h=741",
+      "published_at": "2026-04-15T22:05:09Z",
+      "source": "Boston Herald",
+      "summary_ja": "一時はテック業界のCEOや著名人に愛用されたエコフレンドリーなシューズブランドAllbirdsが、業績不振から脱却するため、AI技術の活用に乗り出しました。AIを駆使したアート制作など、新たな分野への進出を図り、苦境からの脱出を目指しています。これにより、同社のビジネスモデルがどのように変化し、市場にどのような影響を与えるのか注目されます。"
+    },
+    {
+      "title": "Allbirds Is Pivoting to AI, Naturally",
+      "title_ja": "Allbirds、AIへと自然に転換",
+      "original_url": "http://www.thecut.com/article/of-course-allbirds-is-an-ai-company-now.html",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/bc1/f72/9cf3bc87918a2807e38eab887970c3b9f2-allbirds.1x.rsocial.w1200.jpg",
+      "published_at": "2026-04-15T22:02:05Z",
+      "source": "The Cut",
+      "summary_ja": "かつてテック系御用達だったスニーカーブランドのAllbirdsが、先月3900万ドルで売却され、スニーカー製造を廃止し、より収益性の高いAI事業に焦点を当てることになりました。 この転換は、Allbirdsのブランド戦略の大幅な変化を示唆しており、AI分野への進出が今後の成長の鍵となる可能性があります。 AI技術への集中は、Allbirdsのビジネスモデルを根本的に変え、新しい市場機会を生み出す可能性があります。"
+    },
+    {
+      "title": "Who’s Afraid of A.I.?",
+      "title_ja": "AIを恐れるのは誰？",
+      "original_url": "https://www.newyorker.com/newsletter/the-daily/whos-afraid-of-ai",
+      "image_url": "https://media.newyorker.com/photos/66bbc14a3a338ff378df3b0c/16:9/w_1280,c_limit/newsletter-flagship-daily-header2.png",
+      "published_at": "2026-04-15T22:00:00Z",
+      "source": "The New Yorker",
+      "summary_ja": "AI業界からの様々な情報発信をまとめた記事です。Anthropic社が発表した最新プロジェクト「Mythos」と「Project Glasswing」に焦点を当て、AI技術に対する多種多様なメッセージングとその影響について論じています。AI技術の進展に伴い、人々の不安や期待が入り混じる現状を描き出しています。"
+    },
+    {
+      "title": "NextNRG Reports Full Year and Fourth Quarter 2025 Financial Results",
+      "title_ja": "NextNRG、2025年通期および第4四半期の決算を発表",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/15/3274955/0/en/NextNRG-Reports-Full-Year-and-Fourth-Quarter-2025-Financial-Results.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/467287f0-fabc-4c2d-a951-3bb8bec81e97",
+      "published_at": "2026-04-15T22:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "AIを活用したエネルギーイノベーション企業NextNRGが、2025年通期の決算を発表し、売上高が前年比195%増の8,180万ドルを記録しました。エネルギーの生成、管理、供給方法を変革する同社の技術革新が、目覚ましい成長を牽引しています。この結果は、エネルギー業界におけるAIの重要性と、NextNRGのリーダーシップを示すものです。"
+    },
+    {
+      "title": "Commentary: Anthropic’s ‘too dangerous to release’ Mythos AI model is a wake-up call for everyone",
+      "title_ja": "解説：Anthropicの「公開するには危険すぎる」Mythos AIモデルは、すべての人々への警鐘",
+      "original_url": "https://www.channelnewsasia.com/commentary/anthropic-mythos-ai-cyberattacks-security-updates-6058131",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--hIPEFkgr--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-15T034942Z_1_LYNXMPEM3E04K_RTROPTP_3_USA-BANKS-ANTHROPIC-CYBERSECURITY.JPG?itok=Wrwgy9Iz",
+      "published_at": "2026-04-15T21:58:00Z",
+      "source": "CNA",
+      "summary_ja": "Anthropicが開発したMythos AIモデルは、高度なサイバー攻撃に利用できる能力を持ち、OpenAIのChatGPTやGoogleのGeminiよりも危険性が高いと評価されました。 このようなAIの進化は、ITの脆弱性が公開されてから悪用されるまでの時間を劇的に短縮させる可能性があり、AI開発における安全対策の重要性を浮き彫りにしています。 Mythosの存在は、AI技術の進歩がもたらすリスクに対する警戒を促すものであり、その影響は広範囲に及ぶでしょう。"
+    },
+    {
+      "title": "It only took 7 minutes to create an AI-generated Val Kilmer for a scene in his new movie",
+      "title_ja": "新作映画のワンシーンに、AI生成のヴァル・キルマーがわずか7分で登場",
+      "original_url": "https://www.businessinsider.com/val-kilmer-ai-movie-as-deep-as-the-grave-trailer-2026-4",
+      "image_url": "https://i.insider.com/69dff760557731f181e95197?width=1200&format=jpeg",
+      "published_at": "2026-04-15T21:55:00Z",
+      "source": "Business Insider",
+      "summary_ja": "映画「As Deep as the Grave」では、故ヴァル・キルマー氏の家族の許諾を得て、AI技術を用いて彼のパフォーマンスが再現されました。わずか7分で生成されたAIヴァル・キルマーは、映画に新たな可能性を提示しています。この技術は、俳優の遺産を尊重しつつ、映画制作に革命をもたらす可能性があります。"
+    },
+    {
+      "title": "AI-rendered Val Kilmer debuts in 'As Deep as the Grave' trailer",
+      "title_ja": "AIで再現されたヴァル・キルマーが『As Deep as the Grave』の予告編でデビュー",
+      "original_url": "https://japantoday.com/category/entertainment/ai-rendered-val-kilmer-debuts-in-%27as-deep-as-the-grave%27-trailer",
+      "image_url": null,
+      "published_at": "2026-04-15T21:46:04Z",
+      "source": "Japan Today",
+      "summary_ja": "インディーズ映画『As Deep as the Grave』は、AI技術で再現されたヴァル・キルマーを主要な役で起用し、その映像が公開されました。この試みは、故人や引退した俳優をAIで再現する新たなトレンドを象徴しており、映画制作における技術革新と表現の可能性を広げています。これにより、俳優の出演形態が変化し、映画業界に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "What AI-Driven Attack Chains Mean for CFOs and CISOs",
+      "title_ja": "AI主導の攻撃チェーンがCFOとCISOに意味するもの",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/what-ai-driven-attack-chains-mean-for-cfos-and-cisos/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/AI-cyberattack-1.jpg",
+      "published_at": "2026-04-15T21:45:47Z",
+      "source": "pymnts.com",
+      "summary_ja": "人工知能（AI）を活用した攻撃チェーンの出現は、企業の最高財務責任者（CFO）と最高情報セキュリティ責任者（CISO）にとって、セキュリティ対策を根本から見直す必要性を意味します。OpenAIやAnthropicなどの最新AIモデルの登場により、従来のセキュリティ対策では対応できない高度な脅威への対策が急務となっています。経営陣は、AIがもたらす変化を前提とした新たなセキュリティ戦略を構築し、自社の安全性を確保する必要があります。"
+    },
+    {
+      "title": "The divisive issue that could decide the midterms now has $200 million on the line | Blaze Media",
+      "title_ja": "中間選挙の行方を左右する可能性のある対立問題に、2億ドルが投じられる | Blaze Media",
+      "original_url": "https://www.theblaze.com/return/ai-cash-injections-2026-mt",
+      "image_url": "https://www.theblaze.com/media-library/the-divisive-issue-that-could-decide-the-midterms-now-has-200-million-on-the-line.png?id=65540022&width=1200&height=600&coordinates=0%2C29%2C0%2C30",
+      "published_at": "2026-04-15T21:43:36Z",
+      "source": "TheBlaze",
+      "summary_ja": "中間選挙に向け、AI技術を巡る論争に2億ドルもの巨額資金が投下されています。この投資は、特定の政治的主張を後押しするためのスーパーPACによって主導されており、AI技術を駆使して有権者への情報伝達や世論形成を図ることを目的としています。政治の世界におけるAI技術の利用が、選挙結果に大きな影響を与える可能性が示唆されています。"
+    },
+    {
+      "title": "EU rejects Meta's pay-for-access remedy in WhatsApp AI chatbots probe",
+      "title_ja": "EU、MetaのWhatsApp AIチャットボットアクセス有料化策を拒否、独禁法違反と判断",
+      "original_url": "https://japantoday.com/category/tech/eu-rejects-meta%27s-pay-for-access-remedy-in-whatsapp-ai-chatbots-probe",
+      "image_url": null,
+      "published_at": "2026-04-15T21:41:48Z",
+      "source": "Japan Today",
+      "summary_ja": "EUは、MetaがWhatsAppプラットフォームへの競合AIチャットボットアクセスを有料化する対策を、EUの独占禁止法に違反するとして拒否しました。Metaは、EUの調査に対応するため3月からこの有料化策を開始していましたが、EU当局はこれを認めませんでした。この決定は、AI分野における競争を促進し、Metaの市場支配力を抑制することを目的としています。"
+    },
+    {
+      "title": "AI-driven chip shortage slowing efforts to get world online: GSMA",
+      "title_ja": "AI主導のチップ不足が世界中のインターネット普及を遅延：GSMA",
+      "original_url": "https://japantoday.com/category/tech/ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma",
+      "image_url": null,
+      "published_at": "2026-04-15T21:41:37Z",
+      "source": "Japan Today",
+      "summary_ja": "GSMAによると、AIブームによるメモリチップの不足が、世界中のインターネット普及を妨げています。このチップ不足は、世界で約22億人もの人々がオンラインアクセスを得るのを困難にしています。この問題は、世界的なデジタル格差を広げる可能性があり、その影響が懸念されています。"
+    },
+    {
+      "title": "rawforge 0.0.2",
+      "title_ja": "rawforge 0.0.2",
+      "original_url": "https://pypi.org/project/rawforge/0.0.2/",
+      "image_url": null,
+      "published_at": "2026-04-15T21:39:16Z",
+      "source": "Pypi.org",
+      "summary_ja": "rawforge 0.0.2は、生の画像データに対して機械学習モデルを適用するための計算バックエンドとCLIアプリケーションです。このツールは、ブラウザ拡張機能、ネットワークの問題、またはブラウザ設定が原因でウェブサイトの一部が読み込めない可能性があります。ユーザーは接続を確認し、広告ブロッカーを無効にするなど、問題解決の対策を試す必要があります。"
+    }
+  ]
+}

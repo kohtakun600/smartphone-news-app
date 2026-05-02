@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-04-22T23:25:43.832Z",
+  "articles": [
+    {
+      "title": "OpenAI launches ChatGPT Images 2.0, Codex Labs developer training service",
+      "title_ja": "OpenAI、ChatGPT Images 2.0とCodex Labs開発者向けトレーニングサービスを発表",
+      "original_url": "https://siliconangle.com/2026/04/21/openai-launches-chatgpt-images-2-0-codex-labs-developer-training-service/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/ChatGPT.png",
+      "published_at": "2026-04-21T23:07:14Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "OpenAIは、人気のチャットボットに搭載されている画像生成ツールChatGPT Images 2.0のアップグレード版をリリースしました。同時に、OpenAIのCodeを活用するための技術トレーニングサービス「Codex Labs」も開始しました。これにより、企業はより高度な画像生成能力を活かし、OpenAIの技術を効果的に導入できるようになります。"
+    },
+    {
+      "title": "Predicting wastewater effects on antibiotic fluorescence from laboratory DOM quenching behavior by fingerprinting and machine learning",
+      "title_ja": "フィンガープリントと機械学習による、実験室DOM消光挙動からの抗生物質蛍光に対する廃水の影響予測",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d6ra01194b",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6RA01194B",
+      "published_at": "2026-04-21T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、機械学習と蛍光技術を組み合わせ、廃水が抗生物質の蛍光に与える影響を予測する手法を開発しました。具体的には、廃水中の溶解性有機物（DOM）による蛍光消光挙動をフィンガープリント化し、そのデータを基に機械学習モデルを構築しました。この技術により、廃水中の抗生物質汚染のリスク評価や管理に貢献することが期待されます。"
+    },
+    {
+      "title": "Elucidating CO2 Dynamics in High-Entropy MOF-74 via Machine Learning Interatomic Potentials",
+      "title_ja": "機械学習相互作用ポテンシャルを用いた高エントロピーMOF-74におけるCO2ダイナミクスの解明",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00476h",
+      "image_url": null,
+      "published_at": "2026-04-21T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、機械学習を用いて高エントロピーMOF-74における二酸化炭素（CO2）の吸着と輸送挙動を詳細に解析しています。この研究は、MOF-74の高性能化につながる金属混合のメカニズムを明らかにし、高性能なCO2吸着材の開発に貢献する可能性があります。機械学習技術により、複雑な物質系における分子レベルの振る舞いを精密に再現し、従来の実験やシミュレーションでは困難だった知見を得ることを目指しています。"
+    },
+    {
+      "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
+      "title_ja": "Mozilla、AnthropicのClaude Mythosを活用し、Firefoxの271件の脆弱性を修正",
+      "original_url": "https://slashdot.org/firehose.pl?op=view&amp;id=181838108",
+      "image_url": null,
+      "published_at": "2026-04-21T22:53:15Z",
+      "source": "Slashdot.org",
+      "summary_ja": "Mozillaは、AnthropicのAIモデルClaude Mythosを使用して、Firefoxブラウザのセキュリティを強化し、271件の脆弱性を修正したと発表しました。この技術は、AIを利用してソフトウェアの脆弱性を特定し、修正する新しい方法を示しています。今回の成果は、AIがサイバーセキュリティ分野に貢献できる可能性を示す事例として注目されています。"
+    },
+    {
+      "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
+      "title_ja": "フロリダ州、フロリダ州立大学での銃撃事件に関連し、OpenAIとChatGPTに対する刑事捜査を開始",
+      "original_url": "https://japantoday.com/category/tech/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting",
+      "image_url": null,
+      "published_at": "2026-04-21T22:51:58Z",
+      "source": "Japan Today",
+      "summary_ja": "フロリダ州は、昨年フロリダ州立大学で発生した2名が死亡した銃撃事件に関し、OpenAIとAIチャットアプリChatGPTに対する刑事捜査を開始しました。これは、AI技術が犯罪に利用された可能性を巡るもので、技術開発企業に対する法的責任を問う試みとして注目されます。今回の捜査は、AIの安全性と責任に関する議論をさらに活発化させるでしょう。"
+    },
+    {
+      "title": "Meta to track workers' clicks and keystrokes to train AI",
+      "title_ja": "Meta、AIトレーニングのため従業員のクリックとキーストロークを追跡",
+      "original_url": "https://www.bbc.com/news/articles/cvglyklz49jo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7c11/live/f3193ce0-3dd2-11f1-a40d-95806278e3fd.jpg",
+      "published_at": "2026-04-21T22:47:56Z",
+      "source": "BBC News",
+      "summary_ja": "Metaは、AIモデルのトレーニングデータとして活用するため、従業員の作業中のクリックやキーストロークなどの活動を追跡する新ツールを導入します。これにより、MetaはAI開発に必要なデータを収集し、自社AI技術の向上を目指します。この動きは、従業員の行動データを活用したAI開発の新たな潮流を示唆しています。"
+    },
+    {
+      "title": "SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'",
+      "title_ja": "SpaceX、AIスタートアップCursorを今年中に600億ドルで買収可能に、または100億ドルで共同作業の対価を支払う",
+      "original_url": "https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108286753-1775144948710-gettyimages-2267974761-AFP_A4VK6PE.jpeg?v=1775152292&w=1920&h=1080",
+      "published_at": "2026-04-21T22:38:31Z",
+      "source": "CNBC",
+      "summary_ja": "SpaceXは、AIスタートアップCursorとの間で、今年中に600億ドルで買収する権利、または100億ドルで共同作業に対する対価を支払うオプションを含む取引を締結しました。この動きは、SpaceXがAI技術を強化し、自社の事業に統合することを目指していることを示唆しています。Cursorの買収または協力は、宇宙開発におけるSpaceXの競争力をさらに高める可能性があります。"
+    },
+    {
+      "title": "Amazon SageMaker AI launches optimized generative AI inference recommendations",
+      "title_ja": "Amazon SageMaker AI、最適化された生成AI推論に関する推奨機能をリリース",
+      "original_url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec/",
+      "image_url": null,
+      "published_at": "2026-04-21T22:38:00Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon SageMaker AIが、生成AI推論のパフォーマンスを最適化する新たな推奨機能を提供開始しました。この機能により、手動での最適化やベンチマーク作業が不要となり、検証済みの最適なデプロイ構成と性能指標を提供します。これにより、生成AIモデルの推論効率が向上し、開発者はより簡単にAIアプリケーションを構築できるようになります。"
+    },
+    {
+      "title": "AI AgAmazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
+      "title_ja": "Amazon、AIインフラ構築の一環としてAnthropicに最大250億ドルを追加投資",
+      "original_url": "https://freerepublic.com/focus/f-chat/4375888/posts",
+      "image_url": null,
+      "published_at": "2026-04-21T22:37:47Z",
+      "source": "Freerepublic.com",
+      "summary_ja": "Amazonは、AIインフラを構築する拡大協定の一環として、AIスタートアップのAnthropicに最大250億ドルを追加投資することに合意しました。これにより、AmazonのAnthropicへの投資総額は330億ドルに達する可能性があります。この巨額の投資は、AmazonとAnthropicのAI技術における協力関係を強化し、AI分野での競争を激化させるでしょう。"
+    },
+    {
+      "title": "49ers turning to artificial intelligence ahead of NFL Draft as GM says laggards are 'already behind'",
+      "title_ja": "49ers、NFLドラフトでAI活用へ。GM「遅れをとっている」と警鐘",
+      "original_url": "https://www.foxnews.com/sports/49ers-turning-artificial-intelligence-ahead-nfl-draft-gm-says-laggards-already-behind",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/brock-purdy-john-lynch-49ers-fox-news-001.jpeg",
+      "published_at": "2026-04-21T22:12:10Z",
+      "source": "Fox News",
+      "summary_ja": "サンフランシスコ・49ersは、NFLドラフトに向けて人工知能（AI）を導入し、選手選考に活用する。チームはAIの導入により、データ分析に基づいた戦略的なドラフト戦略を構築し、他のチームとの差別化を図る。ジョン・リンチGMは、AI活用が遅れるチームはすでに不利な状況にあると警鐘を鳴らしている。"
+    },
+    {
+      "title": "UnitedHealth’s AI Is Rebuilding the Payment Layer of American Healthcare",
+      "title_ja": "ユナイテッドヘルス、AIで米国の医療費支払いシステムを再構築",
+      "original_url": "https://www.pymnts.com/healthcare/2026/unitedhealths-ai-is-rebuilding-the-payment-layer-of-american-healthcare/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/UnitedHealth-AI-1.jpg",
+      "published_at": "2026-04-21T22:09:25Z",
+      "source": "pymnts.com",
+      "summary_ja": "ユナイテッドヘルスグループは、AIを活用した請求・払い戻しプラットフォーム「Optum Real」を通じて、今年5億件の取引を処理しています。年末までには25億件に達する見込みで、Optum Realは既に大規模な取引処理能力を誇っています。このAI主導のプラットフォームは、アメリカの医療費支払いシステムを変革し、効率化を促進する可能性があります。"
+    },
+    {
+      "title": "Florida opens criminal probe into OpenAI over ChatGPT's alleged role in FSU shooting",
+      "title_ja": "フロリダ州、ChatGPTが関与したとされるFSU銃撃事件でOpenAIへの刑事捜査を開始",
+      "original_url": "https://www.cbsnews.com/news/florida-criminal-investigation-openai-chatgpt-alleged-role-fsu-shooting/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/21/3efb18b4-c0b3-4888-b33a-0f5854dfa6fc/thumbnail/1200x630/beb1ddc0a14b1b6fd5417f99bcd62270/ap26111651691352.jpg",
+      "published_at": "2026-04-21T21:52:11Z",
+      "source": "CBS News",
+      "summary_ja": "フロリダ州司法長官は、昨年発生したフロリダ州立大学（FSU）での銃撃事件に関し、ChatGPTと容疑者の会話ログを精査した結果、OpenAIへの刑事捜査を開始しました。これは、生成AIチャットボットが犯罪に利用された可能性に対する初の本格的な捜査であり、AI技術の法的責任を問う試みとしても注目されています。今回の捜査は、AI技術が社会に与える影響と、その利用における倫理的な問題を浮き彫りにしています。"
+    },
+    {
+      "title": "Boca Raton Plastic Surgeon Dr. Gregory Albert Pioneers AI-Driven Body Sculpting at Optimization Centre",
+      "title_ja": "ボカラトン形成外科医グレゴリー・アルバート医師、Optimization CentreにてAI駆動のボディスカルプティングを先駆ける",
+      "original_url": "https://apnews.com/press-release/ein-presswire-newsmatics/boca-raton-plastic-surgeon-dr-gregory-albert-pioneers-ai-driven-body-sculpting-at-optimization-centre-590b11da6d9d2e660764fc82127ff040",
+      "image_url": "https://dims.apnews.com/dims4/default/6cea0a7/2147483647/strip/true/crop/993x662+0+269/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2F64%2F12549878dc861009f785fafe3905%2Febce46a03abf4802a80f698038f3c996",
+      "published_at": "2026-04-21T21:51:37Z",
+      "source": "Associated Press",
+      "summary_ja": "ボカラトンにあるOptimization Centreが、グレゴリー・アルバート医師の指導の下、AIを活用した脂肪吸引を導入しました。この技術は、より高い精度、優れた結果、そして早い回復を実現します。AI技術により、患者の体格に合わせた最適な治療計画が立てられ、より洗練されたボディラインの形成が可能になります。"
+    },
+    {
+      "title": "N.L. arts and tourism minister says she regrets posting image altered with AI to social media",
+      "title_ja": "N.L. 観光・文化大臣、AI加工画像をSNS投稿したことを後悔",
+      "original_url": "https://www.cbc.ca/news/canada/newfoundland-labrador/andrea-barbour-ai-9.7172320",
+      "image_url": "https://i.cbc.ca/ais/aa49a396-0c26-41c8-8c89-70f4f566e678,1776807884460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "published_at": "2026-04-21T21:50:00Z",
+      "source": "CBC News",
+      "summary_ja": "カナダ・ニューファンドランド・ラブラドール州の観光・文化大臣が、ナショナル観光週間を記念して投稿したAI加工画像について、後悔の念を表明しました。問題の画像には、実在しないロゴが博物館の象徴的な彫刻の代わりに表示されていました。この一件は、SNS上で大きな批判を呼び、AI技術による画像加工の倫理的側面が議論されるきっかけとなりました。"
+    },
+    {
+      "title": "ChatGPT’s new image model turned my article into handwriting",
+      "title_ja": "ChatGPTの新しい画像モデルが私の記事を手書き風に変換",
+      "original_url": "https://www.pcworld.com/article/3120607/chatgpts-new-image-model-turned-my-article-into-handwriting.html",
+      "image_url": "https://www.pcworld.com/wp-content/uploads/2026/04/ChatGPT-Images-2-hero.jpg?quality=50&strip=all&w=1024",
+      "published_at": "2026-04-21T21:47:35Z",
+      "source": "PCWorld",
+      "summary_ja": "ChatGPTの新しい画像生成モデルは、テキストのレンダリング能力を大幅に向上させ、記事を手書き風の画像として生成できるまでに至りました。従来、画像生成AIはテキストの表現が苦手でしたが、このモデルはこれまでのものとは一線を画す精度の高さを実現しています。これにより、AIが生成したテキストかどうかの判別が難しくなり、クリエイティブな表現の幅が広がることが期待されます。"
+    },
+    {
+      "title": "AI hallucinated — and now an elite law firm is profusely apologizing to a federal judge",
+      "title_ja": "AIの幻覚により、一流法律事務所が連邦判事に謝罪",
+      "original_url": "https://www.businessinsider.com/sullivan-and-cromwell-apologizes-ai-hallucinations-court-filing-2026-4",
+      "image_url": "https://i.insider.com/69e7e55e367066d7c296f554?width=796&format=jpeg",
+      "published_at": "2026-04-21T21:15:00Z",
+      "source": "Business Insider",
+      "summary_ja": "一流法律事務所が、AIによる誤りについて連邦判事に謝罪しました。これは、AIが事実に基づかない情報を生成する「幻覚」と呼ばれる現象によるものです。別の法律事務所がその誤りを発見し、問題が発覚しました。今回の件は、法務におけるAI利用のリスクを浮き彫りにしています。"
+    },
+    {
+      "title": "Demand for AI-related skills has grown and older workers are acing the pivot",
+      "title_ja": "AI関連スキルの需要が増加、高齢労働者がピボットに成功",
+      "original_url": "https://www.nzherald.co.nz/business/demand-for-ai-related-skills-has-grown-and-older-workers-are-acing-the-pivot/XJOEHMAGPVA6LBERHEULH77DDY/",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/HLKVI7U5S5EBXJUSSDHYMAF6AY.jpg?auth=be7051ef9123d024182385c79726ea00b29f7a6642f7eb384137674ec1ef6308&width=1200&height=675&quality=70&focal=513%2C310&smart=false",
+      "published_at": "2026-04-21T21:14:18Z",
+      "source": "New Zealand Herald",
+      "summary_ja": "AI関連スキルの需要が高まる中、高齢労働者がAI技術を習得し、事務作業の効率化を図っています。マイクロソフトは、ニュージーランドで30万件の研修機会を提供し、熟練労働者の不足に対応しています。この動きは、AI技術が労働市場にもたらす変革と、年齢層を超えたスキル習得の重要性を示しています。"
+    },
+    {
+      "title": "Say goodbye to celebrity deepfakes on YouTube",
+      "title_ja": "YouTube、著名人のディープフェイク動画に終止符",
+      "original_url": "https://www.androidauthority.com/youtube-ai-likeness-detection-for-celebs-3659635/",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg",
+      "published_at": "2026-04-21T21:14:10Z",
+      "source": "Android Authority",
+      "summary_ja": "YouTubeは、AIによるディープフェイク動画を検出するため、肖像権検出技術をエンターテイメント業界に拡大すると発表しました。これにより、タレント事務所やマネジメント会社、著名人などが、自身の肖像を無許可で使用したAI生成コンテンツを特定できるようになります。この技術は、YouTubeプラットフォーム上でのディープフェイク動画の拡散を抑制し、コンテンツの信頼性向上に貢献します。"
+    }
+  ]
+}

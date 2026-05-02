@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-19T23:04:20.329Z",
+  "articles": [
+    {
+      "title": "araras 2.0.0",
+      "title_ja": "araras 2.0.0",
+      "original_url": "https://pypi.org/project/araras/2.0.0/",
+      "image_url": null,
+      "published_at": "2026-04-18T22:59:26Z",
+      "source": "Pypi.org",
+      "summary_ja": "araras 2.0.0は、機械学習とデータサイエンス向けのツール群です。 このリリースは、ブラウザの拡張機能、ネットワークの問題、またはブラウザの設定に関連する問題により、Webサイトの一部の読み込みに失敗する可能性があると報告されています。 ユーザーは、接続を確認し、広告ブロッカーを無効にし、別のブラウザを試すことを推奨されています。"
+    },
+    {
+      "title": "H3C expands in Southeast Asia as Singapore emerges as a hub for Chinese AI vendors",
+      "title_ja": "H3Cが東南アジアで事業拡大、シンガポールが中国AIベンダーのハブとして台頭",
+      "original_url": "https://www.digitimes.com/news/a20260417VL221/asia-gitex-infrastructure-2026-expansion.html",
+      "image_url": "https://img.digitimes.com/newsshow/20260417vl221_files/4_2b.jpg",
+      "published_at": "2026-04-18T22:45:32Z",
+      "source": "Digitimes",
+      "summary_ja": "H3Cは東南アジア市場への進出を加速させており、特にシンガポールを拠点としています。GITEX AI Asia 2026がシンガポールで開催され、AIモデル開発から大規模展開への焦点移行を反映して、110カ国以上から参加者が集まりました。これにより、中国のAIベンダーが東南アジア市場でプレゼンスを拡大する動きが加速するでしょう。"
+    },
+    {
+      "title": "New Movie Trailer Shows First AI-Generated Performance By a Major Star: the Late Val Kilmer",
+      "title_ja": "メジャー俳優初のAI生成演技：故ヴァル・キルマーが出演する映画の予告編が公開",
+      "original_url": "https://entertainment.slashdot.org/story/26/04/18/2010257/new-movie-trailer-shows-first-ai-generated-performance-by-a-major-star-the-late-val-kilmer",
+      "image_url": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "published_at": "2026-04-18T22:34:00Z",
+      "source": "Slashdot.org",
+      "summary_ja": "ハリウッドのメジャー俳優、ヴァル・キルマー氏のAI生成版が主演を務める映画の予告編が公開されました。これは、亡くなった俳優の容姿と演技をAIで再現した、初めての試みです。この技術は、映画制作に新たな可能性をもたらす一方で、著作権や俳優の権利に関する議論を呼ぶ可能性があります。"
+    },
+    {
+      "title": "Behind the Runway: How an AI Marketing Platform Revolutionizes Fashion Content Creation",
+      "title_ja": "舞台裏を支えるAI：ファッションコンテンツ制作を革新するマーケティングプラットフォーム",
+      "original_url": "https://blog.marketingstack.app/blog/ai-marketing-platform-fashion-content-creation",
+      "image_url": "https://yyiioeckeiunylkcvibp.supabase.co/storage/v1/object/public/generated-assets/blog-covers/blog-cover-1776550536102.jpg",
+      "published_at": "2026-04-18T22:15:36Z",
+      "source": "Marketingstack.app",
+      "summary_ja": "最先端のAIマーケティングプラットフォームが、ファッションブランドの舞台裏におけるコンテンツ制作を劇的に変革しています。この技術は、一貫性と効率性を両立させ、トレンドの移り変わりが激しいファッション業界において、制作プロセスを最適化し、コンテンツの質を向上させる可能性を秘めています。これにより、ブランドはより迅速に、そして効果的に消費者にリーチできるようになります。"
+    },
+    {
+      "title": "shap-monitor 0.0.11",
+      "title_ja": "shap-monitor 0.0.11",
+      "original_url": "https://pypi.org/project/shap-monitor/0.0.11/",
+      "image_url": null,
+      "published_at": "2026-04-18T21:58:40Z",
+      "source": "Pypi.org",
+      "summary_ja": "このツールは、機械学習モデルにおけるSHAP値のモニタリングに特化したものです。shap-monitor 0.0.11のリリースは、モデルの解釈可能性を向上させるための重要な一歩となるでしょう。 現状では、ウェブサイトの一部が読み込めない問題が発生しており、ブラウザ拡張機能やネットワークの問題の可能性が示唆されています。"
+    },
+    {
+      "title": "kymnasium 1.2.3",
+      "title_ja": "kymnasium 1.2.3",
+      "original_url": "https://pypi.org/project/kymnasium/1.2.3/",
+      "image_url": null,
+      "published_at": "2026-04-18T21:54:47Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事は、江原大学校コンピュータ工学科の人工知能コース向けに開発された、強化学習環境のコレクションである「kymnasium 1.2.3」を紹介しています。この環境は、コースの必須部分として提供されており、学習教材としての役割を担っています。記事の冒頭では、ブラウザ拡張機能、ネットワーク、またはブラウザの設定による問題でコンテンツが読み込めない可能性があることに触れています。"
+    },
+    {
+      "title": "He Warns Consumers About AI. His Dad Died After Relying on It",
+      "title_ja": "AIへの注意喚起を行う男性、父親がAIを頼った結果死去",
+      "original_url": "https://www.newser.com/story/387286/he-warns-consumers-about-ai-his-dad-died-after-relying-on-it.html",
+      "image_url": "https://img1-azrcdn.newser.com/image/1678242-12-20260418165002.jpeg",
+      "published_at": "2026-04-18T21:50:00Z",
+      "source": "Newser",
+      "summary_ja": "ベン・ライリー氏は、AIに生死に関わる判断を任せないよう人々に警告を発してきた。その理由は、彼の父親がAIに頼り、結果的に命を落としたという悲しい出来事があったからだ。この記事は、AIの過信がもたらす危険性について警鐘を鳴らし、特に医療や意思決定におけるAI利用について慎重な姿勢を促している。"
+    },
+    {
+      "title": "kymnasium 1.2.2",
+      "title_ja": "kymnasium 1.2.2",
+      "original_url": "https://pypi.org/project/kymnasium/1.2.2/",
+      "image_url": null,
+      "published_at": "2026-04-18T21:46:49Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、江原大学校コンピュータ工学科の人工知能コース向けに開発された、強化学習環境のコレクションであるkymnasiumのバージョン1.2.2について言及しています。この環境は、コースの必須部分として提供されており、学生が強化学習の概念を実践的に学ぶために設計されています。しかし、サイトの一部が読み込めないという問題が発生しているようです。"
+    },
+    {
+      "title": "Charlize Theron Censures Timothée Chalamet Over “Reckless” Comments; Says AI May Soon “Be Able To Do” His Job But Will Not Replace Ballet & Opera",
+      "title_ja": "シャーリーズ・セロン、ティモシー・シャラメの発言を非難：「軽率」と評し、AIは俳優の仕事を代替可能も、バレエやオペラは不可能と主張",
+      "original_url": "http://deadline.com/2026/04/charlize-theron-timothee-chalamet-ballet-opera-ai-1236865017/",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/04/charlize-chalamet.jpg?w=1000",
+      "published_at": "2026-04-18T21:23:03Z",
+      "source": "Deadline",
+      "summary_ja": "シャーリーズ・セロンは、ティモシー・シャラメがバレエとオペラの人気について「非常に軽率」な発言をしたと非難しています。彼女は、AIが俳優の演技を代替できる時代が来る可能性があるとしながらも、AIがクラシック芸術であるバレエとオペラを置き換えることは決してないと述べています。これは、AIの進歩がエンターテイメント業界に与える影響と、芸術の独自性について考察を促す論争となっています。"
+    },
+    {
+      "title": "qoptlib 0.1.0",
+      "title_ja": "qoptlib 0.1.0",
+      "original_url": "https://pypi.org/project/qoptlib/0.1.0/",
+      "image_url": null,
+      "published_at": "2026-04-18T21:01:22Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、機械学習向けに量子に着想を得た古典最適化手法のフレームワークであるqoptlib 0.1.0を紹介しています。qoptlibは、量子コンピューティングの概念を応用した最適化アルゴリズムを提供し、機械学習タスクの性能向上を目指しています。現時点では、サイトの一部が読み込めないという問題が発生しているようです。"
+    },
+    {
+      "title": "qoptlib added to PyPI",
+      "title_ja": "qoptlib が PyPI に追加",
+      "original_url": "https://pypi.org/project/qoptlib/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-04-18T21:01:16Z",
+      "source": "Pypi.org",
+      "summary_ja": "機械学習向けの量子インスパイアード古典最適化器フレームワークであるqoptlibが、PythonパッケージインデックスPyPIに公開されました。これにより、研究者や開発者は、この技術を利用しやすくなり、古典コンピュータ上での機械学習アルゴリズムの最適化を効率化できるようになります。ダウンロードして様々なプラットフォームで利用できます。"
+    },
+    {
+      "title": "MS NOW Reporter Gives Iran Credit For 1 'Very Clever' Strategy: 'A Cultural Phenomenon'",
+      "title_ja": "MSNOWレポーター、イランの「非常に巧妙」な戦略に称賛：『文化現象』",
+      "original_url": "https://www.huffpost.com/entry/ms-now-reporter-gives-iran-credit-for-1-very-clever-strategy-a-cultural-phenomenon_n_69e3ce42e4b0b6f552ba4563",
+      "image_url": "https://img.huffingtonpost.com/asset/69e3dfcc18000017285b2db3.jpg?cache=dqWGGGjqGM&ops=1200_630",
+      "published_at": "2026-04-18T20:12:00Z",
+      "source": "HuffPost",
+      "summary_ja": "MSNOWのレポーターは、イランが開発したAI生成の動画による文化現象が、トランプ前大統領のイメージよりもアメリカに与える影響の方が大きいと指摘した。この巧妙な戦略は、ソーシャルメディアを通じて拡散し、政治的風刺として機能している。この技術は、特定の政治的主張を広めるために使用され、その影響力は拡大を続けている。"
+    },
+    {
+      "title": "Here is how crypto firms are adapting as AI is increasingly eating into venture capital fundings",
+      "title_ja": "AIによる資金調達増加を受け、仮想通貨企業がどのように適応しているのか",
+      "original_url": "https://www.coindesk.com/business/2026/04/18/ai-is-increasingly-eating-into-vc-fundings-and-here-is-how-crypto-firms-are-adapting",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/6c6f91659282329d0b59d72d839cd6435abb6c19-1853x1390.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "published_at": "2026-04-18T19:18:20Z",
+      "source": "CoinDesk",
+      "summary_ja": "人工知能（AI）分野へのベンチャーキャピタル（VC）投資が急増しており、2026年初頭には全世界のVC資金調達の80%にあたる2420億ドルをAI企業が調達しました。この流れを受け、仮想通貨企業はAIと組み合わせた製品の開発に注力し、VC資金の配分も変化しています。AI技術の台頭が、仮想通貨業界の資金調達と技術開発に大きな影響を与えています。"
+    },
+    {
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "title_ja": "大学講師、AI生成文章対策としてタイプライターに回帰",
+      "original_url": "http://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "image_url": "https://sentinelcolorado.com/wp-content/uploads/2026/03/AP26080655529173.jpg",
+      "published_at": "2026-04-18T19:00:00Z",
+      "source": "Sentinel Colorado",
+      "summary_ja": "コーネル大学の講師が、AI生成文章による課題提出を阻止するため、タイプライターの使用を授業に取り入れました。これにより、学生は手書きで思考を表現し、AIに依存しない文章作成能力を養うことが期待されています。この試みは、教育現場におけるAIの台頭に対する新たな対策として注目を集めています。"
+    },
+    {
+      "title": "Mexico’s climate supercomputer could change forecasting",
+      "title_ja": "メキシコの気候スーパーコンピュータが予測を変える可能性",
+      "original_url": "https://www.foxnews.com/tech/mexicos-climate-supercomputer-could-change-forecasting",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/mexico-supercomputer-001.jpeg",
+      "published_at": "2026-04-18T18:43:39Z",
+      "source": "Fox News",
+      "summary_ja": "メキシコが建設中のスーパーコンピュータ「Coatlicue」は、より正確な気象予測、早期の嵐警報、そして人工知能研究を支援します。この高性能コンピュータは、現在の予測の精度を格段に向上させ、気象予報の信頼性を高めることを目指しています。これにより、自然災害への対応能力が向上し、社会への影響を最小限に抑えることが期待されています。"
+    },
+    {
+      "title": "What AI doesn’t know, and why it matters",
+      "title_ja": "AIが知らないこと、そしてそれが重要な理由",
+      "original_url": "https://www.wnd.com/2026/04/what-ai-doesnt-know-why-it-matters/",
+      "image_url": "https://www.wnd.com/wp-content/uploads/2026/01/artificial-intelligence-ai-computers-keyboards-technology-unsplash.jpg",
+      "published_at": "2026-04-18T17:31:39Z",
+      "source": "Wnd.com",
+      "summary_ja": "AIは急速に進化を遂げ、世界を席巻していますが、その限界もまた明確になってきました。この記事では、AIがまだ理解できない領域と、それがもたらす影響について考察しています。環境への負荷や雇用への影響など、AIの普及に伴う課題と、それを解決するための技術的・社会的な取り組みの重要性を論じています。"
+    },
+    {
+      "title": "Trump, When Asked About White House Meeting with Anthropic’s Dario Amodei: ‘Who?’",
+      "title_ja": "トランプ、Anthropicのダリオ・アモードイとのホワイトハウス会談について質問され「誰？」と発言",
+      "original_url": "https://gizmodo.com/trump-when-asked-about-white-house-meeting-with-anthropics-dario-amodei-who-2000748236",
+      "image_url": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2268677104-1200x675.jpg",
+      "published_at": "2026-04-18T17:25:16Z",
+      "source": "Gizmodo.com",
+      "summary_ja": "トランプ前大統領は、AI企業AnthropicのCEOであるダリオ・アモードイとのホワイトハウスでの会談について尋ねられた際、「誰？」と発言しました。これは、現在ホワイトハウスがAnthropicとの関係で微妙な立場にあることを示唆しています。 Anthropicは、最新のAIモデルであるMythos Previewを発表しており、今後の政治的影響が注目されています。"
+    },
+    {
+      "title": "Graphs That Explain the State of AI in 2026",
+      "title_ja": "2026年のAIの現状を説明するグラフ",
+      "original_url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=65506010&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "published_at": "2026-04-18T17:12:44Z",
+      "source": "Ieee.org",
+      "summary_ja": "AIへの投資は急増する一方で、雇用への影響や国民の認識は二分されており、複雑な状況を示しています。 OpenAIやAnthropicなど、主要なAI企業は今年後半にIPOを目指し、AIモデルの性能は加速し続けています。 しかし、AIに対する反発も根強く、今後の動向が注目されます。"
+    },
+    {
+      "title": "Man Who Threw Molotov Cocktail at OpenAI CEO's Home Referenced Luigi Mangione",
+      "title_ja": "OpenAI CEO宅に火炎瓶を投げた男、Luigi Mangioneの名前を引用",
+      "original_url": "https://freerepublic.com/focus/f-news/4375459/posts",
+      "image_url": null,
+      "published_at": "2026-04-18T17:11:26Z",
+      "source": "Freerepublic.com",
+      "summary_ja": "OpenAIのサム・アルトマンCEOの自宅に火炎瓶を投げたとされるテキサス州の20歳の男が、UnitedHealthcareのCEO、ブライアン・トンプソンを殺害した疑いで逮捕されたルイス・マンギオーネの名前を挙げていたことが判明しました。この事件は、AI技術の発展に対する潜在的な脅威や、社会におけるテクノロジー関連の暴力行為の可能性を示唆しています。詳細な動機については現在捜査中です。"
+    },
+    {
+      "title": "MS NOW Reporter Gushes Over ‘Very Clever’ Anti-Trump Propaganda Videos — Claims Trump Posts ‘More Hurtful’",
+      "title_ja": "MS NOW記者が「非常に巧妙」な反トランププロパガンダ動画を絶賛—トランプ氏の投稿は「より傷つける」と主張",
+      "original_url": "https://www.mediaite.com/media/tv/ms-now-reporter-gushes-over-very-clever-anti-trump-propaganda-videos-claims-trump-posts-more-hurtful/",
+      "image_url": "https://www.mediaite.com/wp-content/uploads/2026/04/ms-1.jpeg",
+      "published_at": "2026-04-18T17:08:31Z",
+      "source": "Mediaite",
+      "summary_ja": "MS NOWの記者は、イランが使用している「非常に巧妙」で「説得力のある」レゴ風AI動画が、米国に対するプロパガンダ戦争で勝利していると主張しています。この報道は、イランのプロパガンダ戦略の巧妙さを強調し、トランプ氏のソーシャルメディア投稿よりも効果的だと評価しています。このようなAI技術を用いたプロパガンダ戦略は、今後の情報戦において大きな影響を与える可能性があります。"
+    }
+  ]
+}

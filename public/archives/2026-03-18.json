@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-17T23:00:10.995Z",
+  "articles": [
+    {
+      "title": "(PR) MSI Launches XpertStation WS300 on NVIDIA DGX Station Architecture",
+      "title_ja": "(PR) MSI、NVIDIA DGX Stationアーキテクチャを採用したXpertStation WS300を発表",
+      "original_url": "https://www.techpowerup.com/347439/msi-launches-xpertstation-ws300-on-nvidia-dgx-station-architecture",
+      "image_url": "https://www.techpowerup.com/img/pjKMZvdIDe7R3wgj.jpg",
+      "published_at": "2026-03-16T22:56:46Z",
+      "source": "Techpowerup.com",
+      "summary_ja": "MSIは、大規模言語モデル(LLM)や生成AI、高度なデータサイエンスワークフローの加速する需要に対応するため、NVIDIA DGX Stationアーキテクチャを基盤とした次世代デスクトップAIスーパーコンピューター、XpertStation WS300をリリースしました。これにより、研究者や開発者は、より強力な計算能力を活用して、AI開発を効率化できるようになります。この製品は、AI分野におけるMSIの新たな取り組みを示しています。"
+    },
+    {
+      "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
+      "title_ja": "Nvidia GTC 2026 基調講演の3つの注目点：NemoClaw、DLSS 5、Vera CPU",
+      "original_url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
+      "image_url": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-03-16T22:45:34Z",
+      "source": "CNET",
+      "summary_ja": "NvidiaはGTC 2026基調講演で、AIゲームを向上させるDLSS 5や、AIエージェント開発を容易にするNemoClawを発表しました。さらに、AIの未来を加速させるVera CPUも披露しました。これらの技術は、AI分野におけるNvidiaのリーダーシップを強化し、ゲームとAIエージェント開発に大きな影響を与えるでしょう。"
+    },
+    {
+      "title": "Lights, Camera, Algorithm as AI Joins the Film Crew",
+      "title_ja": "ライト、カメラ、アルゴリズム：AIが映画制作チームに参入",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/lights-camera-algorithm-as-ai-joins-the-film-crew/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Dolby-Theatre-Oscars.png",
+      "published_at": "2026-03-16T22:42:53Z",
+      "source": "pymnts.com",
+      "summary_ja": "AIが映画制作に本格的に導入され始め、脚本作成や映像編集など様々な工程で活用されています。これは、映画製作の効率化と新たな表現手法の可能性を広げますが、一方で、人間による従来の制作プロセスへの影響も懸念されています。コナン・オブライエンの「最後の人間司会者」というジョークは、この変化に対する警鐘を意味しています。"
+    },
+    {
+      "title": "Building the next wave of AI: Freddy del Barrio’s approach for a more human model of intelligent care",
+      "title_ja": "次世代AIの構築：フレディ・デル・バリオによる、より人間的なインテリジェントケアモデルへのアプローチ",
+      "original_url": "https://thenextweb.com/news/ai-human-connection-companion-ai-freddy-del-barrio",
+      "image_url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FTNW-wallpaper-2.png&signature=adee2e362f515cf7ad96b19a0cd755d1",
+      "published_at": "2026-03-16T22:34:28Z",
+      "source": "The Next Web",
+      "summary_ja": "人工知能が普及する中で、デル・バリオ氏は、仕事の効率化に偏りがちなAI技術に対し、より人間的な側面を重視したインテリジェントケアモデルの構築を目指しています。彼は、スピード、自動化、効率性といったキーワードが中心となる議論に異を唱え、AI技術を人間的なケアに活かす方法を探求しています。彼の取り組みは、AIが人間の生活により深く寄り添うための新たな潮流を生み出す可能性があります。"
+    },
+    {
+      "title": "AI-linked crypto tokens surge as Nvidia's Jensen Huang touts agentic future",
+      "title_ja": "NVIDIAジェンスン・フアン氏、エージェントAIの未来を語り、AI関連暗号資産が急騰",
+      "original_url": "https://www.coindesk.com/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/1fb11a8eeaa48b8de8d5b9e55fd23a08317aab96-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "published_at": "2026-03-16T22:20:35Z",
+      "source": "CoinDesk",
+      "summary_ja": "NVIDIAのジェンスン・フアンCEOが、2027年までに1兆ドル規模のチップ需要を見込み、エージェントAIシステムの急速な台頭を称賛したことを受け、AI関連の暗号資産が相場を伸ばしました。OpenClawなどの技術革新が注目を集め、AIインフラの次なる段階への期待が高まっています。この発言は、AI技術の発展とそれに関連する暗号資産市場への影響を示唆しています。"
+    },
+    {
+      "title": "Samsung shares rise after Nvidia's Huang flags tie-up on new AI chips",
+      "title_ja": "NVIDIAの黄CEO、新型AIチップの製造でサムスンとの提携を表明し、サムスンの株価が上昇",
+      "original_url": "https://www.channelnewsasia.com/business/samsung-shares-rise-after-nvidias-huang-flags-tie-up-new-ai-chips-5997506",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--2ih6dZnY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-16T222001Z_1_LYNXMPEM2F1CY_RTROPTP_3_SAMSUNG-RESULTS.JPG?itok=g2UR3JxJ",
+      "published_at": "2026-03-16T22:20:01Z",
+      "source": "CNA",
+      "summary_ja": "NVIDIAのジェンスン・フアンCEOが、同社の新しいAIチップの製造をサムスン電子が担っていると発表し、サムスン株が最大5%上昇しました。この発表は、NVIDIAのGTC開発者会議で行われました。サムスンは、AIチップ製造における重要性を増し、その技術力と市場での影響力を改めて示した形となりました。"
+    },
+    {
+      "title": "Samsung Elec showcases Nvidia's new inference chip made using 4 nanometer process",
+      "title_ja": "サムスン電子、4ナノプロセスで製造されたNVIDIAの新型推論チップを公開",
+      "original_url": "https://www.channelnewsasia.com/business/samsung-elec-showcases-nvidias-new-inference-chip-made-using-4-nanometer-process-5997506",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--2ih6dZnY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-16T222001Z_1_LYNXMPEM2F1CY_RTROPTP_3_SAMSUNG-RESULTS.JPG?itok=g2UR3JxJ",
+      "published_at": "2026-03-16T22:20:01Z",
+      "source": "CNA",
+      "summary_ja": "サムスン電子は、NVIDIAの最新AIチップを自社の4ナノメートルプロセスで製造し、GTC開発者会議で公開しました。このチップは、NVIDIAの次世代AI技術の中核を担うもので、サムスンの最先端半導体製造技術がその性能を支えています。これにより、AI分野におけるサムスンとNVIDIAの協業が強化され、高性能チップ市場での競争が激化すると見られます。"
+    },
+    {
+      "title": "hadal-ml added to PyPI",
+      "title_ja": "Hadal-MLがPyPIに追加",
+      "original_url": "https://pypi.org/project/hadal-ml/",
+      "image_url": null,
+      "published_at": "2026-03-16T22:14:54Z",
+      "source": "Pypi.org",
+      "summary_ja": "Hadal-MLは、TensorflowとSHELL暗号化ライブラリを活用した、プライバシー保護型機械学習ライブラリです。Python 3.12に対応しており、PyPIへの追加により、開発者たちはこの技術を容易に利用できるようになりました。これにより、プライバシーを重視した機械学習モデルの開発が促進されると期待されます。"
+    },
+    {
+      "title": "hadal-ml 0.1.0",
+      "title_ja": "hadal-ml 0.1.0",
+      "original_url": "https://pypi.org/project/hadal-ml/0.1.0/",
+      "image_url": null,
+      "published_at": "2026-03-16T22:14:54Z",
+      "source": "Pypi.org",
+      "summary_ja": "hadal-ml 0.1.0は、TensorflowとSHELL暗号化ライブラリを利用した、プライバシー保護機械学習フレームワークです。Python 3.12向けに構築されており、安全な環境下での機械学習を可能にします。これにより、個人情報を保護しながら、機械学習モデルの開発と利用が行えるようになります。"
+    },
+    {
+      "title": "AI firms, AIPAC invest millions in Illinois primaries",
+      "title_ja": "AI企業とAIPAC、イリノイ州予備選に数百万ドルを投資",
+      "original_url": "https://www.cbsnews.com/video/outside-groups-invest-millions-illinois-primaries/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/16/2c7e4ae7-05fe-40c4-837a-abffb52b2449/thumbnail/1200x630/00e6e6595729ce37f80f07f6176c6a1c/cbsn-fusion-outside-groups-invest-millions-illinois-primaries-thumbnail.jpg",
+      "published_at": "2026-03-16T22:10:00Z",
+      "source": "CBS News",
+      "summary_ja": "イリノイ州の予備選挙で、AI関連企業やイスラエルロビー団体AIPACなど外部団体からの多額の資金提供が行われています。この投資は、特定の候補者やイニシアチブを支持することを目指しており、選挙結果に影響を与える可能性があります。テクノロジー企業による政治への関与は、選挙運動における資金調達と影響力の新たなトレンドを示唆しています。"
+    },
+    {
+      "title": "Commentary: Tech companies are blaming massive layoffs on AI. What’s really going on?",
+      "title_ja": "解説：テクノロジー企業は大量解雇をAIのせいにするが、実際には何が起きているのか？",
+      "original_url": "https://www.channelnewsasia.com/commentary/ai-job-disruption-tech-companies-layoff-meta-amazon-5996221",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Cl96hT5n--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-11T225907Z_2_LYNXMPEM2A1IG_RTROPTP_3_USA-CORPBONDS-QUALTRICS.JPG?itok=BasrXqdL",
+      "published_at": "2026-03-16T21:58:00Z",
+      "source": "CNA",
+      "summary_ja": "テクノロジー企業がAIを理由に大規模な人員削減を行っているが、その影響は誇張されている可能性がある。 AIによる労働市場への真の変革は限定的であり、多くの場合、人員削減よりも産業構造の変化をもたらすと考えられる。 PwCの最近の報告によると、AIの影響を受ける多くの業界では雇用は依然として増加傾向にある。"
+    },
+    {
+      "title": "bigframes 2.38.0",
+      "title_ja": "Bigframes 2.38.0",
+      "original_url": "https://pypi.org/project/bigframes/2.38.0/",
+      "image_url": null,
+      "published_at": "2026-03-16T21:57:19Z",
+      "source": "Pypi.org",
+      "summary_ja": "Bigframes 2.38.0 は、BigQuery 上でスケーラブルな分析と機械学習を可能にする、BigQuery DataFrames の新バージョンです。 このバージョンアップにより、BigQuery の能力を最大限に活かしたデータ分析と機械学習タスクがさらに効率的に実行できるようになります。記事本文は一部読み込めなかったため、詳細は不明です。"
+    },
+    {
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "title_ja": "DLSS 5、ビデオゲーム向けのリアルタイム生成AIフィルターのようだ",
+      "original_url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&strip=all&crop=0%2C10.752036702561%2C100%2C78.495926594877&w=1200",
+      "published_at": "2026-03-16T21:56:05Z",
+      "source": "The Verge",
+      "summary_ja": "NVIDIAがGTCカンファレンスで発表したDLSS 5は、ゲームのライティングやマテリアルを根本的に変えるAIアップスケーリング技術です。初期の反応は賛否両論あり、一部からは芸術的意図を不当に変える「粗悪品」との批判も出ています。しかし、NVIDIAのCEOはこれを「GPTママ」と呼び、今後のゲームグラフィックスに大きな影響を与える可能性を示唆しています。"
+    },
+    {
+      "title": "rasa-pro 3.13.25",
+      "title_ja": "Rasa Pro 3.13.25",
+      "original_url": "https://pypi.org/project/rasa-pro/3.13.25/",
+      "image_url": null,
+      "published_at": "2026-03-16T21:53:02Z",
+      "source": "Pypi.org",
+      "summary_ja": "Rasa Pro 3.13.25 は、企業向け最先端のオープンコア型会話AIフレームワークです。生成AIをネイティブに活用し、容易なアシスタント開発を実現します。記事の内容は読み込めませんでしたが、最新バージョンが発表されたことで、会話AI開発における機能強化や性能向上が期待されます。"
+    },
+    {
+      "title": "Bethesda's Todd Howard says NVIDIA DLSS 5 in Xbox's Starfield is \"amazing\" — everyone else is calling it uncanny AI slop",
+      "title_ja": "Bethesdaのトッド・ハワード氏、Xbox版『Starfield』におけるNVIDIA DLSS 5は「素晴らしい」と評価 - 一方で他の人々は「不気味なAIゴミ」と酷評",
+      "original_url": "https://www.windowscentral.com/gaming/pc-gaming/bethesdas-todd-howard-says-nvidia-dlss-5-in-xboxs-starfield-is-amazing-everyone-else-is-calling-it-uncanny-ai-slop",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YYonAoJNer6p4LeqZwtzBc-1920-80.jpg",
+      "published_at": "2026-03-16T21:52:46Z",
+      "source": "Windows Central",
+      "summary_ja": "NVIDIAがGDCで発表したDLSS 5技術に対し、一部でNPCの見た目が「AIゴミ」のようだと批判が殺到しています。しかし、Bethesdaのトッド・ハワード氏は、Xbox版『Starfield』でのこの技術の出来を「素晴らしい」と絶賛しました。この技術は、ゲームのグラフィックを向上させることを目指していますが、その表現の品質を巡って、ユーザー間で意見が大きく分かれています。"
+    },
+    {
+      "title": "Gateway Global AI and the vision behind a voice-first infrastructure platform designed to simplify enterprise AI integration",
+      "title_ja": "Gateway Global AI、企業向けAI統合を簡素化する音声ファーストインフラプラットフォームのビジョン",
+      "original_url": "https://thenextweb.com/news/voice-first-ai-gateway-global-ai",
+      "image_url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FGateway-Global-AI-1.png&signature=de9800d08e0a818e9d326ec86d2548ad",
+      "published_at": "2026-03-16T21:41:35Z",
+      "source": "The Next Web",
+      "summary_ja": "人工知能（AI）は企業戦略の中心テーマとなりつつある一方で、多くの組織が日々の業務への統合に苦戦しています。Gateway Global AIは、音声ファーストインフラストラクチャを開発し、企業におけるAI導入のハードルを下げようとしています。このプラットフォームは、AI技術をより容易に利用できるようにすることで、企業がAIの恩恵を最大限に享受できるよう目指しています。"
+    },
+    {
+      "title": "hadal-flow added to PyPI",
+      "title_ja": "Hadal-FlowがPyPIに追加",
+      "original_url": "https://pypi.org/project/hadal-flow/",
+      "image_url": null,
+      "published_at": "2026-03-16T21:38:46Z",
+      "source": "Pypi.org",
+      "summary_ja": "Hadal-Flowは、TensorflowとSHELL暗号化ライブラリを用いた、プライバシー保護機械学習ライブラリです。Python 3.12向けに構築され、PyPIに登録されました。これにより、ユーザーは安全な環境で機械学習モデルを開発・利用できるようになり、プライバシー保護技術の普及に貢献する可能性があります。"
+    },
+    {
+      "title": "hadal-flow 0.5.0",
+      "title_ja": "hadal-flow 0.5.0",
+      "original_url": "https://pypi.org/project/hadal-flow/0.5.0/",
+      "image_url": null,
+      "published_at": "2026-03-16T21:38:46Z",
+      "source": "Pypi.org",
+      "summary_ja": "hadal-flowのバージョン0.5.0がリリースされました。TensorflowとSHELL暗号化ライブラリを組み合わせ、プライバシー保護機械学習を実現しています。Python 3.12向けに構築されており、安全な機械学習環境の構築に貢献すると期待されます。"
+    },
+    {
+      "title": "Tech Giants Tap Private Credit to Fuel AI Growth",
+      "title_ja": "テクノロジー大手、AI成長加速のためプライベートクレジットを活用",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-tap-private-credit-to-fuel-ai-growth/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/05/AI-private-credit.png",
+      "published_at": "2026-03-16T21:38:44Z",
+      "source": "pymnts.com",
+      "summary_ja": "国際決済銀行（BIS）の3人のエコノミストは、AIハイパースケーラーがAIインフラ構築のため、プライベートクレジットファームから資金調達を行う傾向が銀行に影響を与える可能性があると指摘しました。この動きは、AI技術の急速な発展に伴い、そのインフラ需要が高まっていることを反映しています。これにより、銀行の融資活動に変化が生じる可能性があります。"
+    },
+    {
+      "title": "Nvidia's DLSS 5 promises to bring you out the other side of the uncanny valley",
+      "title_ja": "NvidiaのDLSS 5、不気味の谷からの脱出を約束",
+      "original_url": "https://www.theregister.com/2026/03/16/nvidia_dlss5_uncanny_valley/",
+      "image_url": "https://regmedia.co.uk/2026/03/16/dlss1.jpg",
+      "published_at": "2026-03-16T21:35:05Z",
+      "source": "Theregister.com",
+      "summary_ja": "Nvidiaの最新AI画像エンハンサー、DLSS 5が登場し、ゲーム内のキャラクター表現を飛躍的に向上させます。これにより、グラフィックス技術は長年の課題であった、人間の顔の不自然さを解消し、よりリアルな表現を実現します。DLSS 5は、ゲーム体験を新たなレベルへと引き上げ、没入感を高めることが期待されています。"
+    }
+  ]
+}

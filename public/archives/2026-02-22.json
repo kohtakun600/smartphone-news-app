@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-21T22:51:03.606Z",
+  "articles": [
+    {
+      "title": "torchtitan 0.2.2",
+      "title_ja": "torchtitan 0.2.2",
+      "original_url": "https://pypi.org/project/torchtitan/0.2.2/",
+      "image_url": null,
+      "published_at": "2026-02-20T22:48:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "この発表は、生成AIモデルのトレーニングに特化したPyTorchネイティブプラットフォーム、torchtitanのバージョン0.2.2のリリースです。これにより、開発者はPyTorch環境内で生成AIモデルを効率的に構築し、トレーニングできるようになります。詳細な変更点や機能強化については、サイトにアクセスして確認する必要があります。"
+    },
+    {
+      "title": "Is That Art? | Sunday on 60 Minutes",
+      "title_ja": "Is That Art? | Sunday on 60 Minutes",
+      "original_url": "https://www.cbsnews.com/video/is-that-art-sunday-on-60-minutes/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/20/170c8e49-beb1-42d1-a251-004a127eeb83/thumbnail/1200x630/497f0aecb5ba9a4eb1b22297ba5e9da7/art-9.jpg",
+      "published_at": "2026-02-20T22:39:00Z",
+      "source": "CBS News",
+      "summary_ja": "Is art created with artificial intelligence truly art? Some call it a revolutionary new medium. Others say it has a long way to go. Sharyn Alfonsi reports, Sunday."
+    },
+    {
+      "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
+      "title_ja": "OpenAI、2030年までのコンピューティング費用目標を再設定、投資家向けに約60兆円規模へ",
+      "original_url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1771233114&w=1920&h=1080",
+      "published_at": "2026-02-20T22:35:29Z",
+      "source": "CNBC",
+      "summary_ja": "OpenAIは、2030年までに約6000億ドル（約60兆円）のコンピューティング費用を目標として投資家に提示しました。これは、以前に1.4兆ドル規模のインフラ投資を示唆していたことからの修正であり、AI技術開発における莫大な計算資源への投資を明確化する動きです。この変更は、AI開発における資金調達戦略や将来的な成長戦略に影響を与える可能性があります。"
+    },
+    {
+      "title": "Google's Free AI Marketing Suite Now Does Product Photography, and Photographers Are Not Happy",
+      "title_ja": "Googleの無料AIマーケティングスイートが製品写真に対応、写真家からは不満の声",
+      "original_url": "https://awesomeagents.ai/news/google-pomelli-photoshoot-ai-product-photography/",
+      "image_url": "https://awesomeagents.ai/images/news/google-pomelli-photoshoot-ai-product-photography_hu_a6332d933eab8d7e.jpg",
+      "published_at": "2026-02-20T22:34:32Z",
+      "source": "Awesomeagents.ai",
+      "summary_ja": "Google Labsは、AIマーケティングプラットフォームPomelliに製品写真加工機能「Photoshoot」を追加しました。この機能はGeminiを搭載し、既存の写真から高品質なマーケティング用画像を無料で生成します。しかし、プロの写真家たちは、この無料機能によって、自分たちの仕事が脅かされるのではないかと懸念しています。"
+    },
+    {
+      "title": "Hitachi wields machine control know-how to train physical AI",
+      "title_ja": "日立、機械制御のノウハウを活かし、物理AIを訓練",
+      "original_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-wields-machine-control-know-how-to-train-physical-ai",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F0%2F6%2F2%2F12172605-3-eng-GB%2Fad2571372907-photo_SXM2026021900004852.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "published_at": "2026-02-20T22:33:06Z",
+      "source": "Nikkei.com",
+      "summary_ja": "日立は、ロボットや産業機器を制御する物理AIの開発において、複数のオープンモデルと蓄積されたデータを組み合わせることで、AIを訓練しています。すでに日本のダイキンやJR東日本との連携で成果を上げています。この技術は、機械制御におけるAIの適用を加速させ、産業界における効率化や自動化をさらに進める可能性を秘めています。"
+    },
+    {
+      "title": "cellmap-data 2026.2.20.2159",
+      "title_ja": "cellmap-data 2026.2.20.2159",
+      "original_url": "https://pypi.org/project/cellmap-data/2026.2.20.2159/",
+      "image_url": null,
+      "published_at": "2026-02-20T21:59:34Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、機械学習トレーニング用のCellMapデータを読み込むためのユーティリティについて解説しています。PyTorch、Xarray、TensorStore、PyDanticといった技術を活用し、CellMapデータの効率的な処理を目指しています。記事の一部が読み込めない問題が発生しているため、今後の改善が期待されます。"
+    },
+    {
+      "title": "Anthropic: No, absolutely not, you may not use third-party harnesses with Claude subs",
+      "title_ja": "Anthropic、Claudeサブスクでのサードパーティ製ハーネスの使用を明確に禁止",
+      "original_url": "https://www.theregister.com/2026/02/20/anthropic_clarifies_ban_third_party_claude_access/",
+      "image_url": "https://regmedia.co.uk/2025/05/22/shutterstock_anthropic_claude.jpg",
+      "published_at": "2026-02-20T21:54:40Z",
+      "source": "Theregister.com",
+      "summary_ja": "Anthropicは、Claudeのサブスクリプションにおけるサードパーティ製ハーネスの使用を禁止する方針を明確にするため、利用規約を改定しました。これは、AI企業のAnthropicが収益モデルを強化するための措置です。この変更は、Anthropicがサービス提供におけるコントロールを強化し、潜在的な収益源を保護することを目的としています。"
+    },
+    {
+      "title": "Tech bills of the week: AI training tax breaks; modernizing agriculture with emerging tech, and more",
+      "title_ja": "今週のテック関連法案：AIトレーニング税制優遇措置、新興技術による農業の近代化など",
+      "original_url": "https://www.nextgov.com/policy/2026/02/tech-bills-week-ai-training-tax-breaks-modernizing-agriculture-emerging-tech-and-more/411583/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/02/20/GettyImages_1399560076/open-graph.jpg",
+      "published_at": "2026-02-20T21:44:00Z",
+      "source": "Nextgov",
+      "summary_ja": "今週のテック関連法案では、AIトレーニングのための税制優遇措置や、新興技術を活用した農業の近代化などが議論されています。特にAI分野では、米国の労働力育成に焦点を当て、様々なセクターへの影響を考慮した法案が提出されています。これにより、AI技術の普及と、それに対応できる人材の育成が促進されることが期待されます。"
+    },
+    {
+      "title": "Pros and Cons of Artificial Intelligence",
+      "title_ja": "人工知能（AI）のメリットとデメリット",
+      "original_url": "https://awealthofcommonsense.com/2026/02/pros-and-cons-of-artificial-intelligence/",
+      "image_url": "https://awealthofcommonsense.com/wp-content/uploads/2026/02/Screenshot-2026-02-19-231005.png",
+      "published_at": "2026-02-20T21:30:51Z",
+      "source": "Awealthofcommonsense.com",
+      "summary_ja": "この記事では、人工知能（AI）の利点と欠点について議論しています。AIの急速な発展により、様々な予測が飛び交い、社会への影響が注目されています。現時点では過剰な反応も多く見られますが、AI技術の進歩がもたらす可能性と課題を探求しています。"
+    },
+    {
+      "title": "AI code translation startup Code Metal reels in $125M at $1.25B valuation",
+      "title_ja": "AIコード翻訳スタートアップのCode Metal、12.5億ドルの評価額で1億2500万ドルを調達",
+      "original_url": "https://siliconangle.com/2026/02/20/ai-code-translation-startup-code-metal-reels-125m-1-25b-valuation/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/code.png",
+      "published_at": "2026-02-20T21:29:13Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "プログラミング言語間のコードを翻訳するプラットフォームを提供するスタートアップ企業、Code Metalが、1億2500万ドルの資金調達を完了しました。これにより、同社の評価額は12.5億ドルに達しました。この資金調達は、異なるプログラミング言語間の移行を容易にし、開発者の生産性を向上させるAI技術の潜在的な影響を示しています。"
+    },
+    {
+      "title": "Who will run Xbox after Phil Spencer? #gaming",
+      "title_ja": "フィル・スペンサーの後任は誰？ Xboxの今後 #ゲーム",
+      "original_url": "https://alltoc.com/gaming/who-will-run-xbox-after-phil-spencer",
+      "image_url": "https://alltoc.com/cdn/1045/og.png",
+      "published_at": "2026-02-20T21:06:15Z",
+      "source": "Alltoc.com",
+      "summary_ja": "マイクロソフトのゲーム部門を率いるフィル・スペンサー氏が退任し、後任にはAI部門のエグゼクティブであるアシャ・シャルマ氏が就任します。この人事は、マイクロソフトがAI技術をゲーム分野に統合していく戦略の一環と見られています。シャルマ氏のリーダーシップの下、Xboxの将来の方向性がどのように変化するのか注目が集まっています。"
+    },
+    {
+      "title": "Disney Issues Cease-and-Desist to ByteDance Over AI-Generated Videos Of Its Characters",
+      "title_ja": "ディズニー、AI生成の自社キャラクター動画を巡りByteDanceに停止要求",
+      "original_url": "https://news.sankakucomplex.com/n/6OHt2PlFh4z75dueEZQ8rA",
+      "image_url": "https://news.sankakucomplex.com/wp-content/uploads/2024/03/KisaragiChihaya-Gyaru-Art-by-JabaraTornado-2024-Thumb.jpg",
+      "published_at": "2026-02-20T21:00:32Z",
+      "source": "Sankakucomplex.com",
+      "summary_ja": "ウォルト・ディズニー・カンパニーは、ByteDanceのAIツールSeedance 2.0がディズニーキャラクターの無許可動画を生成しているとして、法的警告を発しました。これは、AIコンテンツツールと知的財産権との間の対立が深まっていることを示唆しています。この動きは、AI技術の普及に伴う著作権侵害問題の新たな局面を浮き彫りにしています。"
+    },
+    {
+      "title": "The Decentralization Trifecta: How Battery Tech, Robotics & Local AI Will Set You Free",
+      "title_ja": "分散化トライフェクタ：バッテリー技術、ロボティクス、ローカルAIがあなたを解放する",
+      "original_url": "https://www.activistpost.com/the-decentralization-trifecta-how-battery-tech-robotics-local-ai-will-set-you-free/",
+      "image_url": "https://www.activistpost.com/wp-content/uploads/2026/02/decentralization-battery-technology-robotics-197-original.jpg",
+      "published_at": "2026-02-20T21:00:00Z",
+      "source": "Activistpost.com",
+      "summary_ja": "この記事は、バッテリー技術、ロボティクス、そしてローカルAIの組み合わせが、集中型システムからの解放をもたらし、真の分散化を実現する可能性を論じています。電力網の制御や検索結果の操作といった問題点を指摘し、これらの技術がどのように人々の自由を促すかを探求しています。最終的には、これらの技術革新がもたらす未来の社会への影響に焦点を当てています。"
+    },
+    {
+      "title": "‘Subsurface’ uplifts human creativity over AI slop",
+      "title_ja": "「Subsurface」がAI生成コンテンツを凌駕し、人間の創造性を高める",
+      "original_url": "http://chicagoreader.com/film-tv/movie-feature/behind-the-rock-productions-subsurface-exhibition-screening/",
+      "image_url": "https://chicagoreader.com/wp-content/uploads/2026/02/000031440032-scaled.jpg",
+      "published_at": "2026-02-20T20:59:36Z",
+      "source": "Chicago Reader",
+      "summary_ja": "シカゴを拠点とする制作会社が手がけるイベント「Subsurface: A Behind the Rock Exhibition」は、AI生成コンテンツに対抗し、人間の創造性を称賛するものです。イベントは、2月21日にPublic Works Galleryで開催され、展示と上映を通じて、クリエイティブな表現の新たな可能性を探ります。このイベントは、AI生成コンテンツによる「スロップ」を超え、人間ならではの創造性の価値を再認識させることを目指しています。"
+    },
+    {
+      "title": "Telcos Double Down on AI as 90% Report Positive Returns",
+      "title_ja": "通信事業者がAIに注力、90%がプラスのリターンを報告",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/telcos-double-down-on-ai-90percent-report-positive-roi/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/02/telecommunications-AI-digital-transformation.jpeg",
+      "published_at": "2026-02-20T20:47:00Z",
+      "source": "pymnts.com",
+      "summary_ja": "通信事業者は、人工知能（AI）導入による成果を重視する姿勢を強めています。Nvidiaの調査によると、業界専門家の90%がAI投資からポジティブなリターンを得たと回答しました。この傾向は、AI技術が通信業界の効率化と収益性向上に不可欠となっていることを示唆しています。"
+    },
+    {
+      "title": "The Pentagon wants swarms of voice-controlled AI drones, and is offering a $100 million prize as a reward — and Elon Musk's SpaceX is taking pole position",
+      "title_ja": "国防総省、音声制御AIドローン群の開発に1億ドルの賞金を提供、イーロン・マスクのSpaceXが優位に",
+      "original_url": "https://www.techradar.com/pro/the-pentagon-wants-swarms-of-voice-controlled-ai-drones-and-is-offering-a-usd100-million-prize-as-a-reward-and-elon-musks-spacex-is-taking-pole-position",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nVYs3VznjvD4ySLGCbd4C9-2560-80.jpg",
+      "published_at": "2026-02-20T20:35:00Z",
+      "source": "TechRadar",
+      "summary_ja": "国防総省は、音声制御可能な自律型ドローン群の開発を促進するため、1億ドルの賞金付きコンテストを開始しました。この取り組みは、実際の戦闘における軍事用ドローン群運用という未解決の技術的課題への挑戦です。イーロン・マスク率いるSpaceXが、このコンテストで有力なポジションを占めていると見られています。"
+    },
+    {
+      "title": "AI-augmented threat actor accesses FortiGate devices at scale",
+      "title_ja": "AI強化された脅威アクターがFortiGateデバイスに大規模アクセス",
+      "original_url": "https://aws.amazon.com/blogs/security/ai-augmented-threat-actor-accesses-fortigate-devices-at-scale/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/03/21/hacker.jpg",
+      "published_at": "2026-02-20T20:27:43Z",
+      "source": "Amazon.com",
+      "summary_ja": "商用AIサービスの利用により、高度な技術を持たない脅威アクターでさえ、大規模なサイバー攻撃を実行できるようになっています。Amazon Threat Intelligenceは、この傾向を注視しており、最近の調査でその実態が明らかになりました。ロシアに関連するアクターが、AIを活用してFortiGateデバイスへの攻撃を加速させていることが観測されています。"
+    },
+    {
+      "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
+      "title_ja": "Amazon SageMaker AI 2025年レビュー パート1：柔軟なトレーニングプランと推論ワークロードの価格性能向上",
+      "original_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/20/p1-1-1120x630.png",
+      "published_at": "2026-02-20T20:26:47Z",
+      "source": "Amazon.com",
+      "summary_ja": "2025年、Amazon SageMaker AIは、主要インフラストラクチャにおいて、キャパシティ、価格性能、可観測性、ユーザビリティの4つの点で劇的な改善を遂げました。この記事では、特に柔軟なトレーニングプランと推論ワークロードにおける価格性能の向上に焦点を当てています。これらの改善は、AI開発者の効率性とコスト効率を大幅に向上させることを目指しています。"
+    },
+    {
+      "title": "Amazon SageMaker AI in 2025, a year in review part 2: Improved observability and enhanced features for SageMaker AI model customization and hosting",
+      "title_ja": "Amazon SageMaker AI 2025年レビュー パート2：SageMaker AIモデルのカスタマイズとホスティングにおける可観測性の向上と機能強化",
+      "original_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/20/P2-1120x630.png",
+      "published_at": "2026-02-20T20:26:30Z",
+      "source": "Amazon.com",
+      "summary_ja": "Amazon SageMaker AIは2025年、生成AIワークロードのトレーニング、チューニング、ホスティングを支援するための改善を複数実施しました。本記事は、その詳細なレビューのパート2です。特に、SageMaker AIモデルのカスタマイズとホスティングにおいて、可観測性の向上と機能強化に焦点を当てています。これにより、ユーザーはより効率的にAIモデルを開発、デプロイ、管理することが可能になりました。"
+    },
+    {
+      "title": "Trump is making coal plants even dirtier as AI demands more energy",
+      "title_ja": "トランプ政権、AIのエネルギー需要増に対応し石炭火力発電所の汚染規制を緩和",
+      "original_url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1140674387.jpg?quality=90&strip=all&crop=0%2C8.6662992559934%2C100%2C82.667401488013&w=1200",
+      "published_at": "2026-02-20T20:18:34Z",
+      "source": "The Verge",
+      "summary_ja": "トランプ政権は、AIのデータセンター建設による電力需要の増加に対応するため、バイデン政権下の水銀などの有害物質排出規制を撤廃しました。これにより、石炭火力発電所の再稼働が進み、環境汚染が深刻化する可能性があります。この動きは、生成AIの台頭によるエネルギー需要増と、それに対応する形で規制緩和を行うという、技術進歩と環境への影響という二律背反を浮き彫りにしています。"
+    }
+  ]
+}

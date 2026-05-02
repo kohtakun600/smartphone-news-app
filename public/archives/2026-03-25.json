@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-24T22:58:35.565Z",
+  "articles": [
+    {
+      "title": "RBC Embeds AI at the Core of Banking, Aiming for $1 Billion in Returns",
+      "title_ja": "RBC、銀行業務の中核にAIを組み込み、10億ドルの収益を目指す",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/rbc-embeds-ai-at-the-core-of-banking-aiming-for-1-billion-in-returns/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/RBC-AI-1.jpg",
+      "published_at": "2026-03-23T22:40:52Z",
+      "source": "pymnts.com",
+      "summary_ja": "カナダロイヤル銀行（RBC）は、開発者のワークフロー、資本市場インフラ、企業意思決定など、銀行業務の中核にAIを本格的に導入しています。この取り組みにより、最大10億ドルのAI生成収益を目標としています。AI技術を駆使して業務効率化と収益性の向上を目指す、銀行業界における大規模なAI活用の事例と言えるでしょう。"
+    },
+    {
+      "title": "The Last Archive: How AI Is Erasing What We Know—And Why Patent Attorneys Are Humanity’s Last Line of Defense",
+      "title_ja": "最後のアーカイブ：AIが我々の知識を消し去る現状と、弁理士が人類最後の防衛線である理由",
+      "original_url": "https://ipwatchdog.com/2026/03/23/the-last-archive-how-ai-is-erasing-what-we-know/",
+      "image_url": "https://ipwatchdog.com/wp-content/uploads/2026/03/IMG_0827-scaled.jpeg",
+      "published_at": "2026-03-23T22:39:16Z",
+      "source": "IPWatchdog.com",
+      "summary_ja": "AIの台頭により、特許出願の質が低下し、自己出願も急増しています。この記事では、AIが生成する「slopplications」（質の低い出願）の問題を取り上げ、弁理士が人類の知識を守る最後の砦としての役割を強調しています。特に、特許審査における弁理士の専門性と、AI時代におけるその重要性を訴えています。"
+    },
+    {
+      "title": "The agentic era: How Palo Alto Networks is turning security into a business enabler",
+      "title_ja": "自律型時代：パロアルトネットワークスがセキュリティをビジネス促進要因へと変革",
+      "original_url": "https://siliconangle.com/2026/03/23/agentic-era-palo-alto-networks-turning-security-business-enabler/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/05/paloaltonetworksboothlogo2.jpg",
+      "published_at": "2026-03-23T22:30:47Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "長年、サイバーセキュリティとビジネス革新は対立関係にありましたが、パロアルトネットワークスはセキュリティをビジネスの足かせから推進力に変えようとしています。彼らは、AIの導入加速というビジネスプレッシャーに対応し、安全性を確保しつつイノベーションを阻害しないセキュリティ体制を目指しています。これにより、企業はAIなどの最新技術をより安全かつ迅速に導入できるようになり、ビジネス成長を促進することが期待されます。"
+    },
+    {
+      "title": "Microsoft hires former Allen Institute for AI CEO under Mustafa Suleyman",
+      "title_ja": "マイクロソフト、ムスタファ・スレイマン氏の下で元アレン人工知能研究所CEOを採用",
+      "original_url": "https://www.businessinsider.com/microsoft-hires-ali-farhadi-ai-mustafa-suleyman-2026-3",
+      "image_url": "https://i.insider.com/69c1ba07e98a37a4841f2d8d?width=1200&format=jpeg",
+      "published_at": "2026-03-23T22:26:19Z",
+      "source": "Business Insider",
+      "summary_ja": "マイクロソフトは、ムスタファ・スレイマン氏率いるAIチームに、元アレン人工知能研究所CEOのアリ・ファルハディ氏をコーポレートVPとして採用しました。この人事は、マイクロソフトがAI分野における専門知識を強化し、競争力を高めるための戦略の一環と見られています。ファルハディ氏の加入は、マイクロソフトのAI技術開発に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "pyrhubarb 0.0.8",
+      "title_ja": "pyrhubarb 0.0.8",
+      "original_url": "https://pypi.org/project/pyrhubarb/0.0.8/",
+      "image_url": null,
+      "published_at": "2026-03-23T22:16:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "pyrhubarb 0.0.8 は、生成AIを活用したマルチモーダル文書理解のためのPythonフレームワークです。このフレームワークは、様々な形式の文書データを理解し、分析するための基盤を提供します。これにより、文書処理の効率化や、より高度な情報抽出が可能になることが期待されます。"
+    },
+    {
+      "title": "Capcom Says No to AI-Generated Assets in Games",
+      "title_ja": "カプコン、ゲーム内でのAI生成アセットの使用を否定",
+      "original_url": "https://news.sankakucomplex.com/n/q528alxRkLb34Qbs6QX_Ug",
+      "image_url": "https://news.sankakucomplex.com/wp-content/uploads/2024/03/KisaragiChihaya-Gyaru-Art-by-JabaraTornado-2024-Thumb.jpg",
+      "published_at": "2026-03-23T22:00:23Z",
+      "source": "Sankakucomplex.com",
+      "summary_ja": "カプコンは、ゲーム開発におけるAI技術の使用を認める一方で、ゲーム内でプレイヤーがAI生成アセットを目にすることはないと明確にしました。投資家向け説明会での質疑応答まとめによると、開発プロセスでのAI活用は行うものの、最終的なゲーム製品にはAI生成のコンテンツは採用しない方針です。この決定は、ゲームの品質とクリエイティブなビジョンを重視するカプコンの姿勢を示しています。"
+    },
+    {
+      "title": "UK Music Industry Wins Victory as Government Abandons AI Opt-Out Plan",
+      "title_ja": "英国音楽業界、政府のAI利用オプトアウト案撤回で勝利",
+      "original_url": "http://www.billboard.com/pro/uk-music-industry-wins-government-abandons-ai-opt-out-plan/",
+      "image_url": "https://www.billboard.com/wp-content/uploads/2026/03/david-furnish-elton-john-billboard-global-power-players-2025-billboard-1800.jpg?w=1024",
+      "published_at": "2026-03-23T21:55:26Z",
+      "source": "Billboard",
+      "summary_ja": "英国政府が、AIモデルが著作権保護された音楽を無許可で学習することを認める計画を撤回し、音楽業界が勝利を収めました。当初は、クリエイターがオプトアウトしない限り、AI企業による音楽利用を許可する方針でした。この決定は、AI技術の音楽業界への影響と、著作権保護の重要性を示唆しています。"
+    },
+    {
+      "title": "NVIDIA CEO backpedals on DLSS 5 AI backlash after telling people \"they're completely wrong,\" says he gets it now — \"I don’t love AI slop myself\"",
+      "title_ja": "NVIDIA CEO、DLSS 5のAIに対する批判を撤回、「間違っている」発言後、理解を示す。「私もAIスロップは好きではない」",
+      "original_url": "https://www.windowscentral.com/gaming/pc-gaming/nvidia-ceo-backpedals-on-dlss-5-ai-backlash-after-telling-people-theyre-completely-wrong",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/723rPaqwK9kKMsU9HpLzNh-2000-80.jpg",
+      "published_at": "2026-03-23T21:54:21Z",
+      "source": "Windows Central",
+      "summary_ja": "NVIDIAのCEO、ジェンセン・ファン氏は、当初DLSS 5に関する批判に対して「間違っている」と発言したものの、その後のユーザーからの反発を受けて、技術に対する理解を深めたと表明しました。同氏は、AIによる画像生成技術の品質について懸念を示し、「AIスロップ」を好まないことを明らかにしました。この発言は、NVIDIAのAI技術に対するユーザーの期待と、技術開発における課題を浮き彫りにしています。"
+    },
+    {
+      "title": "The Next PlayStation May Rely on AI More Than Any Console Before Before It",
+      "title_ja": "次世代PlayStationは、これまでのどのゲーム機よりもAIに大きく依存する可能性",
+      "original_url": "https://gizmodo.com/playstation-6-may-rely-on-ai-more-than-any-console-before-before-it-2000737105",
+      "image_url": "https://gizmodo.com/app/uploads/2026/03/playstation-5-pro-3-1-1200x675.jpg",
+      "published_at": "2026-03-23T21:45:59Z",
+      "source": "Gizmodo.com",
+      "summary_ja": "次世代PlayStation（PS6の可能性あり）は、グラフィックス性能とフレームレートを向上させるために、AI技術を多用する見込みです。特に、AIを活用した「偽フレーム」生成技術が採用されることで、よりスムーズなゲーム体験が期待されています。この傾向は、今後のゲーム業界におけるAIの重要性を示すものであり、ゲーム機の技術革新に大きな影響を与えるでしょう。"
+    },
+    {
+      "title": "Economists weigh consequences of war, tariffs, AI",
+      "title_ja": "エコノミストが戦争、関税、AIの影響を評価",
+      "original_url": "https://news.harvard.edu/gazette/story/2026/03/economists-weigh-consequences-of-war-tariffs-ai/",
+      "image_url": "https://news.harvard.edu/wp-content/uploads/2026/03/Untitled-design-4-copy-4-1.png",
+      "published_at": "2026-03-23T21:34:37Z",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "summary_ja": "専門家パネルは、戦争、関税、そしてAIの台頭がもたらす可能性のある、大規模な雇用喪失や世界的な金融不安定化のリスクについて懸念を表明しています。2008年の金融危機後、企業が人員再雇用ではなく自動化を選択したように、AIによる更なる自動化が雇用に大きな影響を与える可能性を指摘しています。これらの要因が組み合わさることで、世界経済に深刻な影響を及ぼす可能性があると警告しています。"
+    },
+    {
+      "title": "Cisco debuts new AI agent security features, open-source DefenseClaw tool",
+      "title_ja": "シスコ、AIエージェント向けセキュリティ新機能とオープンソースツールDefenseClawを発表",
+      "original_url": "https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/cisco.png",
+      "published_at": "2026-03-23T21:24:20Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "シスコは、企業のAIエージェントのセキュリティを強化するための新機能を発表しました。これらの機能は、RSAC 2026カンファレンスで公開されました。また、シスコは、AIセキュリティを強化するためのオープンソースツール「DefenseClaw」も公開し、企業がAI技術をより安全に活用できるよう支援します。"
+    },
+    {
+      "title": "Why now is the best time to buy a portable SSD",
+      "title_ja": "ポータブルSSDを購入するなら今が最適な理由",
+      "original_url": "https://www.cultofmac.com/news/ssd-price-increases",
+      "image_url": "https://www.cultofmac.com/wp-content/uploads/2026/03/SSD-prices.jpg.webp",
+      "published_at": "2026-03-23T21:20:14Z",
+      "source": "Cult of Mac",
+      "summary_ja": "ポータブルSSDの価格が高騰しており、購入を検討しているなら今が絶好の機会です。価格上昇の主な要因は、SSDの需要増加と供給の変動です。MacやiPadのストレージを増やすために、この技術を利用できる最適な時期といえるでしょう。"
+    },
+    {
+      "title": "Capcom Takes Firm Stance on Generative AI, but Not AI in General",
+      "title_ja": "カプコン、生成AIには強硬姿勢、ただしAI全体を否定せず",
+      "original_url": "http://comicbook.com/gaming/news/capcom-ai-stance-update/",
+      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/RESIDENT-EVIL-requiem_20260219223400.jpg?resize=2000,1125",
+      "published_at": "2026-03-23T21:00:00Z",
+      "source": "ComicBook.com",
+      "summary_ja": "カプコンは、ゲーム業界で議論を呼んでいる生成AIに対して明確な姿勢を示しました。具体的な内容はまだ明らかではありませんが、生成AIの活用に対する慎重な姿勢が伺えます。一方で、AI技術全体を否定するわけではなく、今後の動向が注目されます。"
+    },
+    {
+      "title": "The Contact Center Cost Cut That Actually Improves CX",
+      "title_ja": "顧客体験を向上させながらコスト削減を実現するコンタクトセンター",
+      "original_url": "https://www.cmswire.com/contact-center/the-contact-center-cost-cut-that-actually-improves-cx/",
+      "image_url": "https://www.cmswire.com/-/media/347b7723ccc84d47b5c1657713406a29.ashx",
+      "published_at": "2026-03-23T20:55:59Z",
+      "source": "CMSWire",
+      "summary_ja": "AI、自動化、そしてよりスマートな人員配置により、コンタクトセンターはコスト削減と顧客体験向上を両立できるようになりました。従来の効率性と顧客体験のトレードオフという考え方を覆し、戦略的なアプローチによって両立が可能となっています。これにより、運営コストを削減しながら、顧客満足度を向上させることが可能になります。"
+    },
+    {
+      "title": "Michael Intrator: GPU technology’s adaptability beyond crypto, the monetization of AI through inference, and why GPU lifespan misconceptions are misleading | All-In Podcast",
+      "title_ja": "マイケル・イントラター氏: GPU技術の仮想通貨以外への適応性、推論を通じたAIの収益化、そしてGPU寿命に関する誤解 | All-In Podcast",
+      "original_url": "https://cryptobriefing.com/michael-intrator-gpu-technologys-adaptability-beyond-crypto-the-monetization-of-ai-through-inference-and-why-gpu-lifespan-misconceptions-are-misleading-all-in-podcast/",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/23154746/all-in-800x421.jpg",
+      "published_at": "2026-03-23T20:55:17Z",
+      "source": "Crypto Briefing",
+      "summary_ja": "CoreWeaveのマイケル・イントラター氏は、GPU技術が仮想通貨マイニングからAI推論など多岐にわたる分野へ適応していると指摘しました。同氏は、GPUの寿命や市場価値に関する誤解を払拭し、AI推論による収益化の可能性を強調しています。CoreWeaveのAIクラウドプラットフォームの拡大は、GPUの利用範囲と経済的な価値の再評価を促しています。"
+    },
+    {
+      "title": "Best AI Content Marketing Tools in 2026: A Practical Guide for Marketers",
+      "title_ja": "2026年版：マーケター必見！AIコンテンツマーケティングツール：実践ガイド",
+      "original_url": "https://dmarketertayeeb.com/blog/best-ai-content-marketing-tools-2026/",
+      "image_url": "https://dmarketertayeeb.com/blog/wp-content/uploads/2024/08/Logo.png",
+      "published_at": "2026-03-23T20:50:59Z",
+      "source": "Dmarketertayeeb.com",
+      "summary_ja": "この記事では、2026年における最高のAIコンテンツマーケティングツールを紹介しています。リサーチ、執筆、最適化、再利用まで、コンテンツマーケティングの各段階で活用できるツールを網羅しています。デジタルマーケティング分野におけるAIの急速な進化に対応するため、マーケターがAIツールを効果的に活用するための実践的なガイドとなっています。"
+    },
+    {
+      "title": "Treasury Department Targets Regulatory Friction to Scale Bank AI Adoption",
+      "title_ja": "財務省、銀行におけるAI導入拡大に向け規制摩擦の解消を目指す",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/treasury-department-targets-regulatory-friction-to-scale-bank-ai-adoption/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Treasury-dept-AI-1.jpg",
+      "published_at": "2026-03-23T20:43:01Z",
+      "source": "pymnts.com",
+      "summary_ja": "米国財務省は、銀行における人工知能 (AI) の導入を促進するため、金融機関、テクノロジー企業、規制当局、専門家を集めた一連のラウンドテーブル「AIイノベーションシリーズ」を開始しました。この取り組みは、規制上の障壁を特定し、AI技術の活用事例を探求することを目的としています。最終的には、AI技術を金融分野に浸透させ、効率化とイノベーションを加速させることを目指しています。"
+    },
+    {
+      "title": "Bezos’s AI Manufacturing Gamble Could Change How Companies Get Fixed",
+      "title_ja": "ベゾス氏のAI製造業への賭けが、企業の修理方法を変える可能性",
+      "original_url": "https://www.pymnts.com/news/investment-tracker/2026/bezoss-ai-manufacturing-gamble-could-change-how-companies-get-fixed/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2023/03/manufacturing.jpg",
+      "published_at": "2026-03-23T20:29:12Z",
+      "source": "pymnts.com",
+      "summary_ja": "ジェフ・ベゾス氏が、AIをデジタル世界から製造業の物理的な世界へ展開する賭けに出ました。この試みは、企業が製品を修理する方法に革命をもたらす可能性を秘めています。主にテキストやコードに限定されていたAI技術が、製造現場で活用されることで、製造プロセス全体に大きな影響を与えることが期待されています。"
+    },
+    {
+      "title": "NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications",
+      "title_ja": "NVIDIA IGX Thor が産業、医療、ロボティクスのエッジAIアプリケーションを強化",
+      "original_url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
+      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-igx-thor.webp",
+      "published_at": "2026-03-23T20:24:38Z",
+      "source": "Nvidia.com",
+      "summary_ja": "NVIDIAのIGX Thorプラットフォームは、産業、医療、ロボティクス分野におけるエッジAIアプリケーションの性能を向上させることを目指しています。これにより、作業者の生産性向上、ヒューマンマシンインタラクションの改善、ダウンタイムの管理などが実現可能になります。高性能AIを活用することで、これらの分野における効率化と革新を加速させるでしょう。"
+    },
+    {
+      "title": "New Artificial Intelligence Specialty for UX Certification",
+      "title_ja": "UX認定資格に新たな専門分野、人工知能 (AI) が登場",
+      "original_url": "https://www.nngroup.com/news/item/new-ai-specialty/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "image_url": null,
+      "published_at": "2026-03-23T20:10:02Z",
+      "source": "Nngroup.com",
+      "summary_ja": "NNGroupは、UX認定プログラムに人工知能 (AI) 分野を追加すると発表しました。AIがUX作業全体を再構築する中、この専門分野はUX専門家が新しいAIツールを効果的に利用し適応できることを証明するのに役立ちます。これにより、UXの実務者はAIを活用したデザインや開発スキルを習得し、その能力を証明する機会を得られるようになります。"
+    }
+  ]
+}

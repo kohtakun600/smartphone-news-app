@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-06T22:56:06.767Z",
+  "articles": [
+    {
+      "title": "Labor Market Impacts of AI",
+      "title_ja": "AIが労働市場に与える影響",
+      "original_url": "https://www.anthropic.com/research/labor-market-impacts",
+      "image_url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+      "published_at": "2026-03-05T22:55:01Z",
+      "source": "Anthropic.com",
+      "summary_ja": "Anthropic社は、AIの信頼性、解釈可能性、制御可能性の向上を目指し、労働市場におけるAIの影響を評価する新たな指標を導入しました。この指標は、LLM（大規模言語モデル）の潜在能力と実際の使用データを組み合わせ、AIによる職務代替のリスクを測定します。この研究は、AI技術の発展が労働力に与える具体的な影響を明らかにし、今後の労働市場への変化に備えるための重要な示唆を与えます。"
+    },
+    {
+      "title": "Anthropic’s investors could be the key to ending its Pentagon standoff—but some investors have opposite views",
+      "title_ja": "Anthropicの投資家がPentagonとの対立を解消する鍵となる可能性も—しかし、一部の投資家は異なる見解",
+      "original_url": "https://fortune.com/2026/03/05/anthropic-investors-divided-pentagon-dispute/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261852583.jpg?resize=1200,600",
+      "published_at": "2026-03-05T22:53:58Z",
+      "source": "Fortune",
+      "summary_ja": "AI安全性を重視するAnthropicは、Pentagonとの協力関係を巡って一部投資家との対立を生じさせている。この状況は、同社の資金調達や今後の戦略に影響を与える可能性がある。特に、AI安全へのコミットメントと、政府との協力関係という、相反する利害の間で、投資家の意見が割れている点が注目される。"
+    },
+    {
+      "title": "Splitit and Google Prepare Installment Payments for AI Shopping Agents",
+      "title_ja": "SplititとGoogle、AIショッピングエージェント向け分割払い準備",
+      "original_url": "https://www.pymnts.com/news/artificial-intelligence/2026/splitit-google-prepare-installment-payments-ai-shopping-agents/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/03/Splitit.png",
+      "published_at": "2026-03-05T22:30:45Z",
+      "source": "pymnts.com",
+      "summary_ja": "Splititは、GoogleのUniversal Commerce Protocol (UCP) をサポートし、AIショッピングエージェントでの柔軟な支払いオプションを提供することを目指しています。 この取り組みにより、SplititはGoogleや大手小売企業と共に、エージェント型ショッピング体験を推進するオープンスタンダードを支援します。これにより、消費者はAIショッピングエージェントを通じて、より柔軟な支払い方法を選択できるようになるでしょう。"
+    },
+    {
+      "title": "Israel Accused of Using AI to Pick Iran Targets 'Without Any Human Oversight’—Just Like in Gaza",
+      "title_ja": "イスラエル、イラン攻撃目標選定にAIを「人間の監督なし」で使用と非難—ガザと同様",
+      "original_url": "https://www.commondreams.org/news/us-israel-ai-iran",
+      "image_url": "https://www.commondreams.org/media-library/image.jpg?id=65157988&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "published_at": "2026-03-05T22:21:37Z",
+      "source": "Common Dreams",
+      "summary_ja": "イスラエルがガザ地区での爆撃目標選定にAIを前例のないほど使用したことを受け、専門家はイランにおけるイスラエルのAI標的選定における人間の監督の欠如について警鐘を鳴らしています。この技術は、人命の損失や戦争の倫理的側面に対する懸念を引き起こし、AIの軍事利用に関する議論を加速させています。今回の非難は、AIによる意思決定が戦争の性質に及ぼす影響を浮き彫りにしています。"
+    },
+    {
+      "title": "pyerualjetwork 6.0.3",
+      "title_ja": "pyerualjetwork 6.0.3",
+      "original_url": "https://pypi.org/project/pyerualjetwork/6.0.3/",
+      "image_url": null,
+      "published_at": "2026-03-05T22:19:12Z",
+      "source": "Pypi.org",
+      "summary_ja": "pyerualjetwork 6.0.3は、GPUアクセラレーションと並列スレッド処理に対応したPythonの機械学習ライブラリです。専門家や研究者向けに設計されており、PLAN、MLP、深層学習トレーニング、遺伝的最適化のためのENE（優生ニューロエボリューション）などの機能を備えています。しかし、記事内容の一部が読み込めない問題が発生しているようです。"
+    },
+    {
+      "title": "Amazon Quietly Abandoned Its Robot Innovation",
+      "title_ja": "Amazon、静かにロボットイノベーションを断念",
+      "original_url": "https://www.bgr.com/2112422/amazon-abandons-warehouse-robot-blue-jay/",
+      "image_url": "https://www.bgr.com/img/gallery/amazon-quietly-abandoned-its-robot-innovation/l-intro-1772309571.jpg",
+      "published_at": "2026-03-05T22:17:00Z",
+      "source": "BGR",
+      "summary_ja": "Amazonは、倉庫業務の効率化を目指して昨年導入した革新的なロボットラインを静かに打ち切りました。 このロボット「Blue Jay」は、エージェント型AIシステム「Project Eluna」と共に2025年10月に発表され、荷物運搬などを自動化する予定でした。 しかし、運用上の課題やコストの問題から、最終的にはプロジェクトが中止されたと見られています。"
+    },
+    {
+      "title": "pyerualjetwork 6.0.3a0",
+      "title_ja": "pyerualjetwork 6.0.3a0",
+      "original_url": "https://pypi.org/project/pyerualjetwork/6.0.3a0/",
+      "image_url": null,
+      "published_at": "2026-03-05T22:04:20Z",
+      "source": "Pypi.org",
+      "summary_ja": "pyerualjetworkは、GPUアクセラレーションと並列スレッド処理をサポートした、Python製の機械学習ライブラリです。専門家や研究者向けに設計されており、PLAN、MLP、深層学習トレーニング、遺伝的最適化のためのENE (Eugenic NeuroEvolution)などの機能を提供します。Webサイトの一部が読み込めないという問題が発生しています。"
+    },
+    {
+      "title": "Fintech in AI Search: How to Be the Trusted & Featured Brand",
+      "title_ja": "AI検索におけるフィンテック：信頼される注目ブランドになるには",
+      "original_url": "https://backlinko.com/fintech-ai",
+      "image_url": "https://api.backlinko.com/app/uploads/2026/03/finance-in-ai-search-featured-image.png",
+      "published_at": "2026-03-05T22:00:50Z",
+      "source": "Backlinko.com",
+      "summary_ja": "AI検索におけるフィンテックは、特に厳しい規制下で運用されます。金融商品は「Your Money or Your Life」カテゴリーに分類されるため、AIが言及する前に、製品の正当性や手数料、保護体制など、高い検証基準をクリアする必要があります。信頼されるブランドとして、AI検索結果で上位表示されるためには、これらの基準を確実に満たし、透明性を確保することが重要になります。"
+    },
+    {
+      "title": "The infrastructure bottleneck: Why enterprise AI needs a ‘hyperspeed’ pivot",
+      "title_ja": "インフラのボトルネック：企業AIが「超高速」な転換を必要とする理由",
+      "original_url": "https://siliconangle.com/2026/03/05/infrastructure-bottleneck-enterprise-ai-needs-hyperspeed-pivot/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/hyperframe.png",
+      "published_at": "2026-03-05T21:59:22Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "MWCやNvidia GTCなど、AI関連イベントが活況を呈する中、企業AIの現実への移行が議論されています。しかし、その実現にはインフラのボトルネック、特にデータ転送速度の限界が大きな課題となっています。AIの進化を加速させるためには、このボトルネックを解消するための抜本的なインフラ改革、つまり「超高速」な転換が不可欠です。"
+    },
+    {
+      "title": "How Fritz Lang’s Metropolis Created the Blueprint for Modern Science Fiction (1927)",
+      "title_ja": "フリッツ・ラングの『メトロポリス』（1927年）がいかに現代SFのブループリントを創出したか",
+      "original_url": "https://www.linksdv.com/25032",
+      "image_url": "https://www.linksdv.com/cache/imagenlink/2026/03/9dbe83544642ba4a666c615104cb1ff6.jpg",
+      "published_at": "2026-03-05T21:51:32Z",
+      "source": "Linksdv.com",
+      "summary_ja": "1927年の映画『メトロポリス』は、貧困にあえぐ労働者階級と、富裕層による社会支配という構図を描き、現代SFの基盤を築きました。テクノロジーに対する希望と同時に、AIによる社会統制の危険性も示唆し、その後のSF作品に大きな影響を与えました。この映画は、機械化された未来都市の描写を通して、社会問題とテクノロジーの関係性を先駆的に探求した作品と言えるでしょう。"
+    },
+    {
+      "title": "Automated interpretable artificial intelligence genomic prediction with AIGP [METHOD]",
+      "title_ja": "AIGPを用いた自動解釈可能な人工知能ゲノム予測 [手法]",
+      "original_url": "https://genome.cshlp.org/content/early/2026/03/05/gr.281006.125.short?rss=1",
+      "image_url": null,
+      "published_at": "2026-03-05T21:48:31Z",
+      "source": "Cshlp.org",
+      "summary_ja": "ゲノム変異から表現型を予測するという遺伝学上の課題に対し、AIGPと呼ばれる新しい手法が提案されました。この手法は、従来の統計的手法が抱える課題を克服し、人工的な事前仮定に依存せずに、エピスタシス効果（遺伝子間の相互作用）を捉えることを目指しています。これにより、より正確で解釈可能なゲノム予測が可能になり、遺伝学研究における新たな進歩が期待されます。"
+    },
+    {
+      "title": "xAI loses bid to halt California AI data disclosure law",
+      "title_ja": "xAI、カリフォルニア州のAIデータ開示法阻止に失敗",
+      "original_url": "https://www.channelnewsasia.com/business/xai-loses-bid-halt-california-ai-data-disclosure-law-5975091",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--4OkMFz6f--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-05T214317Z_2_LYNXMPEM241KB_RTROPTP_3_TECH-ANTITRUST-XAI-APPLE.JPG?itok=RDzxe87W",
+      "published_at": "2026-03-05T21:43:17Z",
+      "source": "CNA",
+      "summary_ja": "イーロン・マスク氏のxAIが、AIモデルの学習に使用するデータに関する情報開示を義務付けるカリフォルニア州法に対し、一時的な差し止めを求める訴えを連邦裁判所で却下されました。この判決は、AI開発におけるデータ透明性の議論に影響を与える可能性があります。xAIのような企業は、今後、データ開示義務に従う必要が出てきました。"
+    },
+    {
+      "title": "Trader AI Review: Real Trading Software or Scam? Facts Uncovered",
+      "title_ja": "Trader AI レビュー：本物の取引ソフトウェアか詐欺か？事実を解明",
+      "original_url": "https://whatjapanthinks.com/trader-ai-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-03-05T21:39:51Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Trader AIは、デジタル資産投資家向けに開発された新しい取引ソリューションです。高度なシステムを利用して取引体験を簡素化・強化することを謳っていますが、その実態については様々な憶測が飛び交っています。本レビューでは、Trader AIが実際にどのような技術を使用し、その信頼性や潜在的なリスクについて詳しく検証します。"
+    },
+    {
+      "title": "tf-nightly 2.22.0.dev20260305",
+      "title_ja": "tf-nightly 2.22.0.dev20260305",
+      "original_url": "https://pypi.org/project/tf-nightly/2.22.0.dev20260305/",
+      "image_url": null,
+      "published_at": "2026-03-05T21:38:48Z",
+      "source": "Pypi.org",
+      "summary_ja": "TensorFlowのオープンソース機械学習フレームワークであるtf-nightlyの最新版、2.22.0.dev20260305がリリースされました。このバージョンは、開発版であり、将来のTensorFlowの機能強化や改善のプレビューを提供します。サイトの表示に問題が発生している可能性があるため、接続状況やブラウザの設定を確認する必要があります。"
+    },
+    {
+      "title": "AI: Stimulus and Threat to Optimal Brain Functioning",
+      "title_ja": "AI：脳機能最適化への刺激と脅威",
+      "original_url": "https://www.psychologytoday.com/us/blog/the-changing-brain/202603/ai-stimulus-and-threat-to-optimal-brain-functioning",
+      "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-03/pexels-tatianasyrikova-3975590.jpg?itok=QDMh93q1",
+      "published_at": "2026-03-05T21:24:15Z",
+      "source": "Psychology Today",
+      "summary_ja": "AIの社会への統合は不可逆的に進んでおり、人間の脳機能に影響を与え始めています。ChatGPTのような技術の登場以来、人間らしい対話や文章作成から、リアルな映像生成までAIは進化を遂げています。この記事では、AIがもたらす恩恵と危険性の間で、私たちがどのようなトレードオフを行っているのかを考察します。"
+    },
+    {
+      "title": "US mulls new rules for AI chip exports, including requiring investments by foreign firms in US",
+      "title_ja": "米国、AIチップ輸出規制の新ルールを検討、外国企業による米国内投資の義務化も視野に",
+      "original_url": "https://www.channelnewsasia.com/business/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-foreign-firms-in-us-5975051",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--YlkBz8Ze--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-05T211426Z_1_LYNXMPEM241JG_RTROPTP_3_UKRAINE-CRISIS-CHIPS.JPG?itok=KRosKPjd",
+      "published_at": "2026-03-05T21:12:07Z",
+      "source": "CNA",
+      "summary_ja": "米国政府は、人工知能 (AI) チップの輸出に関する新たな規制枠組みを協議しており、その一環として、輸出許可の条件として外国企業に対し米国のAIデータセンターへの投資や安全保障上の保証を義務付けることを検討しています。この動きは、AI技術における米国の優位性を維持し、国家安全保障上のリスクを抑制することを目的としています。この規制強化は、世界的なAI開発競争に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Marvell projects strong fiscal 2028 revenue on AI-driven data center boom, shares jump",
+      "title_ja": "Marvell、AIデータセンターの隆盛を受け、2028年度の力強い売上高予測を発表、株価が急騰",
+      "original_url": "https://www.channelnewsasia.com/business/marvell-projects-strong-fiscal-2028-revenue-ai-driven-data-center-boom-shares-jump-5975041",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--7f4h4inW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-05T211150Z_2_LYNXMPEM241J5_RTROPTP_3_MARVELL-TECH-RESULTS.JPG?itok=5IqKP49S",
+      "published_at": "2026-03-05T21:08:20Z",
+      "source": "CNA",
+      "summary_ja": "Marvell Technologyは、AIデータセンター向けのカスタムチップと相互接続ソリューションへの旺盛な需要を背景に、2028年度の売上高がウォール街の予測を上回ると発表しました。この発表により、同社の株価は15％急騰しました。AI技術の進化に伴い、Marvellの半導体技術がデータセンターインフラにおいて重要な役割を担うことが期待されています。"
+    },
+    {
+      "title": "Marvell forecasts first quarter revenue above estimates",
+      "title_ja": "Marvell、第1四半期の売上高予測が市場予想を上回る",
+      "original_url": "https://www.channelnewsasia.com/business/marvell-forecasts-first-quarter-revenue-above-estimates-5975041",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--7f4h4inW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-05T211150Z_2_LYNXMPEM241J5_RTROPTP_3_MARVELL-TECH-RESULTS.JPG?itok=5IqKP49S",
+      "published_at": "2026-03-05T21:08:20Z",
+      "source": "CNA",
+      "summary_ja": "半導体設計会社のMarvell Technologyは、データセンター向けのカスタム半導体の需要増加を背景に、第1四半期の売上高がウォール街の予想を上回ると発表しました。これは、AIアプリケーションを支える需要の高まりを示唆しています。株価もこれを受けて上昇しました。"
+    },
+    {
+      "title": "Lenovo adopts Lego mindset with a modular ThinkBook AI PC, but will it be yet another underwhelming Motorola Ara-esque venture?",
+      "title_ja": "レノボ、モジュール式ThinkBook AI PCでレゴ思考を採用。しかし、またしてもMotorola Araのような期待外れな試みになるのか？",
+      "original_url": "https://www.techradar.com/pro/lenovo-adopts-lego-mindset-with-a-modular-thinkbook-ai-pc-but-will-it-be-yet-another-underwhelming-motorola-ara-esque-venture",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xzaZyrLYNDBBTYCC99JFWX-1429-80.png",
+      "published_at": "2026-03-05T21:05:00Z",
+      "source": "TechRadar",
+      "summary_ja": "レノボは、企業向けの耐久性、ライフサイクル価値、そしてシステムレベルのAI統合に焦点を当てたモジュール式ThinkBook AI PCのコンセプトを発表しました。このコンセプトは、主に消費者向けではなく、企業内の大規模な利用を想定しています。モジュール化を通じて、PCの寿命延長とアップグレードの容易さを目指し、AI技術をシステムレベルで統合することで、新しいコンピューティング体験を提供する可能性があります。"
+    },
+    {
+      "title": "What did Anthropic’s jobs early‑warning system report? #tech",
+      "title_ja": "Anthropicの早期警戒システムは何を報告したか？ #テクノロジー",
+      "original_url": "https://alltoc.com/tech/what-did-anthropics-jobs-early-warning-system-report",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "published_at": "2026-03-05T21:03:38Z",
+      "source": "Alltoc.com",
+      "summary_ja": "Anthropic社が開発した、生成AIによるホワイトカラー職の破壊を検出する早期警戒システムの初期報告書が公開されました。 現時点では、AIによる職への影響を示す証拠は限定的であると報告しています。 このシステムは、AIによる労働市場への影響を早期に把握し、対策を講じることを目的としています。"
+    }
+  ]
+}

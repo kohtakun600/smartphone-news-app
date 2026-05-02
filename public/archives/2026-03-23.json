@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-22T22:53:04.370Z",
+  "articles": [
+    {
+      "title": "mlba 2.0.5",
+      "title_ja": "mlba 2.0.5",
+      "original_url": "https://pypi.org/project/mlba/2.0.5/",
+      "image_url": null,
+      "published_at": "2026-03-21T21:45:54Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事は、Pythonを用いた『ビジネスアナリティクスへの機械学習：概念、テクニック、応用』（第2版）のユーティリティ関数を提供するライブラリ、mlbaのバージョン2.0.5に関するものです。このライブラリは、機械学習をビジネス分析に適用するためのツールを提供し、ユーザーがより効率的にデータ分析を行うことを支援します。現状では、ウェブサイトの一部がロードできない問題が発生しているようです。"
+    },
+    {
+      "title": "spforge 0.10.19",
+      "title_ja": "spforge 0.10.19",
+      "original_url": "https://pypi.org/project/spforge/0.10.19/",
+      "image_url": null,
+      "published_at": "2026-03-21T21:24:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "spforge 0.10.19は、スポーツデータから特徴量や評価を生成し、機械学習モデルなどの構築を支援する柔軟なフレームワークです。これにより、スポーツデータの分析や予測モデル開発が効率的に行えます。このフレームワークは、トレーニングと推論の両方に利用できるため、幅広い用途に対応可能です。"
+    },
+    {
+      "title": "MSI (re)launches $85,000 Nvidia DGX Station workstation with the Nvidia GB300 Ultra, a pair of 400GbE LAN ports, and 768GB of RAM",
+      "title_ja": "MSIが、Nvidia GB300 Ultra、400GbE LANポート2基、768GB RAM搭載の8万5千ドルワークステーション、DGX Stationを再投入",
+      "original_url": "https://www.techradar.com/pro/msi-re-launches-usd85-000-nvidia-dgx-station-workstation-with-the-nvidia-gb300-ultra-a-pair-of-400gbe-lan-ports-and-768gb-of-ram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4y5LJf67iYR9jgSsUF6ffR-1920-80.jpg",
+      "published_at": "2026-03-21T21:20:00Z",
+      "source": "TechRadar",
+      "summary_ja": "MSIは、Nvidia GB300 Ultraを搭載し、クラウドインフラに依存せずに大規模AIモデルを実行できる8万5千ドル（約1200万円）のAIワークステーション「XpertStation WS300」を再発売しました。このワークステーションは、400GbE LANポートを2基備え、高速な分散型マルチノードAIワークロードに対応します。768GBのRAMを搭載し、最先端のAI開発をデスクトップレベルで実現します。"
+    },
+    {
+      "title": "Timothée Chalamet Adapting Bestselling Novel About AI With Brad Pitt",
+      "title_ja": "ティモシー・シャラメ、ブラッド・ピットと共にAIに関するベストセラー小説を映画化",
+      "original_url": "https://ohnotheydidnt.livejournal.com/132097788.html",
+      "image_url": "https://l-files.livejournal.net/og_image/3616053/516006?v=1774128015",
+      "published_at": "2026-03-21T21:13:57Z",
+      "source": "Livejournal.com",
+      "summary_ja": "ワーナー・ブラザースが、リチャード・パワーズのニューヨーク・タイムズ・ベストセラー『Playground』の映画化権を獲得しました。ティモシー・シャラメとブラッド・ピットのPlan Bが製作に携わる予定です。この映画は、AIをテーマにした小説を基にしており、シャラメの新たな挑戦としても注目されています。"
+    },
+    {
+      "title": "Amazon developing a new phone more than a decade after its first",
+      "title_ja": "Amazon、初のスマートフォンから10年以上経て、新型携帯電話を開発",
+      "original_url": "https://asymco.com/2026/03/21/amazon-developing-a-new-phone-more-than-a-decade-after-its-first/",
+      "image_url": "https://asymco.com/wp-content/uploads/og-default.jpg",
+      "published_at": "2026-03-21T21:12:32Z",
+      "source": "Asymco.com",
+      "summary_ja": "Amazonが、かつてのFireから10年以上経て、新型スマートフォンを開発していると報じられています。この「Transformer」と呼ばれるデバイスは、Amazonのデバイスおよびサービス部門内で開発されており、モバイルパーソナライゼーションデバイスとしての可能性が期待されています。この動きは、Amazonがモバイル市場への再参入を目指していることを示唆しています。"
+    },
+    {
+      "title": "Prevalence of GenAI sexualized image usage by adolescents in the US",
+      "title_ja": "米国の青少年における、ジェネレーティブAIによる性的な画像の利用の実態",
+      "original_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342824",
+      "image_url": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0342824.t001&size=inline",
+      "published_at": "2026-03-21T20:46:06Z",
+      "source": "Plos.org",
+      "summary_ja": "本研究は、ジェネレーティブAI（GenAI）が生成した性的な画像を、米国の青少年がどの程度利用しているかを調査したものです。調査結果は、この新たな技術が青少年の性的行動や安全に及ぼす影響を理解する上で重要です。GenAI技術の普及に伴い、この問題は今後ますます注目を集めるでしょう。"
+    },
+    {
+      "title": "Mysterious humming sound driving South Jersey residents crazy",
+      "title_ja": "ニュージャージー州の住民を悩ませる謎の低周波音、原因は建設中のAIデータセンターか？",
+      "original_url": "https://nypost.com/2026/03/21/us-news/mysterious-humming-sound-driving-south-jersey-residents-crazy/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/124135694.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-03-21T20:26:27Z",
+      "source": "New York Post",
+      "summary_ja": "ニュージャージー州の小さな町で、建設中の巨大AIデータセンターから発せられると思われる謎の低周波音が、住民を苦しめています。Microsoftが出資するこのデータセンターの建設が原因と推測されていますが、センター側は現時点では稼働していないため、原因を否定しています。この騒音問題は、AI技術の発展に伴うインフラ整備が、地域社会に与える影響の一例として注目されています。"
+    },
+    {
+      "title": "Google Search test replaces headlines and website titles with AI",
+      "title_ja": "Google検索がAIで見出しとウェブサイトタイトルを置き換えるテストを開始",
+      "original_url": "http://9to5google.com/2026/03/21/google-search-test-replaces-headlines-and-website-titles-with-ai/",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-hq-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-03-21T20:25:00Z",
+      "source": "9to5google.com",
+      "summary_ja": "Google検索が、見出しとウェブサイトタイトルをAIによって置き換える実験を開始しました。これは、必要性に疑問符がつき、悪影響につながる可能性も指摘されています。この変更は検索結果の表示方法を根本的に変える可能性があり、情報へのアクセスとユーザー体験に影響を与える可能性があります。"
+    },
+    {
+      "title": "Acer Predator Triton 14 AI",
+      "title_ja": "Acer Predator Triton 14 AI",
+      "original_url": "https://me.pcmag.com/en/laptops/36088/acer-predator-triton-14-ai",
+      "image_url": "https://sm.pcmag.com/t/pcmag_me/review/a/acer-preda/acer-predator-triton-14-ai_z8kb.1200.jpg",
+      "published_at": "2026-03-21T20:00:00Z",
+      "source": "PCMag.com",
+      "summary_ja": "Acer Predator Triton 14 AIは、スリムなデザインと強力なパフォーマンスの両立を目指したゲーミングノートPCです。小型軽量でありながら、高い処理能力を実現するために、様々な技術的工夫が凝らされています。この記事では、このプレミアムノートPCが、性能と携帯性のバランスをどのように実現しているのかを探求します。"
+    },
+    {
+      "title": "Acer Predator Triton 14 AI",
+      "title_ja": "Acer Predator Triton 14 AI",
+      "original_url": "https://uk.pcmag.com/laptops/163912/acer-predator-triton-14-ai",
+      "image_url": "https://sm.pcmag.com/t/pcmag_uk/review/a/acer-preda/acer-predator-triton-14-ai_eyq3.1200.jpg",
+      "published_at": "2026-03-21T20:00:00Z",
+      "source": "PCMag.com",
+      "summary_ja": "AcerのPredator Triton 14 AIは、薄型軽量ながら強力なパフォーマンスを実現することを目指したゲーミングノートPCです。従来の薄型モデルが抱えていた性能とデザインのトレードオフを、AI技術を活用することでどこまで克服できるかが焦点となっています。この新しいPredator Triton 14 AIは、その洗練されたデザインと高性能を両立できるのか、今後の動向が注目されます。"
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns | TechCrunch",
+      "title_ja": "出版社、AI生成懸念からホラー小説『Shy Girl』の出版中止 | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "published_at": "2026-03-21T19:31:40Z",
+      "source": "TechCrunch",
+      "summary_ja": "出版社Hachette Book Groupが、AIを使用してテキストが生成された疑いがあるとして、ホラー小説『Shy Girl』の出版を中止しました。これは、AI技術によるコンテンツ生成に対する出版業界の懸念が高まっていることを示唆しています。今回の決定は、著作権侵害や作品の信頼性に関する問題を含め、AI生成コンテンツの倫理的および法的影響に関する議論を加速させる可能性があります。"
+    },
+    {
+      "title": "School System Leaders, OpenAI, Kagi Translate, More: Saturday Afternoon ResearchBuzz, March 21, 2026",
+      "title_ja": "学校システムリーダー、OpenAI、Kagi Translateなど：2026年3月21日土曜日の午後リサーチバズ",
+      "original_url": "https://researchbuzz.me/2026/03/21/school-system-leaders-openai-kagi-translate-more-saturday-afternoon-researchbuzz-march-21-2026/",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+      "published_at": "2026-03-21T19:24:57Z",
+      "source": "Researchbuzz.me",
+      "summary_ja": "イェール大学経営大学院The Broad Centerが、学校システムリーダーに関するデータのリポジトリをGitHub上で公開しました。このリポジトリは、教育分野におけるデータ駆動型の意思決定を支援することを目的としています。今回の発表は、教育分野におけるデータとAIの活用を促進し、今後の研究開発に貢献する可能性を秘めています。"
+    },
+    {
+      "title": "How to Build Free Templates With AI for Reusable Assets",
+      "title_ja": "AIを活用して再利用可能なアセット用無料テンプレートを作成する方法",
+      "original_url": "https://www.jivochat.com/blog/marketing/how-to-build-free-templates-with-ai-for-reusable-assets.html",
+      "image_url": "https://www.jivochat.com/images/layout/og/card-en.png",
+      "published_at": "2026-03-21T19:05:32Z",
+      "source": "Jivochat.com",
+      "summary_ja": "AIの進化により、繰り返し使用できるテンプレートを無料で簡単に作成できるようになりました。これにより、生産性の向上に大きく貢献します。この記事では、誰でも利用できる使いやすいAIツールを活用して、目的に合わせたカスタマイズ可能なテンプレートを生成する方法を紹介します。テンプレート作成のプロセスを簡素化し、効率的な作業を支援します。"
+    },
+    {
+      "title": "Artificial Intelligence is Taking Over Political Campaigns",
+      "title_ja": "人工知能が政治キャンペーンを席巻",
+      "original_url": "https://www.dailysignal.com/2026/03/21/artificial-intelligence-is-taking-over-political-campaigns/",
+      "image_url": "https://www.dailysignal.com/wp-content/uploads/2026/03/JohnCornyn.jpg",
+      "published_at": "2026-03-21T19:00:00Z",
+      "source": "Daily Signal",
+      "summary_ja": "2026年の中間選挙において、人工知能が単なる政治的テーマとしてだけでなく、その影響力を強めています。特に、主要な連邦議会選挙のキャンペーンでは、対立候補を批判する「ディープフェイク」技術を用いた動画が多用されるなど、AI技術が重要な役割を担っています。これにより、有権者への情報伝達方法が大きく変化し、選挙戦術に新たな展開をもたらす可能性があります。"
+    },
+    {
+      "title": "macrodata-refiner 0.2.1",
+      "title_ja": "macrodata-refiner 0.2.1",
+      "original_url": "https://pypi.org/project/macrodata-refiner/0.2.1/",
+      "image_url": null,
+      "published_at": "2026-03-21T18:59:05Z",
+      "source": "Pypi.org",
+      "summary_ja": "Macrodata Labsが開発した、機械学習の大規模データセット向けデータ処理フレームワーク「macrodata-refiner」のバージョン0.2.1がリリースされました。このフレームワークは、機械学習におけるデータ処理を効率化し、大規模データセットの取り扱いを容易にするためのものです。記事では、ウェブサイトの一部が読み込めないという問題が報告されており、原因としてブラウザ拡張機能やネットワークの問題などが考えられます。"
+    },
+    {
+      "title": "Who is Jessica Foster, the curious case of MAGA dream girl? US Army blonde woman with viral Instagram account identified",
+      "title_ja": "MAGAの理想像？インスタで話題の米軍金髪女性ジェシカ・フォスターとは？",
+      "original_url": "https://economictimes.indiatimes.com/news/international/us/who-is-jessica-foster-the-curious-case-of-maga-dream-girl-us-army-blonde-woman-with-viral-instagram-account-identified/articleshow/129723887.cms",
+      "image_url": "https://img.etimg.com/thumb/msid-129724377,width-1200,height-630,imgsize-648640,overlay-economictimes/articleshow.jpg",
+      "published_at": "2026-03-21T18:56:36Z",
+      "source": "The Times of India",
+      "summary_ja": "インスタグラムで100万人以上のフォロワーを獲得した米軍女性の架空アカウント「ジェシカ・フォスター」が話題となっています。この記事は、このアカウントがAIによって生成された可能性があることを指摘し、フェイクインフルエンサーの台頭、政治的なメッセージの拡散、そして収益化の新たな手法に焦点を当てています。これにより、SNS上での情報操作や偽情報の影響が改めて浮き彫りになりました。"
+    },
+    {
+      "title": "AI should be a tool to help judges, not replace them: Chief Justice of India",
+      "title_ja": "AIは裁判官を支援するツールとして活用すべきであり、置き換えるものではない：インド最高裁判所長官",
+      "original_url": "https://timesofindia.indiatimes.com/city/bengaluru/ai-should-be-a-tool-to-help-judges-not-replace-them-chief-justice-of-india/articleshow/129723142.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-129723141,width-1280,height-720,imgsize-15238,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "published_at": "2026-03-21T18:37:00Z",
+      "source": "The Times of India",
+      "summary_ja": "インド最高裁判所長官は、人工知能 (AI) の司法制度への統合は人間の意思決定を強化すべきであり、置き換えるものではないと強調しました。AIは裁判官の業務を支援し、効率化に貢献するツールとして活用されるべきという見解を示しました。この発言は、AI技術の発展と司法への応用が進む中で、人間による判断の重要性を改めて示したものです。"
+    },
+    {
+      "title": "3 Reasons Why Taiwan Semiconductor Is the Ultimate Artificial Intelligence (AI) Investment",
+      "title_ja": "台湾積体電路製造（TSMC）が究極のAI投資である3つの理由",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5f39c4d-df32-4e4e-832e-e8f0988e582a",
+      "image_url": null,
+      "published_at": "2026-03-21T18:20:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "台湾積体電路製造（TSMC）は、AI関連の半導体製造において世界をリードしており、AI技術の進歩に不可欠な存在です。同社の高度な製造技術は、AIの計算能力を向上させるための高性能チップの製造を可能にし、AI分野への投資を魅力的なものにしています。この記事では、TSMCがAI投資として優れている3つの理由が解説されています。"
+    },
+    {
+      "title": "maya-encoding 0.2.1",
+      "title_ja": "maya-encoding 0.2.1",
+      "original_url": "https://pypi.org/project/maya-encoding/0.2.1/",
+      "image_url": null,
+      "published_at": "2026-03-21T18:09:25Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事は、機械学習向けの新しい数値エンコーディング手法「Vigesimal Feature Decomposition (VFD)」と「Maya Calendar Encoding (MCE)」を紹介しています。これらの手法は、マヤ文明にインスパイアされたもので、特徴量分解と暦に基づいたエンコーディングを通じて、機械学習モデルのパフォーマンス向上を目指しています。記事全文はロードできませんでしたが、このプロジェクトは技術的な興味を引く可能性があります。"
+    },
+    {
+      "title": "Why are Crimson Desert fans calling AI art? #gaming",
+      "title_ja": "『Crimson Desert』ファンがAIアート疑惑を提起？ #ゲーム",
+      "original_url": "https://alltoc.com/gaming/why-are-crimson-desert-fans-calling-ai-art",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "published_at": "2026-03-21T18:02:47Z",
+      "source": "Alltoc.com",
+      "summary_ja": "新作ゲーム『Crimson Desert』の発売を巡り、ゲーム内のアートワークや翻訳に生成AIが使用されたのではないかという疑惑が浮上しています。プレイヤーからは、一部のゲーム内画像がAIによって生成された可能性があるという指摘が相次いでいます。もしAIが使用されていた場合、ゲーム開発における技術的な利用と、クリエイティブな表現への影響が議論を呼ぶ可能性があります。"
+    }
+  ]
+}

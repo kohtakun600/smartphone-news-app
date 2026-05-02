@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-02-25T23:01:12.184Z",
+  "articles": [
+    {
+      "title": "AI accounting startup Basis secures $100M at $1.15B valuation as firms adopt agent-based workflows",
+      "title_ja": "AI会計スタートアップのBasisが1億ドルを調達、11.5億ドル評価へ - エージェントベースのワークフロー導入が進む",
+      "original_url": "https://siliconangle.com/2026/02/24/ai-accounting-startup-basis-secures-100m-1-15b-valuation-firms-adopt-agent-based-workflows/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/basis.png",
+      "published_at": "2026-02-24T22:56:43Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AI会計プラットフォームを提供するスタートアップBasisが、1億ドルの資金調達を実施し、評価額を11.5億ドルに伸ばしました。この資金は、プラットフォームの開発加速と人員増加に充てられます。会計業務へのAIエージェント導入が進み、業務効率化と新たな価値創出への期待が高まっています。"
+    },
+    {
+      "title": "Amazon would rather blame its own engineers than its AI",
+      "title_ja": "Amazonは自社のAIよりも、むしろエンジニアを責める",
+      "original_url": "https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
+      "image_url": "https://regmedia.co.uk/2023/11/15/robot_shutterstock.jpg",
+      "published_at": "2026-02-24T22:54:13Z",
+      "source": "Theregister.com",
+      "summary_ja": "Amazonは、AWSの障害発生時に、AIの誤りよりもエンジニア側の問題として説明する傾向が強いという意見が述べられています。これは、AIの責任を避け、システムの信頼性を維持するための戦略と見られています。筆者は、長年にわたりAmazonのインフラストラクチャにおける障害の説明を見てきた経験から、この傾向を分析しています。"
+    },
+    {
+      "title": "mlrun 1.11.0rc39",
+      "title_ja": "mlrun 1.11.0rc39",
+      "original_url": "https://pypi.org/project/mlrun/1.11.0rc39/",
+      "image_url": null,
+      "published_at": "2026-02-24T22:48:50Z",
+      "source": "Pypi.org",
+      "summary_ja": "機械学習の実行追跡と設定を行うmlrunのバージョン1.11.0rc39がリリースされました。このアップデートは、機械学習ワークフローの管理と再現性を向上させることを目的としています。現時点では、サイトの一部が読み込めないという問題が報告されており、ブラウザ拡張機能やネットワークの問題が原因として考えられています。"
+    },
+    {
+      "title": "Australia's WiseTech to slash 2,000 jobs as AI ends 'era of manually writing code'",
+      "title_ja": "オーストラリアのWiseTech、AIによる「手動でのコード記述の時代」終焉を受け、2,000人削減へ",
+      "original_url": "https://www.channelnewsasia.com/business/australias-wisetech-slash-2000-jobs-ai-ends-era-manually-writing-code-5951016",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+      "published_at": "2026-02-24T22:32:42Z",
+      "source": "CNA",
+      "summary_ja": "物流ソフトウェア会社WiseTech Globalは、今後2年間で約2,000人を削減すると発表しました。これは、オーストラリア企業としては最大規模のAI関連の人員削減となる可能性があります。AIの進化により、手動でのコード記述の必要性が減少し、業務効率化が図られる一方で、大規模な人員削減へと繋がっています。"
+    },
+    {
+      "title": "Australia's WiseTech Global plans 2,000 job cuts amid AI-led revamp",
+      "title_ja": "オーストラリアのWiseTech Global、AI主導の改革で2,000人の人員削減を計画",
+      "original_url": "https://www.channelnewsasia.com/business/australias-wisetech-global-plans-2000-job-cuts-amid-ai-led-revamp-5951016",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+      "published_at": "2026-02-24T22:32:42Z",
+      "source": "CNA",
+      "summary_ja": "オーストラリアの物流ソフトウェア企業WiseTech Globalは、AI技術を自社のソフトウェアと社内業務に導入するため、今後2年間で約2,000人の人員削減を行うと発表しました。このリストラは、同社がAIを活用して業務効率を向上させ、競争力を強化するための戦略の一環です。これにより、同社のビジネスモデルと従業員構成に大きな変化が生じる可能性があります。"
+    },
+    {
+      "title": "CMS saved $2 billion by using AI to fight fraud, official says",
+      "title_ja": "AI活用により不正対策で20億ドルを節約、CMS幹部が発表",
+      "original_url": "https://www.nextgov.com/artificial-intelligence/2026/02/cms-saved-2-billion-using-ai-fight-fraud-official-says/411661/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/02/24/022426BrandtNG/open-graph.jpg",
+      "published_at": "2026-02-24T22:30:00Z",
+      "source": "Nextgov",
+      "summary_ja": "メディケア・メディケイド・サービスセンター (CMS) は、AIを導入して医療費の二重請求や不正請求に対処し、1年足らずで20億ドルもの費用を節約することに成功しました。キム・ブラントCOOは、この成果について、AIが不正対策の最前線で大きな役割を果たしていると語っています。AI技術は、医療費の効率化と不正防止に大きな影響を与え、さらなる活用が期待されます。"
+    },
+    {
+      "title": "AI: Yes, it’s coming for your job",
+      "title_ja": "AI: はい、あなたの仕事に迫っています",
+      "original_url": "https://theweek.com/tech/ai-coming-after-jobs",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Dfrm4AjyDa6bG5zrSwSbWV-2000-80.jpg",
+      "published_at": "2026-02-24T22:29:19Z",
+      "source": "The Week Magazine",
+      "summary_ja": "AIは急速に進化を遂げており、一部ではホワイトカラーの仕事の半分を置き換える可能性も指摘されています。 人間の知性を凌駕する存在になる可能性すら示唆されており、その影響は広範囲に及ぶと予想されます。 この技術革新は、労働市場に大きな変化をもたらす可能性があります。"
+    },
+    {
+      "title": "Oura Ring Wants to Put an OB-GYN on Your Finger With New AI for Women’s Health",
+      "title_ja": "Oura Ring、女性の健康管理向け新AIで産婦人科医を指先に",
+      "original_url": "https://www.cnet.com/health/oura-ring-ai-model-womens-health/",
+      "image_url": "https://www.cnet.com/a/img/resize/ee005798e9628d82681f8f3e9e398709c9359d5e/hub/2026/02/24/2f7e44d6-8e7a-4860-8d1f-ca905440e8fc/home-ring-module-or4-ceramic.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-02-24T22:24:00Z",
+      "source": "CNET",
+      "summary_ja": "Oura Ringが、女性の健康に関する質問に答えるAI機能を強化しました。この新機能は、ユーザーのフィードバックに基づいて学習し、パーソナライズされた健康アドバイスを提供するものです。これにより、Oura Ringユーザーは、より詳細な健康情報にアクセスし、自身の健康管理に役立てることが期待されます。"
+    },
+    {
+      "title": "Profound raises $96M at $1B valuation for AI discovery monitoring platform",
+      "title_ja": "Profound社、AI発見監視プラットフォーム向けに10億ドル評価で9600万ドルの資金調達",
+      "original_url": "https://siliconangle.com/2026/02/24/profound-raises-96m-1b-valuation-ai-discovery-monitoring-platform/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/profound.png",
+      "published_at": "2026-02-24T22:21:22Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AI発見監視プラットフォームを提供するProfound社が、10億ドルの評価額で9600万ドルの資金調達を実施しました。この資金は、AIの可視性監視と自動化プラットフォームの拡張に充てられ、企業でのAI利用の拡大を支援します。これにより、企業はAIの運用状況をより深く理解し、効率的な活用が可能になる見込みです。"
+    },
+    {
+      "title": "ŌURA launches its first proprietary AI model for women’s health",
+      "title_ja": "ŌURA、初の女性ヘルスケア向け独自AIモデルを発表",
+      "original_url": "https://www.futurefemhealth.com/p/oura-launches-its-first-proprietary",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!UxVr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ae3c58b-97ac-43a0-8ff7-cbb67b42d531_700x525.png",
+      "published_at": "2026-02-24T22:17:45Z",
+      "source": "Futurefemhealth.com",
+      "summary_ja": "ウェアラブルデバイスOura Ringで知られるŌURAが、女性の健康管理に特化した初の独自AIモデルをリリースしました。このAIモデルは、Oura Ringのデータと連携し、生理周期や健康状態に関するパーソナライズされた情報を提供する予定です。これにより、女性ユーザーは自身の健康状態をより深く理解し、適切な対策を講じることが可能になります。"
+    },
+    {
+      "title": "Show HN: AI-assisted coding landscape without the hype",
+      "title_ja": "Show HN: 過剰な期待抜きで見る、AI支援型コーディングの世界",
+      "original_url": "http://danielball.com/notes/ai_assisted_coding.html",
+      "image_url": null,
+      "published_at": "2026-02-24T22:16:27Z",
+      "source": "Danielball.com",
+      "summary_ja": "この記事は、AIによるコーディング支援の現状を、誇張表現を避けつつ提示しています。具体的には、AIがAuthモジュールのリファクタリングを支援し、コードの簡素化、テストケースの追加、READMEの更新を行った例を紹介しています。AIのコーディング支援における、現実的な可能性と具体的な影響を示唆しています。"
+    },
+    {
+      "title": "aurane 1.0.2",
+      "title_ja": "aurane 1.0.2",
+      "original_url": "https://pypi.org/project/aurane/1.0.2/",
+      "image_url": null,
+      "published_at": "2026-02-24T22:09:46Z",
+      "source": "Pypi.org",
+      "summary_ja": "aurane 1.0.2 は、機械学習向けのモダンなドメイン特化言語です。PyTorchにコンパイルされるため、PyTorchの機能を活用した機械学習モデルの開発を容易にします。これにより、開発者はより効率的に、そしてより直感的に機械学習モデルを構築できるようになります。"
+    },
+    {
+      "title": "The AI love-hate trade roars as Meta-AMD $100 billion deal cheers traders’ spirits after doom spiral",
+      "title_ja": "メタとAMDの1000億ドル取引が市場を活気づけ、AIを巡る期待と懸念の取引が活発化",
+      "original_url": "https://fortune.com/2026/02/24/meta-ai-amd-deal-upside-markets-ai-losers-tariffs/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2263314819.jpg?resize=1200,600",
+      "published_at": "2026-02-24T22:08:35Z",
+      "source": "Fortune",
+      "summary_ja": "米国の株式市場は、AIブームの恩恵を受ける可能性を示唆する動きを受け上昇しました。メタとAMDによる1000億ドル規模の取引が投資家の楽観的な見方を促し、S&P500は前日の急落から回復しました。AI技術に対する期待とリスクが入り混じる中で、この取引は市場に新たな活力を与え、今後のAI関連銘柄の動向に注目が集まっています。"
+    },
+    {
+      "title": "US Warns Anthropic to Allow Unrestricted Use of AI by Military",
+      "title_ja": "米国、軍事利用を制限しないようAnthropicに警告",
+      "original_url": "https://financialpost.com/pmn/business-pmn/us-warns-anthropic-to-allow-unrestricted-use-of-ai-by-military",
+      "image_url": null,
+      "published_at": "2026-02-24T22:05:07Z",
+      "source": "Financial Post",
+      "summary_ja": "米国防総省は、Anthropic社に対し、軍事利用を制限しないよう警告し、従わない場合は冷戦時代の法律を行使する構えを示しました。この措置は、AI技術を巡る軍事利用に関する政府の要求に応じることを目的としています。もしAnthropic社が合意しない場合、軍事AI開発に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Contracting for Agentic AI Is Starting to Look Like Outsourcing",
+      "title_ja": "自律型AIの契約は、アウトソーシングの様相を呈し始めている",
+      "original_url": "https://www.pymnts.com/news/artificial-intelligence/2026/contracting-for-agentic-ai-is-starting-to-look-like-outsourcing/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/02/AI-SaaS-b2b-digital-transformation.jpeg",
+      "published_at": "2026-02-24T22:02:06Z",
+      "source": "pymnts.com",
+      "summary_ja": "自律型AIの登場により、従来のツール向けに設計された企業向けソフトウェア契約が見直しを迫られています。ソフトウェア・アズ・ア・サービス（SaaS）契約がアクセス権を中心に展開されてきた過去20年間とは異なり、AIシステムの複雑化は、法的専門家と調達チームに新たな契約形態を模索させています。この変化は、AIサービスの利用方法を根本的に変え、企業がAI技術を採用する際の戦略に大きな影響を与えています。"
+    },
+    {
+      "title": "A I-designed proteins may help spot cancer",
+      "title_ja": "AI設計のタンパク質が、がんの早期発見に役立つ可能性",
+      "original_url": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MIT-AI-Peptides-01-press.jpg?resize=1200,600",
+      "published_at": "2026-02-24T22:00:00Z",
+      "source": "MIT Technology Review",
+      "summary_ja": "MITとMicrosoftの研究チームは、AIを活用して、尿検査によるがんの早期発見を可能にする分子センサーを開発しました。AIモデルを用いて設計された短鎖タンパク質は、プロテアーゼと呼ばれる酵素に反応し、がんの兆候を検知します。この技術は、がんの早期診断に革命をもたらす可能性を秘めています。"
+    },
+    {
+      "title": "Google Apologizes for Sending Out AI-Generated Push Notification That Used the N-Word",
+      "title_ja": "Google、AI生成プッシュ通知で「Nワード」を使用した件で謝罪",
+      "original_url": "https://www.mediaite.com/media/entertainment/google-apologizes-for-sending-out-ai-generated-push-notification-that-used-the-n-word/",
+      "image_url": "https://www.mediaite.com/wp-content/uploads/2025/02/AP25036361245366-scaled.jpg",
+      "published_at": "2026-02-24T21:59:45Z",
+      "source": "Mediaite",
+      "summary_ja": "Googleは、BAFTA賞の騒動に関連するAI生成プッシュ通知で人種差別的な単語を使用してしまったことを謝罪しました。このインシデントは、AIが生成したコンテンツの倫理的リスクと、その制御の難しさを示しています。Googleは、AI原則から特定の誓約を削除しており、AI技術の安全な利用に向けて更なる対策が求められています。"
+    },
+    {
+      "title": "Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion",
+      "title_ja": "Facebook親会社のMeta、AMDから最大10兆円規模のAIチップ購入へ",
+      "original_url": "https://japantoday.com/category/tech/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion",
+      "image_url": null,
+      "published_at": "2026-02-24T21:47:17Z",
+      "source": "Japan Today",
+      "summary_ja": "Facebookの親会社であるMetaが、人工知能(AI)チップをAdvanced Micro Devices (AMD)から購入する契約を締結しました。この契約には、MetaがAMDの最大10%の株式を取得するオプションも含まれています。この動きは、MetaがAI分野への投資を加速させ、高度なコンピューティング能力を確保するための戦略の一環と見られています。"
+    },
+    {
+      "title": "Hegseth warns Anthropic to let U.S. military use company’s AI tech as it sees fit",
+      "title_ja": "ヘグセス国防長官、米軍によるAnthropicのAI技術の自由利用を迫る",
+      "original_url": "https://japantoday.com/category/tech/hegseth-and-anthropic-ceo-set-to-meet-as-debate-intensifies-over-the-military%27s-use-of-ai",
+      "image_url": null,
+      "published_at": "2026-02-24T21:47:08Z",
+      "source": "Japan Today",
+      "summary_ja": "米国のピート・ヘグセス国防長官は、Anthropic社に対し、AI技術を米軍が自由に利用できるよう要請し、従わない場合は政府契約を打ち切ると警告しました。これは、国防総省がAI技術の軍事利用を重視する姿勢を示しています。Anthropic社のAI技術が、今後の軍事戦略や技術開発に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Massive AI Deal Helps Wall Street Rebound",
+      "title_ja": "大規模AI取引がウォール街の反発を後押し",
+      "original_url": "https://www.newser.com/story/384310/massive-ai-deal-helps-wall-street-rebound.html",
+      "image_url": "https://img1-azrcdn.newser.com/image/1667072-12-20260224154456.jpeg",
+      "published_at": "2026-02-24T21:44:56Z",
+      "source": "Newser",
+      "summary_ja": "大規模な人工知能（AI）関連の取引が、前日の損失の大部分を回復させ、米株式市場の反発を後押ししました。この出来事は、AI技術の革新が経済に与える影響と、AI分野への巨額投資がもたらす可能性を示唆しています。AI技術への期待感が高まる中、生産性向上への期待も高まっています。"
+    }
+  ]
+}

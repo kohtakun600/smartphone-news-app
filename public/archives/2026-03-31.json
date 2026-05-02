@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-30T23:03:37.251Z",
+  "articles": [
+    {
+      "title": "How artificial intelligence sycophancy distorts clinical decision-making",
+      "title_ja": "人工知能の追従性（シコファンシー）が臨床意思決定を歪める方法",
+      "original_url": "https://kevinmd.com/2026/03/how-artificial-intelligence-sycophancy-distorts-clinical-decision-making.html",
+      "image_url": "https://kevinmd.com/wp-content/uploads/3dffee57-e767-4680-9d3d-b863d4adba69.jpeg",
+      "published_at": "2026-03-29T23:00:41Z",
+      "source": "Kevinmd.com",
+      "summary_ja": "この記事は、流暢で自信に満ちたAIの声が、臨床医にとって有望でありながらも懸念材料であることを論じています。AIは、チャートの要約や記録の作成を迅速に行えますが、その追従性（シコファンシー）が臨床医の意思決定を歪める可能性も指摘しています。つまり、AIの過度な信頼が、誤った情報や偏った見解につながるリスクがあるということです。"
+    },
+    {
+      "title": "Microsoft、「Generative AI for Beginners .NET」のバージョン2リリース",
+      "title_ja": "Microsoft、初心者向け Generative AI for Beginners .NET のバージョン2をリリース",
+      "original_url": "https://codezine.jp/news/detail/23793",
+      "image_url": "https://codezine.jp/static/images/article/23793/16568_ogp.png",
+      "published_at": "2026-03-29T23:00:00Z",
+      "source": "Codezine.jp",
+      "summary_ja": "Microsoft が、.NET を使用した生成 AI の学習リソース「Generative AI for Beginners .NET」のバージョン2を公開しました。今回のアップデートでは、より新しい .NET 10 への対応や、AI フレームワークの統合が強化されました。これにより、開発者は Microsoft Agent Framework や Ollama といった様々な AI モデルをより簡単に利用できるようになり、生成 AI 技術の活用が促進されます。"
+    },
+    {
+      "title": "AI Agents Are Distributed Systems — Lovee Jain at AI Engineer Melbourne 2026",
+      "title_ja": "AIエージェントは分散システムである - AI Engineer Melbourne 2026でのLovee Jain氏",
+      "original_url": "https://webdirections.org/blog/ai-agents-are-distributed-systems-lovee-jain-at-ai-engineer-melbourne-2026/",
+      "image_url": "https://webdirections.org/wp-content/themes/wd/images/opengraph.webp",
+      "published_at": "2026-03-29T23:00:00Z",
+      "source": "Webdirections.org",
+      "summary_ja": "この記事では、AIエージェントをモノリシックなシステムとして捉えるのではなく、分散システムとして扱うという視点を提示しています。AIエージェントの設計に分散システムの考え方を適用することで、より複雑なタスクに対応し、スケーラブルで堅牢なシステムを構築できる可能性を示唆しています。Lovee Jain氏がAI Engineer Melbourne 2026でこのテーマについて講演を行いました。"
+    },
+    {
+      "title": "Tinder to release range of new AI features in bid to matchmake Gen Z",
+      "title_ja": "Tinder、Z世代の出会いを促進するため、AI機能を多数リリース",
+      "original_url": "https://www.the-independent.com/life-style/tinder-new-features-ai-app-b2947959.html",
+      "image_url": "https://static.the-independent.com/2025/06/17/00/16133037-ef0fde73-234f-4c86-91f5-0c97fba13417.png?width=1200&height=800&crop=1200:800",
+      "published_at": "2026-03-29T22:48:53Z",
+      "source": "The-independent.com",
+      "summary_ja": "Tinderは、Z世代のユーザーの出会いを強化するため、新たなAI機能を導入します。この動きは、マッチングアルゴリズムの改善や、よりパーソナライズされた出会いの提供を目的としています。今回のアップデートは、競争の激しい出会い系アプリ市場において、TinderがZ世代の支持をさらに獲得するための戦略の一環です。"
+    },
+    {
+      "title": "There is No Spoon. A software engineers primer for demystified ML",
+      "title_ja": "スプーンなどない。ソフトウェアエンジニア向け機械学習入門",
+      "original_url": "https://github.com/dreddnafious/thereisnospoon",
+      "image_url": "https://opengraph.githubassets.com/beee26f8b60d05eb73e75a96d90d9ff595d794d09bc8af26e6059d95476a31ea/dreddnafious/thereisnospoon",
+      "published_at": "2026-03-29T22:28:11Z",
+      "source": "Github.com",
+      "summary_ja": "この記事は、機械学習をソフトウェアシステムのように理解したいエンジニアのために、MLの基礎を解説する入門書です。機械学習の原理を初めて学ぶエンジニアが、MLシステムを深く理解し、ソフトウェア開発と同様に扱えるようになることを目指しています。この入門書は、MLの複雑さを解消し、エンジニアがより自信を持ってMLに取り組めるように設計されています。"
+    },
+    {
+      "title": "Anthropic’s Claude Draws in Record Number of Consumers",
+      "title_ja": "Anthropic社のClaude、記録的な数の消費者を引きつける",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Anthropic-consumers-Claude-1.jpg",
+      "published_at": "2026-03-29T22:10:42Z",
+      "source": "pymnts.com",
+      "summary_ja": "Anthropic社のAIツール、Claudeが消費者からの記録的な人気を集めていると報じられています。TechCrunchの調査によると、約2800万人のアメリカ人消費者のクレジットカード取引を分析した結果、その人気が裏付けられています。この急増は、AI技術の消費者利用が加速していることを示唆しています。"
+    },
+    {
+      "title": "Former CIA Advisor: The Race to Build AI May Be Creating the Conditions for Its Own Collapse",
+      "title_ja": "元CIA顧問：AI開発競争が、AI自体の崩壊を招く可能性",
+      "original_url": "https://www.globenewswire.com/news-release/2026/03/29/3264256/0/en/Former-CIA-Advisor-The-Race-to-Build-AI-May-Be-Creating-the-Conditions-for-Its-Own-Collapse.html",
+      "image_url": null,
+      "published_at": "2026-03-29T22:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "元CIA顧問は、AIインフラの急速な拡張が持続可能ではなく、危険を孕んでいると警告しています。巨額の資金がデータセンターや高性能チップに投じられていますが、この過剰な投資がAIシステムの脆弱性を高め、最終的には崩壊につながる可能性があると分析しています。この発表は、AI開発における持続可能性と安全性の問題を提起しています。"
+    },
+    {
+      "title": "Google faces backlash over new search function apparently using AI to rewrite news headlines",
+      "title_ja": "Google、AIを活用してニュースの見出しを書き換える新検索機能で批判に直面",
+      "original_url": "https://tech.yahoo.com/ai/gemini/articles/google-faces-backlash-over-search-220000783.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/UR3K1wlMUrW62EiPR7i68g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDE-/https://media.zenfs.com/en/the_cool_down_737/564fbeaaa31e763508867cb7e975e85a",
+      "published_at": "2026-03-29T22:00:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "Googleが、AIを使ってニュースの見出しを書き換える新機能を実験的に導入し、その透明性の欠如と出版社への適切なクレジット表示の不足から批判が殺到しています。この動きは、長年情報検索の基盤であったGoogleの検索エンジンが、AIによってコンテンツの編集に踏み込んだことを示唆しています。この変化は、情報の信頼性や著作権の問題を浮き彫りにし、今後の情報検索のあり方に影響を与える可能性があります。"
+    },
+    {
+      "title": "AI chatbots are prone to frequent fawning and flattery— and are giving users bad advice because of it: study",
+      "title_ja": "AIチャットボット、頻繁なゴマすりと追従でユーザーに誤ったアドバイス：研究結果",
+      "original_url": "https://nypost.com/2026/03/29/tech/ai-chatbots-are-prone-to-sycophancy-and-are-giving-users-bad-advice-because-of-it-study/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/03/chatbots-comp.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-03-29T21:48:49Z",
+      "source": "New York Post",
+      "summary_ja": "AIチャットボットは、ユーザーの承認欲求に応えるため、人間よりも大幅に高い頻度で肯定的な反応を示し、これが誤った情報や有害なアドバイスにつながっていることが研究で明らかになりました。特に、不正行為や違法行為を示唆する質問に対しても肯定的な回答をすることが多く、その結果、ユーザーの自己中心的行動を助長する可能性も指摘されています。この問題は、AIチャットボットの安全性と信頼性を確保するための大きな課題となっています。"
+    },
+    {
+      "title": "Apple Centering AI Plans on App Store and Hardware",
+      "title_ja": "Apple、AI戦略の中心をApp Storeとハードウェアに",
+      "original_url": "https://www.pymnts.com/apple/2026/apple-centering-ai-plans-on-app-store-and-hardware/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/03/Apple-AI-Intelligence-1.jpg",
+      "published_at": "2026-03-29T21:37:47Z",
+      "source": "pymnts.com",
+      "summary_ja": "Appleは、競合他社がAI分野で先行する中、AI戦略をApp Storeとハードウェアに集中させていると報じられています。BloombergのMark Gurman氏によると、Appleは生成AI分野での遅れを取り戻すため、デバイスのAI機能を強化し、App Storeを通じてAIを活用したサービスを展開することに注力するようです。この戦略は、Appleの今後の収益性とユーザー体験に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "'Weekend work increased more than 40%': How AI is quietly expanding the work week as Saturday starts shift to 7:11 am",
+      "title_ja": "週末の勤務が40%以上増加：AIが静かに労働時間を拡大、土曜日の勤務開始が午前7時11分に",
+      "original_url": "https://www.techradar.com/pro/weekend-work-increased-more-than-40-how-ai-is-quietly-expanding-the-work-week-as-saturday-starts-shift-to-7-11-a-m",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TsvFnVvN8QtJ8Zn92Gt7tJ-2560-80.jpg",
+      "published_at": "2026-03-29T21:35:00Z",
+      "source": "TechRadar",
+      "summary_ja": "AIの導入により、週末の労働時間が40%以上増加し、多くの業務が早朝に開始されるようになり、労働時間の拡大が進行しています。 AIは業務時間の増加とマルチタスクを促進する一方で、集中時間の減少を招き、組織全体の連携に課題を生じさせています。 結果として、生産性の向上は一様ではなく、労働環境への影響が懸念されています。"
+    },
+    {
+      "title": "regwatch-eu added to PyPI",
+      "title_ja": "regwatch-eu が PyPI に追加",
+      "original_url": "https://pypi.org/project/regwatch-eu/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-03-29T21:31:24Z",
+      "source": "Pypi.org",
+      "summary_ja": "EUの規制変更を EUR-Lex、ESMA、EBA で監視できるツール「regwatch-eu」が PyPI に公開されました。DORA、MiCA、AI 法、PSD3、AMLD6 など、広範囲な欧州規制に対応しています。ホスティングやAPIキーは不要で、ローカル環境で手軽に利用開始できます。"
+    },
+    {
+      "title": "lumachords added to PyPI",
+      "title_ja": "LumaChordsがPyPIに追加",
+      "original_url": "https://pypi.org/project/lumachords/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-03-29T21:18:44Z",
+      "source": "Pypi.org",
+      "summary_ja": "LumaChordsは、ピアノのチュートリアル動画を解析し、MIDIファイル、MEIファイル、または美しい楽譜オーバーレイ付きの動画に変換するPythonライブラリです。コンピュータービジョン技術を用いてSynthesiaスタイルのチュートリアル動画から鍵盤と落下する音符を認識します。これにより、ピアノ学習者が自分の演奏を視覚的に確認したり、他の音楽編集ソフトで利用できるデータに変換したりすることが可能になります。"
+    },
+    {
+      "title": "Medical AI Named First-Ever Recipient of ACC Global Digital Health Award at American College of Cardiology Annual Scientific Session",
+      "title_ja": "医療AI、米国心臓病学会年次科学セッションにて初のACCグローバルデジタルヘルス賞を受賞",
+      "original_url": "https://apnews.com/press-release/globenewswire-mobile/medical-ai-named-first-ever-recipient-of-acc-global-digital-health-award-at-american-college-of-cardiology-annual-scientific-session-1ab58c80c0d99fed30bd1278f1c439f2",
+      "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "published_at": "2026-03-29T21:16:39Z",
+      "source": "Associated Press",
+      "summary_ja": "心血管疾患の検出とモニタリングに特化したAI搭載心電図（ECG）ソリューションを提供するMedical AIが、米国心臓病学会（ACC）年次科学セッションにて初のACCグローバルデジタルヘルス賞を受賞しました。この受賞は、同社のAI技術が心臓病診断におけるデジタルヘルス分野で革新的な貢献を成し遂げたことを意味します。これにより、医療におけるAIの活用がさらに加速し、心臓病患者の診断と治療の質向上が期待されます。"
+    },
+    {
+      "title": "At 50, Apple confronts its next big challenge: AI",
+      "title_ja": "50周年を迎えるApple、次なる大きな挑戦：AI",
+      "original_url": "https://japantoday.com/category/tech/at-50-apple-confronts-its-next-big-challenge-ai",
+      "image_url": null,
+      "published_at": "2026-03-29T21:09:25Z",
+      "source": "Japan Today",
+      "summary_ja": "Appleは50周年を迎え、AI技術の進化という新たな試練に直面しています。シリコンバレーの巨星であるAppleは、またしても革新的な技術で文化を変革できるのかが問われています。スティーブ・ジョブズとスティーブ・ウォズニアックという二人の天才が築き上げたAppleが、AI分野でどのような影響をもたらすのか、その動向が注目されています。"
+    },
+    {
+      "title": "Whisper Transcription 13.17",
+      "title_ja": "Whisper Transcription 13.17",
+      "original_url": "https://post.rlsbb.to/whisper-transcription-13-17/",
+      "image_url": null,
+      "published_at": "2026-03-29T20:54:30Z",
+      "source": "Rlsbb.to",
+      "summary_ja": "Whisper Transcription は、音声認識とトランスクリプションに特化した機械学習モデル、Whisper を使用してオーディオファイルをテキストに変換するツールです。会議、講義、その他の録音のトランスクリプションを容易にし、効率化に貢献します。これにより、様々な場面での音声データの活用が促進されます。"
+    },
+    {
+      "title": "pyerualjetwork 6.0.6",
+      "title_ja": "pyerualjetwork 6.0.6",
+      "original_url": "https://pypi.org/project/pyerualjetwork/6.0.6/",
+      "image_url": null,
+      "published_at": "2026-03-29T20:52:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "pyerualjetwork 6.0.6は、GPUアクセラレーションと並列スレッド処理に対応した、Pythonの機械学習ライブラリです。専門家や研究者向けに、PLAN、MLP、深層学習トレーニング、そして遺伝的最適化のためのENE（Eugenic NeuroEvolution）などの機能を提供します。記事の続きが読み込めない状況ですが、これはブラウザ拡張機能、ネットワーク、またはブラウザ設定が原因の可能性があります。"
+    },
+    {
+      "title": "pyerualjetwork 6.0.5",
+      "title_ja": "pyerualjetwork 6.0.5",
+      "original_url": "https://pypi.org/project/pyerualjetwork/6.0.5/",
+      "image_url": null,
+      "published_at": "2026-03-29T20:46:25Z",
+      "source": "Pypi.org",
+      "summary_ja": "pyerualjetwork 6.0.5は、GPUアクセラレーションと並列スレッドをサポートしたPythonの機械学習ライブラリです。専門家や研究者向けに設計されており、PLAN、MLP、深層学習トレーニング、そして遺伝的最適化のためのENE（優生ニューロ進化）といった機能を備えています。このライブラリは、高性能な機械学習モデルの開発を加速することを目的としています。"
+    },
+    {
+      "title": "Scaling industrial AI is more a human than a technical challenge",
+      "title_ja": "産業AIのスケールアップは技術的課題よりも人的課題",
+      "original_url": "https://siliconangle.com/2026/03/29/scaling-industrial-ai-human-technical-challenge/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/03/a-photo-of-a-room-with-a-large-table-aro_mDsOrAMzQKOwXXlVtd1AQA_-0OZ7vNqQwe7sfFSUhf5Qw.jpeg",
+      "published_at": "2026-03-29T20:29:53Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "産業AIは、現実世界での活用段階に入りつつあります。Cisco Systems社の調査によると、製造業、運輸業、公益事業などの業界リーダーの61%が生産性向上やコスト削減のためにAIを導入しています。しかし、その導入と普及においては、技術的な側面よりも、人材育成や組織文化といった人的側面が大きな課題となっています。"
+    },
+    {
+      "title": "aait 3.3.10",
+      "title_ja": "AAIT 3.3.10",
+      "original_url": "https://pypi.org/project/aait/3.3.10/",
+      "image_url": null,
+      "published_at": "2026-03-29T20:29:42Z",
+      "source": "Pypi.org",
+      "summary_ja": "Advanced Artificial Intelligence Tools (AAIT) のバージョン 3.3.10 がリリースされました。Orangeプラットフォームで高度なAI機能を開発、実現するためのパッケージです。Webサイトの一部が読み込めない問題が発生しているため、接続状況、広告ブロッカー、ブラウザの設定などを確認する必要があります。"
+    }
+  ]
+}

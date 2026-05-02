@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-06T23:03:52.583Z",
+  "articles": [
+    {
+      "title": "experionml 1.5.0",
+      "title_ja": "experionml 1.5.0",
+      "original_url": "https://pypi.org/project/experionml/1.5.0/",
+      "image_url": null,
+      "published_at": "2026-04-05T22:40:33Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、機械学習パイプラインの高速な探索を可能にするPythonパッケージ、experionml 1.5.0について触れています。このパッケージは、機械学習モデル開発の効率化を目的としており、その利用により、開発プロセスにおける実験と検証のスピードが向上すると期待されます。記事の全文は読み込めませんでしたが、experionmlの重要性と影響について示唆されています。"
+    },
+    {
+      "title": "experionml 1.4.0",
+      "title_ja": "experionml 1.4.0",
+      "original_url": "https://pypi.org/project/experionml/1.4.0/",
+      "image_url": null,
+      "published_at": "2026-04-05T22:28:29Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事は、機械学習パイプラインの迅速な探求を可能にするPythonパッケージ、experionml 1.4.0について言及しています。このパッケージは、機械学習開発の効率を向上させる可能性を秘めています。記事の全文は読み込めない状況ですが、その機能性に注目が集まっています。"
+    },
+    {
+      "title": "experionml 1.3.0",
+      "title_ja": "experionml 1.3.0",
+      "original_url": "https://pypi.org/project/experionml/1.3.0/",
+      "image_url": null,
+      "published_at": "2026-04-05T22:20:01Z",
+      "source": "Pypi.org",
+      "summary_ja": "これは、機械学習パイプラインの迅速な探求を可能にするPythonパッケージ、experionmlのバージョン1.3.0の発表です。このパッケージは、機械学習モデルの開発プロセスを効率化し、実験を加速させることを目的としています。このリリースによって、機械学習技術者によるモデル開発の効率が向上することが期待されます。"
+    },
+    {
+      "title": "How to Profile Modern PC Games with NVIDIA Nsight Graphics",
+      "title_ja": "NVIDIA Nsight Graphics を使った最新 PC ゲームのプロファイリング方法",
+      "original_url": "https://wccftech.com/how-to/how-to-profile-modern-pc-games-with-nvidia-nsight-graphics/",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Nsight-Graphics-Guide.jpg",
+      "published_at": "2026-04-05T22:15:35Z",
+      "source": "Wccftech",
+      "summary_ja": "DirectX 12 と Vulkan 時代における PC ゲームのパフォーマンス分析は、非同期計算、ハードウェアレイトレーシングなどにより劇的に複雑化しています。この記事では、NVIDIA Nsight Graphics を用いて、これらの複雑な技術を活用した最新 PC ゲームのレンダリングパイプラインを詳細に分析し、パフォーマンス最適化する方法を解説しています。これにより、ゲーム開発者は、より効率的にゲームをデバッグし、最高のパフォーマンスを引き出すことが可能になります。"
+    },
+    {
+      "title": "中学教師の3分の2がAIの使用により生徒の思考力が低下していると回答",
+      "title_ja": "イギリスの中学校教師の3分の2が、AI利用によって生徒の思考力低下を報告",
+      "original_url": "https://news.livedoor.com/article/detail/30918308/",
+      "image_url": "https://image.news.livedoor.com/newsimage/stf/2/0/205d3_88_7f4e34c5f67d983d585f0081f2e343ac.jpg",
+      "published_at": "2026-04-05T22:00:00Z",
+      "source": "Livedoor.com",
+      "summary_ja": "イギリスの中学校教師を対象とした調査で、回答者の3分の2がAIの利用が生徒の思考力、作文能力、問題解決能力の低下につながっていると回答しました。これは、AIが教育現場に導入される中で、生徒の学習能力への負の影響を懸念する声が多数存在することを示唆しています。この調査結果は、教育におけるAIの活用方法について、より慎重な検討が必要であることを示唆しています。"
+    },
+    {
+      "title": "AI at war: Five things to know about Project Maven",
+      "title_ja": "戦争におけるAI: プロジェクト・メイブンについて知っておくべき5つのこと",
+      "original_url": "https://japantoday.com/category/tech/ai-at-war-five-things-to-know-about-project-maven",
+      "image_url": null,
+      "published_at": "2026-04-05T21:32:15Z",
+      "source": "Japan Today",
+      "summary_ja": "アメリカ国防総省のAIプログラム「プロジェクト・メイブン」は、イランに対する米国の攻撃の中核を担い、現代戦を大きく変革する可能性を秘めています。このプログラムは、AI技術を駆使して標的の特定や分析を効率化し、軍事作戦の速度と精度を向上させることを目指しています。これにより、戦争のあり方が根本的に変化する可能性があります。"
+    },
+    {
+      "title": "Will 'AI-Assisted' Journalists Bring Errors and Retractions?",
+      "title_ja": "AI支援ジャーナリストは誤報や訂正を増やすのか？",
+      "original_url": "https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions",
+      "image_url": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "published_at": "2026-04-05T21:22:00Z",
+      "source": "Slashdot.org",
+      "summary_ja": "ウォール・ストリート・ジャーナルによると、AIツールを使って記事を生成するジャーナリストが登場し、その手法が問題視されています。フォーチュン誌では、AI支援記事が約20%を占めるなど、その影響力は拡大していますが、AIによる記事作成は誤報や訂正のリスクを高める可能性があり、ジャーナリズムの質に影響を与える可能性があります。"
+    },
+    {
+      "title": "lumen-ai-core 0.1.0",
+      "title_ja": "lumen-ai-core 0.1.0",
+      "original_url": "https://pypi.org/project/lumen-ai-core/0.1.0/",
+      "image_url": null,
+      "published_at": "2026-04-05T21:12:27Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事は、生成AI向けのリアルタイムFinOpsとオブザーバビリティレイヤーであるLumenAI Core 0.1.0のリリースについて報じています。LumenAI Coreは、Generative AIの運用コスト最適化と可観測性を向上させるための基盤技術として、重要な役割を果たすと期待されています。記事全文はロードできなかったため、詳細な技術内容については不明です。"
+    },
+    {
+      "title": "lumen-ai-core added to PyPI",
+      "title_ja": "LumenAI CoreがPyPIに追加",
+      "original_url": "https://pypi.org/project/lumen-ai-core/",
+      "image_url": null,
+      "published_at": "2026-04-05T21:12:22Z",
+      "source": "Pypi.org",
+      "summary_ja": "LumenAI Coreは、生成AI向けのリアルタイムFinOpsおよびオブザーバビリティレイヤーであり、PyPIに追加されました。このコア機能は、AIシステムの運用コスト管理と可視化を強化します。これにより、開発者はAIモデルの効率的な運用と最適化が可能になります。"
+    },
+    {
+      "title": "sklearnforpython312 0.1.0",
+      "title_ja": "sklearnforpython312 0.1.0",
+      "original_url": "https://pypi.org/project/sklearnforpython312/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-04-05T20:40:54Z",
+      "source": "Pypi.org",
+      "summary_ja": "このニュースは、Python 3.12 向けの scikit-learn を使用した機械学習の例とアルゴリズムを提供するライブラリ「sklearnforpython312」のバージョン0.1.0のリリースについてです。このライブラリは、機械学習の学習と実践を容易にするために開発されました。ユーザーはプラットフォームに適したファイルをダウンロードできます。"
+    },
+    {
+      "title": "Proteina-Complexa: Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute",
+      "title_ja": "Proteina-Complexa: 生成型事前学習とテスト時計算を活用した原子レベルでのタンパク質結合設計の拡張",
+      "original_url": "https://research.nvidia.com/publication/2026-01_proteina-complexa-scaling-atomistic-protein-binder-design-generative",
+      "image_url": null,
+      "published_at": "2026-04-05T19:39:57Z",
+      "source": "Nvidia.com",
+      "summary_ja": "この記事では、タンパク質設計における原子レベルでの結合設計を、生成型事前学習とテスト時計算を用いることで拡張する技術「Proteina-Complexa」について論じています。この技術は、創薬など幅広い分野で応用が期待される機械学習を活用し、タンパク質間相互作用のモデリングを効率化します。これにより、より高性能なタンパク質結合分子の設計が実現し、タンパク質設計の新たな可能性を開くことが期待されています。"
+    },
+    {
+      "title": "Groups Set Up to Shill AI and Data Centers Are Pouring Huge Sums of Money Into the Midterm Elections",
+      "title_ja": "AIとデータセンターを推進する団体が、中間選挙に巨額の資金を投入",
+      "original_url": "http://futurism.com/future-society/ai-pacs-trump-lobbying",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-pacs-trump-lobbying.jpg?quality=85&w=1200",
+      "published_at": "2026-04-05T19:30:00Z",
+      "source": "Futurism",
+      "summary_ja": "AIとデータセンター業界を擁護する団体が、米中間選挙において、特定の政治家を支持するために多額の資金を投じています。この動きは、大統領の政策を支援する議員をバックアップし、反対する議員に圧力をかけることを目的としています。この資金注入は、AI技術に対する国民の根強い抵抗感が高まっている中で、業界の利益を保護し、政策決定に影響を与えようとするものです。"
+    },
+    {
+      "title": "biomimetic-framework 0.1.5",
+      "title_ja": "バイオミメティックフレームワーク 0.1.5",
+      "original_url": "https://pypi.org/project/biomimetic-framework/0.1.5/",
+      "image_url": null,
+      "published_at": "2026-04-05T19:20:51Z",
+      "source": "Pypi.org",
+      "summary_ja": "このフレームワークは、機械学習のためのパラメータ化された測地線ルックアップを提供するバイオミメティックルックアップセルです。自然界の構造から着想を得たこの技術は、効率的なデータ検索と処理を可能にし、機械学習モデルの性能向上に貢献する可能性があります。エラーにより、サイトの一部が読み込めないため、接続状況、ブラウザ拡張機能、または設定を確認する必要があります。"
+    },
+    {
+      "title": "1 Tiny Artificial Intelligence (AI) Stock That Could Make You a Millionaire",
+      "title_ja": "億万長者も夢じゃない、注目のAI関連小型株",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a286f654-b3e2-4a68-ab64-fbab04e0bfa8",
+      "image_url": null,
+      "published_at": "2026-04-05T19:20:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "この記事では、将来的に大きな成長が見込まれる可能性のある、AI関連の小型株を紹介しています。詳細な企業名は伏せられていますが、AI技術の発展と市場の拡大を背景に、大きなリターンを期待できると示唆されています。投資家にとって、AI分野の成長性に着目した有望な選択肢となり得ます。"
+    },
+    {
+      "title": "Artificial intelligence in surgery: Balancing precision with clinical wisdom",
+      "title_ja": "外科手術における人工知能：精度と臨床判断力のバランス",
+      "original_url": "https://kevinmd.com/2026/04/artificial-intelligence-in-surgery-balancing-precision-with-clinical-wisdom.html",
+      "image_url": "https://kevinmd.com/wp-content/uploads/754c40f6-bead-426e-a3b9-c3ae1e807cea.jpeg",
+      "published_at": "2026-04-05T19:00:41Z",
+      "source": "Kevinmd.com",
+      "summary_ja": "手術室では、人工知能やロボット支援などの技術革新により、これまでにない高い精度が実現されています。ナビゲーションシステム、AI、デジタル計画プラットフォームなどが、術前の結果予測を可能にし、外科手術の変革を加速させています。しかし、これらの技術は臨床医の判断力とのバランスが重要であり、患者中心の医療を維持しながら、その活用が求められています。"
+    },
+    {
+      "title": "US intelligence says Chinese satellite imagery of bases is helping Iran",
+      "title_ja": "米情報機関、中国の基地衛星画像がイランを支援と発表",
+      "original_url": "https://www.abc.net.au/news/2026-04-06/us-intelligence-chinese-satellite-imagery-middle-east/106508322",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/3635d5705c84dfdf41bd9663d71b1123?impolicy=wcms_watermark_news&cropH=752&cropW=1337&xPos=0&yPos=47&width=862&height=485&imformat=generic",
+      "published_at": "2026-04-05T18:42:10Z",
+      "source": "ABC News (AU)",
+      "summary_ja": "中国企業が公開したAI処理済みの米軍基地の衛星画像が、イラン軍の標的特定を支援していると米情報機関が発表しました。この技術は、高解像度の画像解析を通じて敵対勢力の軍事作戦を強化し、中東における米国の安全保障に影響を与える可能性があります。これにより、地政学的な緊張が高まることが懸念されます。"
+    },
+    {
+      "title": "bioopt 0.1.0",
+      "title_ja": "bioopt 0.1.0",
+      "original_url": "https://pypi.org/project/bioopt/0.1.0/",
+      "image_url": null,
+      "published_at": "2026-04-05T18:29:48Z",
+      "source": "Pypi.org",
+      "summary_ja": "これは、機械学習と科学計算に利用できる、生物学に着想を得た最適化アルゴリズムであるbiooptのバージョン0.1.0です。これにより、既存の機械学習モデルの改善や、より効率的な計算が可能になる可能性があります。ただし、現時点ではサイトの一部が読み込めない問題が発生しているようです。"
+    },
+    {
+      "title": "bioopt added to PyPI",
+      "title_ja": "PyPIにbiooptが追加",
+      "original_url": "https://pypi.org/project/bioopt/",
+      "image_url": null,
+      "published_at": "2026-04-05T18:29:44Z",
+      "source": "Pypi.org",
+      "summary_ja": "機械学習と科学計算に利用できる、生体模倣最適化アルゴリズムの実装であるbiooptがPyPIに追加されました。このライブラリは、生物の進化や行動を模倣したアルゴリズムを提供し、様々な問題の最適化に役立ちます。これにより、開発者はより効率的で革新的な機械学習モデルや計算処理を構築できるようになります。"
+    },
+    {
+      "title": "Your Smartphone Uses AI Way More Than You Think - Here's How",
+      "title_ja": "あなたのスマートフォンは思っている以上にAIを多用している - その仕組み",
+      "original_url": "https://www.bgr.com/2135558/smartphone-uses-more-ai-than-you-think/",
+      "image_url": "https://www.bgr.com/img/gallery/your-smartphone-uses-ai-way-more-than-you-think-heres-how/l-intro-1774610132.jpg",
+      "published_at": "2026-04-05T18:17:00Z",
+      "source": "BGR",
+      "summary_ja": "生成AIが話題を呼ぶ一方で、スマートフォンは天気予報やバッテリー最適化など、様々な重要な機能をAIで実現しています。この記事では、私たちが普段利用しているスマートフォンがどのようにAIを活用しているのかを解説します。AIはスマートフォン体験を向上させるために不可欠な技術であり、その影響は今後ますます大きくなるでしょう。"
+    },
+    {
+      "title": "model-tuner 0.0.34b6",
+      "title_ja": "model-tuner 0.0.34b6",
+      "original_url": "https://pypi.org/project/model-tuner/0.0.34b6/",
+      "image_url": null,
+      "published_at": "2026-04-05T17:38:54Z",
+      "source": "Pypi.org",
+      "summary_ja": "このモデルチューナーは、機械学習モデルの訓練と調整を支援するPythonライブラリです。現時点では、ウェブサイトの一部が読み込めないという問題が発生しています。これは、ブラウザ拡張機能、ネットワーク接続、またはブラウザ設定が原因である可能性があります。問題解決のため、接続を確認し、広告ブロッカーを無効にするか、別のブラウザを試してください。"
+    }
+  ]
+}

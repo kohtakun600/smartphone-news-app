@@ -1,0 +1,158 @@
+{
+  "updated_at": "2026-03-01T22:50:00.344Z",
+  "articles": [
+    {
+      "title": "Quantum AI Investment Review: Trusted Trading System or Fraud? Results Exposed",
+      "title_ja": "Quantum AI投資レビュー：信頼できる取引システムか、詐欺か？結果を暴露",
+      "original_url": "https://whatjapanthinks.com/quantum-ai-investment-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/03/quantum-ai-investment.png",
+      "published_at": "2026-02-28T22:12:01Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Quantum AI Investmentは、仮想通貨市場の取引経験を向上させることを目指して新たに登場したオンライン取引プログラムです。高度な技術を謳っていますが、その信頼性については疑問の声も上がっています。この記事では、Quantum AI Investmentの仕組みと、それが投資家にもたらす影響について詳細に分析します。"
+    },
+    {
+      "title": "Qnity Electronics Q4 Earnings Call Highlights",
+      "title_ja": "Qnity Electronics 第4四半期決算発表ハイライト",
+      "original_url": "https://www.marketbeat.com/instant-alerts/qnity-electronics-q4-earnings-call-highlights-2026-02-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "image_url": "https://s.yimg.com/os/en/marketbeat_955/67f58887e8d8b973f2f0bfbce005a57a",
+      "published_at": "2026-02-28T22:05:41Z",
+      "source": "MarketBeat",
+      "summary_ja": "Qnity Electronicsは、2025年の年間売上高が前年比10%増の47億5000万ドル、第4四半期売上高が8%増の12億ドルと好調な業績を発表しました。この成長は、人工知能と先進的な半導体製造技術への継続的な投資によるもので、今後もその勢いを維持することを目指しています。調整後プロフォーマ営業EBITDAも14億ドルに達し、収益性の高さを示しました。"
+    },
+    {
+      "title": "skyulf-core 0.1.12",
+      "title_ja": "skyulf-core 0.1.12",
+      "original_url": "https://pypi.org/project/skyulf-core/0.1.12/",
+      "image_url": null,
+      "published_at": "2026-02-28T22:00:08Z",
+      "source": "Pypi.org",
+      "summary_ja": "skyulf-core 0.1.12 がリリースされました。これはSkyulfの中核となる機械学習ライブラリであり、Webサイトの正常な動作に不可欠です。Webサイトにアクセスできない場合、ブラウザ拡張機能やネットワークの問題、ブラウザの設定などが原因として考えられます。"
+    },
+    {
+      "title": "openeo-core added to PyPI",
+      "title_ja": "openeo-core が PyPI に追加",
+      "original_url": "https://pypi.org/project/openeo-core/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-02-28T21:48:58Z",
+      "source": "Pypi.org",
+      "summary_ja": "この度、オープンEOプロセスをローカルで定義・実行するためのスタンドアロンPythonライブラリ、openeo-core が PyPI に公開されました。xarray、dask、機械学習バックエンドなどを活用し、ラスタデータキューブやベクトルキューブの操作をPythonicなAPIで実現します。これにより、研究者や開発者は、オープンEOプロセスをより柔軟に、そして効率的にローカル環境で試すことができるようになります。"
+    },
+    {
+      "title": "spforge 0.10.6",
+      "title_ja": "spforge 0.10.6",
+      "original_url": "https://pypi.org/project/spforge/0.10.6/",
+      "image_url": null,
+      "published_at": "2026-02-28T21:30:12Z",
+      "source": "Pypi.org",
+      "summary_ja": "この更新版は、スポーツデータを用いた特徴量生成、レーティング計算、機械学習モデル構築を可能にする柔軟なフレームワークspforgeのバージョンアップです。これにより、スポーツデータの分析とモデル構築が効率化され、トレーニングと推論プロセスが向上します。利用者は、スポーツデータの活用をさらに高度に進められるようになります。"
+    },
+    {
+      "title": "pyerualjetwork 5.62",
+      "title_ja": "pyerualjetwork 5.62",
+      "original_url": "https://pypi.org/project/pyerualjetwork/5.62/",
+      "image_url": null,
+      "published_at": "2026-02-28T21:28:56Z",
+      "source": "Pypi.org",
+      "summary_ja": "PyereualJetwork 5.62 は、GPUアクセラレーションと並列スレッド処理をサポートした、Pythonの機械学習ライブラリです。専門家や研究者向けに設計されており、PLAN、MLP、深層学習トレーニング、遺伝的最適化のためのENE (Eugenic NeuroEvolution)などの機能を提供します。 このライブラリは、高性能な機械学習モデルの開発を加速することを目的としています。"
+    },
+    {
+      "title": "The 2026 AI Cost Crisis: The Rise of One API Aggregation Platforms and Their Potential to Deliver 80% Savings",
+      "title_ja": "2026年AIコスト危機：API統合プラットフォームの台頭と80%のコスト削減の可能性",
+      "original_url": "https://apnews.com/press-release/ein-presswire-newsmatics/the-2026-ai-cost-crisis-the-rise-of-one-api-aggregation-platforms-and-their-potential-to-deliver-80-savings-44143bf1f32e33814ff3fc21b8a3f725",
+      "image_url": "https://dims.apnews.com/dims4/default/b2850e4/2147483647/strip/true/crop/536x357+268+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F25%2F468ad8842eed29991d1bb60814f8%2F322eb9df110345f6bc3435074cbc519b",
+      "published_at": "2026-02-28T21:15:53Z",
+      "source": "Associated Press",
+      "summary_ja": "2026年までに1兆ドル規模に達すると予測される生成AI市場において、企業は未曾有のコスト危機に直面しています。この問題に対処するため、複数のAI APIを統合するプラットフォームが登場し、最大80%のコスト削減を可能にする可能性があります。これらのプラットフォームは、AI技術の普及を促進し、企業がAIをより効率的に利用するための重要な役割を果たすと期待されています。"
+    },
+    {
+      "title": "Here's how bitcoin's price rise could be fueled by job-stealing AI software",
+      "title_ja": "ビットコイン価格上昇の背景に、職を奪うAIソフトの可能性",
+      "original_url": "https://www.coindesk.com/business/2026/02/28/here-s-how-bitcoin-s-price-rise-could-be-fueled-by-job-stealing-ai-software",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/625e962319ce6313fb691ba6193954b6dfcccf67-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "published_at": "2026-02-28T21:00:00Z",
+      "source": "CoinDesk",
+      "summary_ja": "NYDIGの調査によると、ビットコインの将来は技術的な側面よりも、AIが経済成長、雇用、実質金利、中央銀行の流動性に与える影響に左右される可能性があると指摘しています。特に、職を奪うAIソフトウェアが経済に与える影響がビットコイン価格を押し上げる要因となる可能性を示唆しています。中央銀行の政策も重要な役割を果たすと分析しています。"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Apple, and Alphabet in the $3 Trillion Club Before 2028",
+      "title_ja": "予測：このAI関連株は2028年までにNvidia、Apple、Alphabetに並び、3兆ドルクラブ入りする",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_27db79d7-269c-45de-8896-49c211ff5557",
+      "image_url": null,
+      "published_at": "2026-02-28T20:50:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "この記事は、あるAI関連株が2028年までに時価総額3兆ドルに達し、Nvidia、Apple、Alphabetといった巨大テクノロジー企業に仲間入りするという予測を紹介しています。 この予測は、AI技術の急速な発展と、その関連企業の成長に対する楽観的な見通しに基づいています。 詳細な技術的内容には触れていませんが、AI分野における株価の大きな変動と、投資家への影響を示唆しています。"
+    },
+    {
+      "title": "Satya’s sacrifice: Why agents threaten Office and how Microsoft responds",
+      "title_ja": "サティアの犠牲：エージェントがOfficeを脅かす理由とマイクロソフトの対応",
+      "original_url": "https://siliconangle.com/2026/02/28/satyas-sacrifice-agents-threaten-office-microsoft-responds/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/308-_-Breaking-Analysis-_-Nadellas-sacrifice_-Why-agents-threaten-Office-how-Microsoft-responds.jpg",
+      "published_at": "2026-02-28T20:42:17Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "マイクロソフトのCEO、サティア・ナデラは、SaaSがCRUDデータベースの上に配置されるAIエージェントに溶解すると予測しました。この記事では、このビジョンのもと、AIエージェントがOfficeなどの既存のSaaS製品にどのような影響を与える可能性があるのかを探求しています。マイクロソフトがこの変化に対してどのように対応しようとしているのか、その戦略に焦点を当てています。"
+    },
+    {
+      "title": "AI Boom May Be Creating Hidden Risks In Housing Market",
+      "title_ja": "AIブームが住宅市場に潜むリスクを生み出す可能性",
+      "original_url": "https://finance.yahoo.com/news/ai-boom-may-creating-hidden-203059810.html",
+      "image_url": "https://s.yimg.com/os/en/benzinga_79/c405db7f836e64c9289e50e851eee06e",
+      "published_at": "2026-02-28T20:30:59Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "人工知能（AI）の急速な発展は、生産性向上に大きく貢献していますが、その一方で、住宅市場という重要な分野に隠れたリスクを生み出す可能性が指摘されています。AIは住宅価格の決定やローン審査などに影響を与え、市場の不安定化や公平性の問題を招く恐れがあります。この記事では、AIが住宅市場にもたらす可能性のある潜在的なリスクについて考察しています。"
+    },
+    {
+      "title": "Unifying Arabic topolects through AI",
+      "title_ja": "AIによるアラビア語方言の統合",
+      "original_url": "https://languagelog.ldc.upenn.edu/nll/?p=72894",
+      "image_url": null,
+      "published_at": "2026-02-28T20:29:16Z",
+      "source": "Upenn.edu",
+      "summary_ja": "中国のAI「Habibi」が、中東で初めて20ものアラビア語の方言を統合する試みです。これは、公式な場で使用される標準アラビア語と、様々な方言との間の大きな差異に対応するためのものです。この技術革新は、異なるアラビア語話者間のコミュニケーションを促進し、言語の多様性を保ちながら情報アクセスを向上させる可能性があります。"
+    },
+    {
+      "title": "What's (still) wrong with AI text-to-speech?",
+      "title_ja": "AIテキスト読み上げの課題は？",
+      "original_url": "https://languagelog.ldc.upenn.edu/nll/?p=72892",
+      "image_url": null,
+      "published_at": "2026-02-28T20:13:55Z",
+      "source": "Upenn.edu",
+      "summary_ja": "テキスト読み上げ技術は長年にわたり飛躍的に向上しましたが、まだ改善の余地が残っています。エコノミスト誌の記事のAIによる読み上げに不満の声が上がっており、その質について議論されています。音声合成技術は進歩しているものの、自然な人間の話し方に近づけるための課題が残されています。"
+    },
+    {
+      "title": "MWC 2026: AI, foldables, satellite connectivity, and memory crisis",
+      "title_ja": "MWC 2026：AI、折り畳みスマホ、衛星接続、そしてメモリ危機",
+      "original_url": "https://www.androidcentral.com/phones/mwc-2026-ai-foldables-satellite-connectivity-and-memory-crisis",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BnSfzvkfCGHgekQhaEfUfJ-1189-80.jpg",
+      "published_at": "2026-02-28T20:00:00Z",
+      "source": "Android Central",
+      "summary_ja": "2026年のMWCでは、AIのブレークスルー、折り畳み式デバイス、衛星通信の進展が期待される一方で、メモリ供給の逼迫と部品コストの上昇が、より大きな問題として浮上する可能性があります。IDCのアナリストによると、これらの要因が、展示会全体の動向を左右する可能性があり、最新技術の普及に影響を与える可能性があります。"
+    },
+    {
+      "title": "Show HN: Didacu – The fastest way to learn something new",
+      "title_ja": "Show HN: Didacu – 新しいことを最速で学ぶ方法",
+      "original_url": "https://didacu.com",
+      "image_url": "https://didacu.com/opengraph-image?5d3c95e73a347e0e",
+      "published_at": "2026-02-28T19:31:12Z",
+      "source": "Didacu.com",
+      "summary_ja": "Didacuは、AIを活用してあらゆるトピックに関するインタラクティブなコースを瞬時に生成する学習プラットフォームです。ユーザーが学びたい内容を入力すると、スライド、クイズ、進捗トラッキング機能を備えたコースが作成されます。これにより、情報の収集と学習の間の摩擦を減らし、効率的な知識習得を可能にします。"
+    },
+    {
+      "title": "Artificial Intelligence and the Myth of Mass Unemployment",
+      "title_ja": "人工知能と大量失業の神話",
+      "original_url": "https://statetimes.in/artificial-intelligence-and-the-myth-of-mass-unemployment/",
+      "image_url": "https://statetimes.in/wp-content/uploads/2024/10/Artificial-intelligence.jpg",
+      "published_at": "2026-02-28T19:04:54Z",
+      "source": "Statetimes.in",
+      "summary_ja": "現代の議論では、AIは大きな可能性と危険性を同時に秘めているとされています。生産性革命を牽引し、医療、金融、ガバナンスなどの分野を変革するともてはやされる一方、大量失業を引き起こすのではないかという懸念も存在します。この記事では、AIがもたらす影響について、楽観的・悲観的な見方の双方を検討し、その根拠を探ります。"
+    },
+    {
+      "title": "Unlocking Photoshop’s AI Magic: Smarter, Faster Retouching for Photographers",
+      "title_ja": "PhotoshopのAI魔法を解き放つ：写真家向け、よりスマートで高速なレタッチ",
+      "original_url": "https://fstoppers.com/photoshop/unlocking-photoshops-ai-magic-smarter-faster-retouching-photographers-900186",
+      "image_url": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/02/generative-ai.jpg?itok=zHSGfM0-",
+      "published_at": "2026-02-28T19:03:02Z",
+      "source": "Fstoppers",
+      "summary_ja": "Photoshopに搭載された新しい生成AIツールは、写真家のワークフローを効率化し、新たな創造性を引き出す強力な機能を提供します。この記事では、これらの機能を最大限に活用する方法を紹介します。AIを活用することで、レタッチ作業がこれまで以上に簡単かつ迅速に行えるようになり、クリエイティブな表現の幅が広がります。"
+    }
+  ]
+}

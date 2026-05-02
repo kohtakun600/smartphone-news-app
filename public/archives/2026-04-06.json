@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-05T23:00:10.982Z",
+  "articles": [
+    {
+      "title": "Microsoft is automatically updating Windows 11 24H2 to 25H2 using machine learning",
+      "title_ja": "Microsoft、機械学習を活用してWindows 11 24H2を25H2に自動アップデート",
+      "original_url": "https://www.tweaktown.com/news/110874/microsoft-is-automatically-updating-windows-11-24h2-to-25h2-using-machine-learning/index.html",
+      "image_url": "https://static.tweaktown.com/news/1/1/110874_280_microsoft-is-automatically-updating-windows-11-24h2-to-25h2-using-machine-learning_full.jpg",
+      "published_at": "2026-04-04T22:06:04Z",
+      "source": "TweakTown",
+      "summary_ja": "Microsoftは、Windows 11の古いバージョンである24H2のサポート終了を見据え、機械学習を用いて25H2への自動アップデートを開始しました。この積極的なアップデートは、Windows全体の更新計画の一環であり、ユーザーの意図に関わらず強制的に行われる可能性があります。これにより、旧バージョンのセキュリティリスクを低減し、より新しい機能への移行を促進することが期待されます。"
+    },
+    {
+      "title": "Billionaire Philippe Laffont Sold CoreWeave and Bought This Artificial Intelligence (AI) Stock Instead",
+      "title_ja": "億万長者フィリップ・ラフォント氏、CoreWeaveを売却し、代わりにこのAI（人工知能）関連株を購入",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a132422-578a-48c5-9b24-2622baad3ba1",
+      "image_url": null,
+      "published_at": "2026-04-04T21:20:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "フィリップ・ラフォント氏は、自身の保有するCoreWeaveを売却し、AI関連株への投資にシフトしました。この記事は、具体的なAI関連株の銘柄には触れていませんが、AI技術への期待と、その分野への積極的な投資姿勢を示しています。この動きは、AI技術の成長と、投資家によるその将来性への注目度を浮き彫りにしています。"
+    },
+    {
+      "title": "lambdaml 1.1.0",
+      "title_ja": "lambdaml 1.1.0",
+      "original_url": "https://pypi.org/project/lambdaml/1.1.0/",
+      "image_url": null,
+      "published_at": "2026-04-04T21:15:21Z",
+      "source": "Pypi.org",
+      "summary_ja": "本記事では、NumPy互換のあらゆる関数に対応した、勾配を使わない機械学習ライブラリ「lambdaml 1.1.0」について触れています。このライブラリは、複雑な関数の最適化を可能にし、機械学習モデル開発の幅を広げます。しかし、記事の一部が読み込めない問題が発生しており、ブラウザ拡張機能、ネットワーク、またはブラウザ設定が原因の可能性があります。"
+    },
+    {
+      "title": "The People Who Know the Most Are Quietly Selling. Jim Rickards Is Asking Why.",
+      "title_ja": "AI業界関係者が静かに売却を進めている。ジム・リッカーズ氏がその理由を問う。",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/04/3268207/0/en/The-People-Who-Know-the-Most-Are-Quietly-Selling-Jim-Rickards-Is-Asking-Why.html",
+      "image_url": null,
+      "published_at": "2026-04-04T21:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "元CIA顧問のジム・リッカーズ氏が、AI業界におけるインサイダーによる売却、機関投資家の撤退、CEOからの警告といった異常なパターンを分析したプレゼンテーションを発表しました。これは市場全体にとって警戒すべき兆候であると見ています。彼は、この動きが市場全体にどのような影響を与えるのか、その理由を深く探求しています。"
+    },
+    {
+      "title": "lambdaml 1.0.5",
+      "title_ja": "lambdaml 1.0.5",
+      "original_url": "https://pypi.org/project/lambdaml/1.0.5/",
+      "image_url": null,
+      "published_at": "2026-04-04T20:51:39Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事では、任意のNumPy互換関数に適用できる勾配フリーの機械学習ライブラリ、lambdamlのバージョン1.0.5について説明しています。このライブラリは、勾配計算を必要としない機械学習モデルを構築することを可能にし、より幅広い関数に対応しています。サイトの一部のロードに問題が生じている可能性があると記載されていますが、これはブラウザ拡張機能やネットワークの問題に起因する可能性があります。"
+    },
+    {
+      "title": "lambdaml 1.0.3",
+      "title_ja": "lambdaml 1.0.3",
+      "original_url": "https://pypi.org/project/lambdaml/1.0.3/",
+      "image_url": null,
+      "published_at": "2026-04-04T20:36:00Z",
+      "source": "Pypi.org",
+      "summary_ja": "lambdaml 1.0.3がリリースされました。これは、numpy互換のあらゆる関数に対して勾配フリーの機械学習を可能にするライブラリです。広告ブロッカーやネットワーク接続の問題で、ウェブサイトの一部が読み込めない可能性があります。"
+    },
+    {
+      "title": "AI File Organizer Pro 1.1.0",
+      "title_ja": "AIファイルオーガナイザーPro 1.1.0",
+      "original_url": "https://post.rlsbb.to/ai-file-organizer-pro-1-1-0/",
+      "image_url": null,
+      "published_at": "2026-04-04T20:22:18Z",
+      "source": "Rlsbb.to",
+      "summary_ja": "AIを活用してデジタルファイルの整理を自動化するツール、AIファイルオーガナイザーProのバージョン1.1.0がリリースされました。ダウンロードフォルダやプロジェクトファイルの整理など、ファイル管理に費やす時間を大幅に削減し、生産性向上に貢献します。AIの力で、煩雑なファイル管理を効率化し、より快適なデジタルライフをサポートします。"
+    },
+    {
+      "title": "lambdaml 1.0.1",
+      "title_ja": "lambdaml 1.0.1",
+      "original_url": "https://pypi.org/project/lambdaml/1.0.1/",
+      "image_url": null,
+      "published_at": "2026-04-04T19:57:13Z",
+      "source": "Pypi.org",
+      "summary_ja": "Gradient-free machine learning for any numpy-compatible function"
+    },
+    {
+      "title": "lambdaml 1.0.0",
+      "title_ja": "lambdaml 1.0.0 リリース",
+      "original_url": "https://pypi.org/project/lambdaml/1.0.0/",
+      "image_url": null,
+      "published_at": "2026-04-04T19:31:13Z",
+      "source": "Pypi.org",
+      "summary_ja": "lambdaml 1.0.0 がリリースされました。これは、NumPy互換の関数に対して勾配フリーの機械学習を可能にするライブラリです。これにより、複雑な数値計算を含む幅広い関数に対して機械学習モデルを適用できるようになり、機械学習の適用範囲を大きく広げることが期待されます。"
+    },
+    {
+      "title": "lambdaml added to PyPI",
+      "title_ja": "lambdaml added to PyPI",
+      "original_url": "https://pypi.org/project/lambdaml/",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "published_at": "2026-04-04T19:31:13Z",
+      "source": "Pypi.org",
+      "summary_ja": "Gradient-free machine learning for any numpy-compatible function"
+    },
+    {
+      "title": "IBM, watch out! Fujitsu uses AI to understand COBOL and automatically generate design documents \"without expert knowledge\" in minutes rather than hours",
+      "title_ja": "IBMよ、覚悟！富士通がAIでCOBOLを理解し、専門知識なしで設計ドキュメントを数時間ではなく数分で自動生成",
+      "original_url": "https://www.techradar.com/pro/ibm-watch-out-fujitsu-uses-ai-to-understand-cobol-and-automatically-generate-design-documents-without-expert-knowledge-in-minutes-rather-than-hours",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WgYZVv6ucLUnQDJXEGANqc-2560-80.jpg",
+      "published_at": "2026-04-04T19:20:00Z",
+      "source": "TechRadar",
+      "summary_ja": "富士通は、COBOLの分析とドキュメント化を自動化するAIサービスを開始しました。これにより、専門家の知見を必要とせずに、従来数時間かかっていた作業をわずか数分に短縮し、開発工数を大幅に削減します。この技術は、長年利用されているレガシーシステムのモダナイゼーションを支援し、企業のシステム刷新を加速させる可能性を秘めています。"
+    },
+    {
+      "title": "1 Artificial Intelligence (AI) Stock That Could Be Worth a Fortune by 2030",
+      "title_ja": "2030年までに莫大な価値を持つ可能性のあるAI関連株",
+      "original_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6faf72c7-306f-4d52-b11e-9be05621f443",
+      "image_url": null,
+      "published_at": "2026-04-04T19:20:00Z",
+      "source": "Yahoo Entertainment",
+      "summary_ja": "この記事は、2030年までに大きな成長を遂げる可能性のある人工知能（AI）関連の株式について言及しています。AI技術の進化と、それに関連する企業の将来性を分析しています。具体的にどの企業に注目すべきか、投資家にとって示唆に富む内容です。"
+    },
+    {
+      "title": "Microsoft is Forcing Windows 11 25H2 Update to 24H2 Users",
+      "title_ja": "Microsoft、Windows 11 24H2ユーザーへ25H2への強制アップデートを実施",
+      "original_url": "https://www.techpowerup.com/348004/microsoft-is-forcing-windows-11-25h2-update-to-24h2-users",
+      "image_url": "https://www.techpowerup.com/img/HS7nf53m5Sn9DMNI.jpg",
+      "published_at": "2026-04-04T19:19:47Z",
+      "source": "Techpowerup.com",
+      "summary_ja": "Microsoftは、Windows 11の最新版である25H2を、以前の24H2バージョンを使用しているユーザーに対して強制的にインストールを開始しました。このアップデートは、Microsoftが「機械学習ベースのインテリジェントロールアウト」と呼ぶ方法で、自動的に行われています。これにより、Windows 11のバージョンが徐々に最新化され、ユーザーエクスペリエンスの向上が図られると見られます。"
+    },
+    {
+      "title": "How to Become AI-Native: A Practical Guide",
+      "title_ja": "AIネイティブになる方法：実践的なガイド",
+      "original_url": "https://www.c-sharpcorner.com/article/how-to-become-ai-native-a-practical-guide/",
+      "image_url": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "published_at": "2026-04-04T19:16:23Z",
+      "source": "C-sharpcorner.com",
+      "summary_ja": "この記事は、AI主導の世界で成功するための、AIネイティブになるための実践的なステップとマインドセットの変化、具体的な戦略を紹介しています。AI時代の変化に対応し、レバレッジ、スピード、そして大規模な成果を生み出す能力を習得することが重要だと強調しています。AIスキルを習得し、変化の激しいAI時代で競争力を維持するための包括的なロードマップを提供します。"
+    },
+    {
+      "title": "AI Influencing Elections: Anthropic Forms PAC Leading into Midterms as It Fights Trump Administration",
+      "title_ja": "AIが選挙に影響：Anthropic社がトランプ政権との対立の中で中間選挙に向けてPACを設立",
+      "original_url": "https://www.breitbart.com/tech/2026/04/04/ai-influencing-elections-anthropic-forms-pac-leading-into-midterms-as-it-fights-trump-administration/",
+      "image_url": "https://media.breitbart.com/media/2026/04/Dario-Amodei-wants-Anthropic-to-take-over-politics-640x335.jpg",
+      "published_at": "2026-04-04T19:04:12Z",
+      "source": "Breitbart News",
+      "summary_ja": "AI企業Anthropicが、トランプ政権との法廷闘争を抱えながら、新たな企業政治活動委員会（PAC）を設立しました。この「AnthroPAC」は、超党派の候補者への寄付を行うとされています。これは、AI技術が選挙に与える影響に対する懸念が高まる中での動きであり、AI企業による政治的関与の増加を示唆しています。この動きは、今後の選挙戦におけるAIの役割を更に明確にするものと見られています。"
+    },
+    {
+      "title": "Writers Guild Reaches Tentative Four-Year Deal With Studios",
+      "title_ja": "全米脚本家組合、スタジオ側と4年間の暫定合意に達する",
+      "original_url": "http://www.hollywoodreporter.com/business/business-news/writers-guild-tentative-four-year-deal-studios-1236555949/",
+      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-1700864074-H-2026.jpg?w=1296&h=730&crop=1",
+      "published_at": "2026-04-04T18:58:20Z",
+      "source": "Hollywood Reporter",
+      "summary_ja": "全米脚本家組合（WGA）は、スタジオやストリーマーを代表する映画・テレビプロデューサー連盟との間で、4年間の暫定合意に達しました。この合意には、健康保険や年金の増額、そしてAIによる執筆への保護強化などが含まれています。3月中旬から始まった交渉としては異例のスピードで合意に至り、ハリウッドの労働環境に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Sony Acquires AI Company Cinemersive Labs",
+      "title_ja": "ソニー、AI企業Cinemersive Labsを買収",
+      "original_url": "https://news.sankakucomplex.com/n/L2P1R0_Fedl8qwKsVpGDpw",
+      "image_url": "https://news.sankakucomplex.com/wp-content/uploads/2024/03/KisaragiChihaya-Gyaru-Art-by-JabaraTornado-2024-Thumb.jpg",
+      "published_at": "2026-04-04T18:57:26Z",
+      "source": "Sankakucomplex.com",
+      "summary_ja": "ソニーは、機械学習を活用したグラフィックス技術に注力するため、AIスタートアップのCinemersive Labsを買収しました。2022年創業のCinemersive Labsは、高度なAIグラフィックス技術を専門としており、映像制作における様々な革新が期待されます。今回の買収は、ソニーが今後もAI技術を積極的に活用し、消費者向けの製品やサービスに繋げていくことを示唆しています。"
+    },
+    {
+      "title": "Google Officially Unveils Gemini Nano 4 For On-Device Android AI",
+      "title_ja": "Google、Androidデバイス向けオンデバイスAI「Gemini Nano 4」を正式発表",
+      "original_url": "https://www.ubergizmo.com/2026/04/gemini-nano-4/",
+      "image_url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/04/Develope-with-Gemma-4-Blog--scaled.png",
+      "published_at": "2026-04-04T18:55:54Z",
+      "source": "Ubergizmo",
+      "summary_ja": "Googleは、Androidエコシステムに特化したオンデバイスAIの最新モデル「Gemini Nano 4」を正式に発表しました。2026年中に広範な展開が予定されており、デバイス上のAI機能とのシームレスな統合を目指しています。この技術革新は、ユーザーのプライバシーを保護しつつ、よりパーソナルで応答性の高いAI体験をAndroidデバイスにもたらすことが期待されています。"
+    },
+    {
+      "title": "Machine Learning Predicts Fatigue Patterns in Elite Women's Handball Players — Health to Longevity",
+      "title_ja": "機械学習がエリート女子ハンドボール選手の疲労パターンを予測 ― 健康から長寿へ",
+      "original_url": "https://healthtolongevity.com/article/10864/machine-learning-predicts-fatigue-patterns-in-elite-womens-handball-players",
+      "image_url": "https://healthtolongevity.com/static/img/og-default.jpg",
+      "published_at": "2026-04-04T18:36:25Z",
+      "source": "Healthtolongevity.com",
+      "summary_ja": "最新の技術革新により、機械学習がエリート女子ハンドボール選手の疲労パターンを予測できるようになりました。従来の主観的な評価や高価な検査に頼っていた疲労管理において、客観的で効率的なアプローチをもたらします。これにより、アスリートのパフォーマンス向上と健康維持に貢献することが期待されます。"
+    },
+    {
+      "title": "How flexibility and ambassadors can secure the AI-enabled enterprise",
+      "title_ja": "柔軟性とアンバサダーがAI対応企業をいかに守るか",
+      "original_url": "https://siliconangle.com/2026/04/04/flexibility-ambassadors-can-secure-ai-enabled-enterprise/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/02/nvidiacybersecurityai.png",
+      "published_at": "2026-04-04T18:36:14Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "人工知能（AI）があらゆる分野に浸透する中で、AI脅威への対応、企業内AI管理、そしてセキュリティ体制のAI化への適応が喫緊の課題となっています。柔軟性のあるアプローチと、AIの知識を社内に広めるアンバサダーの役割が、AIを活用する企業を安全に保つために重要です。この記事では、これらの要素がAIを最大限に活用しつつ、リスクを管理する鍵となると論じています。"
+    }
+  ]
+}

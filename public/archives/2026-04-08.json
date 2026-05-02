@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-07T23:06:50.239Z",
+  "articles": [
+    {
+      "title": "CNBC's The China Connection newsletter: Why AI isn't replacing jobs in China (yet)",
+      "title_ja": "CNBCの中国関連ニュースレター：中国でAIが雇用を代替しない理由（今のところ）",
+      "original_url": "https://www.cnbc.com/2026/04/07/ai-jobs-layoffs-us-china-engineers-hiring.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285143-1774937449153-gettyimages-2268078260-zt190610_xdbgxidk.jpeg?v=1774937473&w=1920&h=1080",
+      "published_at": "2026-04-06T23:02:23Z",
+      "source": "CNBC",
+      "summary_ja": "CNBCのニュースレターによると、シリコンバレーではAIによる人員削減が話題となる中、中国のエンジニアは比較的安泰な状況にあるようです。中国でのAIの急速な導入は進んでいるものの、今のところ雇用への影響は限定的であると分析しています。記事では、中国におけるAIと雇用の関係性について、その背景と現状を考察しています。"
+    },
+    {
+      "title": "A top US shipbuilder is exploring how AI and robots can do some of the hardest jobs on the production floor",
+      "title_ja": "アメリカの大手造船会社が、AIとロボットを活用して生産現場の難易度の高い作業の自動化を検討",
+      "original_url": "https://www.businessinsider.com/a-top-us-shipbuilder-is-exploring-physical-ai-in-shipbuilding-2026-4",
+      "image_url": "https://i.insider.com/69d42b16e762ed6cfe44ac74?width=1200&format=jpeg",
+      "published_at": "2026-04-06T23:02:01Z",
+      "source": "Business Insider",
+      "summary_ja": "アメリカ海軍の大手造船会社HIIが、GrayMatter Roboticsとの提携により、造船プロセスへの物理AIの統合を計画しています。この技術革新は、生産現場における難易度の高い作業を自動化し、効率化を図ることを目指しています。これにより、造船業界の生産性と安全性の向上が期待されています。"
+    },
+    {
+      "title": "AI, pay, workload to be debated at ASTI convention",
+      "title_ja": "ASTI年次総会でAI、給与、労働負荷などを議論へ",
+      "original_url": "https://www.rte.ie/news/education/2026/0407/1566925-ai-pay-workload-to-be-debated-at-asti-convention/",
+      "image_url": "https://www.rte.ie/images/0023cc79-1600.jpg",
+      "published_at": "2026-04-06T23:00:01Z",
+      "source": "RTE",
+      "summary_ja": "アイルランド中等学校教員組合（ASTI）の年次総会では、教員の給与、労働負荷、そして生徒による人工知能（AI）の利用が主な議題として取り上げられます。これらの問題は、教育現場におけるAIの導入と、教員の負担増という側面から、教育の未来に大きな影響を与える可能性があります。会議では、これらの課題に対する具体的な対策や議論が期待されます。"
+    },
+    {
+      "title": "AI, pay, workload to be debated at ASTI convention",
+      "title_ja": "アイルランド中等教員協会（ASTI）大会で、AI、給与、労働負荷が議題に",
+      "original_url": "https://www.rte.ie/news/education/2026/0407/1566925-asti-conference/",
+      "image_url": "https://www.rte.ie/images/0023cc79-1600.jpg",
+      "published_at": "2026-04-06T23:00:01Z",
+      "source": "RTE",
+      "summary_ja": "アイルランド中等教員協会（ASTI）の年次大会で、教員の給与、労働負荷、そして生徒による人工知能（AI）利用が主要な議題として議論されます。これらの問題は、教師の働き方や教育の質の向上に影響を与える可能性があります。AIの教育現場への導入は、生徒の学習方法や教員の役割に大きな変化をもたらす可能性があり、注目されます。"
+    },
+    {
+      "title": "First-principles investigation and device simulation of TlPbI3-based perovskite solar cells with machine learning-driven efficiency prediction",
+      "title_ja": "第一原理計算とデバイスシミュレーションによるTlPbI3ペロブスカイト太陽電池の研究、機械学習を用いた効率予測",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d6ra01288d",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6RA01288D",
+      "published_at": "2026-04-06T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、TlPbI3をベースとしたペロブスカイト太陽電池の性能を、第一原理計算とデバイスシミュレーションを用いて詳細に分析しています。機械学習を活用し、これらのシミュレーション結果から太陽電池の効率を予測する手法を開発しました。これにより、太陽電池の設計と最適化における効率的なアプローチを提供し、高性能化に貢献することを目指しています。"
+    },
+    {
+      "title": "Fast and accurate diagnosis of electron temperature using a machine learning model trained with time-evolved plasma spectra",
+      "title_ja": "時間発展プラズマスペクトルで学習した機械学習モデルによる、電子温度の高速かつ高精度な診断",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ja/d5ja00500k",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D5JA00500K",
+      "published_at": "2026-04-06T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、時間発展プラズマスペクトルを用いて学習した機械学習モデルを活用し、電子温度を迅速かつ正確に診断する手法を提案しています。このモデルは、プラズマ診断における重要なパラメータである電子温度の推定精度を向上させ、時間分解能の向上に貢献します。これにより、プラズマ物理学の研究や、プラズマを利用する様々な技術分野への応用が期待されます。"
+    },
+    {
+      "title": "DVIZ – AI for Archviz",
+      "title_ja": "DVIZ – アーキビジュアライゼーション向けAI",
+      "original_url": "https://cgpersia.com/2026/04/dviz-ai-for-archviz-202957.html",
+      "image_url": "https://i.ibb.co/RGqf0xRm/1.jpg",
+      "published_at": "2026-04-06T22:55:39Z",
+      "source": "Cgpersia.com",
+      "summary_ja": "このコースは、建築ビジュアライゼーション（Archviz）に特化したAI技術を学ぶための包括的なものです。AIを活用して高品質でリアルなレンダリングを生成する方法を習得できます。全16モジュールで構成されており、プロジェクトファイルとMP4動画が付属しています。これにより、これまでにないレベルの品質とリアリズムを実現することが可能になります。"
+    },
+    {
+      "title": "volnix 0.1.2",
+      "title_ja": "volnix 0.1.2",
+      "original_url": "https://pypi.org/project/volnix/0.1.2/",
+      "image_url": null,
+      "published_at": "2026-04-06T22:52:43Z",
+      "source": "Pypi.org",
+      "summary_ja": "このサイトでは、人工知能のためのプログラム可能な世界を構築するvolnix 0.1.2に関する情報が提供されています。この技術は、AIの学習環境をカスタマイズし、より洗練されたモデルの開発を可能にする可能性を秘めています。しかし、サイトの一部が読み込めない問題が発生しており、その原因としてブラウザ拡張機能やネットワークの問題などが考えられます。"
+    },
+    {
+      "title": "AIPro360 Introduces an All-in-One AI Marketing and Sales Platform for Local Business Owners",
+      "title_ja": "AIPro360、中小企業向けオールインワンAIマーケティング＆セールスプラットフォームを発表",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/06/3268771/0/en/AIPro360-Introduces-an-All-in-One-AI-Marketing-and-Sales-Platform-for-Local-Business-Owners.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/4396eed0-5d3e-4984-a28c-081067cf9c81",
+      "published_at": "2026-04-06T22:51:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "AIPro360が、レビュー管理、リード獲得、予約、自動化、顧客コミュニケーションを統合した、中小企業向けのAIマーケティング＆セールスプラットフォームを発表しました。このプラットフォームは、複数のソフトウェアを使用するコストを削減しつつ、ビジネス運営を効率化することを目指しています。AIの進化がビジネスを変革する中、中小企業が競争力を高めるための強力なツールとなるでしょう。"
+    },
+    {
+      "title": "Samsung flags eight-fold jump in Q1 profit as AI chip demand drives up prices",
+      "title_ja": "サムスン、AIチップ需要増による価格上昇を受け、第1四半期の利益が8倍増の見通し",
+      "original_url": "https://www.channelnewsasia.com/business/samsung-flags-eight-fold-jump-in-q1-profit-ai-chip-demand-drives-up-prices-6039786",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--EPXK2m2C--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-06T224457Z_1_LYNXMPEM350WL_RTROPTP_3_SAMSUNG-RESULTS.JPG?itok=uEFwP0C6",
+      "published_at": "2026-04-06T22:48:33Z",
+      "source": "CNA",
+      "summary_ja": "サムスン電子は、人工知能（AI）インフラへの需要急増により、第1四半期の営業利益が前年同期比で大幅に増加すると発表しました。半導体供給のボトルネックと価格上昇が、利益増に大きく貢献しています。この結果は、AI技術の発展が半導体市場に与える影響の大きさを物語っています。"
+    },
+    {
+      "title": "Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices",
+      "title_ja": "サムスン、AIチップ需要増による価格上昇で第1四半期利益が8倍増と予想",
+      "original_url": "https://www.channelnewsasia.com/business/samsung-flags-eightfold-jump-in-q1-profit-ai-chip-demand-drives-up-prices-6039786",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--EPXK2m2C--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-06T224457Z_1_LYNXMPEM350WL_RTROPTP_3_SAMSUNG-RESULTS.JPG?itok=uEFwP0C6",
+      "published_at": "2026-04-06T22:48:33Z",
+      "source": "CNA",
+      "summary_ja": "サムスン電子は、人工知能（AI）インフラへの需要急増により、第1四半期の利益が前年同期比8倍以上になると見込んでいます。AIチップの需要と供給のボトルネックが利益の大幅な増加を牽引しました。これは、テクノロジー業界におけるAIの重要性と、それに伴う半導体市場への影響を示しています。"
+    },
+    {
+      "title": "Samsung flags eightfold jump in quarterly profit as AI chip demand stokes prices",
+      "title_ja": "サムスン、AIチップ需要増による価格高騰で四半期利益が8倍増の見通し",
+      "original_url": "https://www.channelnewsasia.com/business/samsung-flags-eightfold-jump-in-quarterly-profit-ai-chip-demand-stokes-prices-6039786",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--6bhz9s0D--/c_crop,h_449,w_799,x_1,y_34/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-06T224457Z_1_LYNXMPEM350WL_RTROPTP_3_SAMSUNG-RESULTS.JPG?itok=uEFwP0C6",
+      "published_at": "2026-04-06T22:48:00Z",
+      "source": "CNA",
+      "summary_ja": "サムスン電子は、AIインフラ需要の急増と供給不足により、第1四半期の利益が大幅に増加し、昨年の利益全体を上回ると発表しました。この好調な業績は、AIチップの需要拡大がチップ価格を押し上げていることが主な要因です。高度な半導体技術を持つサムスンは、AI関連の市場成長から大きな恩恵を受けています。"
+    },
+    {
+      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips",
+      "title_ja": "ブロードコム、GoogleのカスタムAIチップ開発で長期契約を締結",
+      "original_url": "https://www.channelnewsasia.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-6039781",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--A-8qxbkR--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-06T223745Z_1_LYNXMPEM350WF_RTROPTP_3_BROADCOM-TSMC.JPG?itok=WBcWXjqM",
+      "published_at": "2026-04-06T22:37:45Z",
+      "source": "CNA",
+      "summary_ja": "ブロードコムは、Googleと次世代AIチップの長期開発・供給契約を締結しました。2031年まで、Googleの次世代AIラック向けにカスタムAIチップやその他コンポーネントを開発・供給します。この契約は、AI技術における両社の協力体制を強化し、高性能なAIインフラの構築を加速させるでしょう。"
+    },
+    {
+      "title": "Nvidia-backed Firmus raises $505M at $5.5B valuation ahead of ASX IPO",
+      "title_ja": "NVIDIA出資のFirmus、オーストラリア証券取引所（ASX）IPO前に5億500万ドルを調達、評価額は55億ドル",
+      "original_url": "https://siliconangle.com/2026/04/06/nvidia-backed-firmus-raises-505m-5-5b-valuation-ahead-asx-ipo/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/firmus.png",
+      "published_at": "2026-04-06T22:34:37Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "NVIDIAが出資するオーストラリアのAIデータセンター企業Firmus Technologiesが、ASX（オーストラリア証券取引所）への新規株式公開（IPO）を前に、5億500万ドルの資金調達を成功させました。評価額は55億ドルに達し、AIデータセンター分野における同社の成長と、その技術的影響力を示しています。今回の資金調達は、Firmusの今後の事業拡大と、AI関連インフラへの投資を加速させるものと期待されます。"
+    },
+    {
+      "title": "Take Solutions Launches Rs. 50 Million Innovation Fund to Back AI, Deep Tech and Digital Health Startups",
+      "title_ja": "Take SolutionsがAI、Deep Tech、デジタルヘルス分野のスタートアップ支援へ、5000万ルピーのイノベーションファンドを設立",
+      "original_url": "https://equitybulls.com/category.php?id=368733",
+      "image_url": "https://www.equitybulls.com/equitybullsadmin/uploads/Take Solutions Limited Logo 2.jpg",
+      "published_at": "2026-04-06T22:34:34Z",
+      "source": "Equity Bulls",
+      "summary_ja": "グローバルテクノロジー企業であるTake Solutionsが、AI、Deep Tech、デジタルヘルス分野のスタートアップを支援するため、5000万ルピーのイノベーションファンドを立ち上げました。このファンドは、革新的な技術を持つ企業への投資を通じて、業界のイノベーションを加速させることを目指しています。これにより、同社は最先端技術分野でのプレゼンスを強化し、将来の成長機会を創出することに期待しています。"
+    },
+    {
+      "title": "Perplexity Launches AI Agent That Drafts Tax Returns",
+      "title_ja": "Perplexity、税金申告書を起草するAIエージェントを発表",
+      "original_url": "https://www.pymnts.com/taxes/2026/perplexity-launches-ai-agent-that-drafts-tax-returns/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/Perplexity-AI-taxes.jpeg",
+      "published_at": "2026-04-06T22:20:40Z",
+      "source": "pymnts.com",
+      "summary_ja": "Perplexityが、税金申告書を自動で作成するAIエージェントをローンチしました。これにより、多くの人が毎年頭を悩ませる税金申告のプロセスが大幅に簡素化される可能性があります。このAIは、複雑な税法や書類の理解を助け、時間とコストを削減することを目指しています。"
+    },
+    {
+      "title": "OpenAI releases policy document focused on financial impacts and risks of AI",
+      "title_ja": "OpenAI、AIの財務的影響とリスクに焦点を当てた政策文書を公開",
+      "original_url": "https://siliconangle.com/2026/04/06/openai-releases-policy-document-focused-financial-impact-risks-ai/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/52660764045_a9fd79f194_c-1-1.jpg",
+      "published_at": "2026-04-06T22:20:12Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "OpenAIは、人工知能がもたらすリスクに対処するための政策フレームワークを発表しました。13ページにわたるこの文書は、「知能時代の産業政策：人々を最優先に」と題され、AIの財務的影響とリスクに焦点を当てています。これは、AI開発における倫理的・経済的な課題への対応を示唆するもので、今後のAI技術の発展と社会への影響を左右する可能性を秘めています。"
+    },
+    {
+      "title": "Commentary: Iran is ending the dream of remote-controlled war",
+      "title_ja": "解説：イランが遠隔操作戦争の夢を終わらせつつある",
+      "original_url": "https://www.channelnewsasia.com/commentary/iran-war-artificial-intelligence-drone-technology-6038696",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--BMAKQM3e--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/APTOPIX_Iran_War_53321.jpg?itok=9JQJoLQF",
+      "published_at": "2026-04-06T21:59:00Z",
+      "source": "CNA",
+      "summary_ja": "イランでの紛争は、AIによって遠隔操作能力が向上した米軍でさえ、物理的な制約によって勝利が阻まれることを示しています。 広大な国土と隠密性の高いドローンの存在は、発見を困難にし、従来の勝利の形を根本から覆しています。 この状況は、遠隔操作技術がもたらす可能性と同時に、現実世界が依然として重要な障壁であることを浮き彫りにしています。"
+    },
+    {
+      "title": "kailash-ml 0.6.0",
+      "title_ja": "kailash-ml 0.6.0",
+      "original_url": "https://pypi.org/project/kailash-ml/0.6.0/",
+      "image_url": null,
+      "published_at": "2026-04-06T21:58:32Z",
+      "source": "Pypi.org",
+      "summary_ja": "kailash-ml 0.6.0は、Kailashエコシステム向けの機械学習ライフサイクルを統合するものです。このバージョンアップは、機械学習モデルの開発、デプロイ、運用を効率化することを目指しています。詳細については、サイトが正常に読み込まれない問題が発生しているため、さらなる情報は得られません。"
+    },
+    {
+      "title": "Jamie Dimon Says AI Will Impact 'Virtually Every Function' at JPMorgan Chase",
+      "title_ja": "JPモルガン・チェースのジェイミー・ダイモンCEO、AIが同行の「ほぼすべての機能」に影響を与えると発言",
+      "original_url": "https://decrypt.co/363441/jamie-dimon-ai-impact-virtually-every-function-jpmorgan",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png",
+      "published_at": "2026-04-06T21:56:47Z",
+      "source": "Decrypt",
+      "summary_ja": "JPモルガン・チェースのジェイミー・ダイモンCEOは、AIが同行のほぼすべての業務に影響を与えると述べました。AIの導入速度は過去の技術革新よりも速く、生産性の向上に貢献する一方で、一部の職を失うことにも繋がると予測しています。同行はAI技術への多大な投資を行っており、その活用を加速させています。"
+    }
+  ]
+}

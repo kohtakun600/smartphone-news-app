@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-10T23:03:47.584Z",
+  "articles": [
+    {
+      "title": "Anthropic weighs building its own AI chips, sources say",
+      "title_ja": "AIラボのAnthropic、独自のAIチップ開発を検討中との情報筋",
+      "original_url": "https://www.channelnewsasia.com/business/anthropic-weighs-building-its-own-ai-chips-sources-say-6047901",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--mzJppMHM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-09T230053Z_2_LYNXMPEM381FJ_RTROPTP_3_ANTHROPIC-AI-CYBERSECURITY.JPG?itok=g6QMkqMR",
+      "published_at": "2026-04-09T23:00:53Z",
+      "source": "CNA",
+      "summary_ja": "AI研究機関Anthropicが、自社開発のAIチップ設計の可能性を探っていると複数の情報筋が明らかにしました。これは、AI開発競争が激化する中で、競合他社と同様に、GPUなどの高性能チップの安定的な供給を確保し、AIモデルの性能向上を図るための戦略と考えられます。自社チップ開発は、コスト削減や技術的優位性の確立にも繋がる可能性があります。"
+    },
+    {
+      "title": "Exclusive-Anthropic weighs building it own AI chips, sources say",
+      "title_ja": "独占：Anthropic、独自AIチップの設計を検討か、関係者筋",
+      "original_url": "https://www.channelnewsasia.com/business/exclusive-anthropic-weighs-building-it-own-ai-chips-sources-say-6047901",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--mzJppMHM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-09T230053Z_2_LYNXMPEM381FJ_RTROPTP_3_ANTHROPIC-AI-CYBERSECURITY.JPG?itok=g6QMkqMR",
+      "published_at": "2026-04-09T23:00:53Z",
+      "source": "CNA",
+      "summary_ja": "AIラボのAnthropicは、より高度なAIシステムの開発と運用に必要なAIチップの不足に対応するため、独自チップの設計を検討していると複数の関係者が伝えています。これは、他のAI企業も同様の取り組みを迫られている状況に対するAnthropicの戦略的な対応と見られています。この動きは、AIチップ市場における競争激化と、技術的な自立を目指す動きを加速させる可能性があります。"
+    },
+    {
+      "title": "Machine Learning Framework to Predict Glass Transition Temperature in Natural Deep Eutectic Solvents: A Step toward Green Functional Materials",
+      "title_ja": "深共晶溶媒のガラス転移温度を予測する機械学習フレームワーク：グリーン機能性材料への第一歩",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/gc/d6gc01009a",
+      "image_url": null,
+      "published_at": "2026-04-09T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、深共晶溶媒（NADES）のガラス転移温度を予測するための機械学習フレームワークを開発しました。この技術は、環境に優しい機能性材料の開発を加速させる可能性を秘めています。機械学習を活用することで、従来の実験的手法よりも効率的に材料特性を予測し、グリーンケミストリー分野への貢献が期待されます。"
+    },
+    {
+      "title": "Apiiro launches Apiiro CLI to bring AI-native security into software development workflows",
+      "title_ja": "Apiiro、AIネイティブセキュリティをソフトウェア開発ワークフローに統合するApiiro CLIをローンチ",
+      "original_url": "https://siliconangle.com/2026/04/09/apiiro-launches-apiiro-cli-bring-ai-native-security-software-development-workflows/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/apiirocli.png",
+      "published_at": "2026-04-09T22:56:29Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "アプリケーションセキュリティポスチャ管理企業Apiiroが、AIを活用したソフトウェア開発ワークフローにセキュリティを直接組み込むことを目的とした、新しいコマンドラインインターフェース「Apiiro CLI」を発表しました。これにより、開発者は、AIを活用したセキュリティ分析と脅威検出機能を開発プロセスに統合できるようになります。この技術革新は、開発初期段階でのセキュリティ脆弱性の早期発見と修正を促進し、より安全なソフトウェア開発を支援します。"
+    },
+    {
+      "title": "Anthropic and xAI Model Parameter Counts",
+      "title_ja": "AnthropicとxAIのモデルパラメータ数",
+      "original_url": "https://www.nextbigfuture.com/2026/04/anthropic-and-xai-model-parameter-counts.html",
+      "image_url": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/Screenshot-2026-04-09-at-3.55.17-PM.jpg",
+      "published_at": "2026-04-09T22:55:55Z",
+      "source": "Next Big Future",
+      "summary_ja": "イーロン・マスク氏の発言によると、AnthropicのClaude Sonnetは1兆、Claude Opusは5兆のパラメータを持つ。一方、xAIのGrok 4.20は5千億パラメータで、xAIではさらに7つの大規模モデルが訓練中である。これは、AIモデルの複雑さと性能競争が激化している現状を示唆しており、今後のAI技術の発展に大きな影響を与えるだろう。"
+    },
+    {
+      "title": "Meta transfers top engineers into new AI tooling team",
+      "title_ja": "Metaがトップエンジニアを新たなAIツールチームへ異動",
+      "original_url": "https://www.channelnewsasia.com/business/meta-transfers-top-engineers-new-ai-tooling-team-6047856",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--9h6KN8Ys--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-09T223108Z_1_LYNXMPEM381EZ_RTROPTP_3_META-PLATFORMS-RAY-BAN-AI.JPG?itok=XGYV5Lq0",
+      "published_at": "2026-04-09T22:31:08Z",
+      "source": "CNA",
+      "summary_ja": "Metaは、AI開発を加速するため、社内の優秀なソフトウェアエンジニアを新たに設立されたAIエンジニアリング組織に異動させています。この動きは、人員整理を視野に入れた組織再編の一環であり、AI分野への注力を強化する戦略を示唆しています。 Reutersが入手した社内メモによると、MetaはAI技術開発に大規模な投資を行う予定です。"
+    },
+    {
+      "title": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure",
+      "title_ja": "Yobi、Microsoftと提携し、Azure上で予測的な消費者インテリジェンスを提供",
+      "original_url": "https://siliconangle.com/2026/04/09/yobi-teams-microsoft-deliver-predictive-consumer-intelligence-azure/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/yobi.png",
+      "published_at": "2026-04-09T22:30:26Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "行動AI企業Yobiが、Microsoftとの戦略的パートナーシップを発表しました。この提携により、米国の企業はAzure上でYobiの行動インテリジェンスを活用し、消費者の行動を予測できるようになります。これにより、企業はより効果的なマーケティング戦略を立て、顧客体験を向上させることが期待されています。"
+    },
+    {
+      "title": "runpod-flash 1.12.0",
+      "title_ja": "RunPod Flash 1.12.0",
+      "original_url": "https://pypi.org/project/runpod-flash/1.12.0/",
+      "image_url": null,
+      "published_at": "2026-04-09T22:04:08Z",
+      "source": "Pypi.org",
+      "summary_ja": "この記事では、機械学習モデルの分散推論とサービングを可能にするPythonライブラリ、RunPod Flashのバージョン1.12.0について紹介しています。このライブラリは、機械学習モデルの効率的な運用を支援し、高度な処理能力が求められる場面での活用に貢献します。詳細な機能や影響については、記事の続きで解説される可能性があります。"
+    },
+    {
+      "title": "Show HN: Curated list of ~40 AI browser extensions across 9 categories",
+      "title_ja": "Show HN: 厳選された、9つのカテゴリーにわたる約40個のAIブラウザ拡張機能リスト",
+      "original_url": "https://github.com/kklt92/awesome-ai-extensions",
+      "image_url": "https://opengraph.githubassets.com/40ca617beb8209bf98c4e3fc8afb91291e5bb0ac7a872c6f5cad76423cea6988/kklt92/awesome-ai-extensions",
+      "published_at": "2026-04-09T22:02:52Z",
+      "source": "Github.com",
+      "summary_ja": "この記事は、AIを活用したブラウザ拡張機能を約40個、9つのカテゴリーに分類してまとめたものです。執筆、リサーチ、自動化、翻訳、コーディングなど、様々な用途に役立つAIツールを紹介しています。これにより、ユーザーはブラウジング体験をより効率的かつスマートにすることが期待できます。"
+    },
+    {
+      "title": "Commentary: Momentum is growing worldwide to make social media less addictive",
+      "title_ja": "解説：ソーシャルメディアの依存性を軽減する動きが世界的に加速",
+      "original_url": "https://www.channelnewsasia.com/commentary/meta-google-trial-liable-social-media-addiction-platform-design-6046481",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--ZQs-gXA_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Social_Media_Kids_Trial_32286.jpg?itok=oxNGSBRS",
+      "published_at": "2026-04-09T22:00:00Z",
+      "source": "CNA",
+      "summary_ja": "アメリカでの重要な裁判を経て、シンガポールもソーシャルメディアの依存性を引き起こす機能に対する規制強化の動きに加わる可能性が高まっています。AIチャットボットの台頭により、デジタルメディア依存症への対策の重要性は増しており、2025年には生成AIの主要な利用用途が、執筆やコーディングではなく、セラピー分野になることが予想されています。世界的な規制の動きは、新たなAI技術の出現と相まって、ソーシャルメディアプラットフォームに大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "'AI Should Advance Mankind, Not Destroy It': Why Florida Is Taking Aim at OpenAI",
+      "title_ja": "AIは人類を前進させるべき、破壊するべきではない：フロリダ州がOpenAIを標的とする理由",
+      "original_url": "https://decrypt.co/363880/ai-advance-mankind-not-destroy-why-florida-investigating-openai",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png",
+      "published_at": "2026-04-09T21:57:09Z",
+      "source": "Decrypt",
+      "summary_ja": "フロリダ州司法長官が、OpenAIとそのチャットボットChatGPTに対する調査を開始しました。この調査は、国家安全保障への懸念と、ChatGPTに関連する児童の安全に関するリスクを理由としています。OpenAIの技術がもたらす影響と、それに対する規制の動きが注目されています。"
+    },
+    {
+      "title": "Anthropic’s Bid to Lift ‘Supply Chain Risk’ Label Suffers Setback in U.S. Appeals Court",
+      "title_ja": "Anthropic社、AI技術の軍事利用巡る訴訟で米国控訴裁判所から手痛い判決",
+      "original_url": "https://www.kqed.org/news/12079267/anthropics-bid-to-lift-supply-chain-risk-label-suffers-setback-in-u-s-appeals-court",
+      "image_url": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/04/Hegseth-Side-by-Side-c.jpg",
+      "published_at": "2026-04-09T21:56:26Z",
+      "source": "KQED",
+      "summary_ja": "AI企業Anthropic社が、自社技術の軍事利用に対する懸念を巡り、米国防総省との間で争っていた訴訟で、控訴裁判所から不利な判決を受けました。同社は、軍事利用における「サプライチェーンリスク」というレッテルを払拭しようとしていますが、その取り組みは足踏み状態となっています。政府がイランでClaudeモデルを使用しているという報道もあり、この判決はAnthropic社の事業戦略に影響を与える可能性があります。"
+    },
+    {
+      "title": "ClimateTech Connect 2026 Concludes, Driving Urgency Around Climate Risk as Business Risk",
+      "title_ja": "ClimateTech Connect 2026 閉幕、気候リスクをビジネスリスクとして認識する動きを加速",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/09/3271471/0/en/ClimateTech-Connect-2026-Concludes-Driving-Urgency-Around-Climate-Risk-as-Business-Risk.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d4e89ca8-e31b-4101-9c55-0346ee64596a",
+      "published_at": "2026-04-09T21:55:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "気候リスク専門家、政策立案者、保険・金融・不動産業界のリーダーが一堂に会する「ClimateTech Connect 2026」が開催され、気候変動リスクをビジネスリスクとして捉える重要性が浮き彫りになりました。500名を超える業界関係者が集まり、新興企業Tenax aiがピッチコンテストで優勝しました。このカンファレンスは、気候変動対策技術の進化と、それらを取り巻くビジネス環境の変化を促進しています。"
+    },
+    {
+      "title": "Workday CTO Leaves for Anthropic as AI Tools Pressure Enterprise Software",
+      "title_ja": "Workday CTOがAnthropicへ異動、AIツールがエンタープライズソフトウェア業界に圧力をかける",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/workday-cto-leaves-for-anthropic-as-ai-tools-pressure-enterprise-software/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/Workday-AI-1.jpg",
+      "published_at": "2026-04-09T21:50:40Z",
+      "source": "pymnts.com",
+      "summary_ja": "AI技術の進化がエンタープライズソフトウェア業界に大きな変化をもたらし、Workdayは対応を迫られています。その影響を受け、WorkdayのCTOがAIスタートアップAnthropicへ異動しました。この動きは、AIが企業の技術戦略に与える影響力の大きさを物語っています。"
+    },
+    {
+      "title": "Waiting for DeepSeek: New model to test China's AI ambitions",
+      "title_ja": "DeepSeekに期待：中国のAI野心を試す新モデル",
+      "original_url": "https://japantoday.com/category/tech/waiting-for-deepseek-new-model-to-test-china%27s-ai-ambitions",
+      "image_url": null,
+      "published_at": "2026-04-09T21:40:56Z",
+      "source": "Japan Today",
+      "summary_ja": "世界中のテクノロジー業界は、中国のAI開発におけるベンチマークと見なされるDeepSeekからの大規模なAIモデル発表を待ち望んでいます。 このモデルは、中国のAI技術の進歩を測る重要な指標となるでしょう。 DeepSeekの成功は、中国がAI分野でグローバルリーダーとしての地位を確立できるかどうかに影響を与える可能性があります。"
+    },
+    {
+      "title": "OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum",
+      "title_ja": "OpenAI、主要AIライバルAnthropicの勢い増す中、株主向けメモで痛烈批判",
+      "original_url": "https://www.cnbc.com/2026/04/09/openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108236135-1764788503612-gettyimages-2197366908-dsc00472_mof5bjgn.jpeg?v=1775767666&w=1920&h=1080",
+      "published_at": "2026-04-09T21:39:39Z",
+      "source": "CNBC",
+      "summary_ja": "AI市場で勢いを増すAnthropicに対し、OpenAIは株主向けメモで「規模が著しく小さい」と痛烈に批判しました。この動きは、AI技術開発競争が激化する中で、OpenAIがライバルに対する優位性を強調するものです。OpenAIは、技術的な進歩と市場シェア争いの両方において、Anthropicを強く意識していることが窺えます。"
+    },
+    {
+      "title": "When AI Provides Feedback on Student Work",
+      "title_ja": "AIが学生の作品にフィードバックを提供するとき",
+      "original_url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202604/when-ai-provides-feedback-on-student-work",
+      "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-04/note-thanun-cylpykf-qam-unsplash.jpg?h=515be78c&itok=Ig00KEdo",
+      "published_at": "2026-04-09T21:08:35Z",
+      "source": "Psychology Today",
+      "summary_ja": "この記事では、著者が小学3年生にAI倫理に関するジレンマを与えたところ、学生がその提案を拒否した事例を紹介しています。同時に、ある企業がAIエージェントを40%の学校に導入するという動きがあり、教育現場へのAIの浸透が急速に進んでいる様子が示されています。これは、AIが学生の学習にどのように影響を与え、倫理的な問題を引き起こす可能性があるかを示唆しています。"
+    },
+    {
+      "title": "A new study helps explain how the brain creates mental images",
+      "title_ja": "新たな研究が、脳がどのようにしてイメージを作り出すのかを解明",
+      "original_url": "https://www.npr.org/2026/04/09/nx-s1-5776510/a-new-study-helps-explain-how-the-brain-creates-mental-images",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "published_at": "2026-04-09T20:54:32Z",
+      "source": "NPR",
+      "summary_ja": "新しい研究により、何かを見ることとそれを想像することの両方が、脳内で全く同じプロセスを引き起こすことが明らかになりました。この脳のプロセスは、人工知能が画像を作成する際に用いる手法と非常に類似しています。この発見は、脳の視覚処理とAIの画像生成技術への理解を深める可能性を秘めています。"
+    },
+    {
+      "title": "Amazon CEO Andy Jassy highlights AI growth in annual shareholder letter",
+      "title_ja": "アマゾンCEOアンディ・ジャシー、年次株主への手紙でAI成長を強調",
+      "original_url": "https://siliconangle.com/2026/04/09/amazon-ceo-andy-jassy-highlights-ai-growth-annual-shareholder-letter/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/aws-andy-jassy.jpg",
+      "published_at": "2026-04-09T20:43:28Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "アマゾンの株価は、CEOアンディ・ジャシーによる最新の株主への手紙公開後、5%以上上昇しました。ジャシーCEOは、AIへの継続的な投資と成長を強調しており、これはアマゾンの今後の事業戦略において重要な要素となるでしょう。この手紙は、アマゾンの今後の方向性を示すものであり、投資家からの関心を集めています。"
+    },
+    {
+      "title": "Trump official in legal hot water after murky $24 million stock sale",
+      "title_ja": "トランプ政権高官、2400万ドル相当の株式売却を巡り法的問題に直面",
+      "original_url": "https://www.rawstory.com/trump-dod/",
+      "image_url": "https://www.rawstory.com/media-library/u-s-secretary-of-defense-pete-hegseth-and-chairman-of-the-joint-chiefs-of-staff-air-force-general-dan-caine-hold-a-press-briefi.jpg?id=65500227&width=1200&height=600&coordinates=0%2C417%2C0%2C418",
+      "published_at": "2026-04-09T20:38:14Z",
+      "source": "Raw Story",
+      "summary_ja": "トランプ政権下の国防総省高官が、イーロン・マスク氏のAI企業株式の不透明な売却を申告し、法的問題に発展する可能性があります。ガーディアン紙の報道によると、この売却は2400万ドル相当に上り、情報開示の透明性に疑念が生じています。この事件は、政府高官によるAI関連企業への投資と、その後の取引における倫理的および法的問題に対する関心を高めています。"
+    }
+  ]
+}

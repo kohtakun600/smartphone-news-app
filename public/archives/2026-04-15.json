@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-14T23:12:12.960Z",
+  "articles": [
+    {
+      "title": "AI court transcripts to boost access to justice for victims",
+      "title_ja": "AIによる法廷記録の自動文字起こしで、被害者の司法アクセスを向上へ",
+      "original_url": "https://www.gov.uk/government/news/ai-court-transcripts-to-boost-access-to-justice-for-victims",
+      "image_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "published_at": "2026-04-13T23:01:02Z",
+      "source": "Www.gov.uk",
+      "summary_ja": "新たな研究により、AIを活用して法廷での審理を自動的に文字起こしし、被害者がより迅速かつ低コストで法廷記録にアクセスできるようになる見込みです。この技術は、透明性への高価な障壁を取り払い、被害者の体験を改善することを目指しています。AIによる法廷記録の効率化は、司法へのアクセスを劇的に変える可能性を秘めています。"
+    },
+    {
+      "title": "Alkaline Earth Metal Binding with N-Heterocyclic Carbenes: Machine Learning-Assisted Screening of Metal-Ligand Interactions",
+      "title_ja": "N-複素環式カルベンによるアルカリ土類金属の結合：金属-配位子相互作用の機械学習支援スクリーニング",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d5cp04363h",
+      "image_url": null,
+      "published_at": "2026-04-13T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、N-複素環式カルベン（NHC）とアルカリ土類金属との相互作用を、機械学習を用いて効率的にスクリーニングする手法を開発しました。強固なσ供与能を持つNHCは、様々な金属錯体の形成に適しており、この技術により、金属-配位子間の複雑な相互作用を理解し、新規触媒などの開発を加速させる可能性があります。この研究は、物理化学の分野に新たな知見をもたらし、将来的には材料科学や化学合成への応用が期待されます。"
+    },
+    {
+      "title": "Cybersecurity chief to warn of 'unpredictable' AI impact",
+      "title_ja": "サイバーセキュリティ責任者、AIの影響の「予測不能」性について警告へ",
+      "original_url": "https://www.rte.ie/news/2026/0414/1568062-cybersecurity-ai/",
+      "image_url": "https://www.rte.ie/images/0019f69f-1600.jpg",
+      "published_at": "2026-04-13T23:00:00Z",
+      "source": "RTE",
+      "summary_ja": "国家サイバーセキュリティセンター（NCSC）の局長は、AIがサイバーセキュリティにもたらす影響は「広大かつ本質的に予測不可能」であると、アイルランド議会の人工知能委員会で述べる予定です。AI技術の進化に伴い、サイバー攻撃の手法が高度化し、防御側の対応が追いつかなくなる可能性を指摘しています。これにより、サイバーセキュリティ分野におけるリスクが大幅に増大することが懸念されています。"
+    },
+    {
+      "title": "Synergistic Enhancement of Hydrogen Evolution on MoS2 by Sulfur Vacancy and Transition Metal Doping: A DFT and Machine Learning Study",
+      "title_ja": "硫黄空孔と遷移金属ドーピングによるMoS2上での水素発生反応の相乗的強化：DFTと機械学習による研究",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp00688d",
+      "image_url": null,
+      "published_at": "2026-04-13T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、水素発生反応（HER）触媒としての二次元MoS2の性能向上を探求しています。硫黄空孔の導入と遷移金属ドーピングを組み合わせることで、MoS2のHER性能が相乗的に向上することを示唆しています。DFT計算と機械学習を用いて、この相乗効果のメカニズムを解明し、より高性能な電極触媒開発への道筋を示しています。"
+    },
+    {
+      "title": "Cybersecurity chief to warn of 'unpredictable' AI impact",
+      "title_ja": "サイバーセキュリティ責任者、AIの「予測不能」な影響について警告へ",
+      "original_url": "https://www.rte.ie/news/2026/0414/1568062-cybersecurity-ai-committee/",
+      "image_url": "https://www.rte.ie/images/0019f69f-1600.jpg",
+      "published_at": "2026-04-13T23:00:00Z",
+      "source": "RTE",
+      "summary_ja": "国家サイバーセキュリティセンターの長官は、AIがサイバーセキュリティに及ぼす影響は「広大かつ本質的に予測不可能」であると警告する予定です。この発言は、アイルランド議会の人工知能委員会で行われます。AI技術の進化がサイバー攻撃の手法を高度化させ、防御側の対応を困難にすることが懸念されています。"
+    },
+    {
+      "title": "Designing transferable transition state guided collective variable via interpretable machine learning model for enhanced sampling: A case study on polymer collapse transition",
+      "title_ja": "解釈可能な機械学習モデルを用いた、ポリマー収縮遷移に関する事例研究：転移可能な遷移状態誘導型集合変数の設計によるサンプリング効率の向上",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d5cp04134a",
+      "image_url": null,
+      "published_at": "2026-04-13T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、機械学習モデルを用いて、ポリマー収縮遷移を詳細に解析するための新しい手法を開発しました。この手法は、解釈可能な機械学習モデルを通じて、遷移状態をガイドする集合変数を設計し、サンプリング効率を飛躍的に向上させることを目指しています。これにより、原子レベルでの複雑な生化学プロセスのメカニズム解明に貢献することが期待されます。"
+    },
+    {
+      "title": "Species Identification of Animal Glue Adhesives on Polychrome Cultural Heritage: An Integrated Analytical Approach Combining Gel Sampling, ATR-FTIR Spectroscopy, and Machine Learning",
+      "title_ja": "多色文化遺産の動物性にかわ接着剤の種同定：ゲルサンプリング、ATR-FTIR分光法、機械学習を統合した分析アプローチ",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d6ay00017g",
+      "image_url": null,
+      "published_at": "2026-04-13T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、多色文化遺物における接着剤の正確な種類特定のため、ゲルサンプリング、ATR-FTIR分光法、機械学習を組み合わせた新しい分析手法を開発しました。この技術により、文化遺産の修復や保存における接着剤の起源を特定し、より適切な処置を可能にします。この統合アプローチは、文化財研究における分析的精度と効率を向上させ、今後の研究に貢献することが期待されます。"
+    },
+    {
+      "title": "Suspect in attack at Sam Altman’s house charged with attempted murder and attempted arson | CNN Business",
+      "title_ja": "サム・アルトマン氏宅への襲撃容疑者、殺人未遂と放火未遂で起訴 | CNNビジネス",
+      "original_url": "https://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-03-20t193909z-1777114240-rc2i2kaptryb-rtrmadp-3-openai-altman-sister-lawsuit.jpg?c=16x9&q=w_800,c_fill",
+      "published_at": "2026-04-13T22:56:45Z",
+      "source": "CNN",
+      "summary_ja": "OpenAI CEOのサム・アルトマン氏の自宅に発火装置を投げたとされる人物が、殺人未遂と放火未遂の容疑で起訴されました。この事件は、AI技術開発の最前線にいるアルトマン氏に対する脅威として、テクノロジー業界に衝撃を与えました。今回の起訴は、AI業界のリーダーへの潜在的な危険性を示すものとして注目されています。"
+    },
+    {
+      "title": "Tokyo University Students Shy Away From Bureaucratic Careers",
+      "title_ja": "東京大学の学生、官僚への就職を敬遠",
+      "original_url": "https://newsonjapan.com/article/148906.php",
+      "image_url": "https://i2.ytimg.com/vi/7gs1TVxvdNI/mqdefault.jpg",
+      "published_at": "2026-04-13T22:54:19Z",
+      "source": "Newsonjapan.com",
+      "summary_ja": "東京大学の学生の間で、官僚を目指す人が減少傾向にあります。これは、熟練労働の賃金上昇や、人工知能による労働市場の変化が、高収入職に対する考え方を変えていることが背景にあります。その結果、従来とは異なるキャリアパスが人気を集めるようになっています。"
+    },
+    {
+      "title": "The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers",
+      "title_ja": "10倍の生産性の裏側：AIがシニアエンジニアを疲弊させる",
+      "original_url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!N_Oc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F021719cd-9cad-4978-ae96-86f6958e091e_508x340.png",
+      "published_at": "2026-04-13T22:40:26Z",
+      "source": "Techtrenches.dev",
+      "summary_ja": "AIツールの導入によりコードレビューの量が98%も増加し、シニアエンジニアへの肉体的負担が深刻化しています。脳の情報処理速度には限界があり、AIによる生産性向上は、結果的にエンジニアの心身に影響を与えています。この記事では、AIがもたらす急速な変化が、エンジニアの健康にどのような影響を及ぼしているのか、その実態を明らかにしています。"
+    },
+    {
+      "title": "STG Buys Carrier Logistics to Launch Autonomous Freight Agents",
+      "title_ja": "STG、Carrier Logisticsを買収し、自律型貨物エージェントを始動へ",
+      "original_url": "https://www.pymnts.com/acquisitions/2026/stg-buys-carrier-logistics-to-launch-autonomous-freight-agents/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/STG-Carrier-Logistics-acquisitions-freight-AI.jpeg",
+      "published_at": "2026-04-13T22:36:49Z",
+      "source": "pymnts.com",
+      "summary_ja": "プライベートエクイティファームSTGは、貨物管理ソフトウェアプロバイダーのCarrier Logistics Inc. (CLI)を買収し、AIを活用したLTL（混載貨物）ソリューションの開発を目指します。この買収により、STGは輸送業界の効率化と自動化を加速させ、AI技術を活用した次世代の貨物輸送システムを構築することを目指します。CLIの技術を基盤に、自律型貨物エージェントの開発を推進し、輸送の最適化とコスト削減に貢献することでしょう。"
+    },
+    {
+      "title": "Beyond the chatbot: Engineering the agentic enterprise",
+      "title_ja": "チャットボットを超えて：エージェント型エンタープライズの実現",
+      "original_url": "https://www.techtarget.com/searchenterpriseai/post/Beyond-the-chatbot-Engineering-the-agentic-enterprise",
+      "image_url": "https://www.techtarget.com/rms/onlineimages/ai_a194810146.jpg",
+      "published_at": "2026-04-13T22:29:00Z",
+      "source": "Techtarget.com",
+      "summary_ja": "チャットボットの次に来るのは、ワークフローを自動化し、業務に変革をもたらす「エージェント型AI」です。これらのシステムは、企業が実際の作業を実行し、運用を変革することを可能にします。エンタープライズAIの進化は、会議の要約以上の役割を担い、より高度な業務自動化を実現する段階に入っています。"
+    },
+    {
+      "title": "Irish cybersecurity watchdog issues update on Anthropic",
+      "title_ja": "アイルランドのサイバーセキュリティ監視機関、Anthropicに関する最新情報を発表",
+      "original_url": "https://www.rte.ie/news/2026/0413/1568069-anthropic-ireland/",
+      "image_url": "https://www.rte.ie/images/002402aa-1600.jpg",
+      "published_at": "2026-04-13T22:26:56Z",
+      "source": "RTE",
+      "summary_ja": "アイルランド国立サイバーセキュリティセンター（NCSC）は、AI企業Anthropicの強力なAIモデルに関する公開技術資料をレビューしたと発表しました。この動きは、最新のAI技術に対する政府機関の監視体制を浮き彫りにしています。NCSCによる今回の対応は、サイバーセキュリティ分野におけるAIの利用とリスクへの対応を示すものと考えられます。"
+    },
+    {
+      "title": "Oracle Agrees to Buy Power From Bloom for AI Data Centers",
+      "title_ja": "オラクル、AIデータセンター向けにブルームエナジーから電力購入で合意",
+      "original_url": "https://financialpost.com/pmn/business-pmn/oracle-agrees-to-buy-power-from-bloom-for-ai-data-centers",
+      "image_url": null,
+      "published_at": "2026-04-13T22:23:05Z",
+      "source": "Financial Post",
+      "summary_ja": "オラクルは、AI（人工知能）ワークロードを処理するデータセンター向けに、ブルームエナジーから最大2.8ギガワットの燃料電池電力を購入する契約を結びました。この動きは、AI需要の急増に対応するためのもので、データセンターの電力供給における持続可能性を重視する姿勢を示しています。ブルームエナジーの燃料電池技術が、オラクルのデータセンターの電力需要を支える重要な役割を担うことになります。"
+    },
+    {
+      "title": "Meet the man accused of throwing a Molotov cocktail at Sam Altman: a 20-year-old AI doomer",
+      "title_ja": "サム・アルトマン氏に火炎瓶を投げたとされる人物：20歳のAI悲観論者",
+      "original_url": "https://fortune.com/2026/04/13/meet-the-man-accused-of-throwing-a-molotov-cocktail-at-sam-altman-a-20-year-old-ai-doomer/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26100683757101.jpg?resize=1200,600",
+      "published_at": "2026-04-13T22:20:44Z",
+      "source": "Fortune",
+      "summary_ja": "サンフランシスコでOpenAIのCEOサム・アルトマン氏の自宅に火炎瓶を投げた容疑者は、人工知能の脅威を主張する20歳の若者です。 捜査当局は、AIが人類を脅威に晒し「差し迫った絶滅」を引き起こす可能性について論じた文書を発見しました。 この事件は、AI技術の発展に対する一部の強い懸念と、社会への潜在的な影響を浮き彫りにしています。"
+    },
+    {
+      "title": "The ProSocial AI Index: A Better Way to Think About AI",
+      "title_ja": "プロソーシャルAI指数：AIを考える新たな視点",
+      "original_url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/the-prosocial-ai-index-a-better-way-to-think-about-ai",
+      "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-04/shutterstock_2613120225.jpg?itok=EMe0FVvn",
+      "published_at": "2026-04-13T22:20:29Z",
+      "source": "Psychology Today",
+      "summary_ja": "この記事では、AIの評価軸を従来の技術的側面だけでなく、社会的な影響を重視する「プロソーシャルAI指数」という新たな指標を紹介しています。この指数は、AI開発における報酬体系を見直し、より建設的な議論を促すことを目的としています。結果として、AIの技術革新が社会全体の利益に繋がるよう目指しています。"
+    },
+    {
+      "title": "Natrivex Review: Scam or Legit Trading Platform? Truth Revealed",
+      "title_ja": "Natrivexレビュー：詐欺か合法的な取引プラットフォームか？真実を暴く",
+      "original_url": "https://whatjapanthinks.com/natrivex-review/",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/01/user-1.png",
+      "published_at": "2026-04-13T22:06:21Z",
+      "source": "Whatjapanthinks.com",
+      "summary_ja": "Natrivexは、新たに登場した暗号資産取引プラットフォームであり、AIなどの高度な技術を活用して、暗号資産取引を簡素化し、投資プロセスを向上させることを目指しています。この記事では、このプラットフォームが詐欺なのか合法的なのかを検証し、その実態に迫ります。投資家が利用を検討する際に必要不可欠な情報を提供します。"
+    },
+    {
+      "title": "Maniac who threw Molotov cocktail at Sam Altman’s SF mega-mansion kept terrifying list of other AI execs: court docs",
+      "title_ja": "サム・アルトマン氏のSF豪邸に火炎瓶を投げつけた男、他のAI幹部たちの脅威的なリストを所持：裁判資料",
+      "original_url": "https://nypost.com/2026/04/13/us-news/maniac-who-threw-molotov-cocktail-at-sam-altmans-sf-mega-mansion-kept-terrifying-list-of-other-ai-execs-court-docs/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/COMPMOLOTOV.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-13T22:05:07Z",
+      "source": "New York Post",
+      "summary_ja": "OpenAIのサム・アルトマンCEOのサンフランシスコ豪邸に火炎瓶を投げつけた男が、AIに対する強い嫌悪感を持っており、他のAI幹部たちの名前を記したリストを作成していたことが裁判資料で明らかになりました。この事件は、AI技術の発展に対する一部の過激な反対感情が高まっていることを示唆しています。AI関連企業の幹部に対する更なる警戒が必要となる可能性があります。"
+    },
+    {
+      "title": "Bloom Energy to supply up to 2.8 GW of fuel cells under expanded Oracle deal",
+      "title_ja": "Bloom Energy、Oracleとの契約拡大で最大2.8GWの燃料電池供給へ",
+      "original_url": "https://www.channelnewsasia.com/business/bloom-energy-supply-up-28-gw-fuel-cells-under-expanded-oracle-deal-6054506",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--afDFiJjc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-13T220112Z_1_LYNXMPEM3C1AY_RTROPTP_3_ORACLE-CFO.JPG?itok=F7Bj1992",
+      "published_at": "2026-04-13T22:01:12Z",
+      "source": "CNA",
+      "summary_ja": "Bloom Energyは、Oracleとの契約を拡大し、最大2.8ギガワットの燃料電池容量を供給すると発表しました。人工知能（AI）の利用増加に伴い電力消費量が増加していることが背景にあります。これにより、Oracleのデータセンターなどでの電力供給を支え、再生可能エネルギーへの移行を加速させる可能性も期待されます。"
+    },
+    {
+      "title": "AI Cloud GPU Rental Platform Opens New Passive Income Opportunities as Digital Asset Capital Accelerates AI Infrastructure Growth",
+      "title_ja": "AIクラウドGPUレンタルプラットフォーム、デジタル資産資本のAIインフラ成長加速に伴い新たな不労所得機会を創出",
+      "original_url": "https://www.globenewswire.com/news-release/2026/04/13/3272941/0/en/AI-Cloud-GPU-Rental-Platform-Opens-New-Passive-Income-Opportunities-as-Digital-Asset-Capital-Accelerates-AI-Infrastructure-Growth.html",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ffb6db21-0ca9-4af1-9455-c2702ab2c8c5",
+      "published_at": "2026-04-13T22:00:00Z",
+      "source": "GlobeNewswire",
+      "summary_ja": "AIインフラ需要の高まりを受け、AIクラウドGPUレンタルプラットフォームが、AIコンピューティングおよびクラウドGPUレンタルサービスを拡充しています。これにより、ユーザーと事業者は、デジタル資産資本のAIインフラ投資を加速させながら、新たな不労所得の機会を得られるようになります。本プラットフォームは、AI技術の発展と普及を加速させる上で重要な役割を担うと期待されています。"
+    }
+  ]
+}

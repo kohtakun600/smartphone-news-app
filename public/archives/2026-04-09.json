@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-04-08T23:08:12.523Z",
+  "articles": [
+    {
+      "title": "CO Coadsorption Effects on Water-Gas Shift Reaction over Cu Clusters on Cu(111): Insights from Machine Learning Force Field and Microkinetic Modeling",
+      "title_ja": "Cuクラスター上での水性ガスシフト反応におけるCO共吸着効果：機械学習力場と微小動力学モデリングからの洞察",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d5cp05031f",
+      "image_url": null,
+      "published_at": "2026-04-07T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、Cu(111)上のCuクラスターにおける水性ガスシフト反応に対するCO共吸着の影響を、機械学習力場と微小動力学モデリングを用いて詳細に解析しています。COがCuクラスターに及ぼす影響を明らかにし、触媒反応への示唆を提示しています。この研究は、高性能触媒開発における基礎的な理解を深めることに貢献するでしょう。"
+    },
+    {
+      "title": "Black-Box Data: A new paradigm for biomedicine in the AI era",
+      "title_ja": "ブラックボックスデータ：AI時代におけるバイオ医療の新パラダイム",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc01189f",
+      "image_url": null,
+      "published_at": "2026-04-07T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本論文は、人工知能 (AI) の発展がバイオ医療にもたらす影響について論じています。AIが浸透する中で、ブラックボックスデータがバイオ医療における新たなパラダイムを形成すると提唱しています。具体的な技術革新として、複雑なデータセットをAIが解析し、新たな診断や治療法の開発に繋がる可能性を示唆しています。"
+    },
+    {
+      "title": "Toward sustainable diagnostics for Candida albicans: the role of artificial intelligence in analytical chemistry from data processing to Python-based blueness and redness evaluation metrics",
+      "title_ja": "カンジダ・アルビカンス持続可能診断に向けて：データ処理からPythonベースの青色・赤色評価指標に至る、分析化学における人工知能の役割",
+      "original_url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d6ra00286b",
+      "image_url": "https://pubs.rsc.org/en/Content/Image/GA/D6RA00286B",
+      "published_at": "2026-04-07T23:00:00Z",
+      "source": "Royal Society of Chemistry",
+      "summary_ja": "本研究は、免疫不全患者などに深刻な影響を与えるカンジダ・アルビカンスの持続可能な診断を目指し、人工知能 (AI) の分析化学における活用法をレビューしています。AIは、データ処理からPythonを用いて青色・赤色を評価する指標まで、診断プロセスの様々な段階で貢献する可能性を示唆しています。これにより、臨床現場におけるカンジダ・アルビカンスの迅速かつ正確な診断を支援し、患者の予後改善に繋がることを期待しています。"
+    },
+    {
+      "title": "Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups",
+      "title_ja": "Google CEO スンダル・ピチャイ氏、「AIシフト」がスタートアップへの投資機会を開くと発言",
+      "original_url": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1775592738&w=1920&h=1080",
+      "published_at": "2026-04-07T22:24:13Z",
+      "source": "CNBC",
+      "summary_ja": "GoogleのCEO、スンダル・ピチャイ氏は、人工知能（AI）の急速な発展がスタートアップへの投資機会を拡大していると述べました。Alphabetは、SpaceXやAnthropic、Stripeといった高価値の未公開企業に出資しており、2015年のSpaceXへの投資で1000億ドル以上の潜在的な利益を見込んでいるとされています。この「AIシフト」は、Googleにとって新たな投資戦略の軸となる可能性があります。"
+    },
+    {
+      "title": "Anthropic launches Project Glasswing, an effort to prevent AI cyberattacks with AI",
+      "title_ja": "Anthropic、AIを活用してAIサイバー攻撃を防ぐプロジェクト「Glasswing」を発表",
+      "original_url": "https://slashdot.org/firehose.pl?op=view&amp;id=181404678",
+      "image_url": null,
+      "published_at": "2026-04-07T22:13:02Z",
+      "source": "Slashdot.org",
+      "summary_ja": "Anthropicは、AIのサイバーセキュリティへの悪影響に対処するため、AIを活用した「Project Glasswing」を開始しました。この取り組みは、AIによるサイバー攻撃の脅威に対応し、より安全なAI環境を構築することを目指しています。最新のAI技術を用いて、サイバー攻撃の防止と防御能力の向上を図ることで、AIの負の側面に対する懸念を軽減しようとしています。"
+    },
+    {
+      "title": "Data center switch maker Aria Networks raises $125M",
+      "title_ja": "データセンター向けスイッチメーカーAria Networks、1億2500万ドルの資金調達を実施",
+      "original_url": "https://siliconangle.com/2026/04/07/data-center-switch-maker-aria-networks-raises-125m/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Aria.png",
+      "published_at": "2026-04-07T22:08:15Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AIクラスター向けスイッチを開発するスタートアップ企業Aria Networksが、総額1億2500万ドルの資金調達を完了しました。今回の資金調達は、Sutter Hill Ventures、Atreides Managementなどの投資家によって行われました。この巨額の資金調達は、AI技術の発展に伴い、データセンターのネットワークインフラに対する需要が高まっていることを示唆しています。"
+    },
+    {
+      "title": "Muck Rack launched a feature showing which journalists and outlets are most cited in AI-generated answers; Henry Blodget is the most frequently cited journalist (Dominic Ponsford/Press Gazette)",
+      "title_ja": "Muck Rack、AI生成回答で最も引用されるジャーナリストとメディアを特定する新機能を発表；ヘンリー・ブロジェット氏が最多引用",
+      "original_url": "https://mediagazer.com/260407/p15",
+      "image_url": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/04/specialis-800x418.jpg?1775576389",
+      "published_at": "2026-04-07T22:00:33Z",
+      "source": "Mediagazer.com",
+      "summary_ja": "Muck Rackが、AIが生成した回答でどのジャーナリストやメディアが最も引用されているかを可視化する新機能をローンチしました。この機能は、AIが情報源として利用するジャーナリズムの傾向を分析することを可能にします。調査の結果、ヘンリー・ブロジェット氏が最も多く引用されるジャーナリストとして特定されました。この動きは、生成AI時代における情報源の信頼性やジャーナリズムへの影響を示唆しています。"
+    },
+    {
+      "title": "Why AI, sovereignty and visibility are redefining cyber strategy: Infotrust",
+      "title_ja": "AI、国家主権、可視性がサイバー戦略を再定義する理由：インフォトラスト",
+      "original_url": "https://www.itnews.com.au/video/why-ai-sovereignty-and-visibility-are-redefining-cyber-strategy-infotrust-624682",
+      "image_url": "https://i.nextmedia.com.au/Videos/TPN-Infotrust-Thumb.png",
+      "published_at": "2026-04-07T22:00:00Z",
+      "source": "iTnews",
+      "summary_ja": "地政学的な緊張、AIの急速な普及、洗練されたサイバー攻撃により、サイバーセキュリティ戦略が変化しています。インフォトラストのエグゼクティブは、データ主権の重要性の高まり、AIの利用、およびリスクに対する組織の考え方を再構築する必要性に焦点を当てています。これにより、セキュリティチームは、新たな課題に直面し、サイバーセキュリティ戦略を根本的に見直す必要に迫られています。"
+    },
+    {
+      "title": "inference-gpu 1.2.1",
+      "title_ja": "inference-gpu 1.2.1",
+      "original_url": "https://pypi.org/project/inference-gpu/1.2.1/",
+      "image_url": null,
+      "published_at": "2026-04-07T21:39:37Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceの最新版であるinference-gpu 1.2.1がリリースされました。このプラットフォームは、機械学習やデバイス特有の知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできるようにします。これにより、開発者は複雑な技術的な詳細を気にすることなく、モデルの実用化に集中できます。"
+    },
+    {
+      "title": "inference-cpu 1.2.1",
+      "title_ja": "inference-cpu 1.2.1",
+      "original_url": "https://pypi.org/project/inference-cpu/1.2.1/",
+      "image_url": null,
+      "published_at": "2026-04-07T21:39:35Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inference を使用すると、機械学習やデバイス固有のデプロイに関する専門知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできます。 今回のアップデートにより、特定の技術的な情報がなくても、ユーザーは手軽にモデルを実行できるようになるため、機械学習の敷居が大幅に下がると期待されます。 詳細については、Roboflowの公式情報をご確認ください。"
+    },
+    {
+      "title": "inference-core 1.2.1",
+      "title_ja": "inference-core 1.2.1",
+      "original_url": "https://pypi.org/project/inference-core/1.2.1/",
+      "image_url": null,
+      "published_at": "2026-04-07T21:39:33Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceの最新版であるinference-core 1.2.1がリリースされました。このプラットフォームは、機械学習やデバイス特有の知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできるようにします。これにより、開発者は複雑なデバイスへのモデル展開を容易にし、より広範囲なアプリケーションへの応用を加速できます。"
+    },
+    {
+      "title": "inference-cli 1.2.1",
+      "title_ja": "inference-cli 1.2.1",
+      "original_url": "https://pypi.org/project/inference-cli/1.2.1/",
+      "image_url": null,
+      "published_at": "2026-04-07T21:39:32Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inference CLIのバージョン1.2.1がリリースされました。このCLIを使用すると、機械学習やデバイス特有の知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできます。これにより、専門知識のないユーザーでも、幅広いプラットフォームでモデルを迅速に実行できるようになり、開発プロセスが大幅に簡素化されます。"
+    },
+    {
+      "title": "inference 1.2.1",
+      "title_ja": "Inference 1.2.1",
+      "original_url": "https://pypi.org/project/inference/1.2.1/",
+      "image_url": null,
+      "published_at": "2026-04-07T21:39:30Z",
+      "source": "Pypi.org",
+      "summary_ja": "Roboflow Inferenceのバージョン1.2.1がリリースされました。機械学習やデバイス特有のデプロイに関する専門知識がなくても、コンピュータビジョンモデルを様々なデバイスや環境に簡単にデプロイできるようになります。これにより、より多くの人々が最先端のAI技術を簡単に利用できるようになる可能性を秘めています。"
+    },
+    {
+      "title": "Samsung Electronics expects record quarterly profit on AI boom",
+      "title_ja": "サムスン電子、AIブームで四半期利益が過去最高を更新の見込み",
+      "original_url": "https://japantoday.com/category/tech/samsung-electronics-expects-record-quarterly-profit-on-ai-boom",
+      "image_url": null,
+      "published_at": "2026-04-07T21:35:33Z",
+      "source": "Japan Today",
+      "summary_ja": "サムスン電子は、AI（人工知能）関連チップの好調な販売に後押しされ、第1四半期の利益が前年同期比755%増の57兆2000億ウォン（約379億ドル）と過去最高を記録する見込みです。この驚異的な業績は、AI技術の急速な発展と、その中核を担う半導体需要の増加を反映しています。サムスンは、AI市場におけるリーダーシップを強化し、更なる成長を目指しています。"
+    },
+    {
+      "title": "AI Startups Raised $221 Billion in Q1 as Venture Funding Shows No Slowdown",
+      "title_ja": "AIスタートアップ、第1四半期に2,210億ドルを調達、ベンチャーキャピタルによる資金調達は減速の兆し見せず",
+      "original_url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-startups-raised-221-billion-in-q1-as-venture-funding-shows-no-slowdown/",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/OpenAI-Anthropic-AI-startups-1.jpg",
+      "published_at": "2026-04-07T21:33:41Z",
+      "source": "pymnts.com",
+      "summary_ja": "北米のAIスタートアップは、第1四半期に2,210億ドルもの巨額資金を調達し、驚異的な成長を遂げました。Crunchbaseのデータによると、これは前四半期の約6倍にあたります。OpenAIなどの大規模な資金調達が、この記録的な結果を牽引しました。AI分野への投資意欲は依然として旺盛です。"
+    },
+    {
+      "title": "13 shots pumped into Indianapolis official’s front door raises fears over violent data center opposition: ‘Deeply unsettling’",
+      "title_ja": "インディアナポリス市幹部の自宅に13発の銃弾、データセンター反対派による暴力行為への懸念高まる：『非常に不穏』",
+      "original_url": "https://nypost.com/2026/04/07/business/13-shots-pumped-into-indianapolis-officials-front-door-raises-fears-over-violent-data-center-opposition-deeply-unsettling/",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125170866.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-04-07T21:32:47Z",
+      "source": "New York Post",
+      "summary_ja": "インディアナポリス市議会議員の自宅が、データセンター反対を訴えるメモと共に銃撃されるという事件が発生しました。これは、AIを支えるデータセンターに対する反対運動が過激化していることへの懸念を強めています。この事件は、テクノロジーインフラへの反対勢力による攻撃が、より深刻なものへとエスカレートする可能性を示唆しています。"
+    },
+    {
+      "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
+      "title_ja": "イーロン・マスク、訴訟の一環としてOpenAI CEOサム・アルトマン氏の解任を要求",
+      "original_url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108249952-1767884969362-gettyimages-2246892016-AFP_84JG4JH.jpeg?v=1775594381&w=1920&h=1080",
+      "published_at": "2026-04-07T21:21:23Z",
+      "source": "CNBC",
+      "summary_ja": "イーロン・マスク氏は、OpenAI CEOのサム・アルトマン氏と社長のグレッグ・ブロックマン氏の役職解任を訴訟で求めています。この訴訟は今月後半に裁判が予定されており、OpenAIの経営体制に大きな影響を与える可能性があります。マスク氏の行動は、AI開発の方向性や、OpenAIとマスク氏の関係性の行方に注目を集めています。"
+    },
+    {
+      "title": "The secret, never-before-used CIA tool that helped find airman downed in Iran: ‘If your heart is beating, we will find you’",
+      "title_ja": "イランで墜落した空軍兵士を発見したCIAの秘密兵器：『心臓が動いている限り、見つけ出す』",
+      "original_url": "https://freerepublic.com/focus/f-news/4374031/posts",
+      "image_url": null,
+      "published_at": "2026-04-07T20:43:24Z",
+      "source": "Freerepublic.com",
+      "summary_ja": "CIAが開発した秘密兵器は、長距離量子磁力計を用いて人間の心拍の電磁的シグネチャを検出し、AIでノイズから分離することで、イランで墜落した空軍兵士の救出に貢献しました。この技術は、量子磁力計とAIの組み合わせにより、これまでにない捜索能力を実現し、救出作戦に大きな影響を与えました。兵士発見のために、画期的な技術が初めて使用されました。"
+    },
+    {
+      "title": "AI will affect more than half of all U.S. jobs, analysis finds",
+      "title_ja": "AIが米国の全雇用者の半分以上に影響、分析結果",
+      "original_url": "https://www.cbsnews.com/news/artificial-intelligence-ai-jobs-boston-consulting-group/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/06/17e36424-6d35-49f3-bab3-fc039eb10935/thumbnail/1200x630/72bf7bdae245f400a09786e9431ce726/gettyimages-2194273729.jpg",
+      "published_at": "2026-04-07T20:42:00Z",
+      "source": "CBS News",
+      "summary_ja": "最近の分析によると、AIは米国の労働市場に大きな変化をもたらし、半数以上の雇用に影響を与えることが判明しました。AIは、多くの労働者を置き換えるのではなく、仕事の性質を根本的に変える可能性が高いと見られています。今後3年間で、AIは労働のあり方を再構築し、業務内容を大きく変えるでしょう。"
+    },
+    {
+      "title": "VA’s FY27 budget proposal seeks funding for additional AI adoption",
+      "title_ja": "米退役軍人省、2027年度予算案でAI導入の更なる資金を要求",
+      "original_url": "https://www.nextgov.com/artificial-intelligence/2026/04/vas-fy27-budget-proposal-seeks-funding-additional-ai-adoption/412687/",
+      "image_url": "https://cdn.nextgov.com/media/img/cd/2026/04/07/040726VANG/open-graph.jpg",
+      "published_at": "2026-04-07T20:36:00Z",
+      "source": "Nextgov",
+      "summary_ja": "米退役軍人省（VA）は、2027年度予算案において、AI技術の活用拡大を目的とした追加資金を要求しています。この予算増額は、特にAIインフラソリューションへの投資によって実現される予定です。これにより、VAは意思決定のインテリジェンスと自動化活動を強化し、退役軍人へのサービス提供を向上させることを目指しています。"
+    }
+  ]
+}

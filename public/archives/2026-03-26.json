@@ -1,0 +1,185 @@
+{
+  "updated_at": "2026-03-25T23:03:05.252Z",
+  "articles": [
+    {
+      "title": "oci-genai-auth 1.0.0",
+      "title_ja": "OCI-GenAI-Auth 1.0.0",
+      "original_url": "https://pypi.org/project/oci-genai-auth/1.0.0/",
+      "image_url": null,
+      "published_at": "2026-03-24T22:59:02Z",
+      "source": "Pypi.org",
+      "summary_ja": "この発表は、生成AI SDK向けのOracle Cloud Infrastructure (OCI)における認証と認可ユーティリティ、OCI-GenAI-Authのバージョン1.0.0に関するものです。このツールは、生成AIアプリケーションがOCIリソースに安全にアクセスし、適切に権限を付与されるために不可欠です。これにより、生成AI開発者は、よりセキュアで効率的な環境で作業できるようになります。"
+    },
+    {
+      "title": "tsml 0.9.0",
+      "title_ja": "tsml 0.9.0",
+      "original_url": "https://pypi.org/project/tsml/0.9.0/",
+      "image_url": null,
+      "published_at": "2026-03-24T22:48:22Z",
+      "source": "Pypi.org",
+      "summary_ja": "この発表は、aeonには適合しない時系列機械学習アルゴリズムのための開発サンドボックス、tsmlのバージョン0.9.0のリリースに関するものです。tsmlは、時系列データ分析に特化した機械学習モデルを開発・実験するための環境を提供し、研究開発における効率化を目指します。記事は、サイトの一部が読み込めないという問題に触れており、ブラウザ拡張機能やネットワークの問題の可能性を指摘しています。"
+    },
+    {
+      "title": "Onit Security raises $11M as it launches platform to automate vulnerability remediation processes",
+      "title_ja": "Onit Securityが脆弱性修復プロセス自動化プラットフォームを発表、1100万ドルを調達",
+      "original_url": "https://siliconangle.com/2026/03/24/onit-security-raises-11m-launches-platform-automate-vulnerability-remediation-processes/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/onitsecurity.png",
+      "published_at": "2026-03-24T22:42:40Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AIを活用したセキュリティ運用プラットフォームを提供するOnit Securityが、脆弱性修復プロセスを自動化するプラットフォームを発表し、製品開発と市場展開加速のため1100万ドルの資金調達を発表しました。このプラットフォームは、セキュリティチームの負担を軽減し、より迅速な対応を可能にすることを目指しています。Onit Securityは、セキュリティ運用における効率化と自動化を推進し、業界に新たな変化をもたらす可能性があります。"
+    },
+    {
+      "title": "An Open Training Set For AI Goes Global",
+      "title_ja": "AI向けオープン学習データセットが世界へ",
+      "original_url": "https://www.techdirt.com/2026/03/24/an-open-training-set-for-ai-goes-global/",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "published_at": "2026-03-24T22:37:00Z",
+      "source": "Techdirt",
+      "summary_ja": "AI開発における重要な課題である学習データ調達において、オープンなトレーニングデータセットが公開されました。これにより、高品質な大規模言語モデル(LLM)の開発競争が加速する可能性があります。フェアトレードAIトレーニングデータという観点からも注目されており、AI技術の進歩に大きな影響を与えることが期待されます。"
+    },
+    {
+      "title": "Epic Games lays off more than 1,000 employees as Fortnite engagement slows",
+      "title_ja": "Epic Games、Fortniteのエンゲージメント鈍化を受け、1,000人以上の従業員を解雇",
+      "original_url": "https://www.pbs.org/newshour/economy/epic-games-lays-off-more-than-1000-employees-as-fortnite-engagement-slows",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-24T161211Z_255595019_RC23BKATALU9_RTRMADP_3_EPIC-GAMES-LAYOFFS-1024x673.jpg",
+      "published_at": "2026-03-24T22:32:49Z",
+      "source": "PBS",
+      "summary_ja": "ゲームパブリッシャーのEpic Gamesが、業界全体の課題と業績低迷を理由に、1,000人以上の従業員を解雇する発表を行いました。これは、Fortniteのエンゲージメントの鈍化、消費の減少、コスト削減の必要性など、複数の要因によるものです。今回の解雇はAIとは無関係であり、主に経済的な要因が影響しています。"
+    },
+    {
+      "title": "OpenAI pulls plug on Sora, viral AI video app that sparked deepfake concerns",
+      "title_ja": "OpenAI、AI生成動画アプリSoraを終了へ：ディープフェイク問題が懸念材料に",
+      "original_url": "https://abcnews.com/Business/wireStory/openai-pulls-plug-sora-viral-ai-video-app-131377642",
+      "image_url": "https://i.abcnewsfe.com/a/018033d4-04a9-431f-a915-f406d4d2f875/wirestory_c60de960536923f33edc04b92ddbe1cd_16x9.jpg?w=1600",
+      "published_at": "2026-03-24T22:29:12Z",
+      "source": "Abcnews.com",
+      "summary_ja": "OpenAIは、AIによって短編動画を生成・共有するソーシャルメディアアプリSoraのサービスを終了します。昨年秋に話題を呼びましたが、ハリウッドを中心にディープフェイク問題への懸念も高まっていました。この決定は、AI動画技術の普及と同時に、コンテンツの信頼性や悪用に対する課題を浮き彫りにしています。"
+    },
+    {
+      "title": "Breaking down Anthropic's court case against the Pentagon over AI use",
+      "title_ja": "Anthropic社、AI利用を巡り国防総省を提訴：その詳細と影響",
+      "original_url": "https://www.cbsnews.com/video/anthropic-court-case-against-pentagon-officially-underway/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/24/b6a7322f-394f-4834-bcf2-857931cb5955/thumbnail/1200x630/b7886070965bb4ad38515085672550cc/cbsn-fusion-anthropic-court-case-against-pentagon-officially-underway-thumbnail.jpg",
+      "published_at": "2026-03-24T22:29:00Z",
+      "source": "CBS News",
+      "summary_ja": "AI企業Anthropicが、トランプ政権下で国家安全保障上のリスクとされたことを受け、国防総省を相手に訴訟を起こしました。この訴訟は、AI技術の軍事利用に関する規制や透明性、そして企業と政府の関係性に大きな影響を与える可能性があります。元ブッシュ政権下司法次官補のトム・デュプリー氏が、今回の訴訟について分析しています。"
+    },
+    {
+      "title": "OpenAI shuts down its AI video service Sora",
+      "title_ja": "OpenAI、AI動画生成サービス「Sora」を終了",
+      "original_url": "https://www.afterdawn.com/news/article.cfm/2026/03/24/openai-shuts-down-ai-video-service-sora",
+      "image_url": "https://cdn.afterdawn.fi/v3/news/original/openai-sora-cat-woman-bed.png",
+      "published_at": "2026-03-24T22:28:00Z",
+      "source": "Afterdawn.com",
+      "summary_ja": "OpenAIは、AIを活用した動画生成サービス「Sora」の提供を終了することを発表しました。Soraは公開から短期間で人気を集めましたが、著作権侵害の疑いから批判も出ていました。この決定は、AI技術の発展における著作権問題の重要性を示唆しています。"
+    },
+    {
+      "title": "Recursively Self Improving AI Will Have Unlimited Space Based Solar Power",
+      "title_ja": "自己再帰的に自己改善するAIが、無制限の宇宙太陽光発電を実現",
+      "original_url": "https://www.nextbigfuture.com/2026/03/recursively-self-improving-ai-will-have-unlimited-space-based-solar-power.html",
+      "image_url": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/03/aisatinspace-1024x563.jpg",
+      "published_at": "2026-03-24T22:27:44Z",
+      "source": "Next Big Future",
+      "summary_ja": "エリック・シュミット氏らAIリーダーは、AIが自律的に自己設計、テスト、展開を行う「自己再帰的自己改善（RSI）」が、AIの進化における重要な転換点であると述べています。RSI技術は、AIが飛躍的に性能を向上させる可能性を秘めており、最終的には、無制限の宇宙太陽光発電のような大規模な技術革新を可能にする可能性があります。この技術革新は、エネルギー問題に対する根本的な解決策となるかもしれません。"
+    },
+    {
+      "title": "Disney pulls out of OpenAI deal: What does Sora's shutdown mean for the AI video future?",
+      "title_ja": "ディズニー、OpenAIとの提携解消：AI動画の未来にSoraの停止は何を意味するのか？",
+      "original_url": "https://economictimes.indiatimes.com/news/international/us/disney-pulls-out-of-openai-deal-what-does-soras-shutdown-mean-for-the-ai-video-future/articleshow/129786616.cms",
+      "image_url": "https://img.etimg.com/thumb/msid-129787515,width-1200,height-630,imgsize-51568,overlay-economictimes/articleshow.jpg",
+      "published_at": "2026-03-24T22:24:44Z",
+      "source": "The Times of India",
+      "summary_ja": "ディズニーがOpenAIとの投資契約を終了し、AI動画生成ツールSoraの閉鎖を受けました。ディズニーは、Soraの技術を利用する計画を変更し、他のAIプラットフォームの可能性を探求することになりました。この動きは、エンターテインメント業界におけるAI技術の進歩と、その利用に対する各社の姿勢に影響を与える可能性があります。"
+    },
+    {
+      "title": "Kentucky woman rejects $26 million offer to turn her farm into a data center | TechCrunch",
+      "title_ja": "ケンタッキー州の女性、農地をデータセンターにする2600万ドルのオファーを拒否 | TechCrunch",
+      "original_url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "published_at": "2026-03-24T22:24:05Z",
+      "source": "TechCrunch",
+      "summary_ja": "ケンタッキー州のある女性が、所有する農地をデータセンターとして売却する2600万ドルという高額オファーを断った。これは、大規模なAI企業からの提案だったと報じられている。この決定は、テクノロジー業界による土地取得競争が、伝統的な農地や地域社会に与える影響を示唆している。"
+    },
+    {
+      "title": "OpenAI unexpectedly kills Sora, and I wonder if this is the start of a mini AI bubble collapse",
+      "title_ja": "OpenAIがSoraを突然終了、AIミニバブル崩壊の始まりを予感",
+      "original_url": "https://www.techradar.com/ai-platforms-assistants/openai-unexpectedly-kills-sora-and-i-wonder-if-this-is-the-start-of-a-mini-ai-bubble-collapse",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2B7hSrWUfbQQUzssGhTb8Z-1920-80.png",
+      "published_at": "2026-03-24T22:20:37Z",
+      "source": "TechRadar",
+      "summary_ja": "OpenAIが動画生成AIアプリSoraのサービスを予期せず終了しました。原因は不明ですが、大きなパートナーとの連携も解消された可能性があります。この動きは、生成AI分野における過熱気味な状況に対する懸念を呼び起こし、今後のAI市場の動向に影響を与える可能性があります。"
+    },
+    {
+      "title": "Oracle reworks its suite of cloud software as agentic apps",
+      "title_ja": "オラクル、クラウドソフトウェアスイートをエージェント型アプリとして再構築",
+      "original_url": "https://www.livemint.com/companies/oracle-reworks-its-suite-of-cloud-software-as-agentic-apps-11774390817397.html",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "published_at": "2026-03-24T22:20:17Z",
+      "source": "Livemint",
+      "summary_ja": "オラクルは、自社のクラウドソフトウェアスイートを「エージェント型アプリ」として再構築し、異なるアプリケーション間で連携して機能するよう刷新しました。この変更により、ユーザーはAIを活用した高度な自動化と効率化を期待できるようになります。記事は、この大規模な再構築がもたらす影響と、その背後にある技術的進歩に焦点を当てています。"
+    },
+    {
+      "title": "AI at War: Anthropic Fights the Pentagon’s 'Unprecedented' Blacklist in Court",
+      "title_ja": "AIが戦争：Anthropic社、ペンタゴンの「前代未聞」のブラックリストを法廷で争う",
+      "original_url": "https://www.androidheadlines.com/2026/03/anthropic-pentagon-court-battle-claude-ai-ban.html",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2026/03/Anthropic-logo-featured.jpg",
+      "published_at": "2026-03-24T22:17:44Z",
+      "source": "Android Headlines",
+      "summary_ja": "AIモデルClaudeの開発元であるAnthropic社が、国家安全保障上のリスクと見なされ、米ペンタゴンからブラックリストに登録された件で、連邦裁判所に提訴しました。この訴訟は、AI技術が軍事利用される中で、企業が政府の規制に対して異議を唱える異例の事態です。Anthropic社は、このブラックリストが自社の事業に深刻な影響を与えるとして、差し止めを求めています。"
+    },
+    {
+      "title": "OpenAI Kills Sora and Loses Disney’s $1B Investment",
+      "title_ja": "OpenAI、Sora開発中止、ディズニーの10億ドル投資も消失",
+      "original_url": "https://petapixel.com/2026/03/24/openai-kills-sora-and-loses-disneys-1b-investment/",
+      "image_url": "https://petapixel.com/assets/uploads/2026/03/sora-dead-featured.jpg",
+      "published_at": "2026-03-24T22:14:21Z",
+      "source": "PetaPixel",
+      "summary_ja": "OpenAIは、生成AIビデオモデルSoraの最新版であるSora 2をリリースしましたが、わずか数ヶ月で開発を中止しました。これにより、ディズニーからの10億ドルの投資も失われたと報じられています。この決定は、著作権問題と、AI動画生成技術の将来的な課題を浮き彫りにしています。"
+    },
+    {
+      "title": "Doss raises $55M to expand AI-powered operations platform for ERP-integrated workflows",
+      "title_ja": "DossがERP統合ワークフロー向けAI搭載オペレーションプラットフォーム拡大のため5500万ドルを調達",
+      "original_url": "https://siliconangle.com/2026/03/24/doss-raises-55m-expand-ai-powered-operations-platform-erp-integrated-workflows/",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/doss1.png",
+      "published_at": "2026-03-24T22:13:45Z",
+      "source": "SiliconANGLE News",
+      "summary_ja": "AIを活用したERP（基幹業務システム）プラットフォームを提供するスタートアップDossが、オペレーションプラットフォームのさらなる開発のため5500万ドルの資金調達を発表しました。2022年設立のDossは、ERPシステムとの連携を通じて、企業の業務効率化を支援することを目指しています。今回の資金調達により、同社のAI技術を駆使した業務自動化やデータ分析機能が強化され、より広範な企業にサービス提供が可能になるでしょう。"
+    },
+    {
+      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troublesome, Judge Says",
+      "title_ja": "国防総省のAnthropic「弱体化試み」は問題あり、裁判官が指摘",
+      "original_url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+      "image_url": "https://media.wired.com/photos/69c30bf9dc53bcd949e45335/191:100/w_1280,c_limit/Pentagon-Attempt-to-Cripple-Anthropic-Troublesome-Business-2268179185.jpg",
+      "published_at": "2026-03-24T22:13:17Z",
+      "source": "Wired",
+      "summary_ja": "国防総省が、AI開発企業Anthropicに対し、軍事利用制限を理由にサプライチェーンリスクとみなすことは不当であると、裁判官が指摘しました。この措置はAnthropicのビジネスを妨害する可能性があり、AI技術の軍事利用に関する政府の対応に疑問を呈しています。裁判所は、国防総省の意図と法的根拠についてさらなる調査を求めています。"
+    },
+    {
+      "title": "OpenAI’s Sora video app is going away",
+      "title_ja": "OpenAIの動画生成AI「Sora」が姿を消す",
+      "original_url": "https://www.pcworld.com/article/3098094/openais-sora-video-app-is-going-away.html",
+      "image_url": "https://www.pcworld.com/wp-content/uploads/2026/03/sory2-1.jpg?quality=50&strip=all&w=1024",
+      "published_at": "2026-03-24T22:01:31Z",
+      "source": "PCWorld",
+      "summary_ja": "ChatGPTの開発元であるOpenAIによる動画生成AI「Sora」は、生成された動画が大きな話題を呼び、ハリウッドに衝撃を与えました。しかし、Soraのデモンストレーション公開から時間が経ち、その動向は不明瞭になっています。記事は、Soraの今後の展開に焦点を当て、その影響について言及しています。"
+    },
+    {
+      "title": "Disney's $1B AI Deal Goes Bust as OpenAI Announces Sora Shutdown",
+      "title_ja": "ディズニー、10億ドルAI提携が破綻 OpenAIがSoraの閉鎖を発表",
+      "original_url": "https://bleedingcool.com/tv/disneys-1b-ai-deal-goes-bust-as-openai-announces-sora-shutdown/",
+      "image_url": "https://bleedingcool.com/wp-content/uploads/2025/12/MixCollage-11-Dec-2025-10-08-AM-7565-2000x1125.jpg",
+      "published_at": "2026-03-24T22:01:14Z",
+      "source": "Bleeding Cool News",
+      "summary_ja": "ディズニーとOpenAI間の10億ドル規模のAI提携が、わずか3ヶ月で終了しました。OpenAIは、動画生成AIであるSoraの開発中止を発表し、エンターテイメント業界への大きな影響が懸念されています。この決定は、ディズニーの今後のコンテンツ戦略に大きな影響を与える可能性があります。"
+    },
+    {
+      "title": "Anthropic's AI Piracy Settlement Is Getting Close to Final Approval",
+      "title_ja": "Anthropic社のAI著作権侵害訴訟、最終承認へ近づく",
+      "original_url": "https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/",
+      "image_url": "https://www.cnet.com/a/img/resize/4817d8aab2ff99d089a47ecaf1e16bd580eb6be4/hub/2025/05/22/87146714-becc-4857-9879-483446a53dd2/claude-ai-9831.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-03-24T21:58:21Z",
+      "source": "CNET",
+      "summary_ja": "Anthropic社のAIチャットボットClaudeの学習における著作権侵害を巡る訴訟は、最終段階に入り、約10万件の請求が提出されました。この訴訟は、AI開発における著作権問題に大きな影響を与え、今後のAI技術と著作権保護のバランスに影響を及ぼす可能性があります。今回の和解は、AIと著作権の関係における重要な転換点となるでしょう。"
+    }
+  ]
+}
